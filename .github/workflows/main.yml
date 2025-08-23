@@ -28,6 +28,7 @@ jobs:
       - name: Run nudl for all known brands and regions
         run: |
           mkdir -p updates
+          rm -v -f updates/*/*/*/updates.json
           nudl=nudl/target/release/nudl
           declare -a brands=("hyundai" "kia" "genesis")
           declare -a regions=("br" "ca" "eu" "id" "in" "jp" "kr" "me" "nz" "ru" "sg" "tr" "us")
