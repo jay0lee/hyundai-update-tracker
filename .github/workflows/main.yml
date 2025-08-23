@@ -42,6 +42,12 @@ jobs:
               updates=$("$nudl" list --brand "$brand" --region "$region" --output json-raw)
               echo "$updates" | jq -c -r --sort-keys '.cars[ ]' | while read update; do
                 model=$(echo "$update" | jq -r ".dvcName")
+                # Replace slashes with dash
+                model=$(echo "$model" | sed 's#/#-#g')
+                # Remove invalid characters (example: Windows-specific)
+                model=$(echo "$model" | sed 's/[<>:"|?*]/_/g')
+                # Remove leading/trailing whitespace
+                model=$(echo "$model" | sed 's/^[ \t]*//;s/[ \t]*$//')
                 modelfolder="${regionfolder}/${model}"
                 modelfile="${modelfolder}/updates.json"
                 mkdir -p "$modelfolder"
