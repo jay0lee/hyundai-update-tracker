@@ -32,11 +32,21 @@ jobs:
           declare -a brands=("hyundai" "kia" "genesis")
           declare -a regions=("br" "ca" "eu" "id" "in" "jp" "kr" "me" "nz" "ru" "sg" "tr" "us")
           for brand in "${brands[@]}"; do
+            brandfolder="updates/${brand}"
+            mkdir -p "$brandfolder"
             for region in "${regions[@]}"; do
-              mkdir -p "updates/${brand}/${region}"
+              regionfolder="${brandfolder}/${region}"
+              mkdir -p "$regionfolder"
               echo "Checking for ${brand} ${region} updates..."
-              "$nudl" list --brand "$brand" --region "$region" --output json | tee "updates/${brand}/${region}/updates.json"
-              echo ""
+              updates=$("$nudl" list --brand "$brand" --region "$region" --output json-raw)
+              echo "$updates" | jq -c -r --sort-keys '.cars[ ]' | while read update; do
+                model=$(echo "$update" | jq -r ".dvcName")
+                modelfolder="${regionfolder}/${model}"
+                modelfile="${modelfolder}/updates.json"
+                mkdir -p "$modelfolder"
+                update=$(echo "$update" | jq -r --sort-keys .)
+                echo " writing $model..."
+                echo -e "$update" | tee "$modelfile"
             done
           done
 
@@ -44,8 +54,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add --all
-          git add *
+          git add updates/*
           git diff --quiet && git diff --staged --quiet || git commit -am 'update changes [ci skip]'
 
       - name: Push changes
