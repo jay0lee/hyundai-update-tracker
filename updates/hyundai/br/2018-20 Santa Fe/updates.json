@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2018_20_Santa_Fe_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTI1NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X01PQklTL1RNLzE1NzUzLzIwMThfMjBfU2FudGFfRmVfQlJBLmluZiIsImlzTnN1bSI6dHJ1ZX0.OaTE-OXLsEtpX6S_yP870eWKUBXdmUqhQQFzxnl4n1Q",
+  "dvcName": "2018-20 Santa Fe",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1255",
+  "mediaType": "SD",
+  "modelNames": [
+    "TMAS.S5AMN.BR"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TM.BRA.SOP.V*"
+  ],
+  "swVers": [
+    "TM.BRA.SOP.V142.240619.STD_H.RDS"
+  ],
+  "vclName": "Santa Fe"
+}

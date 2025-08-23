@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Grand_Santa_Fe_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA1NCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL0dyYW5kX1NhbnRhX0ZlX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.OvM6hqwkz3mCGYi-HBeaFgNANKyvrpAYFomAITrzTGU",
+  "dvcName": "Grand Santa Fe",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1054",
+  "mediaType": "USB",
+  "modelNames": [
+    "NC"
+  ],
+  "platformCode": "3",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "8.0.6"
+  ],
+  "swVers": [
+    "8.0.6"
+  ],
+  "vclName": "Santa Fe"
+}

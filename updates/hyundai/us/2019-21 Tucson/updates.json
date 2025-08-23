@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_21_Tucson_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjc5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvVEwgRkwvMTAxOTAvMjAxOV8yMV9UdWNzb25fVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.P87CykB9Gssd-JLNK9_8poIBykAcn5w-Nrc29Z2hVms",
+  "dvcName": "2019-21 Tucson",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "679",
+  "mediaType": "SD",
+  "modelNames": [
+    "TLCS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TLFL.USA.SOP.V*"
+  ],
+  "swVers": [
+    "TLFL.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Tucson"
+}

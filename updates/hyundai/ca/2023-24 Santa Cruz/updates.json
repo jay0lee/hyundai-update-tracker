@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Santa_Cruz_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY2MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlg0IE9CIDIzTVkvOTMxMS8yMDIzX1NhbnRhX0NydXpfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.D9ufA-3y9ZIXpzzpblBEIJ-L2gPGa-KI-Mn0bAZeP94",
+  "dvcName": "2023-24 Santa Cruz",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1660",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NX4OB.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "NX4OB.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Santa Cruz"
+}

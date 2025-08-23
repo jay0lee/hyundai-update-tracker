@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "G80_DIS_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTEwNSIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL0c4MF9ESVNfU0RfQ2FyZF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.dScN1aDhaIoK-mCD25ZFQl5TAF6i_gpWn6AhyCBOhfk",
+  "dvcName": "G80 DIS (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1105",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHBS.P2ALN.RU"
+  ],
+  "platformCode": "8",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DHPE.RUS.SOP.00.*"
+  ],
+  "swVers": [
+    "DHPE.RUS.SOP.03.007"
+  ],
+  "vclName": "Genesis G80"
+}

@@ -1,0 +1,31 @@
+{
+  "brand": "KM",
+  "destPath": "All_New_K3_2019_Standard_Gen5_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0RCLzEzOTgyL0FsbF9OZXdfSzNfMjAxOV9TdGFuZGFyZF9HZW41X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.HUzlZ3aJ_H91WgL0rd2rL93zS2wZw6H4QA6pBgJMIlU",
+  "dvcName": "ALL New K3 / 2019 포함 [표준형 5세대 UVO]",
+  "engDvcName": "All New K3 / 2019 [Standard Gen5 UVO]",
+  "engVclName": "K3",
+  "mcode": "1422",
+  "mediaType": "SD",
+  "modelNames": [
+    "BDAS.S5ALC.KR",
+    "BDBS.S5ALC.KR"
+  ],
+  "platformCode": "12",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BD.KOR.SOP.???.??????.STD_H",
+    "BD.KOR.SOP_CP.???.??????.STD_H",
+    "BD_19MY.KOR.SOP.???.??????.STD_H",
+    "BD_19MY.KOR.SOP_CP.???.??????.STD_H",
+    "BD_19MY.KOR.0000.043.210312.STD_H"
+  ],
+  "swVers": [
+    "BD.KOR.SOP.061.250114.STD_H",
+    "BD_19MY.KOR.SOP.061.250114.STD_H"
+  ],
+  "vclName": "K3"
+}

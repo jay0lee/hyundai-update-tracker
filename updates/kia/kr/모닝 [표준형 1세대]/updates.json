@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "MORNING",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODYiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9Db21wYWN0X0dFTjEvQTUvMTQxNTMvTU9STklORy5pbmYiLCJpc05zdW0iOnRydWV9.9XMpL1NMivkM67SiDvH71z3AJ-Ch97sSeHt7AYa6R7w",
+  "dvcName": "모닝 [표준형 1세대]",
+  "engDvcName": "Morning [Standard Gen1]",
+  "engVclName": "Morning",
+  "mcode": "86",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_???"
+  ],
+  "swVers": [
+    "V_069"
+  ],
+  "vclName": "모닝"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_EV9_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk4MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01WMS8xNjA4MS8yMDIzX0VWOV9JTi5pbmYiLCJpc05zdW0iOnRydWV9.oSdvQul7j-skVW2Bd1F3Z0Ek2FDGf-gtJn9WtDiIUAw",
+  "dvcName": "2023 EV9",
+  "engDvcName": "2023 EV9",
+  "engVclName": "EV9",
+  "mcode": "1980",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1AS.SCBMC.IN"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1.IND.ccNC.*"
+  ],
+  "swVers": [
+    "MV1.IND.ccNC.001.002.250523"
+  ],
+  "vclName": "EV9"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Sportage_2018_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA4NiIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1Nwb3J0YWdlXzIwMThfU0RfQ2FyZF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.NNtvP3-0WLGEV9dnLfAX8M7IhE_OnvmsnIv1w0f_CmQ",
+  "dvcName": "Sportage 2018 (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1086",
+  "mediaType": "SD",
+  "modelNames": [
+    "QLBS.S5ALN.RU"
+  ],
+  "platformCode": "12",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QL_PE.RUS.SOP.???.?.??????.STD_M"
+  ],
+  "swVers": [
+    "QL_PE.RUS.SOP.007.1.191209.STD_M"
+  ],
+  "vclName": "Sportage"
+}

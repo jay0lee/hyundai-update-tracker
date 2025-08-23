@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_SUV_SPORTAGE_2015_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9MUS8xNDM2MC9UaGVfU1VWX1NQT1JUQUdFXzIwMTVfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.z4MOhr74O7h6UkgF1ADACGp4H0OjLna-OQ03XStCQhQ",
+  "dvcName": "스포티지 2015 [표준형 4세대 UVO]",
+  "engDvcName": "Sportage 2015 [Standard Gen4 UVO]",
+  "engVclName": "Sportage",
+  "mcode": "271",
+  "mediaType": "SD",
+  "modelNames": [
+    "QLAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.QL.KOR.E*"
+  ],
+  "swVers": [
+    "ST.QL.KOR.E553.241114"
+  ],
+  "vclName": "스포티지"
+}

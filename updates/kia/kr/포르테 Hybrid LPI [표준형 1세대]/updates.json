@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "FORTE_hybrid",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODIiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL1RELzE0MDc3L0ZPUlRFX2h5YnJpZC5pbmYiLCJpc05zdW0iOnRydWV9.WylBeFg0k7R8ZpOUZQNh1w28MEl9z1hqWEFdWvNtSk4",
+  "dvcName": "포르테 Hybrid LPI [표준형 1세대]",
+  "engDvcName": "Forte Hybrid LPI [Standard Gen1]",
+  "engVclName": "Forte",
+  "mcode": "82",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_285_*"
+  ],
+  "swVers": [
+    "V_285_53"
+  ],
+  "vclName": "포르테"
+}

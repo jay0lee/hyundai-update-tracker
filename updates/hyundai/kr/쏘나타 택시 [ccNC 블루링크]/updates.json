@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "SONATA_Taxi_KOR_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc4OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvRE44LzE1MDI5L1NPTkFUQV9UYXhpX0tPUl8yMDI0LmluZiIsImlzTnN1bSI6dHJ1ZX0.zzxn0qwq7cu07vJmoXXG4-ddc63szDzKHNNR-vlz4VY",
+  "dvcName": "쏘나타 택시 [ccNC 블루링크]",
+  "engDvcName": "SONATA Taxi [ccNC Bluelink]",
+  "engVclName": "Sonata",
+  "mcode": "1789",
+  "mediaType": "USB",
+  "modelNames": [
+    "DN8CAS.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "492",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DN8C.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "DN8C.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "쏘나타"
+}

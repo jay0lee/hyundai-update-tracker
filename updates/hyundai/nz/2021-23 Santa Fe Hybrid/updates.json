@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2022_Santa_Fe_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE1fSC8xMTY0MS8yMDIyX1NhbnRhX0ZlX0h5YnJpZF9OWi5pbmYiLCJpc05zdW0iOnRydWV9.JGKoDGtAWiKa_PeVArK5WJiVTzKm2BOnLEosz-skiKc",
+  "dvcName": "2021-23 Santa Fe Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1236",
+  "mediaType": "USB",
+  "modelNames": [
+    "TMAH.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TM_H.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "TM_H.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Santa Fe Hybrid"
+}

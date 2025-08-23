@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Ioniq_5_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTkUxIDIzTVkvOTMwMC8yMDIzX0lvbmlxXzVfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.1F6XeuX8_n-tg05VUkOJv5w7ePMpgkM18YFQ_wS-iFw",
+  "dvcName": "2023 Ioniq 5",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1546",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1AE.S5BMC.CA"
+  ],
+  "platformCode": "19",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NEEV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "NEEV.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Ioniq 5"
+}

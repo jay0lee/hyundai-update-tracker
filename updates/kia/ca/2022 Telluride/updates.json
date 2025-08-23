@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Telluride_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTI3MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT04gMjJNWS85MjYzLzIwMjJfVGVsbHVyaWRlX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.2gM0wc9SPRoeMq8tzg1imoi6rBbo-cXUA-hXa3_MXYg",
+  "dvcName": "2022 Telluride",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1270",
+  "mediaType": "USB",
+  "modelNames": [
+    "ONBS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "ON22.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "ON22.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Telluride"
+}

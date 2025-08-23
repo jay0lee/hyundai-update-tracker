@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2024_SantaFe_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01YNUEvODUyNy8yMDI0X1NhbnRhRmVfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.BZrekeqJkGG1_fjNv-7OU5Mgrw9jsTeWOUl8FaN-QMA",
+  "dvcName": "2024-25 Santa Fe",
+  "engDvcName": "2024-25 Santa Fe",
+  "engVclName": "Santa Fe",
+  "mcode": "1835",
+  "mediaType": "USB",
+  "modelNames": [
+    "MX5AS.SCBMC.CA",
+    "MX5AS.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "MX5.CAN.ccNC.???.*",
+    "MX5.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MX5.CAN.ccNC.001.002.240718",
+    "MX5.CAN.ccNC_Lite.001.002.240718"
+  ],
+  "vclName": "Santa Fe"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_Veloster",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IQ0ZTLzE0MzI4L1RoZV9OZXdfVmVsb3N0ZXIuaW5mIiwiaXNOc3VtIjp0cnVlfQ.VKp9KUJikzotBXNdzhmCoZGvr757gDFAg7btJXuecyE",
+  "dvcName": "더 뉴 벨로스터 [표준형 4세대]",
+  "engDvcName": "The New Veloster [Standard Gen4]",
+  "engVclName": "Veloster",
+  "mcode": "254",
+  "mediaType": "SD",
+  "modelNames": [
+    "FSAS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.FSNC.KOR.E*"
+  ],
+  "swVers": [
+    "ST.FSNC.KOR.E553.241114"
+  ],
+  "vclName": "벨로스터"
+}

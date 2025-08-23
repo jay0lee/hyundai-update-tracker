@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K9_2018_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzQ3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9LSC8xNDM0NS9LOV8yMDE4X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.DmQACuVFjUwhgT2xoQMpVLRWU1P_9PodgSOkQ7N8FVg",
+  "dvcName": "K9 2018 [표준형 4세대 UVO]",
+  "engDvcName": "K9 2018 [Standard Gen4 UVO]",
+  "engVclName": "K9",
+  "mcode": "347",
+  "mediaType": "SD",
+  "modelNames": [
+    "KHBS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.KH18.KOR.E*"
+  ],
+  "swVers": [
+    "ST.KH18.KOR.E553.241114"
+  ],
+  "vclName": "K9"
+}

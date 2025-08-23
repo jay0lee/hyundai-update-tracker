@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "ALL_NEW_PRIDE_5DR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9VQi8xNDE2OS9BTExfTkVXX1BSSURFXzVEUi5pbmYiLCJpc05zdW0iOnRydWV9.u1l5gzsruy6AyUQY4TVwQSoY_LqvdCZhU_YxMbKx_zQ",
+  "dvcName": "All New 프라이드 해치백 [표준형 2세대]",
+  "engDvcName": "All New Pride Hatchback [Standard Gen2]",
+  "engVclName": "Pride",
+  "mcode": "136",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "UB.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "UB.KOR.SOP.00.073"
+  ],
+  "vclName": "프라이드"
+}

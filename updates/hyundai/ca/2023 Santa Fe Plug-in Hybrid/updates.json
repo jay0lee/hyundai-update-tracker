@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Santa_Fe_Plug_in_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY2MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE0gUEhFViAyM01ZLzkzMTQvMjAyM19TYW50YV9GZV9QbHVnX2luX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.ffkQiNfNRDglv7y24IV3t5Ce6dQAslxfBv_NHOKgRTo",
+  "dvcName": "2023 Santa Fe Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1663",
+  "mediaType": "USB",
+  "modelNames": [
+    "TMCP.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "TM_P_23.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "TM_P_23.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Santa Fe Plug-in Hybrid"
+}

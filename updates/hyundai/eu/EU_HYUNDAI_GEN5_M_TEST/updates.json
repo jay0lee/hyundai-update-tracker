@@ -1,0 +1,21 @@
+{
+  "brand": "HM",
+  "destPath": "EU_HYUNDAI_GEN5_M_TEST",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJldSIsIm1jb2RlIjoiODI1IiwiaW5mRmlsZVBhdGgiOiJodHRwOi8vb2VtLWV1dXBsb2FkLm1hcC1jYXJlLmNvbS9FVV91cGRhdGVfZGF0YS9FVV9JTkYvMDFfVEVTVF9JTkYvRVVfSFlVTkRBSV9HRU41X01fVEVTVC5pbmYiLCJpc05zdW0iOmZhbHNlfQ.cC9xrBY2aKeTJCDuHQROl4SGE8djZZCv3NJIGMysOvU",
+  "dvcName": "EU_HYUNDAI_GEN5_M_TEST",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "825",
+  "mediaType": "SD",
+  "modelNames": [
+    "H_GEN5_MOBIS_TEST"
+  ],
+  "platformCode": "11",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "TEST"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_Soul_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODEyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUFMgRVYgMTlNWSAoNOyEuOuMgCDrjIDssrQpLzEwMjE2LzIwMTlfU291bF9FbGVjdHJpY19DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.JTyAcWCGdZk5xxQu7PrXM2HClrgY1KD6AFypJXwd7PM",
+  "dvcName": "2019 Soul Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "812",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSBE.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PSEV19.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "PSEV19.CAN.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Soul Electric"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_Venue_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjkzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUVgvMTAxOTQvMjAyMF9WZW51ZV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.xI1VZGXNSZqOhKgN7veUpfnQfRtzbVpswqakF5Zs5Wg",
+  "dvcName": "2020 Venue",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "693",
+  "mediaType": "SD",
+  "modelNames": [
+    "QXAS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QX.USA.SOP.V*"
+  ],
+  "swVers": [
+    "QX.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Venue"
+}

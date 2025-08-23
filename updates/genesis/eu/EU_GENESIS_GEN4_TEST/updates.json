@@ -1,0 +1,21 @@
+{
+  "brand": "GN",
+  "destPath": "EU_GENESIS_GEN4_TEST",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJldSIsIm1jb2RlIjoiODMwIiwiaW5mRmlsZVBhdGgiOiJodHRwOi8vb2VtLWV1dXBsb2FkLm1hcC1jYXJlLmNvbS9FVV91cGRhdGVfZGF0YS9FVV9JTkYvMDFfVEVTVF9JTkYvRVVfR0VORVNJU19HRU40X1RFU1QuaW5mIiwiaXNOc3VtIjpmYWxzZX0.PDkskESpXWFcqTBEZviyV-UelTOVLO2sxPYyIX0CU8U",
+  "dvcName": "EU_GENESIS_GEN4_TEST",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "830",
+  "mediaType": "SD",
+  "modelNames": [
+    "EU_GENESIS_GEN4_TEST"
+  ],
+  "platformCode": "7",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "TEST"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_EV6GT_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0NWMVBFR1QvMTYzNTgvMjAyNV9FVjZHVF9NRVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.qnevoeg0g5LIb_sF5FkIoyoOW595GIpYypPMQN1uBQ4",
+  "dvcName": "2026 EV6 GT",
+  "engDvcName": "2026 EV6 GT",
+  "engVclName": "EV6",
+  "mcode": "1991",
+  "mediaType": "USB",
+  "modelNames": [
+    "CV1GTAE.SCBMN.ME",
+    "CV1GTAE.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV1GT.MES.ccNC.???.*",
+    "CV1GT.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "CV1GT.MES.ccNC.001.002.250630",
+    "CV1GT.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "EV6"
+}

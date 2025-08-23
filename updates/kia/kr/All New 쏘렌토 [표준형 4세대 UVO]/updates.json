@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "All_New_SORENTO_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9VTS8xNDM2OC9BbGxfTmV3X1NPUkVOVE9fVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.qUDRZd4AnjKTv3nGIJq2OpL56pTyU3_iI1lb2wpa6pI",
+  "dvcName": "All New 쏘렌토 [표준형 4세대 UVO]",
+  "engDvcName": "All New Sorento [Standard Gen4 UVO]",
+  "engVclName": "Sorento",
+  "mcode": "223",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.UM.KOR.E*"
+  ],
+  "swVers": [
+    "ST.UM.KOR.E553.241114"
+  ],
+  "vclName": "쏘렌토"
+}

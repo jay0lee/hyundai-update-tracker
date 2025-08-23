@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "i30_2016_Bluelink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ1BELzE0NzA4L2kzMF8yMDE2X0JsdWVsaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.jJkekCxsMLi1ISl1MfqMyrMXvucOJgWij5tBRQ4K6Jw",
+  "dvcName": "i30 2016 [표준형 5세대 블루링크]",
+  "engDvcName": "i30 2016 [Standard Gen5 Bluelink]",
+  "engVclName": "i30",
+  "mcode": "309",
+  "mediaType": "SD",
+  "modelNames": [
+    "PDAS.S5AMC.KR"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PD.KOR.SOP.V???.??????.STD_H"
+  ],
+  "swVers": [
+    "PD.KOR.SOP.V141.250423.STD_H"
+  ],
+  "vclName": "i30"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_IONIQ5N_ccNC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvSEZORS8xNDU0OC8yMDI1X0lPTklRNU5fY2NOQy5pbmYiLCJpc05zdW0iOnRydWV9.qZbp67lWQ8fhXLWOmZhJ-oSu6YnU55AJPvFhx5ESn78",
+  "dvcName": "2025 아이오닉 5 N [ccNC 블루링크]",
+  "engDvcName": "2025 Ioniq 5 N [ccNC Bluelink]",
+  "engVclName": "Ioniq",
+  "mcode": "1947",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1KN25BE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "488",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1KN25.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1KN25.KOR.ccNC.001.002.240905"
+  ],
+  "vclName": "아이오닉"
+}

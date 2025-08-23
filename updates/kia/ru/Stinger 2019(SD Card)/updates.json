@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Stinger_2019_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA4NCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1N0aW5nZXJfMjAxOV9TRF9DYXJkX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.IdQnobgM1Fl1noVwBESfxdWFlVxtsl4luyz_uCmtigs",
+  "dvcName": "Stinger 2019(SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1084",
+  "mediaType": "SD",
+  "modelNames": [
+    "CKBS.S5ALN.RU"
+  ],
+  "platformCode": "12",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CK_19MY.RUS.SOP.???.?.??????.STD_M"
+  ],
+  "swVers": [
+    "CK_19MY.RUS.SOP.007.1.191209.STD_M"
+  ],
+  "vclName": "Stinger"
+}

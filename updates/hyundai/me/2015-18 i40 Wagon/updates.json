@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2015_18_i40_Wagon_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVkZfV0cvMTA2NjYvMjAxNV8xOF9pNDBfV2Fnb25fTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Un06YclgXxMDQRZx9Ox8NhIKxfIp-wikjR-Q5umb7I0",
+  "dvcName": "2015-18 i40 Wagon",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "977",
+  "mediaType": "SD",
+  "modelNames": [
+    "VFAS.S4AMN.WME"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.VF.MES.E*"
+  ],
+  "swVers": [
+    "ST.VF.MES.E536.241118"
+  ],
+  "vclName": "i40"
+}

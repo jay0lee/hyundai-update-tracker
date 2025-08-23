@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2024_CRETA_ELECTRIC_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk3OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1UyaSBFVi8xNTU1My8yMDI0X0NSRVRBX0VMRUNUUklDX0lOLmluZiIsImlzTnN1bSI6dHJ1ZX0.Yl0kHeqVFP7z76UfL0fDyfiMKDnyzy3cos4CfGxpkGo",
+  "dvcName": "2024 CRETA ELECTRIC",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1978",
+  "mediaType": "USB",
+  "modelNames": [
+    "SU2AE.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SU2i_E.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "SU2I_E.IND.S5W_M.V008.001.250527"
+  ],
+  "vclName": "CRETA ELECTRIC"
+}

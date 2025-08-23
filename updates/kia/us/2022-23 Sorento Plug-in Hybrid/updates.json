@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Sorento_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTMxNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0IFBIRVYgMjJNWS8xMDI4Ny8yMDIyX1NvcmVudG9fUGx1Z19pbl9IeWJyaWRfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0._E5_kT_iab_iXyDD5vKc_X6WS5aC1jEq1mFY3LZXcxg",
+  "dvcName": "2022-23 Sorento Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1314",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4BP.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "MQ4PHEV_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4PHEV_22.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Sorento Plug-in Hybrid"
+}

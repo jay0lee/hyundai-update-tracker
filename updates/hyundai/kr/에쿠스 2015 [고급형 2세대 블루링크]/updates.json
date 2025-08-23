@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "EQUUS_2015_DIS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjIvVkkvMTQyMDQvRVFVVVNfMjAxNV9ESVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.2e4VMt6xxqVaHhzjbtDYDM7-cnwKUyc0POLgYWOi2yM",
+  "dvcName": "에쿠스 2015 [고급형 2세대 블루링크]",
+  "engDvcName": "Equus 2015 [Premium Gen2 Bluelink]",
+  "engVclName": "Equus",
+  "mcode": "249",
+  "mediaType": "SD",
+  "modelNames": [
+    "VIAS.P2ALC.KR"
+  ],
+  "platformCode": "8",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VI15MY.KOR.SOP.00.*",
+    "VI15MY.KOR.SOP.10.*"
+  ],
+  "swVers": [
+    "VI15MY.KOR.SOP.00.059"
+  ],
+  "vclName": "에쿠스"
+}

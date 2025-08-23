@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_VERNA_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTY5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQk43LzE1NTQ1LzIwMjNfVkVSTkFfSU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.AegM9l12E_0wYlsZbWLGa_70hzwFeZYQmyMMhb8i51Y",
+  "dvcName": "2023 VERNA",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1691",
+  "mediaType": "USB",
+  "modelNames": [
+    "BN7AS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BN7.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "BN7.IND.S5W_M.V008.001.250527"
+  ],
+  "vclName": "VERNA"
+}

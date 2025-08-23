@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "LFSONATA_2017_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IREdGLzE0MzUwL0xGU09OQVRBXzIwMTdfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.71lBSkF3ImldB_HjzgdCP07rZ5uDMTEI9lVVv7U5RIc",
+  "dvcName": "LF 쏘나타 2017 [표준형 4세대]",
+  "engDvcName": "LF Sonata 2017 [Standard Gen4]",
+  "engVclName": "Sonata",
+  "mcode": "495",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFCS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.LFNT.KOR.E*"
+  ],
+  "swVers": [
+    "ST.LFNT.KOR.E553.241114"
+  ],
+  "vclName": "쏘나타"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_Palisade_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTI1NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTFgyLzE1NzU2LzIwMjBfUGFsaXNhZGVfQlJBLmluZiIsImlzTnN1bSI6dHJ1ZX0.T6kGOm64EUCJbAkKymNX6ABs0bo2pxS5nynYIDdLDac",
+  "dvcName": "2020 Palisade",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1257",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX2AS.S5BMN.BR"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LX2.BRA.S5W_M.V*"
+  ],
+  "swVers": [
+    "LX2.BRA.S5W_M.V007.001.250626"
+  ],
+  "vclName": "Palisade"
+}

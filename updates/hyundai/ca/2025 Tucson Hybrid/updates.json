@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Tucson_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg0MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL05YNEtILzg1MjYvMjAyNF9UdWNzb25fSHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.IYy_3GeN03IW7Lcr5TiSx64Mk3NUWpRdBMWfeeG0nI4",
+  "dvcName": "2025 Tucson Hybrid",
+  "engDvcName": "2025 Tucson Hybrid",
+  "engVclName": "Tucson Hybrid",
+  "mcode": "1840",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AAH.SCBMC.CA",
+    "NX4AAH.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NX4A.CAN.ccNC.???.*",
+    "NX4A.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NX4A.CAN.ccNC.001.002.240718",
+    "NX4A.CAN.ccNC_Lite.001.002.240718"
+  ],
+  "vclName": "Tucson Hybrid"
+}

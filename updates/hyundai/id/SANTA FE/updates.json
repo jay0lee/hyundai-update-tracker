@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "SantaFe_IDN_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMTc2MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWlkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE0vMTIwNzUvU2FudGFGZV9JRE5fMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.Q5mOfM9HcbPbhQWcfuxfV0Q30alLRpvvs1rHwbWl8fM",
+  "dvcName": "SANTA FE",
+  "engDvcName": "SANTA FE",
+  "engVclName": "SANTA-FE",
+  "mcode": "1763",
+  "mediaType": "USB",
+  "modelNames": [
+    "TMCS.S5BMC.ID"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.03",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TMFL_23.IDN.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "TMFL_23.IDN.S5W_M.V003.001.241223"
+  ],
+  "vclName": "SANTA-FE"
+}

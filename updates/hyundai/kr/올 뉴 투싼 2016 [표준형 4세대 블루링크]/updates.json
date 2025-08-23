@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "All_New_Tucson_2016_Blue",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzAwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRlRMLzE0MzY3L0FsbF9OZXdfVHVjc29uXzIwMTZfQmx1ZS5pbmYiLCJpc05zdW0iOnRydWV9.mA677sjg47TcvO0vhXNEx0s4ZgHHSLGl2PSEi7vD6h0",
+  "dvcName": "올 뉴 투싼 2016 [표준형 4세대 블루링크]",
+  "engDvcName": "All New Tucson 2016 [Standard Gen4 Bluelink]",
+  "engVclName": "Tucson",
+  "mcode": "300",
+  "mediaType": "SD",
+  "modelNames": [
+    "TLBS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.TLPE.KOR.E*"
+  ],
+  "swVers": [
+    "ST.TLPE.KOR.E553.241114"
+  ],
+  "vclName": "투싼"
+}

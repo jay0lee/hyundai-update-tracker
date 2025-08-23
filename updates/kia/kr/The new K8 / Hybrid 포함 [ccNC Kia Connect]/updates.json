@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K8_Hybrid_ccNC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvR0wvMTUwMzcvVGhlX05ld19LOF9IeWJyaWRfY2NOQy5pbmYiLCJpc05zdW0iOnRydWV9.9MtdCz8dH7dekWsQe6E7oyokRtZEE5CRp2x4TCfWTHE",
+  "dvcName": "The new K8 / Hybrid 포함 [ccNC Kia Connect]",
+  "engDvcName": "The new K8 [ccNC Kia Connect]",
+  "engVclName": "K8",
+  "mcode": "1956",
+  "mediaType": "USB",
+  "modelNames": [
+    "GL3AS.SCBMC.KR",
+    "GL3AH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GL3.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "GL3.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "K8"
+}

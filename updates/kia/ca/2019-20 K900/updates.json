@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_K900_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L1JKLzEwMDA1LzIwMTlfMjBfSzkwMF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.MQaV6WMkQtpWu6XaNmyy4b7RHi7qk_ySQAfeAE1qAts",
+  "dvcName": "2019-20 K900",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "736",
+  "mediaType": "USB",
+  "modelNames": [
+    "RJBS.P5BLC.CA"
+  ],
+  "platformCode": "13",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "RJ.CAN.P5.???.*"
+  ],
+  "swVers": [
+    "RJ.CAN.P5.001.014.241118"
+  ],
+  "vclName": "K900"
+}

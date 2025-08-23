@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_Casper_Standard_Gen5W_Bluelink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BWDFQRS8xNDg2Mi9UaGVfTmV3X0Nhc3Blcl9TdGFuZGFyZF9HZW41V19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.Qlzh55XDFwhV5JsKEpQWTfp2_WOsHv2bLw0EyJaZgvc",
+  "dvcName": "더 뉴 캐스퍼 [표준형 5W세대 블루링크]",
+  "engDvcName": "The New Casper [Standard Gen5W Bluelink]",
+  "engVclName": "Casper",
+  "mcode": "1944",
+  "mediaType": "USB",
+  "modelNames": [
+    "AX1BS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AX1_PE.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "AX1_PE.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "캐스퍼"
+}

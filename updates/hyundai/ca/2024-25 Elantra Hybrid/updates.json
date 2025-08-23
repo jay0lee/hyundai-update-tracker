@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Elantra_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvQ043IEhFViBQRS85NTE4LzIwMjRfRWxhbnRyYV9IeWJyaWRfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.uofnF-F0YbY9CyGQA8ffYdsvIE-gCZ6Jbz0N-yAhBSM",
+  "dvcName": "2024-25 Elantra Hybrid",
+  "engDvcName": "2024-25 Elantra Hybrid",
+  "engVclName": "Elantra Hybrid",
+  "mcode": "1830",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7CH.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "CN7HEVPE.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "CN7HEVPE.CAN.S5W_M.V012.010.240812"
+  ],
+  "vclName": "Elantra Hybrid"
+}

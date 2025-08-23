@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_21_Cerato_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0JELzM5MjEvMjAxOV8yMV9DZXJhdG9fTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.ZQc4zU8_kS2JnHF2sNaBV7nVgyLm5wMKPHm7Afk-x0I",
+  "dvcName": "2019-21 Cerato",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "937",
+  "mediaType": "SD",
+  "modelNames": [
+    "BDAS.S5ALN.AU"
+  ],
+  "platformCode": "12",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BD.AUS.SOP.*"
+  ],
+  "swVers": [
+    "BD.AUS.SOP.009.2.240221.STD_M"
+  ],
+  "vclName": "Cerato"
+}

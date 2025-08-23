@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2022_VENUE_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTYyNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvUVgvMTU1NDMvMjAyMl9WRU5VRV9JTi5pbmYiLCJpc05zdW0iOnRydWV9.oYd0liivL-pvd2DKqxhH_X8UYT4XfJjyK5k67_VQo6Q",
+  "dvcName": "2022 VENUE",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1626",
+  "mediaType": "USB",
+  "modelNames": [
+    "QXCS.S5BMC.IN"
+  ],
+  "platformCode": "20",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QX_FL.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "QX_FL.IND.S5W_M.V008.001.250527"
+  ],
+  "vclName": "VENUE"
+}

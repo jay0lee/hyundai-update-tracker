@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_21_Kona_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9PUyBFViAyME1ZLzk2OTUvMjAyMF8yMV9Lb25hX0VsZWN0cmljX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.Kr5iTtCGKnUzvrkbgMoWv7YMvXhxwrovtwalZM3gw-k",
+  "dvcName": "2020-21 Kona Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "762",
+  "mediaType": "USB",
+  "modelNames": [
+    "OSAE.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "OSEV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "OSEV.CAN.S5W_M.V012.010.241014"
+  ],
+  "vclName": "Kona Electric"
+}

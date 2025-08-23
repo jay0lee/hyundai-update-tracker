@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "All_new_2023_Sportage_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlE1YS8xMDMxNS9BbGxfbmV3XzIwMjNfU3BvcnRhZ2VfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.By-NPtj6TavoFZ6_uSKmIYt0ib0pBFaWq4LwImfC7PU",
+  "dvcName": "All new 2022-25 Sportage",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1455",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NQ5.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "NQ5.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Sportage"
+}

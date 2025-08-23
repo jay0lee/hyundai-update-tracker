@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K3_EURO_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjkxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZRC8xNDM3OC9UaGVfTmV3X0szX0VVUk9fVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.V_c80LYJYJb865UEs_qCArBgC23y8_8FKfWtP9Sazms",
+  "dvcName": "The New K3 유로 [표준형 4세대 UVO]",
+  "engDvcName": "The New K3 Euro [Standard Gen4 UVO]",
+  "engVclName": "K3",
+  "mcode": "291",
+  "mediaType": "SD",
+  "modelNames": [
+    "YDBS.S4AMC.D5KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.YD5D.KOR.E*"
+  ],
+  "swVers": [
+    "ST.YD5D.KOR.E553.241114"
+  ],
+  "vclName": "K3"
+}

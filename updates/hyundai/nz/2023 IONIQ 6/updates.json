@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "ioniq6_NZL_2023",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTY4NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvQ0UxLzE0MTM1L2lvbmlxNl9OWkxfMjAyMy5pbmYiLCJpc05zdW0iOnRydWV9.02_gUfEzbexS2cOb5duyhQOey6DHBH0yQHSffkW18cQ",
+  "dvcName": "2023 IONIQ 6",
+  "engDvcName": "2023 IONIQ 6",
+  "engVclName": "IONIQ 6",
+  "mcode": "1684",
+  "mediaType": "USB",
+  "modelNames": [
+    "CEAE.S5BLN.AAU",
+    "CEAE.S5BLC.AAU"
+  ],
+  "platformCode": "19",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CE_E.AUS.S5W_*.***.***"
+  ],
+  "swVers": [
+    "CE_E.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "IONIQ 6"
+}

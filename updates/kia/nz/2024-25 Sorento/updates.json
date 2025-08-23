@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2024_Sorento_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTgwMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01RNC8xNDA0NC8yMDI0X1NvcmVudG9fTlpMLmluZiIsImlzTnN1bSI6dHJ1ZX0.8zWUUd_RKRiRSl9BM2luhsgZgpe4Vk97VqFhNfMPyrQ",
+  "dvcName": "2024-25 Sorento",
+  "engDvcName": "2024-25 Sorento",
+  "engVclName": "Sorento",
+  "mcode": "1802",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAS.SCBMN.NZ",
+    "MQ4PEAS.SLBMN.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.NWZ.ccNC.*",
+    "MQ4PE.NWZ.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "MQ4PE.NWZ.ccNC.001.002.241218",
+    "MQ4PE.NWZ.ccNC_Lite.001.002.241218"
+  ],
+  "vclName": "Sorento"
+}

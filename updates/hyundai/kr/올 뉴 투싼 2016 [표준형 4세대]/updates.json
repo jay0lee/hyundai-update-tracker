@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "All_New_Tucson_2016",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjk5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRlRMLzE0MzY2L0FsbF9OZXdfVHVjc29uXzIwMTYuaW5mIiwiaXNOc3VtIjp0cnVlfQ.I1ovx9zpdStAhCsjEAtlzvZxiS76LxjrNMan7hn5zPc",
+  "dvcName": "올 뉴 투싼 2016 [표준형 4세대]",
+  "engDvcName": "All New Tucson 2016 [Standard Gen4]",
+  "engVclName": "Tucson",
+  "mcode": "299",
+  "mediaType": "SD",
+  "modelNames": [
+    "TLBS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.TLNTPE.KOR.E*"
+  ],
+  "swVers": [
+    "ST.TLNTPE.KOR.E553.241114"
+  ],
+  "vclName": "투싼"
+}

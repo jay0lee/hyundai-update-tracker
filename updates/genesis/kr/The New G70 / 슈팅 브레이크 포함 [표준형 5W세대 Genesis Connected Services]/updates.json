@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_The_New_G70_GCS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiOTcwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9XSURFL0dFSlUvMTQ4MjEvR0VORVNJU19UaGVfTmV3X0c3MF9HQ1MuaW5mIiwiaXNOc3VtIjp0cnVlfQ.6B6BslU8R_0dpacvtCCOU2-dq7pf-XW2MZppSChdLSQ",
+  "dvcName": "The New G70 / 슈팅 브레이크 포함 [표준형 5W세대 Genesis Connected Services]",
+  "engDvcName": "The New G70 / Shooting Brake [Standard Gen5W Genesis Connected Services]",
+  "engVclName": "030_G70",
+  "mcode": "970",
+  "mediaType": "USB",
+  "modelNames": [
+    "IKFAS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "IKFL.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "IKFL.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "030_G70"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2020_G80_9_2_in_touch_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzIwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0RIMTlNWS8xMDAwNy8yMDIwX0c4MF85XzJfaW5fdG91Y2hfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.CxDqx9wnoE28LR01YnFV11uKD-bGH6W3O8TcDjLwdpk",
+  "dvcName": "2020 G80 (9.2 in. Touchscreen)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "720",
+  "mediaType": "USB",
+  "modelNames": [
+    "DHAS.P5ALC.CA"
+  ],
+  "platformCode": "16",
+  "priority": "491",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "DH19MY.CAN.P5.???.*"
+  ],
+  "swVers": [
+    "DH19MY.CAN.P5.001.014.241118"
+  ],
+  "vclName": "G80"
+}

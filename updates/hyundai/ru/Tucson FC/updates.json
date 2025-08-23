@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Tucson_FC_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA1MyIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1R1Y3Nvbl9GQ19SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.uaCn7IrWhjmAHoegqVhmj96AF7-_J4NpHUlSxnFyH68",
+  "dvcName": "Tucson FC",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1053",
+  "mediaType": "USB",
+  "modelNames": [
+    "LM FC"
+  ],
+  "platformCode": "3",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "8.0.6"
+  ],
+  "swVers": [
+    "8.0.6"
+  ],
+  "vclName": "Tucson"
+}

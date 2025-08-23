@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Venue_Standard_Gen5W_Bluelink_Bridge",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTU2NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IRlFYLzE0ODIyLzIwMjNfVmVudWVfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmtfQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.fj91pY_rvaqrFlDnp2PDTv5uAcMtq_xoiwXF89hoHXM",
+  "dvcName": "2023 베뉴 [표준형 5W세대 블루링크]",
+  "engDvcName": "2023 Venue [Standard Gen5W Bluelink]",
+  "engVclName": "Venue",
+  "mcode": "1566",
+  "mediaType": "USB",
+  "modelNames": [
+    "QXBS.S5AMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QX_23.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "QX_23.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "베뉴"
+}

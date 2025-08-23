@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2023_G80_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUxMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9SRzNfMjMvMTEwNDAvMjAyM19HODBfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.Z6bXEAlCLjCqHXWNa9AWOQQjV4CzMG1PCYcsuUjqGNo",
+  "dvcName": "2023 G80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1511",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3BS.P6CLC.US"
+  ],
+  "platformCode": "15",
+  "priority": "487",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "RG3_22.USA.P6.???.*"
+  ],
+  "swVers": [
+    "RG3_22.USA.P6.001.009.241212"
+  ],
+  "vclName": "G80"
+}

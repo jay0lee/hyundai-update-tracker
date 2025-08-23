@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_20_Kona_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTI2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgMTlNWS8zOTA5LzIwMTlfMjBfS29uYV9OWi5pbmYiLCJpc05zdW0iOnRydWV9.yOvkufz_ZH2tryIuLOQPx2hMVn0DGhk4uczgTPNgBM8",
+  "dvcName": "2019-20 Kona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "926",
+  "mediaType": "SD",
+  "modelNames": [
+    "OSBS.S5AMN.AU"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OS19.AUS.SOP.V*"
+  ],
+  "swVers": [
+    "OS19.AUS.SOP.V142.240531.STD_M"
+  ],
+  "vclName": "Kona"
+}

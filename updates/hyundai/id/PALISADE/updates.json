@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Palisade_IDN_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMTc2MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWlkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTFgyLzEyMDc0L1BhbGlzYWRlX0lETl8yMDI0LmluZiIsImlzTnN1bSI6dHJ1ZX0.jwaste8YpE_gmAEO3QVqQNypwgUV5SOF4_OVnYv_2RU",
+  "dvcName": "PALISADE",
+  "engDvcName": "PALISADE",
+  "engVclName": "Palisade",
+  "mcode": "1762",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX2CS.S5BMC.ID"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.03",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LX2_PE_24.IDN.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "LX2_PE_24.IDN.S5W_M.V003.001.241223"
+  ],
+  "vclName": "Palisade"
+}

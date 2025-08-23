@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_IONIQ5N_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk4OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL05FMU4vMTYzMzcvMjAyNV9JT05JUTVOX01FUy5pbmYiLCJpc05zdW0iOnRydWV9.GRuz94B0DNY2cd_s7E24k7TfgQS0EBE1wEYLMxZuxEw",
+  "dvcName": "2025 IONIQ5 N",
+  "engDvcName": "2025 IONIQ5 N",
+  "engVclName": "IONIQ5 N",
+  "mcode": "1988",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1KN25BE.SCBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1KN25.MES.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1KN25.MES.ccNC.001.002.250630"
+  ],
+  "vclName": "IONIQ5 N"
+}

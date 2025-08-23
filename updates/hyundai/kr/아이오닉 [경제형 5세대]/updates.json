@@ -1,0 +1,35 @@
+{
+  "brand": "HM",
+  "destPath": "IONIQ_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0hDQUUvMTM5NjIvSU9OSVFfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.JaSpnLNhinaRR51w3P1Wj472SdpEXbXWiH5zkQr1MlI",
+  "dvcName": "아이오닉 [경제형 5세대]",
+  "engDvcName": "Ioniq Hybrid [Compact Gen5]",
+  "engVclName": "Ioniq",
+  "mcode": "282",
+  "mediaType": "SD",
+  "modelNames": [
+    "AEAH.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AE_HEV.KOR.SOP.???.??????",
+    "AE_HEV.KOR.SOP_CP.???.??????",
+    "CP.AE_HEV.KOR.SOP.???.??????",
+    "AE_HEV.KOR.SOP_CP.???",
+    "AE_HEV.KOR.???.?",
+    "AE_HEV.KOR.SOP_CP.???.??.??????",
+    "AE_HEV.KOR.SOP_CP.???.?.??????",
+    "AE_HEV.KOR.SOP_CP.??.???.?",
+    "CP.AE_HEV.KOR.SOP.??.???",
+    "CP.AE_HEV.KOR.SOP.??.???.?",
+    "CP.AEHEV.KOR.SOP.??.???.?"
+  ],
+  "swVers": [
+    "AE_HEV.KOR.SOP.049.241120"
+  ],
+  "vclName": "아이오닉"
+}

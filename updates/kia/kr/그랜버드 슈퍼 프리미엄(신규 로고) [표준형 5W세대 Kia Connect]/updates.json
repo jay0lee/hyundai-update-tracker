@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Granbird_Super_Premium_2021_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI2NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVXX0IvUUYvMTEwMzIvR3JhbmJpcmRfU3VwZXJfUHJlbWl1bV8yMDIxX1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.ey-VrHQmzq01sCHDlcVWlMwVNjrMq5NveP7ivnGICIA",
+  "dvcName": "그랜버드 슈퍼 프리미엄(신규 로고) [표준형 5W세대 Kia Connect]",
+  "engDvcName": "Granbird Super Premium 2021 [Standard Gen5W Kia Connect]",
+  "engVclName": "Granbird",
+  "mcode": "1267",
+  "mediaType": "USB",
+  "modelNames": [
+    "GZBS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2024.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GZ22.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "GZ22.KOR.S5W_M.V023.001.241209"
+  ],
+  "vclName": "그랜버드"
+}

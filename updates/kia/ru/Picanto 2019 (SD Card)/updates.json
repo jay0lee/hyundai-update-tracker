@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Picanto_2019_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA4OSIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1BpY2FudG9fMjAxOV9TRF9DYXJkX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.F4oXtsSbi4g9KKX5FcWF8mlaJuU-2tmUdE4qGQybZbE",
+  "dvcName": "Picanto 2019 (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1089",
+  "mediaType": "SD",
+  "modelNames": [
+    "JAAS.S5ALN.RU"
+  ],
+  "platformCode": "12",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JA.RUS.SOP.???.?.??????"
+  ],
+  "swVers": [
+    "JA.RUS.SOP.008.1.191209"
+  ],
+  "vclName": "Picanto"
+}

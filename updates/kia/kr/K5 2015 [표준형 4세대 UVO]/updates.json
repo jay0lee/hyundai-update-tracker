@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K5_2015_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjYxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9LRi8xNDMzOC9LNV8yMDE1X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.tKfdffBiR6a4F6b2INsAOHhip2KOW1KycCZ_2f0RzcE",
+  "dvcName": "K5 2015 [표준형 4세대 UVO]",
+  "engDvcName": "K5 2015 [Standard Gen4 UVO]",
+  "engVclName": "K5",
+  "mcode": "261",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.JF.KOR.E*"
+  ],
+  "swVers": [
+    "ST.JF.KOR.E553.241114"
+  ],
+  "vclName": "K5"
+}

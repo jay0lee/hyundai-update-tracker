@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2021_22_Santa_Fe_Hybrid_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTIwMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE1fSC8xNjAyNy8yMDIxXzIyX1NhbnRhX0ZlX0h5YnJpZF9NRS5pbmYiLCJpc05zdW0iOnRydWV9.RcgxneYKybMVx3A0OjT0GIy4sqZ4mCOuiu0LOtCfFac",
+  "dvcName": "2021 Santa Fe Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1201",
+  "mediaType": "USB",
+  "modelNames": [
+    "TMAH.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TM_H.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "TM_H.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "Santa Fe Hybrid"
+}

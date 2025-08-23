@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "AVANTE_2019_Bluelink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDc1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ0FELzE0NjkwL0FWQU5URV8yMDE5X0JsdWVsaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.PcPJJfEd2W0EVxYeFhQsFY9a4NLZSJLOaDWwL6EvzcM",
+  "dvcName": "아반떼 2019 [표준형 5세대 블루링크]",
+  "engDvcName": "Avante 2019 [Standard Gen5 Bluelink]",
+  "engVclName": "Avante",
+  "mcode": "475",
+  "mediaType": "SD",
+  "modelNames": [
+    "ADBS.S5AMC.KR"
+  ],
+  "platformCode": "11",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ADPE.KOR.SOP.V???.??????.STD_H"
+  ],
+  "swVers": [
+    "ADPE.KOR.SOP.V141.250423.STD_H"
+  ],
+  "vclName": "아반떼"
+}

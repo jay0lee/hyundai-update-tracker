@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "ALL_New_K3",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREIvMTM5OTIvQUxMX05ld19LMy5pbmYiLCJpc05zdW0iOnRydWV9.Oi0IMCmUfs_VyXO5RbGGQnnblhoWk5HkXZOmbNzpzyI",
+  "dvcName": "ALL New K3 [표준형 5세대]",
+  "engDvcName": "All New K3 [Standard Gen5]",
+  "engVclName": "K3",
+  "mcode": "371",
+  "mediaType": "SD",
+  "modelNames": [
+    "BDAS.S5ALN.KR"
+  ],
+  "platformCode": "12",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BD.KOR.SOP.???.??????.STD_M"
+  ],
+  "swVers": [
+    "BD.KOR.SOP.061.250114.STD_M"
+  ],
+  "vclName": "K3"
+}

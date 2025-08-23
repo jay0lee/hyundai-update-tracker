@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "SOUL_EV",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9QUy8xNDM1Ny9TT1VMX0VWLmluZiIsImlzTnN1bSI6dHJ1ZX0.t9aSf1UagdwgojKzqtBwicRmbNhpSCMgTgVA1MkYb04",
+  "dvcName": "쏘울 Electric [표준형 4세대 UVO]",
+  "engDvcName": "Soul EV [Standard Gen4 UVO]",
+  "engVclName": "Soul",
+  "mcode": "221",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSCE.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.PSEV.KOR.E*"
+  ],
+  "swVers": [
+    "ST.PSEV.KOR.E553.241114"
+  ],
+  "vclName": "쏘울"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "SantaFe_2018_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzczIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IRlRNLzE0NzEzL1NhbnRhRmVfMjAxOF9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.SVHlILCnNUAQ1OAzdIxuMqOWBrZeRsUvV89yP7bA4JI",
+  "dvcName": "싼타페 2018 [표준형 5세대 블루링크]",
+  "engDvcName": "Santafe 2018 [Standard Gen5 Bluelink]",
+  "engVclName": "Santafe",
+  "mcode": "373",
+  "mediaType": "SD",
+  "modelNames": [
+    "TMAS.S5AMC.KR"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TM.KOR.SOP.V???.??????.STD_H"
+  ],
+  "swVers": [
+    "TM.KOR.SOP.V141.250423.STD_H"
+  ],
+  "vclName": "싼타페"
+}

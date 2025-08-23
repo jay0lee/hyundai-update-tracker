@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2021_22_Kona_Hybrid_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTY4OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NfSF9QRS8xNTc2MC8yMDIxXzIyX0tvbmFfSHlicmlkX0JSQS5pbmYiLCJpc05zdW0iOnRydWV9.TEHcuaaERZyHNoxpDOXsEG98Rf3mtZgzAdx6bcPKhvg",
+  "dvcName": "2021-22 Kona Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1689",
+  "mediaType": "USB",
+  "modelNames": [
+    "OSBH.S5BM.BR"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OS_H_PE.BRA.S5W_M.V*"
+  ],
+  "swVers": [
+    "OS_H_PE.BRA.S5W_M.V007.001.250626"
+  ],
+  "vclName": "Kona Hybrid"
+}

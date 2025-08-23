@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_21_IONIQ_Plug_in_Hybrid_10_25_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTIzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRV9QX1BFLzExNjMyLzIwMjBfMjFfSU9OSVFfUGx1Z19pbl9IeWJyaWRfMTBfMjVfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.xRc6P0nFSjVD1SBZ53CKkO9akhD8sLi6r6P3esAEx-c",
+  "dvcName": "2020-22 IONIQ Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "923",
+  "mediaType": "USB",
+  "modelNames": [
+    "AEAP.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AE_P_PE.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "AE_P_PE.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "IONIQ Plug-in Hybrid"
+}

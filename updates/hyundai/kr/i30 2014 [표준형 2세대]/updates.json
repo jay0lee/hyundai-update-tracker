@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "i30_2014",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9IQ0dELzE0MTU3L2kzMF8yMDE0LmluZiIsImlzTnN1bSI6dHJ1ZX0.xiIZ3u6-xjok1QQ3j33PSEWCbUseH85Nr7czxyCudNo",
+  "dvcName": "i30 2014 [표준형 2세대]",
+  "engDvcName": "i30 2014 [Standard Gen2]",
+  "engVclName": "i30",
+  "mcode": "213",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "504",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GD14MY.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "GD14MY.KOR.SOP.00.053"
+  ],
+  "vclName": "i30"
+}

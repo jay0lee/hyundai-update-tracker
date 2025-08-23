@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_new_Ioniq5_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg1OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvSEZORS8xNTAzNi9UaGVfbmV3X0lvbmlxNV9LT1IuaW5mIiwiaXNOc3VtIjp0cnVlfQ.y1aLcQYnQi4JrwoLJX2ukAQN1K6m4dwFvoEOBdTgZxY",
+  "dvcName": "더 뉴 아이오닉 5 [ccNC블루링크]",
+  "engDvcName": "The New Ioniq 5 [ccNC Bluelink]",
+  "engVclName": "Ioniq",
+  "mcode": "1858",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "489",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "아이오닉"
+}

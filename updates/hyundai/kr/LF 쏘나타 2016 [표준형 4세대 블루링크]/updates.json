@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "LFSONATA_2016_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjYyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IREdGLzE0MzQ3L0xGU09OQVRBXzIwMTZfQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.fl80iu1zGogK_AVg1Exge1SU0XGaTyp7cwbjcilZC0g",
+  "dvcName": "LF 쏘나타 2016 [표준형 4세대 블루링크]",
+  "engDvcName": "LF Sonata 2016 [Standard Gen4 Bluelink]",
+  "engVclName": "Sonata",
+  "mcode": "262",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFBS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.LF16.KOR.E*"
+  ],
+  "swVers": [
+    "ST.LF16.KOR.E553.241114"
+  ],
+  "vclName": "쏘나타"
+}

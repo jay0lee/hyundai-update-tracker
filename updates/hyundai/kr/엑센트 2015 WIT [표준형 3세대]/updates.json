@@ -1,0 +1,27 @@
+{
+  "brand": "HM",
+  "destPath": "ACCENT_2015_WIT_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjI5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IQlJCLzE0NDUxL0FDQ0VOVF8yMDE1X1dJVF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.P0EzaM5luTY_tPz-XrW5Um1pRlCdAfUVEOw6AG8Tpsg",
+  "dvcName": "엑센트 2015 WIT [표준형 3세대]",
+  "engDvcName": "Accent 2015 WIT [Standard Gen3]",
+  "engVclName": "Accent",
+  "mcode": "229",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RB14A5.KOR.SOP.14.*",
+    "RB14B5.KOR.SOP.14.*",
+    "RB14_5.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "RB14A5.KOR.SOP.14.040"
+  ],
+  "vclName": "엑센트"
+}

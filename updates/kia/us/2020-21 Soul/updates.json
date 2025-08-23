@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Soul_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQ1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9TSzMvMTAzMzkvMjAyMF8yMV9Tb3VsX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.DipV3Ct5jGlsMH2ngnhqCp7qkMmGL29wbCSEP3Y6UhU",
+  "dvcName": "2020-21 Soul",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "645",
+  "mediaType": "USB",
+  "modelNames": [
+    "SK3AS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SK3.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "SK3.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Soul"
+}

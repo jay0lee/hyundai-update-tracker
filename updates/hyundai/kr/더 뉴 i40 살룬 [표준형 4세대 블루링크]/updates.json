@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_i40_saloon_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRERGLzE0Mzc0L1RoZV9OZXdfaTQwX3NhbG9vbl9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.mOYAtbqphqsc38E_x1FA24P77eSo5lK8n3NMh2u34kE",
+  "dvcName": "더 뉴 i40 살룬 [표준형 4세대 블루링크]",
+  "engDvcName": "The New i40 Saloon [Standard Gen4 Bluelink]",
+  "engVclName": "i40",
+  "mcode": "258",
+  "mediaType": "SD",
+  "modelNames": [
+    "VFAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.VFSD.KOR.E*"
+  ],
+  "swVers": [
+    "ST.VFSD.KOR.E553.241114"
+  ],
+  "vclName": "i40"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_I20_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTc2NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQkkzIFBFLzE1NTQ4LzIwMjNfSTIwX0lOLmluZiIsImlzTnN1bSI6dHJ1ZX0.JdwvUDAiX9YRgxsx3ktnUDVcc2poTN28U88RBya-aas",
+  "dvcName": "2023 I20",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1767",
+  "mediaType": "USB",
+  "modelNames": [
+    "BI3BS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BI3_PE.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "BI3_PE.IND.S5W_M.V008.001.250527"
+  ],
+  "vclName": "I20"
+}

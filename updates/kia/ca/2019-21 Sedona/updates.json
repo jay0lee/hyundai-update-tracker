@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_21_Sedona_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODAzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvWVAgUEUoMThNWSkvMTAyMzYvMjAxOV8yMV9TZWRvbmFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.3IwY1ZCJByXDT93lVC39ACKNPXUM9rSSqr9bLLt1ev8",
+  "dvcName": "2019-21 Sedona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "803",
+  "mediaType": "SD",
+  "modelNames": [
+    "YPAS.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YPPE.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "YPPE.CAN.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Sedona"
+}

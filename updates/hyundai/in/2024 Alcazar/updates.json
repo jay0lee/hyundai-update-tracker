@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Alcazar_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg5NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1UyaSBMV0JGTC8xNTU1Mi8yMDI0X0FsY2F6YXJfSU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.6N6cVWiE4SeF7IcdKvHWnlC3k4Ya5MZlfN5r7hgewaQ",
+  "dvcName": "2024 Alcazar",
+  "engDvcName": "2024 Alcazar",
+  "engVclName": "Alcazar",
+  "mcode": "1894",
+  "mediaType": "USB",
+  "modelNames": [
+    "SU2CS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SU2i_LWB_FL.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "SU2I_LWB_FL.IND.S5W_M.V008.001.250527"
+  ],
+  "vclName": "Alcazar"
+}

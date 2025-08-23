@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Niro_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTMwMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREUgUEhFViAyMk1ZLzEwMjkwLzIwMjJfTmlyb19QbHVnX2luX0h5YnJpZF9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.XrOkdb28Naii_b43QceCXOOzkRzNhuDFyYqgfdphK50",
+  "dvcName": "2022 Niro Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1303",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEBP.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "DE_P_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "DE_P_22.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}

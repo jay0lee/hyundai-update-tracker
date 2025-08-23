@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2014_15_Genesis_8_in_Touch_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvREgvMTA2NjQvMjAxNF8xNV9HZW5lc2lzXzhfaW5fVG91Y2hfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.6i52UDLYzl2GYm20AptvtlrQg3XS4pp1a_fuRghwQKQ",
+  "dvcName": "2014-15 Genesis (8 in. Touch)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "995",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DH.MES.E*"
+  ],
+  "swVers": [
+    "ST.DH.MES.E536.241118"
+  ],
+  "vclName": "Genesis"
+}

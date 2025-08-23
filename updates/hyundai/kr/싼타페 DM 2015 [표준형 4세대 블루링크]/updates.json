@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "SantaFe_DM_2015_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkRNLzE0MzIxL1NhbnRhRmVfRE1fMjAxNV9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.MpFsvl9l1_w_H45s4X44pyjj1znzl9KnW7lKbosF-wk",
+  "dvcName": "싼타페 DM 2015 [표준형 4세대 블루링크]",
+  "engDvcName": "Santafe DM 2015 [Standard Gen4 Bluelink]",
+  "engVclName": "Santafe",
+  "mcode": "235",
+  "mediaType": "SD",
+  "modelNames": [
+    "DMAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DM.KOR.E*"
+  ],
+  "swVers": [
+    "ST.DM.KOR.E553.241114"
+  ],
+  "vclName": "싼타페"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "MAXCRUZ_2015_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkpSLzE0MzUyL01BWENSVVpfMjAxNV9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.X9qDMRNwis-BhNCUiMbnqv1IhjjmGni1ZMRTVwElNHs",
+  "dvcName": "맥스크루즈 2015 [표준형 4세대 블루링크]",
+  "engDvcName": "Maxcruz 2015 [Standard Gen4 Bluelink]",
+  "engVclName": "Maxcruz",
+  "mcode": "237",
+  "mediaType": "SD",
+  "modelNames": [
+    "NCAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.NC.KOR.E*"
+  ],
+  "swVers": [
+    "ST.NC.KOR.E553.241114"
+  ],
+  "vclName": "맥스크루즈"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_21_Sonata_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTg5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ETjgvMTYwMDgvMjAxOV8yMV9Tb25hdGFfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.vQ7vM5L5YBaIgA9bHBooDoDpuzKz8ze4x3F34lHbMI4",
+  "dvcName": "2019-21 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "989",
+  "mediaType": "USB",
+  "modelNames": [
+    "DN8AS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DN8.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "DN8.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "Sonata"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2022_G70_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEyNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvSUsgRkwvOTM1NS8yMDIyX0c3MF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.A6_51YmTrG5Lnx8pmriwkA0Ray2Q0YpMlhaXx0Xa6DA",
+  "dvcName": "2022-24 G70",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1124",
+  "mediaType": "USB",
+  "modelNames": [
+    "IKFAS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "IKFL.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "IKFL.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "G70"
+}

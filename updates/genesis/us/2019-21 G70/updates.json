@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2019_21_G70_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSUsvMTAxOTYvMjAxOV8yMV9HNzBfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.7KGcxB_H99wMe9YZfyeAvAYvVJILFNlMoz4ENL-ewok",
+  "dvcName": "2019-21 G70",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "695",
+  "mediaType": "SD",
+  "modelNames": [
+    "IKAS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "IK.USA.SOP.V*"
+  ],
+  "swVers": [
+    "IK.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "G70"
+}

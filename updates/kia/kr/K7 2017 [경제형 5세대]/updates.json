@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K7_2017",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzE5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1lHLzEzOTgxL0s3XzIwMTcuaW5mIiwiaXNOc3VtIjp0cnVlfQ.IMo1Vs0jl_u6lfT-xBm28AMvkksLl_P0TS5dO5LjygY",
+  "dvcName": "K7 2017 [경제형 5세대]",
+  "engDvcName": "K7 2017 [Compact Gen5]",
+  "engVclName": "K7",
+  "mcode": "319",
+  "mediaType": "SD",
+  "modelNames": [
+    "YGBS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YG_17MY.KOR.SOP.???.??????"
+  ],
+  "swVers": [
+    "YG_17MY.KOR.SOP.049.241120"
+  ],
+  "vclName": "K7"
+}

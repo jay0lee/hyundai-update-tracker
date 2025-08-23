@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K3_KOUP_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjkzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZSy8xNDM3Ny9UaGVfTmV3X0szX0tPVVBfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.NfYqBJWXolU3jN9bTsvsni8EzJ9Y0I-OQt7Q1n2epKU",
+  "dvcName": "The New K3 쿱 [표준형 4세대 UVO]",
+  "engDvcName": "The New K3 KOUP [Standard Gen4 UVO]",
+  "engVclName": "K3",
+  "mcode": "293",
+  "mediaType": "SD",
+  "modelNames": [
+    "YDBS.S4AMC.D2KR"
+  ],
+  "platformCode": "7",
+  "priority": "504",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.YD2D.KOR.E*"
+  ],
+  "swVers": [
+    "ST.YD2D.KOR.E553.241114"
+  ],
+  "vclName": "K3"
+}

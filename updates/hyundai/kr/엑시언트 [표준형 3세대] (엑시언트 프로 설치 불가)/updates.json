@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Trago_Xcient_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9RWi8xNDQ0OC9UcmFnb19YY2llbnRfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.dZeCF4PnHjt4IWjUjHi-_leaytNs7ItcWNI0i1l1_lo",
+  "dvcName": "엑시언트 [표준형 3세대] (엑시언트 프로 설치 불가)",
+  "engDvcName": "Xcient [Standard Gen3]",
+  "engVclName": "Xcient",
+  "mcode": "189",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QZ.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "QZ.KOR.SOP.14.052"
+  ],
+  "vclName": "엑시언트"
+}

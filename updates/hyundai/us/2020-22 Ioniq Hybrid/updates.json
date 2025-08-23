@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_22_Ioniq_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRSBIRVYgUEUvMTAzMzAvMjAyMF8yMl9Jb25pcV9IeWJyaWRfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.t5pvoJxhRLj2HLDs1LAlGzvO3kVl4dlxZ6MgSajRMRo",
+  "dvcName": "2020-22 Ioniq Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "704",
+  "mediaType": "USB",
+  "modelNames": [
+    "AEAH.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "AEPEHEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "AEPEHEV.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Ioniq Hybrid"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "LF_Sonata_New_Rise_Hybrid_Standard_Gen5",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSERHRi8xNDcwMC9MRl9Tb25hdGFfTmV3X1Jpc2VfSHlicmlkX1N0YW5kYXJkX0dlbjUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.GXxo4UpSfrJ4oxfBLSoJbUN2OX8gVoObmB0zPHY6rzE",
+  "dvcName": "LF 쏘나타 뉴라이즈 / Hybrid 포함 [표준형 5세대]",
+  "engDvcName": "LF Sonata New Rise / Hybrid [Standard Gen5]",
+  "engVclName": "Sonata",
+  "mcode": "1421",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFAS.S5AMN.KR",
+    "LFAH.S5AMN.KR"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LFFL.KOR.SOP.V???.??????.STD_M",
+    "LFFLHEV.KOR.SOP.V???.??????.STD_M"
+  ],
+  "swVers": [
+    "LFFL.KOR.SOP.V141.250423.STD_M",
+    "LFFLHEV.KOR.SOP.V141.250423.STD_M"
+  ],
+  "vclName": "쏘나타"
+}

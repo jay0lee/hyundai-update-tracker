@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "Carnival_4th_Generation_2022_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9LUC8xNDgzMi9DYXJuaXZhbF80dGhfR2VuZXJhdGlvbl8yMDIyX1N0YW5kYXJkX0dlbjVXX0tpYV9Db25uZWN0LmluZiIsImlzTnN1bSI6dHJ1ZX0.7iY0_wN40NHqmB0QZHm2R6yt39jhPd1MnMI1KozQGs4",
+  "dvcName": "4세대 카니발 / 2022 포함 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "4th Generation Carnival / 2022 [Standard Gen5W Kia Connect]",
+  "engVclName": "Carnival",
+  "mcode": "1400",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.S5BMC.KR",
+    "KA4BS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.KOR.S5W_M.V???.*",
+    "KA422.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "KA4.KOR.S5W_M.V035.001.250507",
+    "KA422.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "카니발"
+}

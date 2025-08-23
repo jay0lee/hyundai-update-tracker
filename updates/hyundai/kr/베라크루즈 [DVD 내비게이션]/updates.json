@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "VERACRUZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNzIiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9EVkQvSEZFTi8xNDIxMC9WRVJBQ1JVWi5pbmYiLCJpc05zdW0iOnRydWV9.BYpLxLDAd6ylXXOdLCHgKqAyHAkAra8_8nNSxiC21IM",
+  "dvcName": "베라크루즈 [DVD 내비게이션]",
+  "engDvcName": "Veracruz [Standard Gen1(DVD)]",
+  "engVclName": "Veracruz",
+  "mcode": "72",
+  "mediaType": "DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V1.SOP.13.*"
+  ],
+  "swVers": [
+    "V1.SOP.13.012.KOR"
+  ],
+  "vclName": "베라크루즈"
+}

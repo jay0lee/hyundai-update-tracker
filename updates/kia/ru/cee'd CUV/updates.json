@@ -1,0 +1,19 @@
+{
+  "brand": "KM",
+  "destPath": "ceed_CUV_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA5OCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL2NlZWRfQ1VWX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.-ZMDBcXITwDHIhQW_roYOoy0p9ufDtRTcwffTa0mO8A",
+  "dvcName": "cee'd CUV",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1098",
+  "mediaType": "USB",
+  "modelNames": [],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "cee'd"
+}
