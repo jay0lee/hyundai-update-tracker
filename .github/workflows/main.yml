@@ -34,7 +34,7 @@ jobs:
           for brand in "${brands[@]}"; do
             for region in "${regions[@]}"; do
               echo "Checking for ${brand} ${region} updates..."
-              "$nudl" list --brand "$brand" --region "$region" --output json | tee "updates/${brand}"/${region}/updates.json"
+              "$nudl" list --brand "$brand" --region "$region" --output json | tee "updates/${brand}/${region}/updates.json"
               echo ""
             done
           done
