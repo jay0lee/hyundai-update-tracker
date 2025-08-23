@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "Ioniq5_IDN_2023",
+    "model": "IONIQ",
+    "name": "IONIQ 5",
+    "version": "NEEV.IDN.S5W_M.V003.001.241223"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "KONA_IDN_2025",
+    "model": "Kona",
+    "name": "The all-new KONA Electric",
+    "version": "SX2EV.IDN.ccNC.001.002.241216"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Palisade_IDN_2024",
+    "model": "Palisade",
+    "name": "PALISADE",
+    "version": "LX2_PE_24.IDN.S5W_M.V003.001.241223"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "SantaFe_IDN_2024",
+    "model": "SANTA-FE",
+    "name": "SANTA FE",
+    "version": "TMFL_23.IDN.S5W_M.V003.001.241223"
+  }
+]

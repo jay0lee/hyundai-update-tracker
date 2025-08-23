@@ -1,0 +1,93 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "2020_Azera_BRA",
+    "model": "Azera",
+    "name": "2020 Azera",
+    "version": "IGPE.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Creta_BRA",
+    "model": "Creta",
+    "name": "2022 Creta",
+    "version": "SU2B.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Creta_BRA",
+    "model": "Creta",
+    "name": "2023 Creta",
+    "version": "SU2BSE.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Creta_BRA",
+    "model": "Creta",
+    "name": "2024 Creta",
+    "version": "SU2BFL.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_G70_BRA",
+    "model": "G70",
+    "name": "2021 G70",
+    "version": "IKFL.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_IONIQ5_BRA",
+    "model": "IONIQ5",
+    "name": "2024 IONIQ5",
+    "version": "NE1.BRA.ccNC.001.002.250623"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_IONIQ_BRA",
+    "model": "IONIQ",
+    "name": "2019-20 IONIQ",
+    "version": "AEPEHEV.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Kona_Eletric_BRA",
+    "model": "Kona Eletric",
+    "name": "2022 Kona Eletric",
+    "version": "OSPEEV.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_Hybrid_BRA",
+    "model": "Kona Hybrid",
+    "name": "2021-22 Kona Hybrid",
+    "version": "OS_H_PE.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_KONA_HYBRID_BRA",
+    "model": "Kona Hybrid",
+    "name": "2024 Kona Hybrid",
+    "version": "SX2.BRA.ccNC.001.002.250623"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_Palisade_BRA",
+    "model": "Palisade",
+    "name": "2020 Palisade",
+    "version": "LX2.BRA.S5W_M.V007.001.250626"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Santa_Fe_BRA",
+    "model": "Santa Fe",
+    "name": "2018-20 Santa Fe",
+    "version": "TM.BRA.SOP.V142.240619.STD_H.RDS"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Santa_Fe_BRA",
+    "model": "Santa Fe",
+    "name": "2021 Santa Fe",
+    "version": "TM_FL.BRA.S5W_M.V007.001.250626"
+  }
+]

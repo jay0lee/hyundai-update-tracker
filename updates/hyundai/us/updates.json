@@ -1,0 +1,723 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "2015_2017_Azera_USA",
+    "model": "Azera",
+    "name": "2015-17 Azera",
+    "version": "ST.HG.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_17_Elantra_GT_USA",
+    "model": "Elantra GT",
+    "name": "2016-17 Elantra GT",
+    "version": "ST.GD.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Elantra_GT_USA",
+    "model": "Elantra GT",
+    "name": "2018 Elantra GT",
+    "version": "PD.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Elantra_GT_USA",
+    "model": "Elantra GT",
+    "name": "2019-20 Elantra GT",
+    "version": "PD19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Elantra_Hybrid_USA",
+    "model": "Elantra Hybrid",
+    "name": "2021-22 Elantra Hybrid",
+    "version": "CN7HEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Elantra_Hybrid_USA",
+    "model": "Elantra Hybrid",
+    "name": "2023 Elantra Hybrid",
+    "version": "CN7HEV23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Elantra_Hybrid_USA",
+    "model": "Elantra Hybrid",
+    "name": "2024-25 Elantra Hybrid",
+    "version": "CN7HEVPE.USA.S5W_M.V013.010.241127"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_ELANTRA_N_USA",
+    "model": "ELANTRA N",
+    "name": "2022 ELANTRA N",
+    "version": "CN7N.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_ELANTRA_N_USA",
+    "model": "ELANTRA N",
+    "name": "2023 ELANTRA N",
+    "version": "CN7N23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Elantra_N_USA",
+    "model": "ELANTRA N",
+    "name": "2024-25 ELANTRA N",
+    "version": "CN7NPE.USA.S5W_M.V013.010.241127"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Elantra_USA",
+    "model": "Elantra",
+    "name": "2017-18 Elantra",
+    "version": "ST.AD.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Elantra_USA",
+    "model": "Elantra",
+    "name": "2018 Elantra Sport",
+    "version": "ST.ADN.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Elantra_USA",
+    "model": "Elantra",
+    "name": "2019-20 Elantra",
+    "version": "ADPE.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Elantra_USA",
+    "model": "Elantra",
+    "name": "2021-22 Elantra",
+    "version": "CN7.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Elantra_USA",
+    "model": "Elantra",
+    "name": "2023 Elantra",
+    "version": "CN723.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Elantra_2024_USA",
+    "model": "Elantra",
+    "name": "2024-25 Elantra",
+    "version": "CN7PE.USA.S5W_M.V013.010.241127"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_Genesis_9_2_in_touch_USA",
+    "model": "Genesis",
+    "name": "2014 Genesis (9.2 in. Touchscreen)",
+    "version": "DH.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_16_Genesis_8_in_touch_USA",
+    "model": "Genesis",
+    "name": "2014-16 Genesis (8 in. Touchscreen)",
+    "version": "ST.DH.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_Genesis_9_2_in_touch_USA",
+    "model": "Genesis",
+    "name": "2015 Genesis (9.2 in. Touchscreen)",
+    "version": "DH15MY.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_Genesis_9_2_in_touch_USA",
+    "model": "Genesis",
+    "name": "2016 Genesis (9.2 in. Touchscreen)",
+    "version": "DH16MY.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Ioniq_5_USA",
+    "model": "Ioniq 5",
+    "name": "2022 Ioniq 5",
+    "version": "NEEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Ioniq_5_USA",
+    "model": "Ioniq 5",
+    "name": "2023 Ioniq 5",
+    "version": "NEEV23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Ioniq_5_USA",
+    "model": "Ioniq 5",
+    "name": "2024 Ioniq 5",
+    "version": "NEEV23SE.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_Ioniq5_USA",
+    "model": "Ioniq 5",
+    "name": "2025 Ioniq 5 N",
+    "version": "NE1KN.USA.ccNC.001.002.250301"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Ioniq6_USA",
+    "model": "Ioniq 6",
+    "name": "2023-25 Ioniq 6",
+    "version": "CEEV.USA.S5W_M.V013.010.241127"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Ioniq_Electric_USA",
+    "model": "Ioniq Electric",
+    "name": "2017-18 Ioniq Electric",
+    "version": "ST.AEEV.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Ioniq_Electric_USA",
+    "model": "Ioniq Electric",
+    "name": "2019 Ioniq Electric",
+    "version": "AEEV19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_Ioniq_Electric_USA",
+    "model": "Ioniq Electric",
+    "name": "2020-22 Ioniq Electric",
+    "version": "AEPEEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Ioniq_Hybrid_USA",
+    "model": "Ioniq Hybrid",
+    "name": "2017-18 Ioniq Hybrid",
+    "version": "ST.AE.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Ioniq_Hybrid_USA",
+    "model": "Ioniq Hybrid",
+    "name": "2019 Ioniq Hybrid",
+    "version": "AEHEV19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_22_Ioniq_Hybrid_USA",
+    "model": "Ioniq Hybrid",
+    "name": "2020-22 Ioniq Hybrid",
+    "version": "AEPEHEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Ioniq_Plug_in_Hybrid_USA",
+    "model": "Ioniq Plug-in Hybrid",
+    "name": "2018 Ioniq Plug-in Hybrid",
+    "version": "AEPHEV.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Ioniq_Plug_in_Hybrid_USA",
+    "model": "Ioniq Plug-in Hybrid",
+    "name": "2019 Ioniq Plug-in Hybrid",
+    "version": "AEPHEV19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_22_Ioniq_Plug_in_Hybrid_USA",
+    "model": "Ioniq Plug-in Hybrid",
+    "name": "2020-22 Ioniq Plug-in Hybrid",
+    "version": "AEPEPHEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_19_Kona_Electric_USA",
+    "model": "Kona Electric",
+    "name": "2018-19 Kona Electric",
+    "version": "OSEV.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_Kona_Electric_USA",
+    "model": "Kona Electric",
+    "name": "2020-21 Kona Electric",
+    "version": "OSEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Kona_Electric_USA",
+    "model": "Kona Electric",
+    "name": "2022 Kona Electric",
+    "version": "OSPEEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Kona_Electric_USA",
+    "model": "Kona Electric",
+    "name": "2023 Kona Electric",
+    "version": "OSPEEV23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Kona_Electric_2024_USA",
+    "model": "Kona Electric",
+    "name": "2024-25 Kona Electric",
+    "version": "SX2EV.USA.ccNC.001.002.250301"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_KONA_N_USA",
+    "model": "KONA N",
+    "name": "2022 KONA N",
+    "version": "OSNPE.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_KONA_N_USA",
+    "model": "KONA N",
+    "name": "2023 KONA N",
+    "version": "OSNPE23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Kona_USA",
+    "model": "Kona",
+    "name": "2018 Kona",
+    "version": "OS.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Kona_Iron_man_edition_USA",
+    "model": "Kona",
+    "name": "2019 Kona (Iron man edition)",
+    "version": "OSSE.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_Kona_USA",
+    "model": "Kona",
+    "name": "2019-21 Kona",
+    "version": "OS19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Kona_USA",
+    "model": "Kona",
+    "name": "2022 Kona",
+    "version": "OS_PE.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Kona_USA",
+    "model": "Kona",
+    "name": "2023 Kona",
+    "version": "OS_PE23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "kona_USA_2024",
+    "model": "Kona",
+    "name": "2024-25 Kona",
+    "version": "SX2.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Nexo_Fuel_Cell_USA",
+    "model": "Nexo",
+    "name": "2019-24 Nexo Fuel Cell",
+    "version": "FE.USA.P5.001.014.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_22_Palisade_USA",
+    "model": "Palisade",
+    "name": "2020-22 Palisade",
+    "version": "LX2.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Palisade_USA",
+    "model": "Palisade",
+    "name": "2023-25 Palisade",
+    "version": "LX2_PE.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Santa_Cruz_USA",
+    "model": "Santa Cruz",
+    "name": "2022 Santa Cruz",
+    "version": "NX4OB.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Santa_Cruz_USA",
+    "model": "Santa Cruz",
+    "name": "2023-24 Santa Cruz",
+    "version": "NX4OB23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_Santa_Cruz_USA",
+    "model": "Santa Cruz",
+    "name": "2025 Santa Cruz",
+    "version": "NX4OB.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Santa_Fe_Hybrid_USA",
+    "model": "Santa Fe Hybrid",
+    "name": "2021-22 Santa Fe Hybrid",
+    "version": "TM_H.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Santa_Fe_Hybrid_USA",
+    "model": "Santa Fe Hybrid",
+    "name": "2023 Santa Fe Hybrid",
+    "version": "TM_H_23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Santafe_Hybrid_USA",
+    "model": "Santa Fe Hybrid",
+    "name": "2024-25 Santa fe Hybrid",
+    "version": "MX5.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Santa_Fe_Plug_in_Hybrid_USA",
+    "model": "Santa Fe Plug-in Hybrid",
+    "name": "2022 Santa Fe Plug-in Hybrid",
+    "version": "TM_P.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Santa_Fe_Plug_in_Hybrid_USA",
+    "model": "Santa Fe Plug-in Hybrid",
+    "name": "2023 Santa Fe Plug-in Hybrid",
+    "version": "TM_P_23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Santa_Fe_5seat_USA",
+    "model": "Santa Fe",
+    "name": "2017-18 Santa Fe (5 seat)",
+    "version": "ST.DM2.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Santa_Fe_7seat_USA",
+    "model": "Santa Fe",
+    "name": "2017-18 Santa Fe (7+ seat)",
+    "version": "ST.NC2.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Santa_Fe_7seat_USA",
+    "model": "Santa Fe",
+    "name": "2019 Santa Fe (7+ seat)",
+    "version": "NC19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Santa_Fe_5seat_USA",
+    "model": "Santa Fe",
+    "name": "2019-20 Santa Fe (5 seat)",
+    "version": "TM.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Santa_Fe_USA",
+    "model": "Santa Fe",
+    "name": "2021-22 Santa Fe",
+    "version": "TM_FL.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Santa_Fe_USA",
+    "model": "Santa Fe",
+    "name": "2023 Santa Fe",
+    "version": "TMFL_23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_SantaFe_USA",
+    "model": "Santa Fe",
+    "name": "2024-25 Santa Fe",
+    "version": "MX5.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2016 Sonata Hybrid",
+    "version": "ST.LFHEV.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2017 Sonata Hybrid",
+    "version": "ST.LFHEV17.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2018 Sonata Hybrid",
+    "version": "LFFLHEV.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2019 Sonata Hybrid",
+    "version": "LFFLHEV19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2020-21 Sonata Hybrid",
+    "version": "DN8HEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2022 Sonata Hybrid",
+    "version": "DN8_H_22.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Sonata_Hybrid_USA",
+    "model": "Sonata Hybrid",
+    "name": "2023 Sonata Hybrid",
+    "version": "DN8_H_23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Sonata_Hybrid_2024_USA",
+    "model": "Sonata Hybrid",
+    "name": "2024-25 Sonata Hybrid",
+    "version": "DN8.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_Sonata_Plug_in_Hybrid_USA",
+    "model": "Sonata Plug-in Hybrid",
+    "name": "2016 Sonata Plug-in Hybrid",
+    "version": "ST.LFPHEV.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_Sonata_Plug_in_Hybrid_USA",
+    "model": "Sonata Plug-in Hybrid",
+    "name": "2017 Sonata Plug-in Hybrid",
+    "version": "ST.LFPH17.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Sonata_Plug_in_Hybrid_USA",
+    "model": "Sonata Plug-in Hybrid",
+    "name": "2018 Sonata Plug-in Hybrid",
+    "version": "LFFLPHEV.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Sonata_Plug_in_Hybrid_USA",
+    "model": "Sonata Plug-in Hybrid",
+    "name": "2019 Sonata Plug-in Hybrid",
+    "version": "LFFLPHEV19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_Sonata_USA",
+    "model": "Sonata",
+    "name": "2015 Sonata",
+    "version": "ST.LF.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_17_Sonata_USA",
+    "model": "Sonata",
+    "name": "2016-17 Sonata",
+    "version": "ST.LF16.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Sonata_USA",
+    "model": "Sonata",
+    "name": "2018 Sonata",
+    "version": "LFFL.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Sonata_USA",
+    "model": "Sonata",
+    "name": "2019 Sonata",
+    "version": "LFFL19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_Sonata_USA",
+    "model": "Sonata",
+    "name": "2020-21 Sonata",
+    "version": "DN8.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Sonata_USA",
+    "model": "Sonata",
+    "name": "2022 Sonata",
+    "version": "DN8_22.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Sonata_USA",
+    "model": "Sonata",
+    "name": "2023 Sonata",
+    "version": "DN8_23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Sonata_2024_USA",
+    "model": "Sonata",
+    "name": "2024-25 Sonata",
+    "version": "DN8.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Tucson_Hybrid_USA",
+    "model": "Tucson Hybrid",
+    "name": "2022 Tucson Hybrid",
+    "version": "NX4HEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Tucson_Hybrid_USA",
+    "model": "Tucson Hybrid",
+    "name": "2023-24 Tucson Hybrid",
+    "version": "NX4HEV23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Tucson_Hybrid_USA",
+    "model": "Tucson Hybrid",
+    "name": "2025 Tucson Hybrid",
+    "version": "NX4A.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Tucson_Plug_in_Hybrid_USA",
+    "model": "Tucson Plug-in Hybrid",
+    "name": "2022 Tucson Plug-in Hybrid",
+    "version": "NX4PHEV.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Tucson_Plug_in_Hybrid_USA",
+    "model": "Tucson Plug-in Hybrid",
+    "name": "2023-24 Tucson Plug-in Hybrid",
+    "version": "NX4PHEV23.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Tucson_Hybrid_USA",
+    "model": "Tucson Plug-in Hybrid",
+    "name": "2025 Tucson Plug-in Hybrid",
+    "version": "NX4A.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_17_Tucson_USA",
+    "model": "Tucson",
+    "name": "2016-17 Tucson",
+    "version": "ST.TL.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_Tucson_USA",
+    "model": "Tucson",
+    "name": "2018 Tucson",
+    "version": "TL.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_Tucson_USA",
+    "model": "Tucson",
+    "name": "2019-21 Tucson",
+    "version": "TLFL.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Tucson_USA",
+    "model": "Tucson",
+    "name": "2022 Tucson",
+    "version": "NX4.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Tucson_USA",
+    "model": "Tucson",
+    "name": "2023-24 Tucson",
+    "version": "NX423.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_TUCSON_USA",
+    "model": "Tucson",
+    "name": "2025 Tucson",
+    "version": "NX4A.USA.ccNC.001.002.241209"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_17_Veloster_USA",
+    "model": "Veloster",
+    "name": "2016-17 Veloster",
+    "version": "ST.FS.USA.E543.241029"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_Veloster_USA",
+    "model": "Veloster",
+    "name": "2019-21 Veloster",
+    "version": "JS.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Veloster_N_USA",
+    "model": "Veloster",
+    "name": "2021-22 Veloster N",
+    "version": "JSN.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_Venue_USA",
+    "model": "Venue",
+    "name": "2020 Venue",
+    "version": "QX.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Venue_USA",
+    "model": "Venue",
+    "name": "2021-22 Venue",
+    "version": "QX_21.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Venue_USA",
+    "model": "Venue",
+    "name": "2023-25 Venue",
+    "version": "QX_23.USA.S5W_M.V013.010.241120"
+  }
+]

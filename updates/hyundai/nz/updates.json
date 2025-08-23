@@ -1,0 +1,324 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "2019_Elantra_NZ",
+    "model": "Elantra",
+    "name": "2019 Elantra",
+    "version": "ADPE.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_i20_N_NZ",
+    "model": "i20 N",
+    "name": "2021-23 i20 N",
+    "version": "BC3N.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "i20_N_NZL_2025",
+    "model": "i20 N",
+    "name": "2025 i20 N",
+    "version": "BC3N_25.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_i30_N_NZ",
+    "model": "i30 N",
+    "name": "2018-20 i30 N",
+    "version": "PDEN.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_i30_N_NZ",
+    "model": "i30 N",
+    "name": "2021-23 i30 N",
+    "version": "PDeN_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "i30_N_NZL_2024",
+    "model": "i30 N",
+    "name": "2024 i30N",
+    "version": "PDeN_PE2.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_21_i30_NZ",
+    "model": "i30",
+    "name": "2017-21 i30",
+    "version": "PD.AUS.SOP.011.2.240221"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_i30_NZ",
+    "model": "i30",
+    "name": "2021-23 i30",
+    "version": "PD_21.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "i30_NZL_2024",
+    "model": "i30",
+    "name": "2024 i30",
+    "version": "PDe_PE2.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Ioniq5_NZL",
+    "model": "IONIQ 5 N",
+    "name": "2024 IONIQ 5 N",
+    "version": "NE1KN.NWZ.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_IONIQ_5_NZ",
+    "model": "IONIQ 5",
+    "name": "2021-23 IONIQ 5",
+    "version": "NE_E.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_Ioniq5_NZL",
+    "model": "IONIQ 5",
+    "name": "2025 IONIQ 5",
+    "version": "NE1.NZL.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "ioniq6_NZL_2023",
+    "model": "IONIQ 6",
+    "name": "2023 IONIQ 6",
+    "version": "CE_E.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_IONIQ_Electric_8_NZ",
+    "model": "IONIQ Electric",
+    "name": "2019 IONIQ Electric (8 inch)",
+    "version": "AE_EV_19MY.AUS.SOP.011.2.240221"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_IONIQ_Electric_10_25_NZ",
+    "model": "IONIQ Electric",
+    "name": "2020-22 IONIQ Electric",
+    "version": "AE_E_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_19_IONIQ_Hybrid_8_NZ",
+    "model": "IONIQ Hybrid",
+    "name": "2018-19 IONIQ Hybrid (8 inch)",
+    "version": "AE_HEV_18MY.AUS.SOP.011.2.240221"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_IONIQ_Hybrid_10_25_NZ",
+    "model": "IONIQ Hybrid",
+    "name": "2020-22 IONIQ Hybrid",
+    "version": "AE_H_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_IONIQ_Plug_in_Hybrid_8_NZ",
+    "model": "IONIQ Plug-in Hybrid",
+    "name": "2019 IONIQ Plug-in Hybrid (8 inch)",
+    "version": "AE_PHEV_19MY.AUS.SOP.011.2.240221"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_IONIQ_Plug_in_Hybrid_10_25_NZ",
+    "model": "IONIQ Plug-in Hybrid",
+    "name": "2020-22 IONIQ Plug-in Hybrid",
+    "version": "AE_P_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Kona_Electric_NZ",
+    "model": "Kona Electric",
+    "name": "2019 Kona Electric",
+    "version": "OSEV.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_Kona_Electric_NZ",
+    "model": "Kona Electric",
+    "name": "2020-21 Kona Electric",
+    "version": "OS_E_20.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Kona_Electric_NZ",
+    "model": "Kona Electric",
+    "name": "2022-23 Kona Electric",
+    "version": "OS_E_20.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Kona_Electric_NZL",
+    "model": "Kona Electric",
+    "name": "2024 Kona Electric",
+    "version": "SX2EV.NWZ.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Kona_Hybrid",
+    "model": "Kona Hybrid",
+    "name": "2024 Kona Hybrid",
+    "version": "SX2.NWZ.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_N_NZ",
+    "model": "Kona N",
+    "name": "2021-23 Kona N",
+    "version": "OSN_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Kona_Iron_man_edition_NZ",
+    "model": "Kona",
+    "name": "2019 Kona (Iron man edition)",
+    "version": "OSSE.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Kona_NZ",
+    "model": "Kona",
+    "name": "2019-20 Kona",
+    "version": "OS19.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_NZ",
+    "model": "Kona",
+    "name": "2021-23 Kona",
+    "version": "OS_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Kona_NZL",
+    "model": "Kona",
+    "name": "2024 Kona",
+    "version": "SX2.NWZ.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Nexo_NZ",
+    "model": "Nexo",
+    "name": "2020-22 Nexo",
+    "version": "FE.AUS.P5.001.007.240614"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Palisade_NZ",
+    "model": "Palisade",
+    "name": "2021-22 Palisade",
+    "version": "LX2.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_23_Palisade_NZ",
+    "model": "Palisade",
+    "name": "2022-23 Palisade",
+    "version": "LX2_PE.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Santa_Fe_Hybrid_NZ",
+    "model": "Santa Fe Hybrid",
+    "name": "2021-23 Santa Fe Hybrid",
+    "version": "TM_H.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_SantaFe_Hybrid_NZL",
+    "model": "Santa Fe Hybrid",
+    "name": "2024-25 Santa Fe Hybrid",
+    "version": "MX5.NZL.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Santa_Fe_NZ",
+    "model": "Santa Fe",
+    "name": "2018-20 Santa Fe",
+    "version": "TM.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Santa_Fe_NZ",
+    "model": "Santa Fe",
+    "name": "2021-23 Santa Fe",
+    "version": "TM_FL.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_SantaFe_NZL",
+    "model": "Santa Fe",
+    "name": "2024-25 Santa Fe",
+    "version": "MX5.NZL.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Staria_NZ",
+    "model": "Staria",
+    "name": "2021-23 Staria",
+    "version": "US4.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_Staria_NZL",
+    "model": "Staria",
+    "name": "2024 Staria",
+    "version": "US4_24.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_TUCSON_Hybrid_NZL",
+    "model": "Tucson Hybrid",
+    "name": "2025 Tucson Hybrid",
+    "version": "NX4E.NZL.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Tucson_NZ",
+    "model": "Tucson",
+    "name": "2018-20 Tucson",
+    "version": "TLFL.AUS.SOP.V142.240531.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Tucson_NZ",
+    "model": "Tucson",
+    "name": "2021-22 Tucson",
+    "version": "NX4.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Tucson_NZ",
+    "model": "Tucson",
+    "name": "2023 Tucson",
+    "version": "NX4_23.AUS.S5W_L.001.001.241220"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_TUCSON_NZL",
+    "model": "Tucson",
+    "name": "2025 Tucson",
+    "version": "NX4E.NZL.ccNC.001.002.241218"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_Veloster_NZ",
+    "model": "Veloster",
+    "name": "2019 Veloster",
+    "version": "JS.AUS.SOP.V142.240531.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_Venue_NZ",
+    "model": "Venue",
+    "name": "2020-22 Venue",
+    "version": "QX.AUS.SOP.V142.240531.STD_M"
+  }
+]

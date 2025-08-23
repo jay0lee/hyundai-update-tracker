@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "2024_Alcazar_IN",
+    "model": "Alcazar",
+    "name": "2024 Alcazar",
+    "version": "SU2I_LWB_FL.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_CRETA_ELECTRIC_IN",
+    "model": "CRETA ELECTRIC",
+    "name": "2024 CRETA ELECTRIC",
+    "version": "SU2I_E.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2024_CRETA_IN",
+    "model": "CRETA",
+    "name": "2024 CRETA",
+    "version": "SU2I_FL.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_EXTER_IN",
+    "model": "EXTER",
+    "name": "2023 EXTER",
+    "version": "AI3.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_I20_IN",
+    "model": "I20",
+    "name": "2023 I20",
+    "version": "BI3_PE.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_IONIQ5_IN",
+    "model": "IONIQ5",
+    "name": "2022 IONIQ5",
+    "version": "NEEV.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_TUCSON_IN",
+    "model": "TUCSON",
+    "name": "2022 TUCSON",
+    "version": "NX4.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_VENUE_IN",
+    "model": "VENUE",
+    "name": "2022 VENUE",
+    "version": "QX_FL.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_VENUE_IN",
+    "model": "VENUE",
+    "name": "2023 VENUE",
+    "version": "QX_23.IND.S5W_M.V008.001.250527"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_VERNA_IN",
+    "model": "VERNA",
+    "name": "2023 VERNA",
+    "version": "BN7.IND.S5W_M.V008.001.250527"
+  }
+]

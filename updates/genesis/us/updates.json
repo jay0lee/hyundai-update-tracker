@@ -1,0 +1,275 @@
+[
+  {
+    "brand": "Genesis",
+    "id": "2023_Electrified_G80_USA",
+    "model": "Electrified G80",
+    "name": "2023-25 Electrified G80",
+    "version": "RG3.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_Electrified_GV70_USA",
+    "model": "Electrified GV70",
+    "name": "2023-24 Electrified GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2025_Electrified_GV70_USA",
+    "model": "Electrified GV70",
+    "name": "2025 Electrified GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2019_21_G70_USA",
+    "model": "G70",
+    "name": "2019-21 G70",
+    "version": "IK.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2022_G70_USA",
+    "model": "G70",
+    "name": "2022-24 G70",
+    "version": "IKFL.USA.S5W_M.V013.010.241120"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_G70_USA",
+    "model": "G70",
+    "name": "2025 G70",
+    "version": "IKPE2.USA.S5W_M.V013.010.241127"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2014_G80_9_2_in_touch_USA",
+    "model": "G80",
+    "name": "2014 G80 (9.2 in. Touchscreen)",
+    "version": "DH.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2015_16_G80_8_in_touch_USA",
+    "model": "G80",
+    "name": "2014-16 G80 (8 in. Touchscreen)",
+    "version": "ST.DH.USA.E543.241029"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2015_G80_9_2_in_touch_USA",
+    "model": "G80",
+    "name": "2015 G80 (9.2 in. Touchscreen)",
+    "version": "DH15MY.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2016_G80_9_2_in_touch_USA",
+    "model": "G80",
+    "name": "2016 G80 (9.2 in. Touchscreen)",
+    "version": "DH16MY.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2017_G80_8_in_touch_USA",
+    "model": "G80",
+    "name": "2017 G80 (8 in. Touchscreen)",
+    "version": "ST.DH17.USA.E543.241029"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2017_G80_9_2_in_touch_USA",
+    "model": "G80",
+    "name": "2017 G80 (9.2 in. Touchscreen)",
+    "version": "DH17MY.USA.SOP.xx.031"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2018_G80_8_in_touch_USA",
+    "model": "G80",
+    "name": "2018 G80 (8 in. Touchscreen)",
+    "version": "ST.DHPE.USA.E543.241029"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2018_G80_9_2_in_Touch_USA",
+    "model": "G80",
+    "name": "2018 G80 (9.2 in. Touchscreen)",
+    "version": "DHPE.USA.SOP.xx.018"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2019_G80_9_2_in_Touch_USA",
+    "model": "G80",
+    "name": "2019 G80 (9.2 in. Touchscreen)",
+    "version": "DH18MY.USA.SOP.xx.018"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2019_20_G80_8_in_touch_USA",
+    "model": "G80",
+    "name": "2019-20 G80 (8 in. Touchscreen)",
+    "version": "DH19.USA.SOP.V140.241103.STD_H"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2020_G80_(9_2in_Touch)_USA",
+    "model": "G80",
+    "name": "2020 G80 (9.2 in. Touchscreen)",
+    "version": "DH19MY.USA.P5.001.014.241118"
+  },
+  {
+    "brand": "Genesis",
+    "id": "The_All_New_G80_GCS_USA",
+    "model": "G80",
+    "name": "2021 G80",
+    "version": "RG3.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2022_G80_USA",
+    "model": "G80",
+    "name": "2022 G80",
+    "version": "RG3_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2023_G80_USA",
+    "model": "G80",
+    "name": "2023 G80",
+    "version": "RG3_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_G80_USA",
+    "model": "G80",
+    "name": "2024 G80",
+    "version": "RG3_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2017_19_G90_USA",
+    "model": "G90",
+    "name": "2017-19 G90",
+    "version": "HI_R31.0.17_24223A"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2020_G90_USA",
+    "model": "G90",
+    "name": "2020 G90",
+    "version": "HI.USA.P5.001.014.241118"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2021_22_G90_USA",
+    "model": "G90",
+    "name": "2021-22 G90",
+    "version": "HI.USA.P5.001.014.241118"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2023_G90_USA",
+    "model": "G90",
+    "name": "2023 G90",
+    "version": "RS4.USA.ccIC.001.013.250122"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_G90_USA",
+    "model": "G90",
+    "name": "2024 G90",
+    "version": "RS4.USA.ccIC.001.013.250122"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2025_G90_USA",
+    "model": "G90",
+    "name": "2025 G90",
+    "version": "RS4.USA.ccIC.001.013.250122"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2023_GV60_USA",
+    "model": "GV60",
+    "name": "2023 GV60",
+    "version": "JW.USA.ccIC.001.013.250305"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_GV60_USA",
+    "model": "GV60",
+    "name": "2024 GV60",
+    "version": "JW.USA.ccIC.001.013.250305"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2025_GV60_USA",
+    "model": "GV60",
+    "name": "2025 GV60",
+    "version": "JW.USA.ccIC.001.013.250305"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2022_GV70_USA",
+    "model": "GV70",
+    "name": "2022 GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2023_GV70_USA",
+    "model": "GV70",
+    "name": "2023 GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_GV70_USA",
+    "model": "GV70",
+    "name": "2024 GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2025_GV70_USA",
+    "model": "GV70",
+    "name": "2025 GV70",
+    "version": "JK1.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "GV80_GCS_USA",
+    "model": "GV80",
+    "name": "2021 GV80",
+    "version": "JX1.USA.P6.001.009.250306"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2022_GV80_USA",
+    "model": "GV80",
+    "name": "2022 GV80",
+    "version": "JX1_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2023_GV80_USA",
+    "model": "GV80",
+    "name": "2023 GV80",
+    "version": "JX1_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2024_GV80_USA",
+    "model": "GV80",
+    "name": "2024 GV80",
+    "version": "JX1_22.USA.P6.001.009.241212"
+  },
+  {
+    "brand": "Genesis",
+    "id": "2025_GV80_USA",
+    "model": "GV80",
+    "name": "2025 GV80",
+    "version": "JX.USA.ccIC2.001.003.250110"
+  }
+]

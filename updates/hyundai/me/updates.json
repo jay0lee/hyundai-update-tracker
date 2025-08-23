@@ -1,0 +1,450 @@
+[
+  {
+    "brand": "Hyundai",
+    "id": "Azera_Hybrid_MES_2023",
+    "model": "Azera Hybrid",
+    "name": "2023 Azera Hybrid",
+    "version": "GN7.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_16_Azera_ME",
+    "model": "Azera",
+    "name": "2014-16 Azera",
+    "version": "ST.HG.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_19_Azera_ME",
+    "model": "Azera",
+    "name": "2017-19 Azera",
+    "version": "IG.MES.SOP.V142.250616.STD_H"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_21_Azera_ME",
+    "model": "Azera",
+    "name": "2020-21 Azera",
+    "version": "IGPE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Azera_ME",
+    "model": "Azera",
+    "name": "2022 Azera",
+    "version": "IGPE21.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Azera_MES_2023",
+    "model": "Azera",
+    "name": "2023 Azera",
+    "version": "GN7.MES.ccNC_Lite.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_CRETA_ME",
+    "model": "CRETA",
+    "name": "2025 CRETA",
+    "version": "SU2i_FL.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_CRETA_LWB_ME",
+    "model": "CRETA",
+    "name": "2025 GRAND CRETA",
+    "version": "SU2I_LWB_FL.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Elantra_Hybrid_ME",
+    "model": "Elantra Hybrid",
+    "name": "2022 Elantra Hybrid",
+    "version": "CN7HEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Elantra_Hybrid_MES_2024",
+    "model": "Elantra Hybrid",
+    "name": "2024 Elantra Hybrid",
+    "version": "CN7HEVPE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Elantra_N_ME",
+    "model": "Elantra N",
+    "name": "2022 Elantra N",
+    "version": "CN7N.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Elantra_N_MES_2024",
+    "model": "Elantra N",
+    "name": "2024 Elantra N",
+    "version": "CN7NPE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_20_Elantra_ME",
+    "model": "Elantra",
+    "name": "2015-20 Elantra",
+    "version": "ST.AD.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Elantra_ME",
+    "model": "Elantra",
+    "name": "2021-22 Elantra",
+    "version": "CN7.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Elantra_MES_2024",
+    "model": "Elantra",
+    "name": "2024 Elantra",
+    "version": "CN7PE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_Elantra_ME",
+    "model": "Elantra",
+    "name": "2025 Elantra",
+    "version": "CN7cPE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_15_Genesis_8_in_Touch_ME",
+    "model": "Genesis",
+    "name": "2014-15 Genesis (8 in. Touch)",
+    "version": "ST.DH.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_15_Genesis_9_2_in_Touch_ME",
+    "model": "Genesis",
+    "name": "2014-15 Genesis (9.2 in. Touch)",
+    "version": "DH.MES.SOP.XX.014"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2016_18_Grand_Santa_Fe_ME",
+    "model": "Grand Santa Fe",
+    "name": "2016-18 Grand Santa Fe",
+    "version": "ST.NC2.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_18_i40_Sedan_ME",
+    "model": "i40",
+    "name": "2015-18 i40 Sedan",
+    "version": "ST.VFSD.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_18_i40_Wagon_ME",
+    "model": "i40",
+    "name": "2015-18 i40 Wagon",
+    "version": "ST.VF.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_IONIQ5N_MES",
+    "model": "IONIQ5 N",
+    "name": "2025 IONIQ5 N",
+    "version": "NE1KN25.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Ioniq5_ME",
+    "model": "IONIQ5",
+    "name": "2023 IONIQ5",
+    "version": "NEEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_IONIQ5_MES",
+    "model": "IONIQ5",
+    "name": "2025 IONIQ5",
+    "version": "NE1.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Ioniq6_MES_2024",
+    "model": "IONIQ6",
+    "name": "2024 IONIQ6",
+    "version": "CEEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_IONIQ_ME",
+    "model": "IONIQ",
+    "name": "2019-21 IONIQ",
+    "version": "AEPEEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Kona_Electric_MES_2024",
+    "model": "Kona Electric",
+    "name": "2024 Kona Electric",
+    "version": "SX2EV.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Kona_Eletric_ME",
+    "model": "Kona Eletric",
+    "name": "2019-20 Kona Eletric",
+    "version": "OSEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_Eletric_ME",
+    "model": "Kona Eletric",
+    "name": "2021-22 Kona Eletric",
+    "version": "OSPEEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_Hybrid_ME",
+    "model": "Kona Hybrid",
+    "name": "2021-22 Kona Hybrid",
+    "version": "OS_H_PE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Kona_Hybrid_MES_2024",
+    "model": "Kona Hybrid",
+    "name": "2024 Kona Hybrid",
+    "version": "SX2.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Kona_N_ME",
+    "model": "Kona N",
+    "name": "2022 Kona N",
+    "version": "OSNPE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Kona_ME",
+    "model": "Kona",
+    "name": "2018-20 Kona",
+    "version": "OS19.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Kona_ME",
+    "model": "Kona",
+    "name": "2021-22 Kona",
+    "version": "OS_PE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "kona_mes_2024",
+    "model": "Kona",
+    "name": "2024 Kona",
+    "version": "SX2.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2020_Palisade_ME",
+    "model": "Palisade",
+    "name": "2020 Palisade",
+    "version": "LX2.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2023_Palisade_ME",
+    "model": "Palisade",
+    "name": "2023 Palisade",
+    "version": "LX2_PE.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Pavise_ME",
+    "model": "Pavise",
+    "name": "2019-20 Pavise",
+    "version": "QV.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Santa_Fe_Hybrid_ME",
+    "model": "Santa Fe Hybrid",
+    "name": "2021 Santa Fe Hybrid",
+    "version": "TM_H.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Santa_Fe_Hybrid_ME",
+    "model": "Santa Fe Hybrid",
+    "name": "2022 Santa Fe Hybrid",
+    "version": "TM_H_22.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_SantaFe_Hybrid_MES",
+    "model": "Santa Fe Hybrid",
+    "name": "2025 Santa Fe Hybrid",
+    "version": "MX5.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_17_Santa_Fe_ME",
+    "model": "Santa Fe",
+    "name": "2015-17 Santa Fe",
+    "version": "ST.DM2.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Santa_Fe_ME",
+    "model": "Santa Fe",
+    "name": "2018-20 Santa Fe",
+    "version": "TM.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Santa_Fe_ME",
+    "model": "Santa Fe",
+    "name": "2021 Santa Fe",
+    "version": "TM_FL.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Santa_Fe_ME",
+    "model": "Santa Fe",
+    "name": "2022 Santa Fe",
+    "version": "TM_22.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_SantaFe_MES",
+    "model": "Santa Fe",
+    "name": "2025 Santa Fe",
+    "version": "MX5.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2026_SantaFe_MES",
+    "model": "Santa Fe",
+    "name": "2026 Santa Fe",
+    "version": "MX5C.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_16_Sonata_Hybrid_ME",
+    "model": "Sonata Hybrid",
+    "name": "2014-16 Sonata Hybrid",
+    "version": "ST.LFHEV.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Sonata_Hybrid_ME",
+    "model": "Sonata Hybrid",
+    "name": "2017-18 Sonata Hybrid",
+    "version": "LFFLHEV.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_20_Sonata_Hybrid_ME",
+    "model": "Sonata Hybrid",
+    "name": "2019-21 Sonata Hybrid",
+    "version": "DN8HEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Sonata_Hybrid_ME",
+    "model": "Sonata Hybrid",
+    "name": "2022 Sonata Hybrid",
+    "version": "DN8_H_22.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Sonata_Hybrid_MES_2024",
+    "model": "Sonata Hybrid",
+    "name": "2024 Sonata Hybrid",
+    "version": "DN8.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2014_16_Sonata_ME",
+    "model": "Sonata",
+    "name": "2014-16 Sonata",
+    "version": "ST.LF.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2017_18_Sonata_ME",
+    "model": "Sonata",
+    "name": "2017-18 Sonata",
+    "version": "LFFL.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2019_21_Sonata_ME",
+    "model": "Sonata",
+    "name": "2019-21 Sonata",
+    "version": "DN8.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Sonata_ME",
+    "model": "Sonata",
+    "name": "2022 Sonata",
+    "version": "DN8_22.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "Sonata_MES_2024",
+    "model": "Sonata",
+    "name": "2024 Sonata",
+    "version": "DN8.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2022_Tucson_Hybrid_ME",
+    "model": "Tucson Hybrid",
+    "name": "2022 Tucson Hybrid",
+    "version": "NX4HEV.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_TUSCON_HEV_MES",
+    "model": "Tucson Hybrid",
+    "name": "2025 Tucson Hybrid",
+    "version": "NX4E.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2015_17_Tucson_ME",
+    "model": "Tucson",
+    "name": "2015-17 Tucson",
+    "version": "ST.TL.MES.E536.241118"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2018_20_Tucson_ME",
+    "model": "Tucson",
+    "name": "2018-20 Tucson",
+    "version": "TLFL.MES.SOP.V142.250616.STD_M"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_22_Tucson_ME",
+    "model": "Tucson",
+    "name": "2021-22 Tucson",
+    "version": "NX4.MES.S5W_M.V012.001.250702"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2025_TUCSON_MES",
+    "model": "Tucson",
+    "name": "2025 Tucson",
+    "version": "NX4E.MES.ccNC.001.002.250630"
+  },
+  {
+    "brand": "Hyundai",
+    "id": "2021_Veloster_ME",
+    "model": "Veloster",
+    "name": "2021 Veloster",
+    "version": "JSN.MES.S5W_M.V012.001.250702"
+  }
+]
