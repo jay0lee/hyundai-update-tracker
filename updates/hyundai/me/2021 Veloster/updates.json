@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2021_Veloster_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAyNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvSlNOLzE2MDIyLzIwMjFfVmVsb3N0ZXJfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.9Pi51rcbomccH3wbC7ITtP4a4IEvbm_uGghHu9gGWq4",
+  "dvcName": "2021 Veloster",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1026",
+  "mediaType": "USB",
+  "modelNames": [
+    "JSNBS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JSN.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "JSN.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "Veloster"
+}

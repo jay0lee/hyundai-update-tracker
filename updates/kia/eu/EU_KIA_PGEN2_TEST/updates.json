@@ -1,0 +1,21 @@
+{
+  "brand": "KM",
+  "destPath": "EU_KIA_PGEN2_TEST",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJldSIsIm1jb2RlIjoiODM5IiwiaW5mRmlsZVBhdGgiOiJodHRwOi8vb2VtLWV1dXBsb2FkLm1hcC1jYXJlLmNvbS9FVV91cGRhdGVfZGF0YS9FVV9JTkYvMDFfVEVTVF9JTkYvRVVfS0lBX1BHRU4yX1RFU1QuaW5mIiwiaXNOc3VtIjpmYWxzZX0.kXoFz9fP8PRy2WLhve68BgxywWG4ZuQFWrjIA0Q6vjM",
+  "dvcName": "EU_KIA_PGEN2_TEST",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "839",
+  "mediaType": "SD",
+  "modelNames": [
+    "EU_KIA_PGEN2_TEST"
+  ],
+  "platformCode": "8",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "TEST"
+}

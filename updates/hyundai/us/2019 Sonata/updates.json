@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_Sonata_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjYwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgMTlNWS8xMDE3OC8yMDE5X1NvbmF0YV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.iFKgsPVHRWgZApaxHSiOZGkHq4DJsndUSuCJASyeh5A",
+  "dvcName": "2019 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "660",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFF18S.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LFFL19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "LFFL19.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Sonata"
+}

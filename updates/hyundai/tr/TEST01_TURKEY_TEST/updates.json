@@ -1,0 +1,22 @@
+{
+  "brand": "HM",
+  "destPath": "Test",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ0ciIsIm1jb2RlIjoiODQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwOi8vb2VtLXRydXBsb2FkLm1hcC1jYXJlLmNvbS9UUl91cGRhdGVfZGF0YS9UUl9JTkYvMjAyMDA1YS9UZXN0LmluZiIsImlzTnN1bSI6ZmFsc2V9.mi62iVuQzCjFh3vcrGKelQVxcUDu3nDnsV83kO855kY",
+  "dvcName": "TEST01_TURKEY_TEST",
+  "engDvcName": "TEST01_TURKEY_TEST",
+  "engVclName": "TEST",
+  "mcode": "848",
+  "mediaType": "SD",
+  "modelNames": [
+    "TEST",
+    "TEST01_TURKEY_TEST"
+  ],
+  "platformCode": "11",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "TEST"
+}

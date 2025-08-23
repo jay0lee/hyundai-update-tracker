@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Mohave_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA3NiIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL01vaGF2ZV9TRF9DYXJkX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.VmdMtH-on5WYTIIxVZn8MGjOUVY3vuoHVJ0deufEOLc",
+  "dvcName": "Mohave (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1076",
+  "mediaType": "SD",
+  "modelNames": [
+    "HMAS.S4AMN.RU"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.HM.RUS.E*"
+  ],
+  "swVers": [
+    "ST.HM.RUS.E532.191120"
+  ],
+  "vclName": "Mohave"
+}

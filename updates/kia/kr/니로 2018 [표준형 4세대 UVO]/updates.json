@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "NIRO_2018_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ERS8xNDMxNi9OSVJPXzIwMThfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.sVrOo_b3VSgWmLXClNT7lvyZz09O7o5GOMFtG5WpW1o",
+  "dvcName": "니로 2018 [표준형 4세대 UVO]",
+  "engDvcName": "Niro 2018 [Standard Gen4 UVO]",
+  "engVclName": "Niro",
+  "mcode": "348",
+  "mediaType": "SD",
+  "modelNames": [
+    "DEBH.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DEHEV17.KOR.E*"
+  ],
+  "swVers": [
+    "ST.DEHEV17.KOR.E553.241114"
+  ],
+  "vclName": "니로"
+}

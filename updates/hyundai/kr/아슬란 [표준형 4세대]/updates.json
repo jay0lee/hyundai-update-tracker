@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "ASLAN_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjMyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUFHLzE0MzEzL0FTTEFOX05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.YBoY30PTnu35JxiSkSY_i8O8QInKvWqt96Yq_4SMrcE",
+  "dvcName": "아슬란 [표준형 4세대]",
+  "engDvcName": "Aslan [Standard Gen4]",
+  "engVclName": "Aslan",
+  "mcode": "232",
+  "mediaType": "SD",
+  "modelNames": [
+    "AGAS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.AGNT.KOR.E*"
+  ],
+  "swVers": [
+    "ST.AGNT.KOR.E553.241114"
+  ],
+  "vclName": "아슬란"
+}

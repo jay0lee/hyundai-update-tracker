@@ -1,0 +1,34 @@
+{
+  "brand": "KM",
+  "destPath": "The_SUV_SPORTAGE_2015",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjcwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1FMLzEzOTY0L1RoZV9TVVZfU1BPUlRBR0VfMjAxNS5pbmYiLCJpc05zdW0iOnRydWV9.oVyqDCj3juS4fIkcinXXI9sRUxmOz0mPg1l1SrzxiJI",
+  "dvcName": "스포티지 2015 [경제형 5세대]",
+  "engDvcName": "Sportage 2015 [Compact Gen5]",
+  "engVclName": "Sportage",
+  "mcode": "270",
+  "mediaType": "SD",
+  "modelNames": [
+    "QLAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QL.KOR.SOP.???.??????",
+    "QL.KOR.SOP_CP.???.??????",
+    "CP.QL.KOR.SOP.???.??????",
+    "CP.QL.KOR.SOP.??.???.?",
+    "QL.KOR.SOP_CP.???.?.??????",
+    "QL.KOR.SOP_CP.??.???.?",
+    "QL.KOR.SOP_CP.???.??.??????",
+    "QL.KOR.SOP_CP.???",
+    "QL.KOR.SOP_CP.???.?",
+    "CP.QL.KOR.SOP.??.???"
+  ],
+  "swVers": [
+    "QL.KOR.SOP.049.241120"
+  ],
+  "vclName": "스포티지"
+}

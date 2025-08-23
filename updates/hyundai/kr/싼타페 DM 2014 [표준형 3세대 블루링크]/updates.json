@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "SantaFe_DM_2014_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjEwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRkRNLzE0NDI2L1NhbnRhRmVfRE1fMjAxNF9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.rRilPYKVCZOw36b4wc37lwIpt2I7bnIlO65aCeqUKdw",
+  "dvcName": "싼타페 DM 2014 [표준형 3세대 블루링크]",
+  "engDvcName": "Santafe DM 2014 [Standard Gen3 Bluelink]",
+  "engVclName": "Santafe",
+  "mcode": "210",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "504",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DM14_MTS.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "DM14_MTS.KOR.SOP.14.054"
+  ],
+  "vclName": "싼타페"
+}

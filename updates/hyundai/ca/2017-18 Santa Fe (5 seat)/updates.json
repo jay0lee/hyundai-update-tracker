@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2017_18_Santa_Fe_5seat_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzY2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvRE0gUEUyLzEwNjA1LzIwMTdfMThfU2FudGFfRmVfNXNlYXRfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.x29z8ZPs6no_r4KQMETRnpV1UeQvCw9YTf8up_sgtFw",
+  "dvcName": "2017-18 Santa Fe (5 seat)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "766",
+  "mediaType": "SD",
+  "modelNames": [
+    "DMBS.S4AMN.CA"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DM2.CAN.E*"
+  ],
+  "swVers": [
+    "ST.DM2.CAN.E543.241029"
+  ],
+  "vclName": "Santa Fe"
+}

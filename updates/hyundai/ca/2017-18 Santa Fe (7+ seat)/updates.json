@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2017_18_Santa_Fe_7seat_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzY1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvTkMgUEUvMTA2MDYvMjAxN18xOF9TYW50YV9GZV83c2VhdF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.7p3UUq9yxL4375xoz-TsGAnP7hB8t3FVjdD25pK98cM",
+  "dvcName": "2017-18 Santa Fe (7+ seat)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "765",
+  "mediaType": "SD",
+  "modelNames": [
+    "NCAS.S4AMN.CA"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.NC2.CAN.E*"
+  ],
+  "swVers": [
+    "ST.NC2.CAN.E543.241029"
+  ],
+  "vclName": "Santa Fe"
+}

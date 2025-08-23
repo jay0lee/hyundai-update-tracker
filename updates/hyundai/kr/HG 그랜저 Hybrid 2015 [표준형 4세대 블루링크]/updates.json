@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "HG_GRANDEUR_Hybrid_2015_BlueLink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUhHLzE0MzMyL0hHX0dSQU5ERVVSX0h5YnJpZF8yMDE1X0JsdWVMaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.pCeNVyq6Zx4DPZHoBKCGKTor8X7ceekGzLFHu8nQwdo",
+  "dvcName": "HG 그랜저 Hybrid 2015 [표준형 4세대 블루링크]",
+  "engDvcName": "HG Grandeur Hybrid 2015 [Standard Gen4 Bluelink]",
+  "engVclName": "Grandeur",
+  "mcode": "246",
+  "mediaType": "SD",
+  "modelNames": [
+    "HGAH.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.HGE.KOR.E*"
+  ],
+  "swVers": [
+    "ST.HGE.KOR.E553.241114"
+  ],
+  "vclName": "그랜저"
+}

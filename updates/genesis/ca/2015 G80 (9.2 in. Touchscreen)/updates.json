@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2015_G80_9_2_in_touch_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTE0MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9ESDE1TVkvMTAxNDAvMjAxNV9HODBfOV8yX2luX3RvdWNoX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.VpUIloImn6c4wS7-V4KkP2xuYYNSXWmwCt0sPBOA0_k",
+  "dvcName": "2015 G80 (9.2 in. Touchscreen)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1142",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHAS.P2ALN.CA"
+  ],
+  "platformCode": "8",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DH15MY.CAN.SOP.*"
+  ],
+  "swVers": [
+    "DH15MY.CAN.SOP.xx.031"
+  ],
+  "vclName": "G80"
+}

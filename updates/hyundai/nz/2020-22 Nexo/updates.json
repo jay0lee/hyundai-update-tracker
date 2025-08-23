@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2021_Nexo_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTI5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0ZFLzM5MjgvMjAyMV9OZXhvX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.939sK2ktJsr17LQOx1_9GRdk23_LPqajhQrqBa92j_0",
+  "dvcName": "2020-22 Nexo",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "929",
+  "mediaType": "USB",
+  "modelNames": [
+    "FEAF.P5BLN.AU"
+  ],
+  "platformCode": "13",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "FE.AUS.P5.*"
+  ],
+  "swVers": [
+    "FE.AUS.P5.001.007.240614"
+  ],
+  "vclName": "Nexo"
+}

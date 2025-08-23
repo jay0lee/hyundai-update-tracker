@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2025_GV80_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg1MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY0lDMjcvSlggRkwvMTMwNjYvMjAyNV9HVjgwX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.1gqy9ty3V3-HW1c4Ukd4IxTv0GBcTvvz7kTovtSzcAU",
+  "dvcName": "2025 GV80",
+  "engDvcName": "2025 GV80",
+  "engVclName": "GV80",
+  "mcode": "1850",
+  "mediaType": "USB",
+  "modelNames": [
+    "JXAS.PCCLC.CA"
+  ],
+  "platformCode": "25",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "JX.CAN.ccIC2.???.*"
+  ],
+  "swVers": [
+    "JX.CAN.ccIC2.001.003.250110"
+  ],
+  "vclName": "GV80"
+}

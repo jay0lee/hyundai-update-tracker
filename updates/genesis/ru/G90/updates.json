@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "G90_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTEwNCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL0c5MF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.gV5Gnx0i-cLQae_9koFnK7qhDnnupHf5MF4jmPYzaPw",
+  "dvcName": "G90",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1104",
+  "mediaType": "USB",
+  "modelNames": [
+    "HI"
+  ],
+  "platformCode": "10",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HI_R21.0.28A"
+  ],
+  "swVers": [
+    "HI_R21.0.28A"
+  ],
+  "vclName": "Genesis G90"
+}

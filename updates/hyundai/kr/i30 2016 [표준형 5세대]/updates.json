@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "i30_2016",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ1BELzE0NzA5L2kzMF8yMDE2LmluZiIsImlzTnN1bSI6dHJ1ZX0.-2sgfEyztzH8ODRw7Eacy_n5e1w6nzNBJ7bKDFT9cFM",
+  "dvcName": "i30 2016 [표준형 5세대]",
+  "engDvcName": "i30 2016 [Standard Gen5]",
+  "engVclName": "i30",
+  "mcode": "308",
+  "mediaType": "SD",
+  "modelNames": [
+    "PDAS.S5AMN.KR"
+  ],
+  "platformCode": "11",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PD.KOR.SOP.V???.??????.STD_M"
+  ],
+  "swVers": [
+    "PD.KOR.SOP.V141.250423.STD_M"
+  ],
+  "vclName": "i30"
+}

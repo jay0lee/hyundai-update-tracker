@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_21_Ioniq_Electric_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRSBFViBQRS8xMDMyOS8yMDIwXzIxX0lvbmlxX0VsZWN0cmljX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.bpWRdp9S5d9LwIvlAtpoqp5f350ZF-SIc8fqpn5jHao",
+  "dvcName": "2020-22 Ioniq Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "703",
+  "mediaType": "USB",
+  "modelNames": [
+    "AEAE.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "AEPEEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "AEPEEV.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Ioniq Electric"
+}

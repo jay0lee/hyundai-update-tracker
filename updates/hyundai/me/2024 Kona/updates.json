@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "kona_mes_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0hGU1gvMTYzMzMva29uYV9tZXNfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.PmVSi63TULq5rZS6HwalQsmJRQoEAlvdyss5C3OgyXE",
+  "dvcName": "2024 Kona",
+  "engDvcName": "2024 Kona",
+  "engVclName": "Kona",
+  "mcode": "1754",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AS.SCBMN.ME",
+    "SX2AS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.MES.ccNC.???.*",
+    "SX2.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "SX2.MES.ccNC.001.002.250630",
+    "SX2EV.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "Kona"
+}

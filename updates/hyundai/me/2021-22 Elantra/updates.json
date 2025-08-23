@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2021_Elantra_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAyNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ043LzE2MDE2LzIwMjFfRWxhbnRyYV9NRS5pbmYiLCJpc05zdW0iOnRydWV9.RBmXRrVsbMqfY1nf1raY9BDXzy97gXG_paPEK3cGRzA",
+  "dvcName": "2021-22 Elantra",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1024",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7AS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CN7.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "CN7.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "Elantra"
+}

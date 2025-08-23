@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_EV6_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ1YxLzkyODUvMjAyMl9FVjZfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.0o_TVu3qkh2Nuaw65jXV1oyjzE7TICwRMm2xee247QQ",
+  "dvcName": "2022-23 EV6",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1461",
+  "mediaType": "USB",
+  "modelNames": [
+    "CVAE.S5BMC.CA"
+  ],
+  "platformCode": "19",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "CV_E.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "CV_E.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "EV6"
+}

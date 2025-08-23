@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "MOHAVE_2018_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9KUy8xNDMzNy9NT0hBVkVfMjAxOF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.ojIB1656YtFU0ZQKUIhHoNfmkYFoKyxv2ZYiP3jMqSE",
+  "dvcName": "모하비 2018 [표준형 4세대]",
+  "engDvcName": "Mohave 2018 [Standard Gen4]",
+  "engVclName": "Mohave",
+  "mcode": "351",
+  "mediaType": "SD",
+  "modelNames": [
+    "HMBS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.HMNT18.KOR.E*"
+  ],
+  "swVers": [
+    "ST.HMNT18.KOR.E553.241114"
+  ],
+  "vclName": "모하비"
+}

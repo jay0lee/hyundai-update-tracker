@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_2023_Mohave_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9KUy8xNDgzNC9UaGVfMjAyM19Nb2hhdmVfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuaW5mIiwiaXNOc3VtIjp0cnVlfQ.5VnCaDCjCTK5Q-Ol4e1jdOOePi1BTOvVUAZ8LdbsoLk",
+  "dvcName": "The 2023 모하비 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The 2023 Mohave [Standard Gen5W Kia Connect]",
+  "engVclName": "Mohave",
+  "mcode": "1446",
+  "mediaType": "USB",
+  "modelNames": [
+    "HMCS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HM22.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "HM22.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "모하비"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Soul_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0szIEVWIDIzTVkvOTMwMi8yMDIzX1NvdWxfRWxlY3RyaWNfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.mpxKXVECx5fvmj4ACP4aQaMsgSygqBcoL7S3_FcZqBw",
+  "dvcName": "2023 Soul Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1548",
+  "mediaType": "USB",
+  "modelNames": [
+    "SK3DE.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SK3_E_PE.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SK3_E_PE.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Soul Electric"
+}

@@ -1,0 +1,30 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_Tucson_KOR_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc3OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvTlg0LzE1MDM4L1RoZV9OZXdfVHVjc29uX0tPUl8yMDI0LmluZiIsImlzTnN1bSI6dHJ1ZX0.EdQlJjb09XJugL85BEIiPd1OlvbjsPlgDdHF6zoyWmo",
+  "dvcName": "더 뉴 투싼 / Hybrid 포함 [ccNC 블루링크]",
+  "engDvcName": "The New Tucson / Hybrid [ccNC Bluelink]",
+  "engVclName": "Tucson",
+  "mcode": "1778",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AS.SLBMC.KR",
+    "NX4AS.SCBMC.KR",
+    "NX4AH.SLBMC.KR",
+    "NX4AH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4.KOR.ccNC_Lite.???.*",
+    "NX4.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "NX4.KOR.ccNC.001.002.250508",
+    "NX4.KOR.ccNC_Lite.001.002.250508"
+  ],
+  "vclName": "투싼"
+}

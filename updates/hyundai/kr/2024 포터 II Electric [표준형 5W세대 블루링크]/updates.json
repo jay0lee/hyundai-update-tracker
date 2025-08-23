@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "PORTER_II_EV_2024_Standard_Gen5W_Bluelink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc4MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IUiBFVi8xNDg2MS9QT1JURVJfSUlfRVZfMjAyNF9TdGFuZGFyZF9HZW41V19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.qgIDrAwIo7Kbf5Cd3Wqt0wHCqgDlecitLq0YBzSUaVo",
+  "dvcName": "2024 포터 II Electric [표준형 5W세대 블루링크]",
+  "engDvcName": "2024 Porter II Electric [Standard Gen5W Bluelink]",
+  "engVclName": "Porter",
+  "mcode": "1780",
+  "mediaType": "USB",
+  "modelNames": [
+    "HRBE.S5BMC.D2KR"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HR_E_24.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "HR_E_24.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "포터"
+}

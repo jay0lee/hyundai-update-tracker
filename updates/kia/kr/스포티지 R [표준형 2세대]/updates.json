@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "SPORTAGE_R",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiOTMiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4yL1NMLzE0MTc0L1NQT1JUQUdFX1IuaW5mIiwiaXNOc3VtIjp0cnVlfQ.N1qrJAJ1chskicuSpo40HTDUDnbi7ZbSxgTZOvELivk",
+  "dvcName": "스포티지 R [표준형 2세대]",
+  "engDvcName": "Sportage R [Standard Gen2]",
+  "engVclName": "Sportage",
+  "mcode": "93",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "506",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SL.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "SL..KOR.SOP.00.075"
+  ],
+  "vclName": "스포티지"
+}

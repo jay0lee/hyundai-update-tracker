@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Kona_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTY5OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0hGU1gvMTQwMzgvMjAyNF9Lb25hX05aTC5pbmYiLCJpc05zdW0iOnRydWV9.hte7MyqWmk-lLVwTiZisisFQlnF-FUl8CY_MyCnfGAI",
+  "dvcName": "2024 Kona",
+  "engDvcName": "2024 Kona",
+  "engVclName": "Kona",
+  "mcode": "1698",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AS.SCBMC.NZ",
+    "SX2AS.SLBMN.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.NWZ.ccNC.???.*",
+    "SX2.NWZ.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "SX2.NWZ.ccNC.001.002.241218",
+    "SX2.NWZ.ccNC_Lite.001.002.241218"
+  ],
+  "vclName": "Kona"
+}

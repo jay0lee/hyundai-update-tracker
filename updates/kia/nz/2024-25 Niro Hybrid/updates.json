@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Niro_Plugin_Hybrid_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg2OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvU0cyUDI1LzE0MTM0LzIwMjVfTmlyb19QbHVnaW5fSHlicmlkX05aTC5pbmYiLCJpc05zdW0iOnRydWV9.iYnUEQ370TU2YEjTHmtTQ17G7mvNTDTUKd8UwihUtKI",
+  "dvcName": "2024-25 Niro Hybrid",
+  "engDvcName": "2024-25 Niro Hybrid",
+  "engVclName": "Niro Hybrid",
+  "mcode": "1869",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2CH.S5BLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG2_H_25.AUS.S5W_L*"
+  ],
+  "swVers": [
+    "SG2_H_25.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Niro Hybrid"
+}

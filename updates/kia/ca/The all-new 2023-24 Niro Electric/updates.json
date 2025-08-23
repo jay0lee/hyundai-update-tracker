@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_all_new_2023_Niro_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU1MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0cyIEVWLzkzMDcvVGhlX2FsbF9uZXdfMjAyM19OaXJvX0VsZWN0cmljX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.lZVzzeAKAJk0JM_QsUqzGGahoijuCoeISKZOJZ1K6jU",
+  "dvcName": "The all-new 2023-24 Niro Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1553",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AE.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SG2EV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SG2EV.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Niro Electric"
+}

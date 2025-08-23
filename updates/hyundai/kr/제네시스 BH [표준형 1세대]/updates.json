@@ -1,0 +1,27 @@
+{
+  "brand": "HM",
+  "destPath": "GENESIS_G",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNjQiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL0hFQkgvMTQwODUvR0VORVNJU19HLmluZiIsImlzTnN1bSI6dHJ1ZX0.x6-mwNVpvlEExKcU34S1yuyaCBQTiCiMuvQrsntJDPc",
+  "dvcName": "제네시스 BH [표준형 1세대]",
+  "engDvcName": "Genesis BH [Standard Gen1]",
+  "engVclName": "Genesis",
+  "mcode": "64",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "511",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_186_*",
+    "V_586_*"
+  ],
+  "swVers": [
+    "V_186_54",
+    "V_586_56_35N"
+  ],
+  "vclName": "제네시스"
+}

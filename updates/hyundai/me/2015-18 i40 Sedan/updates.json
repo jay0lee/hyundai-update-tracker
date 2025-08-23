@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2015_18_i40_Sedan_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVkZfU0QvMTA2NjcvMjAxNV8xOF9pNDBfU2VkYW5fTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.v7F-RkZTslCqzjiPfP73FONknEItAFqNUhL1UlA1Lxs",
+  "dvcName": "2015-18 i40 Sedan",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "978",
+  "mediaType": "SD",
+  "modelNames": [
+    "VFAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.VFSD.MES.E*"
+  ],
+  "swVers": [
+    "ST.VFSD.MES.E536.241118"
+  ],
+  "vclName": "i40"
+}

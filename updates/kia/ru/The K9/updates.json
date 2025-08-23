@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_K9_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTEwOSIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1RoZV9LOV9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.Gb1b8Y_jI2Linud3tWbAu0cg9uhwaVcR5xDx_4t-Hf4",
+  "dvcName": "The K9",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1109",
+  "mediaType": "USB",
+  "modelNames": [
+    "RJAS.P5BLN.RU"
+  ],
+  "platformCode": "13",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RJ.RUS.P5.001.???.*"
+  ],
+  "swVers": [
+    "RJ.RUS.P5.001.004.200204"
+  ],
+  "vclName": "K9"
+}

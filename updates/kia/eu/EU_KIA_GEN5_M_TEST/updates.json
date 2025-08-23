@@ -1,0 +1,21 @@
+{
+  "brand": "KM",
+  "destPath": "EU_KIA_GEN5_M_TEST",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJldSIsIm1jb2RlIjoiODM3IiwiaW5mRmlsZVBhdGgiOiJodHRwOi8vb2VtLWV1dXBsb2FkLm1hcC1jYXJlLmNvbS9FVV91cGRhdGVfZGF0YS9FVV9JTkYvMDFfVEVTVF9JTkYvRVVfS0lBX0dFTjVfTV9URVNULmluZiIsImlzTnN1bSI6ZmFsc2V9.1v6sOdegpOduJIJKzptSJBARJviv_PXnWeaq8ZcDyk8",
+  "dvcName": "EU_KIA_GEN5_M_TEST",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "837",
+  "mediaType": "SD",
+  "modelNames": [
+    "EU_KIA_GEN5_M_TEST"
+  ],
+  "platformCode": "11",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "TEST"
+}

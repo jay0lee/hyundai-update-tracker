@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_EQUUS_2013_DIS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjEvSEVWSS8xNDIxNi9UaGVfTmV3X0VRVVVTXzIwMTNfRElTLmluZiIsImlzTnN1bSI6dHJ1ZX0.7m5gRNFMDIN6g0lp043FO9y_zg5Aaf5BZl9uK_MfKu4",
+  "dvcName": "에쿠스 2013 [고급형 1세대]",
+  "engDvcName": "Equus 2013 [Premium Gen1]",
+  "engVclName": "Equus",
+  "mcode": "162",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "6",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VI.KOR.SOP.????????.???"
+  ],
+  "swVers": [
+    "VI.KOR.SOP.20250227.056"
+  ],
+  "vclName": "에쿠스"
+}

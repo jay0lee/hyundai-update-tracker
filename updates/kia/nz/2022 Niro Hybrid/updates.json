@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Niro_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREVfSF8yMi8xMTY1Mi8yMDIyX05pcm9fSHlicmlkX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.ptT70FB8EV1ueICaMy8dE96-eh6Lg2qwllusnfD3G-8",
+  "dvcName": "2022 Niro Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1491",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEBH.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DE_H_22.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "DE_H_22.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Niro Hybrid"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_Sorento_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvVU0gUEUoMThNWSkvMTAyMTQvMjAxOV9Tb3JlbnRvX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.2IUtQ1LfljZRWmCH1stxB_7NF_cU4Rwx0smcuHCQxvo",
+  "dvcName": "2019 Sorento",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "806",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "UMPE.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "UMPE.CAN.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Sorento"
+}

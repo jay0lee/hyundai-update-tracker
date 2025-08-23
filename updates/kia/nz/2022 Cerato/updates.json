@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Cerato_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQkRfUEUvMTE2NDYvMjAyMl9DZXJhdG9fTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.zB3Gj3guAGDWq9jcNELjwGHcUgFip5922pBTn926qlk",
+  "dvcName": "2022 Cerato",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1247",
+  "mediaType": "USB",
+  "modelNames": [
+    "BDAS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BD_PE.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "BD_PE.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Cerato"
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Tucson_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTY4MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlg0XzIzLzExNjQ0LzIwMjNfVHVjc29uX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.7QUypKyiaqYiHAwzyeH4n2N1NnRJw6hVrAhRhei7978",
+  "dvcName": "2023 Tucson",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1681",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AS.S5BLN.AAU",
+    "NX4AS.S5BLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4_23.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "NX4_23.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Tucson"
+}

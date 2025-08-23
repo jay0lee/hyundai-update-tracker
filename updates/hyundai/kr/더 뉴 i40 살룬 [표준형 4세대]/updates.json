@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_i40_saloon",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRERGLzE0Mzc1L1RoZV9OZXdfaTQwX3NhbG9vbi5pbmYiLCJpc05zdW0iOnRydWV9.5Sg0yqwwOlYu2GhKot-q8W10mv_VVXsH7UI8eBMx4L4",
+  "dvcName": "더 뉴 i40 살룬 [표준형 4세대]",
+  "engDvcName": "The New i40 Saloon [Standard Gen4]",
+  "engVclName": "i40",
+  "mcode": "257",
+  "mediaType": "SD",
+  "modelNames": [
+    "VFAS.S4AMN.KR"
+  ],
+  "platformCode": "7",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.VFSDNT.KOR.E*"
+  ],
+  "swVers": [
+    "ST.VFSDNT.KOR.E553.241114"
+  ],
+  "vclName": "i40"
+}

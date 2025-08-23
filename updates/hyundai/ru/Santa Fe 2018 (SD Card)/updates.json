@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Santa_Fe_2018_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA3OCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1NhbnRhX0ZlXzIwMThfU0RfQ2FyZF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.N5D9LVOO6rs5RxsnQ_LQWdGPQ4J6oTPAJQoL_7zmbWY",
+  "dvcName": "Santa Fe 2018 (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1078",
+  "mediaType": "SD",
+  "modelNames": [
+    "TMAS.S5AMN.RU"
+  ],
+  "platformCode": "11",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TM.RUS.SOP.V???.??????.STD_M"
+  ],
+  "swVers": [
+    "TM.RUS.SOP.V112.191217.STD_M"
+  ],
+  "vclName": "Santa Fe"
+}

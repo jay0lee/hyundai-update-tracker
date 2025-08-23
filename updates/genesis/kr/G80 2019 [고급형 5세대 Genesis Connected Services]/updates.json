@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_G80_2019_DIS_GCS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjUvREgxOU1ZLzE0NTgyL0dFTkVTSVNfRzgwXzIwMTlfRElTX0dDUy5pbmYiLCJpc05zdW0iOnRydWV9.G3JM6nAHEY3qfhYGSu6LDQB7B_S-uWda8FyXjWzBokA",
+  "dvcName": "G80 2019 [고급형 5세대 Genesis Connected Services]",
+  "engDvcName": "G80 2019 [Premium Gen5 Genesis Connected Services]",
+  "engVclName": "020_G80",
+  "mcode": "399",
+  "mediaType": "USB",
+  "modelNames": [
+    "DHAS.P5ALC.KR"
+  ],
+  "platformCode": "16",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DH19MY.KOR.P5.???.*"
+  ],
+  "swVers": [
+    "DH19MY.KOR.P5.001.034.250220"
+  ],
+  "vclName": "020_G80"
+}

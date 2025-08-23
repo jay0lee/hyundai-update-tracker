@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Palisade_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTU1NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTFgyX1BFLzE1OTk4LzIwMjNfUGFsaXNhZGVfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.xawYi6vWNaPDnSiXtOD9mfMD8kb6b60bslBrbrJBhVc",
+  "dvcName": "2023 Palisade",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1556",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX2BS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LX2_PE.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "LX2_PE.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "Palisade"
+}

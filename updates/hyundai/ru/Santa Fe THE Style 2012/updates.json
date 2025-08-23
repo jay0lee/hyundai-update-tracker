@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Santa_Fe_THE_Style_2012_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA0MyIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1NhbnRhX0ZlX1RIRV9TdHlsZV8yMDEyX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.g1TuOFdAsf2oQdY1QeE598SIKVf0Jz5xd4A_GUFYtRo",
+  "dvcName": "Santa Fe THE Style 2012",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1043",
+  "mediaType": "USB",
+  "modelNames": [
+    "CM"
+  ],
+  "platformCode": "3",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "8.0.6"
+  ],
+  "swVers": [
+    "8.0.6"
+  ],
+  "vclName": "Santa Fe"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2018_Ioniq_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjczIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQUUgUEhFViAxOE1ZLzEwMTYwLzIwMThfSW9uaXFfUGx1Z19pbl9IeWJyaWRfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.qjIEYl8KJGHMIWrmykdqW37wiCcbLHvJny7ojf-gE5Q",
+  "dvcName": "2018 Ioniq Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "673",
+  "mediaType": "SD",
+  "modelNames": [
+    "AEAP.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AEPHEV.USA.SOP.V*"
+  ],
+  "swVers": [
+    "AEPHEV.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Ioniq Plug-in Hybrid"
+}

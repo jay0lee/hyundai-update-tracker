@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "ACCENT",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTA4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9IQlJCLzE0MTYxL0FDQ0VOVC5pbmYiLCJpc05zdW0iOnRydWV9.7oJIcw0C0BAMJNUehOLjGXjjtJqXnjf2zdcW_x3_eyI",
+  "dvcName": "엑센트 [표준형 2세대]",
+  "engDvcName": "Accent [Standard Gen2]",
+  "engVclName": "Accent",
+  "mcode": "108",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RB.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "RB.KOR.SOP.00.067"
+  ],
+  "vclName": "엑센트"
+}

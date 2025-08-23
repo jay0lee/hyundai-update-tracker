@@ -1,0 +1,34 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_SOUL_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1BTLzEzOTc4L1RoZV9OZXdfU09VTF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.D01VL_KMoixOdBWBjTkYEh4_9558iKCnO6kjmexRNTg",
+  "dvcName": "The New 쏘울 [경제형 5세대]",
+  "engDvcName": "The New Soul [Compact Gen5]",
+  "engVclName": "Soul",
+  "mcode": "307",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PS.KOR.SOP.???.??????",
+    "PS.KOR.SOP_CP.???.??????",
+    "CP.PS.KOR.SOP.???.??????",
+    "PS.KOR.SOP_CP.???",
+    "PS.KOR.SOP_CP.???.?",
+    "PS.KOR.SOP_CP.???.??.??????",
+    "PS.KOR.SOP_CP.???.?.??????",
+    "PS.KOR.SOP_CP.??.???.?",
+    "CP.PS.KOR.SOP.??.???",
+    "CP.PS.KOR.SOP.??.???.?"
+  ],
+  "swVers": [
+    "PS.KOR.SOP.049.241120"
+  ],
+  "vclName": "쏘울"
+}

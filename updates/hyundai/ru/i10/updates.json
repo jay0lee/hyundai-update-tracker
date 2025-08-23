@@ -1,0 +1,19 @@
+{
+  "brand": "HM",
+  "destPath": "i10_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTEwMSIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL2kxMF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.tCCzuVuWueX_wHmXy2m6wouaJFH4rwhpkDDrUqUAL3w",
+  "dvcName": "i10",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1101",
+  "mediaType": "USB",
+  "modelNames": [],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [],
+  "vclName": "i10"
+}

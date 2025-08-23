@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2025_SantaFe_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTgwNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01YNS8xNjM0NC8yMDI1X1NhbnRhRmVfTUVTLmluZiIsImlzTnN1bSI6dHJ1ZX0.jVXeobvHMPlnse1HcArIkDl-oTv68Un17qJZPyCu2LI",
+  "dvcName": "2025 Santa Fe",
+  "engDvcName": "2025 Santa Fe",
+  "engVclName": "Santa Fe",
+  "mcode": "1807",
+  "mediaType": "USB",
+  "modelNames": [
+    "MX5AS.SCBMN.ME",
+    "MX5AS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MX5.MES.ccNC.???.*",
+    "MX5.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MX5.MES.ccNC.001.002.250630",
+    "MX5.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "Santa Fe"
+}

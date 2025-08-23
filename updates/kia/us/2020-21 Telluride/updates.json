@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Telluride_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjYxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9PTi8xMDM0MS8yMDIwXzIxX1RlbGx1cmlkZV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Fer2gPUhW_GSqR5LY9ZewOUM8p-Xhpn2s-zKCuCAgnc",
+  "dvcName": "2020-21 Telluride",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "661",
+  "mediaType": "USB",
+  "modelNames": [
+    "ONAS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "ON.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "ON.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Telluride"
+}

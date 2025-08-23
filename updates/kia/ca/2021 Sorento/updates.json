@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_Sorento_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTY0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9NUTQvOTcxMS8yMDIxX1NvcmVudG9fQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.xjyHtpGH1Wh9KfC3Av5rrXShXBFWoTARb_hLazzWiZI",
+  "dvcName": "2021 Sorento",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "964",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4AS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "MQ4.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4.CAN.S5W_M.V012.010.241014"
+  ],
+  "vclName": "Sorento"
+}

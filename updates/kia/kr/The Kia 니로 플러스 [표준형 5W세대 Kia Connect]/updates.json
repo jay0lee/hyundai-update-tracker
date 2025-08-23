@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_Kia_Niro_Plus_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ2NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9EUC8xNDg1Ny9UaGVfS2lhX05pcm9fUGx1c19TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.DtSKd_9K_FMSgjA49u7VIFsDw_SgSl35ymawBSdQtxc",
+  "dvcName": "The Kia 니로 플러스 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The Kia Niro Plus [Standard Gen5W Kia Connect]",
+  "engVclName": "Niro",
+  "mcode": "1466",
+  "mediaType": "USB",
+  "modelNames": [
+    "DECE.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "490",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEPBV_E_22.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "DEPBV_E_22.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "니로"
+}

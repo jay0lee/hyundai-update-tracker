@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2016_18_Grand_Santa_Fe_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTgxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvTkMyLzEwNjY1LzIwMTZfMThfR3JhbmRfU2FudGFfRmVfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ._RUrAaGWuug6EaukVqb6j9vgiSSMdtwN6BpxtJp5nsA",
+  "dvcName": "2016-18 Grand Santa Fe",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "981",
+  "mediaType": "SD",
+  "modelNames": [
+    "NCAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.NC2.MES.E*"
+  ],
+  "swVers": [
+    "ST.NC2.MES.E536.241118"
+  ],
+  "vclName": "Grand Santa Fe"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Solaris_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA4MCIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL1NvbGFyaXNfU0RfQ2FyZF9SVVMuaW5mIiwiaXNOc3VtIjpmYWxzZX0.y0GO2ur6dYOVzKeuIqtKf--hvWfrQunTrKPDZVEuwUk",
+  "dvcName": "Solaris (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1080",
+  "mediaType": "SD",
+  "modelNames": [
+    "HCAS.S5ALN.RU"
+  ],
+  "platformCode": "12",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HC.RUS.SOP.???.?.??????"
+  ],
+  "swVers": [
+    "HC.RUS.SOP.008.1.191209"
+  ],
+  "vclName": "Solaris"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2017_18_Sonata_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTgyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEZfRkwvMTU5NjEvMjAxN18xOF9Tb25hdGFfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.olIaTLRju2sY3YrpL4upqDlfR3sfHdtk5s9nOu-bOr8",
+  "dvcName": "2017-18 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "982",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFAS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LFFL.MES.SOP.V*"
+  ],
+  "swVers": [
+    "LFFL.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "Sonata"
+}

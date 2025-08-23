@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "LFSONATA_2016_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IREdGLzE0NDM1L0xGU09OQVRBXzIwMTZfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.WXIyKNUHfC4gpYk1ZqV41eb-NJ4QFhi5vYXa5JN8VfY",
+  "dvcName": "LF 쏘나타 2016 [표준형 3세대]",
+  "engDvcName": "LF Sonata 2016 [Standard Gen3]",
+  "engVclName": "Sonata",
+  "mcode": "265",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LF.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "LF.KOR.SOP.14.043"
+  ],
+  "vclName": "쏘나타"
+}

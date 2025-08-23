@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "EV9_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvTVYvMTUwMjcvRVY5X0tPUi5pbmYiLCJpc05zdW0iOnRydWV9.cV_Gg9BMv6sqGm9YC4lbl4_-fu8mZKMyOIlha6DyO60",
+  "dvcName": "EV9 [ccNC Kia Connect]",
+  "engDvcName": "EV9 [ccNC Kia Connect]",
+  "engVclName": "EV9",
+  "mcode": "1709",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "MV1.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "EV9"
+}

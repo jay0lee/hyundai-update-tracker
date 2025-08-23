@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_Niro_Electric_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg2OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvU0cyLzE0MTM3LzIwMjRfTmlyb19FbGVjdHJpY19OWkwuaW5mIiwiaXNOc3VtIjp0cnVlfQ._YX3S5dL5GtgvITsJ0VktHVqmUXHImrd-9cdrOZ8tj4",
+  "dvcName": "2024-25 Niro Electric",
+  "engDvcName": "2024-25 Niro Electric",
+  "engVclName": "Niro Electric",
+  "mcode": "1868",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2CE.S5BLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG2_E_25.AUS.S5W_L*"
+  ],
+  "swVers": [
+    "SG2_E_25.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "Niro Electric"
+}

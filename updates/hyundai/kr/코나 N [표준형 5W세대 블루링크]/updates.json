@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Kona_N_blueLink_Bridge",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI3MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IRk9TLzE0ODI1L0tvbmFfTl9ibHVlTGlua19CcmlkZ2UuaW5mIiwiaXNOc3VtIjp0cnVlfQ.-zqLOwpCTmQ-lFPM9REnVrAG75GbPdIpfuOt6aOhhhY",
+  "dvcName": "코나 N [표준형 5W세대 블루링크]",
+  "engDvcName": "Kona N [Standard Gen5W Bluelink]",
+  "engVclName": "Kona",
+  "mcode": "1272",
+  "mediaType": "USB",
+  "modelNames": [
+    "OSNBS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "491",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OSNPE.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "OSNPE.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "코나"
+}

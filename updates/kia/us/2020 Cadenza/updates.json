@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_Cadenza_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjMxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ZRyBQRS8xMDMyOC8yMDIwX0NhZGVuemFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.I86q6CGD8d7CZwYfs4HTTTOOyUCRxfJGDbZxp2q0ZL8",
+  "dvcName": "2020 Cadenza",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "631",
+  "mediaType": "USB",
+  "modelNames": [
+    "YGP19S.S5CMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "YGPE.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "YGPE.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Cadenza"
+}

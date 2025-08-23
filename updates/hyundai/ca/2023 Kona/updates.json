@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Kona_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUzOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1MgMjNNWS85MjkyLzIwMjNfS29uYV9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.0VFhsLuz6qB-HQRHb_LaTegSh5kmcPbdRsYDK6F5ub4",
+  "dvcName": "2023 Kona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1538",
+  "mediaType": "USB",
+  "modelNames": [
+    "OSBS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "OS_PE23.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "OS_PE23.CAN.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Kona"
+}

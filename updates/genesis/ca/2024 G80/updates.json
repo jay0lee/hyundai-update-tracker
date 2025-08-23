@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2024_G80_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9SRzNfMjQvODg5NS8yMDI0X0c4MF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.6ns13qYTzw3wCE7aoCWJ5X-WjWzscYCPZFRoKZO7L0w",
+  "dvcName": "2024 G80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1726",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3BS.P6CLC.CA"
+  ],
+  "platformCode": "15",
+  "priority": "487",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "RG3_22.CAN.P6.???.*"
+  ],
+  "swVers": [
+    "RG3_22.CAN.P6.001.008.240722"
+  ],
+  "vclName": "G80"
+}

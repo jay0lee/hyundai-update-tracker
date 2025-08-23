@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "i40_2014_saloon_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRERGLzE0NDY1L2k0MF8yMDE0X3NhbG9vbl9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.pOfAazKzop3g1a69NVcj0g0bYqpLvSaK1JK5oxtK68s",
+  "dvcName": "i40 살룬 2014 [표준형 3세대]",
+  "engDvcName": "i40 Saloon 2014 [Standard Gen3]",
+  "engVclName": "i40",
+  "mcode": "198",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VF14S.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "VF14S.KOR.SOP.14.054"
+  ],
+  "vclName": "i40"
+}

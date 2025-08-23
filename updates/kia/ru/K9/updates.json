@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K9_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTEwNyIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL0s5X1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.sp8AZnrsLzwACNxLgsrmcNkQz1J9W3Vh7S6tSVtOxu4",
+  "dvcName": "K9",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1107",
+  "mediaType": "SD",
+  "modelNames": [
+    "KHAS.P2ALN.RU"
+  ],
+  "platformCode": "8",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH.RUS.SOP.00.*"
+  ],
+  "swVers": [
+    "KH.RUS.SOP.05.008"
+  ],
+  "vclName": "K9"
+}

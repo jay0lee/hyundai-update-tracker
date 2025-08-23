@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "K7_2018",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzU5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvWUcvMTQwMDIvSzdfMjAxOC5pbmYiLCJpc05zdW0iOnRydWV9.ucdhiInCkhJB8IquttjrGM06UscOL9xZWt2xjNsn8kE",
+  "dvcName": "K7 2018 [표준형 5세대]",
+  "engDvcName": "K7 2018 [Standard Gen5]",
+  "engVclName": "K7",
+  "mcode": "359",
+  "mediaType": "SD",
+  "modelNames": [
+    "YGCS.S5ALN.KR"
+  ],
+  "platformCode": "12",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YG_18MY.KOR.SOP.???.??????.STD_M",
+    "YG_18MY.KOR.SOP_CP.???.??????.STD_M"
+  ],
+  "swVers": [
+    "YG_18MY.KOR.SOP.061.250114.STD_M"
+  ],
+  "vclName": "K7"
+}

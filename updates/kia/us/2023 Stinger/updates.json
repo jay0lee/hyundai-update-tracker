@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Stinger_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ0sgMjNNWS8xMDI5Ny8yMDIzX1N0aW5nZXJfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.4NIgaJ7Tx0A50hMnB4BIFqCabr1Fh3CgjvV2oXreIlU",
+  "dvcName": "2023 Stinger",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1531",
+  "mediaType": "USB",
+  "modelNames": [
+    "CKCS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "CK_PE_23.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "CK_PE_23.USA.S5W_M.V013.010.241120"
+  ],
+  "vclName": "Stinger"
+}

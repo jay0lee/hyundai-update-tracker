@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Soul_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTMzNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0szIDIyTVkvOTI3OS8yMDIyX1NvdWxfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.jnHi7fKX7wD9nEyRIwmA7XPB9LVoO9QqpIAnQuBvxig",
+  "dvcName": "2022 Soul",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1337",
+  "mediaType": "USB",
+  "modelNames": [
+    "SK3CS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SK3_22.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SK3_22.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Soul"
+}

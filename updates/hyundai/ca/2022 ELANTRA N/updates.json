@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2022_ELANTRA_N_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ043IE4vOTI4OC8yMDIyX0VMQU5UUkFfTl9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.O2HK0nb78AGILWVSryFCnP8sedm5PaJsJclnXujF3uo",
+  "dvcName": "2022 ELANTRA N",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1464",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7NBS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "CN7N.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "CN7N.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "ELANTRA N"
+}

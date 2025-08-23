@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_22_Palisade_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzY0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9MWDIvOTY5OS8yMDIwXzIyX1BhbGlzYWRlX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.WIDGl87hc5LRudP3_TebM_QQJD6R8hU_n6sEURoPWYI",
+  "dvcName": "2020-22 Palisade",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "764",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX2AS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "LX2.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "LX2.CAN.S5W_M.V012.010.241014"
+  ],
+  "vclName": "Palisade"
+}

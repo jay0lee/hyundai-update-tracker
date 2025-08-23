@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K5_Hybrid_500h_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9URi8xNDM2My9UaGVfTmV3X0s1X0h5YnJpZF81MDBoX1VWTy5pbmYiLCJpc05zdW0iOnRydWV9._N77S1673na_TQDzrM4JyLJjUQgdPaDqwoIIojQKO5I",
+  "dvcName": "K5 Hybrid 500h [표준형 4세대 UVO]",
+  "engDvcName": "K5 Hybrid 500h [Standard Gen4 UVO]",
+  "engVclName": "K5",
+  "mcode": "202",
+  "mediaType": "SD",
+  "modelNames": [
+    "TFAH.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "507",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.TFHEV.KOR.E*"
+  ],
+  "swVers": [
+    "ST.TFHEV.KOR.E553.241114"
+  ],
+  "vclName": "K5"
+}

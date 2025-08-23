@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "ALL_NEW_Sorento_SD_Card_RUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJydSIsIm1jb2RlIjoiMTA3MyIsImluZkZpbGVQYXRoIjoiaHR0cDovL29lbS1ydXVwbG9hZC5tYXAtY2FyZS5jb20vUlVfdXBkYXRlX2RhdGEvUlVfSU5GL0FMTF9ORVdfU29yZW50b19TRF9DYXJkX1JVUy5pbmYiLCJpc05zdW0iOmZhbHNlfQ.3zbD19o4oK1Gvh-HVrCHT7NiFFFjQLnJb4KbzXhp0ys",
+  "dvcName": "ALL NEW Sorento (SD Card)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1073",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S4AMN.RU"
+  ],
+  "platformCode": "7",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.UM17.RUS.E*"
+  ],
+  "swVers": [
+    "ST.UM17.RUS.E532.191120"
+  ],
+  "vclName": "Sorento"
+}

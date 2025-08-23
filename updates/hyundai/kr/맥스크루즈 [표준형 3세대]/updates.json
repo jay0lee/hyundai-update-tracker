@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "MAXCRUZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRkpSLzE0NDQ2L01BWENSVVouaW5mIiwiaXNOc3VtIjp0cnVlfQ.TMskWkLkwo0HaNDJb3iuBiSdIWbenNw8VvxyCzQgupw",
+  "dvcName": "맥스크루즈 [표준형 3세대]",
+  "engDvcName": "Maxcruz [Standard Gen3]",
+  "engVclName": "Maxcruz",
+  "mcode": "172",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NC.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "NC.KOR.SOP.14.059"
+  ],
+  "vclName": "맥스크루즈"
+}

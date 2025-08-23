@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2016_18_K900_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzM0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU4yL0tILzEwMTQzLzIwMTZfMThfSzkwMF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.CEXNMSmGKrtUV7_m7ZU_lU16fR4EdcrIB8NTnLldKIY",
+  "dvcName": "2016-18 K900",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "734",
+  "mediaType": "SD",
+  "modelNames": [
+    "KHAS.P2ALN.CA"
+  ],
+  "platformCode": "8",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH.CAN.SOP.*"
+  ],
+  "swVers": [
+    "KH.CAN.SOP.xx.020"
+  ],
+  "vclName": "K900"
+}

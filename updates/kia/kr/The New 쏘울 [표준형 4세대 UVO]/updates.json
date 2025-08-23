@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_SOUL_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9QUy8xNDM1OS9UaGVfTmV3X1NPVUxfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.FMZQUwyoqMhwXWoK3JmvKLxKhGvASpkiz1SbaLlhpjc",
+  "dvcName": "The New 쏘울 [표준형 4세대 UVO]",
+  "engDvcName": "The New Soul [Standard Gen4 UVO]",
+  "engVclName": "Soul",
+  "mcode": "306",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSBS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.PSPE.KOR.E*"
+  ],
+  "swVers": [
+    "ST.PSPE.KOR.E553.241114"
+  ],
+  "vclName": "쏘울"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_new_EV6_ccNC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvQ1YvMTUwNDAvVGhlX25ld19FVjZfY2NOQy5pbmYiLCJpc05zdW0iOnRydWV9.JQMc5CqL1K2QxJO0EDbmE_Gqtc8qxCtqbaXZrcLzMvY",
+  "dvcName": "The new EV6 [ccNC Kia Connect]",
+  "engDvcName": "The new EV6 [ccNC Kia Connect]",
+  "engVclName": "EV6",
+  "mcode": "1952",
+  "mediaType": "USB",
+  "modelNames": [
+    "CV1AS.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "CV1.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "EV6"
+}

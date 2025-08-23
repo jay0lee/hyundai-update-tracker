@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "EV9_ccNC_ccRC_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvTVYvMTYxMTYvRVY5X2NjTkNfY2NSQ19LT1IuaW5mIiwiaXNOc3VtIjp0cnVlfQ.sAXB1Y-hJyGeBIU9e4TiKHMcToWInAWKxMm_b6iBgMg",
+  "dvcName": "EV9 ccRC 후석 포함[ccNC Kia Connect]",
+  "engDvcName": "EV9 with ccRC [ccNC Kia Connect]",
+  "engVclName": "EV9",
+  "mcode": "1959",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "MV1.KOR.ccNC.001.002.250508"
+  ],
+  "vclName": "EV9"
+}

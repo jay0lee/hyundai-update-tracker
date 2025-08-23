@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "Kona_Hybrid_MES_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL1NYMi8xNjMzNi9Lb25hX0h5YnJpZF9NRVNfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.DUU93LLm_101v9nOqK5N2SpRdkJSQyJVTrRnxVAcli8",
+  "dvcName": "2024 Kona Hybrid",
+  "engDvcName": "2024 Kona Hybrid",
+  "engVclName": "Kona Hybrid",
+  "mcode": "1755",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AH.SCBMN.ME",
+    "SX2AH.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.MES.ccNC.???.*",
+    "SX2.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "SX2.MES.ccNC.001.002.250630",
+    "SX2.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "Kona Hybrid"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Niro_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTM0NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREUgRVYgMjJNWS85MjY5LzIwMjJfTmlyb19FbGVjdHJpY19DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.vh3JVKDUbyOj6uJbdngShKj-jJQt0OxS1QKc5U88FUM",
+  "dvcName": "2022 Niro Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1344",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEBE.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "DE_E_22.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "DE_E_22.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Niro Electric"
+}

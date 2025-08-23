@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_Kia_EV6_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI5MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9DVi8xNDgyMC9UaGVfS2lhX0VWNl9LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.xE-PYCLi7v6z3RLvI-k46zYPk7PvhuPRCzY9XIOQNFc",
+  "dvcName": "The Kia EV6 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The Kia EV6 [Standard Gen5W Kia Connect]",
+  "engVclName": "EV6",
+  "mcode": "1290",
+  "mediaType": "USB",
+  "modelNames": [
+    "CVAE.S5BMC.KR"
+  ],
+  "platformCode": "19",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV_E.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "CV_E.KOR.S5W_M.V035.001.250507"
+  ],
+  "vclName": "EV6"
+}

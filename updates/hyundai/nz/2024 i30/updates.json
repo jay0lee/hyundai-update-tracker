@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "i30_NZL_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvUERlUEUyLzE0MTQwL2kzMF9OWkxfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.Kbzf1np_2lMl_1PaWqnCwKQ2bX5cbUAw0WgOhpgOBkc",
+  "dvcName": "2024 i30",
+  "engDvcName": "2024 i30",
+  "engVclName": "i30",
+  "mcode": "1898",
+  "mediaType": "USB",
+  "modelNames": [
+    "PDeBS.S5BLC.AAU",
+    "PDeBS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PDe_PE2.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "PDe_PE2.AUS.S5W_L.001.001.241220"
+  ],
+  "vclName": "i30"
+}

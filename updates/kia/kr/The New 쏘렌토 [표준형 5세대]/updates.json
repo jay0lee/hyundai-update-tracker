@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_SORENTO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzU2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvVU0vMTM5OTcvVGhlX05ld19TT1JFTlRPLmluZiIsImlzTnN1bSI6dHJ1ZX0.tcfCiniQNlFLIKNuIRbo3k9ERTY4gFajCIJxTYjJWSc",
+  "dvcName": "The New 쏘렌토 [표준형 5세대]",
+  "engDvcName": "The New Sorento [Standard Gen5]",
+  "engVclName": "Sorento",
+  "mcode": "356",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S5ALN.KR"
+  ],
+  "platformCode": "12",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "UM_PE.KOR.SOP.???.??????.STD_M",
+    "UM_PE.KOR.SOP_CP.???.??????.STD_M"
+  ],
+  "swVers": [
+    "UM_PE.KOR.SOP.061.250114.STD_M"
+  ],
+  "vclName": "쏘렌토"
+}

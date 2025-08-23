@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Granbird_Super_Premium",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODUzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONVdfQi9RRi8xMTAzNC9HcmFuYmlyZF9TdXBlcl9QcmVtaXVtLmluZiIsImlzTnN1bSI6dHJ1ZX0.Pc-zIJ17Qm4iI-tBV-_lwITndw_ZN2nG-1Qv6H7TAR0",
+  "dvcName": "그랜버드 슈퍼 프리미엄 [표준형 5W세대]",
+  "engDvcName": "Granbird Super Premium [Standard Gen5W]",
+  "engVclName": "Granbird",
+  "mcode": "853",
+  "mediaType": "USB",
+  "modelNames": [
+    "GZAS.S5BMN.KR"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2024.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GZNT.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "GZNT.KOR.S5W_M.V023.001.241209"
+  ],
+  "vclName": "그랜버드"
+}

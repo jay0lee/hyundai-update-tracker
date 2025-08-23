@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "TUCSON_ix_FuelCell_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRk5NLzE0NDQxL1RVQ1NPTl9peF9GdWVsQ2VsbF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.NvUBbjB1DST_hymzh31fFe2iTEL7ADAe--wcEgW51R0",
+  "dvcName": "투싼 ix Fuel Cell [표준형 3세대]",
+  "engDvcName": "Tucson ix Fuel Cell [Standard Gen3]",
+  "engVclName": "Tucson",
+  "mcode": "214",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "506",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LMFC.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "LMFC.KOR.SOP.14.048"
+  ],
+  "vclName": "투싼"
+}

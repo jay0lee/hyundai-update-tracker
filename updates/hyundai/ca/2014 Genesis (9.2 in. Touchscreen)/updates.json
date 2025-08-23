@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2014_Genesis_9_2_in_touch_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9ESC8xMDM5NC8yMDE0X0dlbmVzaXNfOV8yX2luX3RvdWNoX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.94ud8_uOm23dCMAVN3lbAy3cJcD0pmQuYZ7Xh4kX-kM",
+  "dvcName": "2014 Genesis (9.2 in. Touchscreen)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1134",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHAS.P2ALN.CA"
+  ],
+  "platformCode": "8",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DH.CAN.SOP.*"
+  ],
+  "swVers": [
+    "DH.CAN.SOP.xx.031"
+  ],
+  "vclName": "Genesis"
+}

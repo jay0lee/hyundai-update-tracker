@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "Morning_2019_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvSkEvMTM5ODQvTW9ybmluZ18yMDE5X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.iuPXwLl33PPYbH1blBSevON6oP8lXIdlE6F-zL1HBZ8",
+  "dvcName": "모닝 2019 [표준형 5세대 UVO]",
+  "engDvcName": "Morning 2019 [Standard Gen5 UVO]",
+  "engVclName": "Morning",
+  "mcode": "478",
+  "mediaType": "SD",
+  "modelNames": [
+    "JACS.S5ALC.KR"
+  ],
+  "platformCode": "12",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JA_20MY.KOR.SOP.???.??????.STD_H",
+    "JA_20MY.KOR.SOP_CP.???.??????.STD_H"
+  ],
+  "swVers": [
+    "JA_20MY.KOR.SOP.061.250114.STD_H"
+  ],
+  "vclName": "모닝"
+}

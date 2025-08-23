@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "Nexo_2021_Premium_Gen5_Bluelink",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0ZFLzE0NTg0L05leG9fMjAyMV9QcmVtaXVtX0dlbjVfQmx1ZWxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.ZI9am3aOBChTlaAGKWeEiTJb24I42dC7NknP7AkIIPQ",
+  "dvcName": "넥쏘 / 2021, 2024 포함 [고급형 5세대 블루링크]",
+  "engDvcName": "Nexo / 2021 [Premium Gen5 Bluelink]",
+  "engVclName": "Nexo",
+  "mcode": "1411",
+  "mediaType": "USB",
+  "modelNames": [
+    "FEAF.P5BLC.KR",
+    "FECF.P5BLC.KR"
+  ],
+  "platformCode": "13",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "FE.KOR.P5.???.*"
+  ],
+  "swVers": [
+    "FE.KOR.P5.001.034.250220"
+  ],
+  "vclName": "넥쏘"
+}

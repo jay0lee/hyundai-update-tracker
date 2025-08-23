@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_BH_PRADA_DIS_G",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDE1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjEvSEVCSC8xNDIxNC9HRU5FU0lTX0JIX1BSQURBX0RJU19HLmluZiIsImlzTnN1bSI6dHJ1ZX0.AXeg30RCODDufdrW9dTW8uqaowowagqTxt6ZLbW5UBw",
+  "dvcName": "제네시스 프라다 2013 [고급형 1세대]",
+  "engDvcName": "Genesis Prada 2013 [Premium Gen1]",
+  "engVclName": "060_Genesis BH",
+  "mcode": "415",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "6",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BH.KOR.SOP.????????.???P"
+  ],
+  "swVers": [
+    "BH.KOR.SOP.20250227.063P"
+  ],
+  "vclName": "060_제네시스 BH"
+}

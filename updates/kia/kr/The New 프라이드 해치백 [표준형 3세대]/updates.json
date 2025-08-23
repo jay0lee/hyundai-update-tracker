@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_PRIDE_5DR_2015",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9VQi8xNDQ2Mi9UaGVfTmV3X1BSSURFXzVEUl8yMDE1LmluZiIsImlzTnN1bSI6dHJ1ZX0.UU7Q-L7tNzh_q3vTLP2vLYFzozTPQzukBA1pLJreygY",
+  "dvcName": "The New 프라이드 해치백 [표준형 3세대]",
+  "engDvcName": "The New Pride Hatchback [Standard Gen3]",
+  "engVclName": "Pride",
+  "mcode": "243",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "UB5.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "UB5.KOR.SOP.14.043"
+  ],
+  "vclName": "프라이드"
+}

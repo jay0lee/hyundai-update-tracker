@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2025_G80EV_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk4NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY0lDMjcvUkczRVZGTC8xNjMyOS8yMDI1X0c4MEVWX01FUy5pbmYiLCJpc05zdW0iOnRydWV9.gxt_eN0hfW0NB2GT_P3TfYhy4JDIsrFE2M52cagvJm8",
+  "dvcName": "2025 G80 Electrified",
+  "engDvcName": "2025 G80 Electrified",
+  "engVclName": "G80",
+  "mcode": "1985",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3EAE.PCCLN.ME"
+  ],
+  "platformCode": "25",
+  "priority": "493",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "RG3E.MES.ccIC2.*"
+  ],
+  "swVers": [
+    "RG3E.MES.ccIC2.001.004.250710"
+  ],
+  "vclName": "G80"
+}

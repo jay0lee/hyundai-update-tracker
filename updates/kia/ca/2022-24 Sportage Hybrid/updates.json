@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "All_new_2023_Sportage_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlE1IEhFVi85Mjg3L0FsbF9uZXdfMjAyM19TcG9ydGFnZV9IeWJyaWRfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.9FcPNY7ssidOyzNy5g-TvLXITtDa0fNL-i6GCaYfoQA",
+  "dvcName": "2022-24 Sportage Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1463",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AH.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NQ5HEV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "NQ5HEV.CAN.S5W_M.V012.010.240822"
+  ],
+  "vclName": "Sportage Hybrid"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Niro_Electric_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg3MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvU0cyIEVWIDI1TVkvMTM5MDUvMjAyNV9OaXJvX0VsZWN0cmljX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.f5nztkDG4sSu4Fad7yoDxFBNtMm4X4LfD1uEgD_l1-o",
+  "dvcName": "2025 Niro Electric",
+  "engDvcName": "2025 Niro Electric",
+  "engVclName": "Niro Electric",
+  "mcode": "1872",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2BE.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SG225EV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "SG225EV.USA.S5W_M.V013.010.241127"
+  ],
+  "vclName": "Niro Electric"
+}
