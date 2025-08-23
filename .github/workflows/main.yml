@@ -25,10 +25,19 @@ jobs:
           cd nudl
           cargo build --release
 
-      - name: Run nudl
+      - name: Run nudl for all known brands and regions
         run: |
-          cd nudl/target/release
-          ./nudl list -b hyundai
+          mkdir -p updates
+          nudl=nudl/target/release/nudl
+          declare -a brands=("hyundai" "kia" "genesis")
+          declare -a regions=("br", "ca", "eu", "id", "in", "jp", "kr", "me", "nz", "ru", "sg", "tr", "us")
+          for brand in "${brands[@]}"; do
+            for region in "${regions[@]}"; do
+              echo "Checking for ${brand} ${region} updates..."
+              "$nudl" list --brand "$brand" --region "$region" --output json | tee "updates/${brand}"/${region}/updates.json"
+              echo ""
+            done
+          done
 
       - name: Commit files
         run: |
@@ -36,7 +45,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add --all
           git add *
-          git diff --quiet && git diff --staged --quiet || git commit -am 'API changes [ci skip]'
+          git diff --quiet && git diff --staged --quiet || git commit -am 'update changes [ci skip]'
 
       - name: Push changes
         uses: ad-m/github-push-action@master
