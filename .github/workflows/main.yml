@@ -47,6 +47,7 @@ jobs:
                 update=$(echo "$update" | jq -r --sort-keys .)
                 echo " writing $model..."
                 echo -e "$update" | tee "$modelfile"
+              done
             done
           done
 
