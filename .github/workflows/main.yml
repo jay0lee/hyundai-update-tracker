@@ -31,7 +31,7 @@ jobs:
           rm -v -f updates/*/*/*/updates.json
           nudl=nudl/target/release/nudl
           declare -a brands=("hyundai" "kia" "genesis")
-          declare -a regions=("br" "ca" "eu" "eur" "id" "in" "jp" "kr" "me" "nz" "ru" "sg" "tr" "us")
+          declare -a regions=("br" "ca" "eu" "id" "in" "jp" "kr" "me" "nz" "ru" "sg" "tr" "uk" "us")
           for brand in "${brands[@]}"; do
             brandfolder="updates/${brand}"
             mkdir -p "$brandfolder"
