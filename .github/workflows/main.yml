@@ -41,7 +41,7 @@ jobs:
               echo "Checking for ${brand} ${region} updates..."
               updates=$("$nudl" list --brand "$brand" --region "$region" --output json-raw)
               echo "$updates" | jq -c -r --sort-keys '.cars[ ]' | while read update; do
-                model=$(echo "$update" | jq -r ".destPath)
+                model=$(echo "$update" | jq -r ".destPath")
                 # Replace slashes with dash
                 model=$(echo "$model" | sed 's#/#-#g')
                 # Remove invalid characters (example: Windows-specific)
