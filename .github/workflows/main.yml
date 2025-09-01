@@ -27,8 +27,8 @@ jobs:
 
       - name: Run nudl for all known brands and regions
         run: |
+          rm -rvf updates
           mkdir -p updates
-          rm -v -f updates/*/*/*/updates.json
           nudl=nudl/target/release/nudl
           declare -a brands=("hyundai" "kia" "genesis")
           declare -a regions=("br" "ca" "eu" "id" "in" "jp" "kr" "me" "nz" "ru" "sg" "tr" "us")
@@ -41,7 +41,7 @@ jobs:
               echo "Checking for ${brand} ${region} updates..."
               updates=$("$nudl" list --brand "$brand" --region "$region" --output json-raw)
               echo "$updates" | jq -c -r --sort-keys '.cars[ ]' | while read update; do
-                model=$(echo "$update" | jq -r ".dvcName")
+                model=$(echo "$update" | jq -r ".destPath)
                 # Replace slashes with dash
                 model=$(echo "$model" | sed 's#/#-#g')
                 # Remove invalid characters (example: Windows-specific)
