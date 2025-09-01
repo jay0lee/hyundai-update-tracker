@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_K9_DIS_2015_DIS",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjIvS0gvMTQyMDYvVGhlX05ld19LOV9ESVNfMjAxNV9ESVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.cUn8C-69aOH0eQaW_CZrc2505IB1qRGZEMtPQdIYWG4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjIvS0gvMTYyNDUvVGhlX05ld19LOV9ESVNfMjAxNV9ESVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.hmY1EtDgR1XQWA5Ko8HukDvaCOoVmALNKMxauBSUhxM",
   "dvcName": "The New K9 [고급형 2세대 UVO]",
   "engDvcName": "The New K9 [Premium Gen2 UVO]",
   "engVclName": "K9",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "KH.KOR.SOP.00.*",

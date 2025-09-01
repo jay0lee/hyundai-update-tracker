@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "RAY_EV",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9UTS8xNDE4Mi9SQVlfRVYuaW5mIiwiaXNOc3VtIjp0cnVlfQ.VQUPPgHrL6mWT2BHd-z5qUPhs5dRAVGAN-imWe0cUSI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9UTS8xNjQ4Ni9SQVlfRVYuaW5mIiwiaXNOc3VtIjp0cnVlfQ.pWIwjX0sVG9p2K59RDrVKhJ_mSQeGKeGhmlOOqTSbiQ",
   "dvcName": "레이 Electric [표준형 2세대]",
   "engDvcName": "Ray EV [Standard Gen2]",
   "engVclName": "Ray",
@@ -13,13 +13,13 @@
   "platformCode": "4",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "TAMEV.KOR.SOP.00.*"
   ],
   "swVers": [
-    "TAMEV.KOR.SOP.00.062"
+    "TAMEV.KOR.SOP.00.063"
   ],
   "vclName": "레이"
 }

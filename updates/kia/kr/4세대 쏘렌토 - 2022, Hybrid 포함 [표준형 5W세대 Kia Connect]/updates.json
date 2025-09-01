@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Sorento_4th_Generation_Hybrid_Standard_Gen5W_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9NUS8xNDg1NC9Tb3JlbnRvXzR0aF9HZW5lcmF0aW9uX0h5YnJpZF9TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.WbKLBLcBFQnPCihnUVgglghs_ceSxIPSrCkztxYnTbI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9NUS8xNjIzMS9Tb3JlbnRvXzR0aF9HZW5lcmF0aW9uX0h5YnJpZF9TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.YQtyiOc0-YLjITrHAkdZpVHgRxEpAnViagAKJsBqhTE",
   "dvcName": "4세대 쏘렌토 / 2022, Hybrid 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "4th Generation Sorento / 2022, Hybrid [Standard Gen5W Kia Connect]",
   "engVclName": "Sorento",
@@ -17,7 +17,7 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "MQ4.KOR.S5W_M.V???.*",

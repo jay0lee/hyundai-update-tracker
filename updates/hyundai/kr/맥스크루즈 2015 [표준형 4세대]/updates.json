@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "MAXCRUZ_2015_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkpSLzE0MzU0L01BWENSVVpfMjAxNV9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.3lpPvTKiRSV_QGp6QFT_XexV0ZqCiwuja3n5fUjU3yI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkpSLzE2MjkyL01BWENSVVpfMjAxNV9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.SVB0pZEoORs7ImvbQBJmL15A42ahsodYSOaUl56As3M",
   "dvcName": "맥스크루즈 2015 [표준형 4세대]",
   "engDvcName": "Maxcruz 2015 [Standard Gen4]",
   "engVclName": "Maxcruz",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "503",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.NCNT.KOR.E*"

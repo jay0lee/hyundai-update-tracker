@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Soul_Booster_2021_Electric_Standard_Gen5W_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9TVy8xNDg1NS9Tb3VsX0Jvb3N0ZXJfMjAyMV9FbGVjdHJpY19TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.rlJl0Ls7RVVm0EIS7OynFZDUqBnZgmqYHxvkg9lZnq4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9TVy8xNjIzMi9Tb3VsX0Jvb3N0ZXJfMjAyMV9FbGVjdHJpY19TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.vrwQP-IKoie3f1IaFU0GvWlz_3KQl--HZuqgMLCahOQ",
   "dvcName": "쏘울 부스터 / 2021, Electric 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "Soul Booster / 2021, Electric [Standard Gen5W Kia Connect]",
   "engVclName": "Soul",
@@ -16,7 +16,7 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SK3.KOR.S5W_M.V???.*",
@@ -25,10 +25,10 @@
     "SK3_E_21.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "SK3.KOR.S5W_M.V035.001.250507",
     "SK3EV.KOR.S5W_M.V035.001.250507",
     "SK3_21.KOR.S5W_M.V035.001.250507",
-    "SK3_E_21.KOR.S5W_M.V035.001.250507"
+    "SK3_E_21.KOR.S5W_M.V035.001.250507",
+    "SK3.KOR.S5W_M.V035.001.250507"
   ],
   "vclName": "쏘울"
 }

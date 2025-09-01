@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "LF_Sonata_New_Rise_Hybrid_Standard_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSERHRi8xNDcwMC9MRl9Tb25hdGFfTmV3X1Jpc2VfSHlicmlkX1N0YW5kYXJkX0dlbjUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.GXxo4UpSfrJ4oxfBLSoJbUN2OX8gVoObmB0zPHY6rzE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSERHRi8xNjEyOS9MRl9Tb25hdGFfTmV3X1Jpc2VfSHlicmlkX1N0YW5kYXJkX0dlbjUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.ldaDcJJWO8qv7NgeNfO02Kby-gkC8LIYfwPpHR14shA",
   "dvcName": "LF 쏘나타 뉴라이즈 / Hybrid 포함 [표준형 5세대]",
   "engDvcName": "LF Sonata New Rise / Hybrid [Standard Gen5]",
   "engVclName": "Sonata",
@@ -14,7 +14,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFFL.KOR.SOP.V???.??????.STD_M",

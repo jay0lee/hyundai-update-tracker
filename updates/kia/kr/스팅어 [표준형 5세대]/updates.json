@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Stinger_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvQ0svMTQwMDAvU3Rpbmdlcl9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.4ez_DNY5MGHQiP-8EoS6D3a1z2jNX3uBSTyYc0czKu0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvQ0svMTY0MDAvU3Rpbmdlcl9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.frXKj-gMhImHVGOvihLaXtBH4uQ67JS97OZ3Hf9QOPU",
   "dvcName": "스팅어 [표준형 5세대]",
   "engDvcName": "Stinger [Standard Gen5]",
   "engVclName": "Stinger",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CK.KOR.SOP.???.??????.STD_M",

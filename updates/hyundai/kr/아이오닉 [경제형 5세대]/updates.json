@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "IONIQ_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0hDQUUvMTM5NjIvSU9OSVFfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.JaSpnLNhinaRR51w3P1Wj472SdpEXbXWiH5zkQr1MlI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0hDQUUvMTYxNDkvSU9OSVFfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.AIyWjeIx9YuEZFa2EUPen4VyIVCgFiIOXDx0sx7M89s",
   "dvcName": "아이오닉 [경제형 5세대]",
   "engDvcName": "Ioniq Hybrid [Compact Gen5]",
   "engVclName": "Ioniq",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "502",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AE_HEV.KOR.SOP.???.??????",

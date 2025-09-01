@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_DH_2014_DIS_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjIvREgvMTQyMDMvR0VORVNJU19ESF8yMDE0X0RJU19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.kIZ4pKVUffQiNIBUCcmsoNHhK4ziBW8if59EZ4NWKDA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjIvREgvMTYyNDIvR0VORVNJU19ESF8yMDE0X0RJU19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.cJ-HaSNYYAqol-bV7_qHfAotUezUeXBNDsEKlCuhhws",
   "dvcName": "제네시스 DH [고급형 2세대 블루링크]",
   "engDvcName": "Genesis DH [Premium Gen2 Bluelink]",
   "engVclName": "050_DH",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DH.KOR.SOP.00.*",

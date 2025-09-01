@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_SOUL_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTkzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9QUy8xNDM1Ni9BbGxfTmV3X1NPVUxfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.OfHOun3mAi240bZ85GmVxSThUWcoR8kObpdeLL5pDJg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTkzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9QUy8xNjI5NC9BbGxfTmV3X1NPVUxfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.ziuGooE8d3-9fTsbsRCBpljAHxJnyecQefCC9iVDuco",
   "dvcName": "All New 쏘울 [표준형 4세대 UVO]",
   "engDvcName": "All New Soul [Standard Gen4 UVO]",
   "engVclName": "Soul",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "504",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PS.KOR.E*"

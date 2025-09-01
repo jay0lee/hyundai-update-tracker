@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Kona_2019_Standard_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgMTlNWS8xNDcwNi9Lb25hXzIwMTlfU3RhbmRhcmRfR2VuNS5pbmYiLCJpc05zdW0iOnRydWV9.Rne_amZ0mDv1hcXfxOtfeHGvpUJk_iLg1BklEy-DSvk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgMTlNWS8xNjEzNS9Lb25hXzIwMTlfU3RhbmRhcmRfR2VuNS5pbmYiLCJpc05zdW0iOnRydWV9.FkEW_c5ceUJcXQEcAY-3k3BdWpLe5hEMjk9c-S_672I",
   "dvcName": "코나 / 2019 포함 [표준형 5세대]",
   "engDvcName": "Kona / 2019 [Standard Gen5]",
   "engVclName": "Kona",
@@ -14,7 +14,7 @@
   "platformCode": "11",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OS.KOR.SOP.V???.??????.STD_M",
@@ -22,7 +22,6 @@
   ],
   "swVers": [
     "OS.KOR.SOP.V141.250423.STD_M",
-    "OS19.KOR.SOP.V141.250423.STD_M",
     "OS19.KOR.SOP.V141.250423.STD_M"
   ],
   "vclName": "코나"

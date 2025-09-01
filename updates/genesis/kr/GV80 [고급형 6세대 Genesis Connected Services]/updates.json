@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_GV80",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNTM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjYvSlgxLzE0NjI5L0dFTkVTSVNfR1Y4MC5pbmYiLCJpc05zdW0iOnRydWV9.nFyNztjHBrrE9dl-ASr1my6UI0rCXWWH2TzxXdg2WiQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNTM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjYvSlgxLzE2MTA3L0dFTkVTSVNfR1Y4MC5pbmYiLCJpc05zdW0iOnRydWV9.clZq_DtTO_9seyI3tUZwvWhQkL0aZb3VcKVIpVd9K8Y",
   "dvcName": "GV80 [고급형 6세대 Genesis Connected Services]",
   "engDvcName": "GV80 [Premium Gen6 Genesis Connected Services]",
   "engVclName": "015_GV80",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JX1.KOR.P6.???.???.??????"
   ],
   "swVers": [
-    "JX1.KOR.P6.001.016.250423"
+    "JX1.KOR.P6.001.016.250715"
   ],
   "vclName": "015_GV80"
 }

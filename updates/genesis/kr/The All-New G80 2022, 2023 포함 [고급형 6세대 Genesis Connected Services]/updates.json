@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_G80_Sports_GCS",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI3NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L1JHM18yMk1ZLzE0NjMxL0dFTkVTSVNfRzgwX1Nwb3J0c19HQ1MuaW5mIiwiaXNOc3VtIjp0cnVlfQ.XVHzdmm6Is5TDpLjw8FsUxEir5anJbXFUPFJ1E06xpc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI3NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L1JHM18yMk1ZLzE2MTA5L0dFTkVTSVNfRzgwX1Nwb3J0c19HQ1MuaW5mIiwiaXNOc3VtIjp0cnVlfQ.LO_KsGU7oblyy0sEya-cWQgh9OQKj5-LrYjA019i0co",
   "dvcName": "The All-New G80 2022, 2023 포함 [고급형 6세대 Genesis Connected Services]",
   "engDvcName": "The All-New G80 2022, 2023 [Premium Gen6 Genesis Connected Services]",
   "engVclName": "020_G80",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3_22.KOR.P6.???.???.??????"
   ],
   "swVers": [
-    "RG3_22.KOR.P6.001.016.250423"
+    "RG3_22.KOR.P6.001.016.250715"
   ],
   "vclName": "020_G80"
 }

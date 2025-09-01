@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "LFSONATA_2014_BlueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IREdGLzE0MzQ2L0xGU09OQVRBXzIwMTRfQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.YA39mW4aBR3UW8OXHL88yyjbkL-7MV70xWqwb3TpE1M",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IREdGLzE2Mjg0L0xGU09OQVRBXzIwMTRfQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.gucnhrx9O4WWfLfKpVPMBiPYhjWK_QGFrq-8TtO7GaY",
   "dvcName": "LF 쏘나타 [표준형 4세대 블루링크]",
   "engDvcName": "LF Sonata [Standard Gen4 Bluelink]",
   "engVclName": "Sonata",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "505",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.LF.KOR.E*"

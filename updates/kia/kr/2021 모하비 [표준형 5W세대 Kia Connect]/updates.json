@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_Mohave_UVO_Bridge",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTAzNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9KUy8xNDgzMC8yMDIxX01vaGF2ZV9VVk9fQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.0OpHP5gDkChfefUlVLj5-a82PKtNCGJ68F8YyMlmwE4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTAzNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9KUy8xNjIwNy8yMDIxX01vaGF2ZV9VVk9fQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.bKxGVvIMg3dqPg7CO8qc0CMmqTSZhhNe48rYze6FoRc",
   "dvcName": "2021 모하비 [표준형 5W세대 Kia Connect]",
   "engDvcName": "2021 Mohave [Standard Gen5W Kia Connect]",
   "engVclName": "Mohave",
@@ -13,7 +13,7 @@
   "platformCode": "14",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "HM21.KOR.S5W_M.V???.*"

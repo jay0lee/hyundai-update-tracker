@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "STONIC_2020_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDkyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvWVcvMTM5ODgvU1RPTklDXzIwMjBfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.Lh3247RNOL8kNFX5GdlaHw4LWFzDXIyVwSjLQ593EUc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDkyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvWVcvMTYzODgvU1RPTklDXzIwMjBfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.hSu7yqerglUQg0qiM2nqPopialjmavYslydLYJaX-Lg",
   "dvcName": "2020 스토닉 [표준형 5세대 UVO]",
   "engDvcName": "2020 Stonic [Standard Gen5 UVO]",
   "engVclName": "Stonic",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YB_CUV_20MY.KOR.SOP.???.??????.STD_H",

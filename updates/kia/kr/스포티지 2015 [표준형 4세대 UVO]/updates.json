@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_SUV_SPORTAGE_2015_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9MUS8xNDM2MC9UaGVfU1VWX1NQT1JUQUdFXzIwMTVfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.z4MOhr74O7h6UkgF1ADACGp4H0OjLna-OQ03XStCQhQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9MUS8xNjI5OC9UaGVfU1VWX1NQT1JUQUdFXzIwMTVfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.ITeO3n3ncaQg-IQ9810G5NG3TZEP0ugC9a_Eanerf6k",
   "dvcName": "스포티지 2015 [표준형 4세대 UVO]",
   "engDvcName": "Sportage 2015 [Standard Gen4 UVO]",
   "engVclName": "Sportage",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "502",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.QL.KOR.E*"

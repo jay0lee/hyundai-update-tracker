@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "The_All_New_G80_Electrified_Premium_Gen6_Genesis_Connected_Services",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L1JHMy8xNDYzMi9UaGVfQWxsX05ld19HODBfRWxlY3RyaWZpZWRfUHJlbWl1bV9HZW42X0dlbmVzaXNfQ29ubmVjdGVkX1NlcnZpY2VzLmluZiIsImlzTnN1bSI6dHJ1ZX0.a8EBrQOFSpfjJZ8qBJfSlHqLFtHngH3v0474vxpBQ0A",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L1JHMy8xNjExMC9UaGVfQWxsX05ld19HODBfRWxlY3RyaWZpZWRfUHJlbWl1bV9HZW42X0dlbmVzaXNfQ29ubmVjdGVkX1NlcnZpY2VzLmluZiIsImlzTnN1bSI6dHJ1ZX0.nQ4nsERCXPOH-tcob5fMXILViNLsWotTtEAnAtUvBRA",
   "dvcName": "The All-New G80 / Electrified, Electrified 2023 포함 [고급형 6세대 Genesis Connected Services]",
   "engDvcName": "The All-New G80 / Electrified, Electrified 2023 [Premium Gen6 Genesis Connected Services]",
   "engVclName": "020_G80",
@@ -14,13 +14,13 @@
   "platformCode": "15",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3.KOR.P6.???.???.??????"
   ],
   "swVers": [
-    "RG3.KOR.P6.001.016.250423"
+    "RG3.KOR.P6.001.016.250715"
   ],
   "vclName": "020_G80"
 }

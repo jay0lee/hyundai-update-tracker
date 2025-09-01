@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "NIRO_2019_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDI2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREUvMTM5OTQvTklST18yMDE5X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.sahs0Z3d6BWHE_jqYoNDg0xlOy5_hwT0igiwZcL69YU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDI2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREUvMTYzOTQvTklST18yMDE5X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.65eYipITjiaC8gnNM8NNkFVHfKGZq8Kd4n6FRPuNKek",
   "dvcName": "니로 2019 [표준형 5세대]",
   "engDvcName": "Niro 2019 [Standard Gen5]",
   "engVclName": "Niro",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DE_HEV_19MY.KOR.SOP.???.??????.STD_M",

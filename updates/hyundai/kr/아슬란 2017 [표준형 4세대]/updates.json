@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "ASLAN_2017_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUFHLzE0MzE0L0FTTEFOXzIwMTdfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.jLDXBn-zN501tCdNFIAzRrc3Q9WUzsZ48TYV19Wu66g",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUFHLzE2MjUyL0FTTEFOXzIwMTdfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.ROgOYgoTRfRYrceiQ6znLwp4Z7M7M34P7MGfbsgZ4GQ",
   "dvcName": "아슬란 2017 [표준형 4세대]",
   "engDvcName": "Aslan 2017 [Standard Gen4]",
   "engVclName": "Aslan",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.AGNT16.KOR.E*"

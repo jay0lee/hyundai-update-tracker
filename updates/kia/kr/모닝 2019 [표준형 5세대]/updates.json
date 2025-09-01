@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Morning_2019",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvSkEvMTM5OTMvTW9ybmluZ18yMDE5LmluZiIsImlzTnN1bSI6dHJ1ZX0.naUuVtQUyGDG9URcf08N2A8Bp8jjKYzyeLh6Pw4xbgw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvSkEvMTYzOTMvTW9ybmluZ18yMDE5LmluZiIsImlzTnN1bSI6dHJ1ZX0.UXzDvdna_Dz0aBPxmrfZUWt3W1Zg-9wBCSSmPDFBypA",
   "dvcName": "모닝 2019 [표준형 5세대]",
   "engDvcName": "Morning 2019 [Standard Gen5]",
   "engVclName": "Morning",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JA.KOR.SOP.???.??????.STD_M",

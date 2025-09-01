@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "MAXCRUZ_2018_BlueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzc2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IRkpSLzE0NzAzL01BWENSVVpfMjAxOF9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.WhsQ380Vc7ix6yjWHJEOFMTFL8Dh9NaILXxerii225U",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzc2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IRkpSLzE2MTMyL01BWENSVVpfMjAxOF9CbHVlTGluay5pbmYiLCJpc05zdW0iOnRydWV9.X8owzq4CMavm4W1zElnuyQMtWlssL9iRTKnzlLAO9pU",
   "dvcName": "맥스크루즈 2018 [표준형 5세대 블루링크]",
   "engDvcName": "Maxcruz 2018 [Standard Gen5 Bluelink]",
   "engVclName": "Maxcruz",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NC18.KOR.SOP.V???.??????.STD_H"

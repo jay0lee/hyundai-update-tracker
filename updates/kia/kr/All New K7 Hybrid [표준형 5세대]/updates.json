@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_K7_Hybrid_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvWUcvMTQwMDUvQWxsX05ld19LN19IeWJyaWRfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.Az-zSeWmZE0YzmGS6DAkydBsEfFG-WCtjF0RM0osTg8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvWUcvMTY0MDUvQWxsX05ld19LN19IeWJyaWRfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.p30BxF2CxdPbPlOIibw5tg919tGpbCUqdoIJ7eWRn2s",
   "dvcName": "All New K7 Hybrid [표준형 5세대]",
   "engDvcName": "All New K7 Hybrid [Standard Gen5]",
   "engVclName": "K7",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YG_HEV.KOR.SOP.???.??????.STD_M",

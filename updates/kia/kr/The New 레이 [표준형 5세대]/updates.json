@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_RAY",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzY2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvVE0vMTM5OTYvVGhlX05ld19SQVkuaW5mIiwiaXNOc3VtIjp0cnVlfQ.TLEUAX1nC-EWBTiD9BHUyyF1lTAOyqOTDwv_0QXXGE4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzY2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvVE0vMTYzOTYvVGhlX05ld19SQVkuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Iy91QTqdBUirsp0zsivwrCP66mv-TPwNMwqxm0TxUVo",
   "dvcName": "The New 레이 [표준형 5세대]",
   "engDvcName": "The New Ray [Standard Gen5]",
   "engVclName": "Ray",
@@ -14,7 +14,7 @@
   "platformCode": "12",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "TAM_PE.KOR.SOP.???.??????.STD_M",

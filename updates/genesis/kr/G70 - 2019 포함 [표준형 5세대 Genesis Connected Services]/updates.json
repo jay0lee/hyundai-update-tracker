@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "G70_2019_Standard_Gen5_Genesis_Connected_Services",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvR0VHSy8xNDY5Ni9HNzBfMjAxOV9TdGFuZGFyZF9HZW41X0dlbmVzaXNfQ29ubmVjdGVkX1NlcnZpY2VzLmluZiIsImlzTnN1bSI6dHJ1ZX0.9zcKJ6L7ENAGjVyi8uJjbuKr8PDhJpotq8wJSBzdmCQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvR0VHSy8xNjEyNS9HNzBfMjAxOV9TdGFuZGFyZF9HZW41X0dlbmVzaXNfQ29ubmVjdGVkX1NlcnZpY2VzLmluZiIsImlzTnN1bSI6dHJ1ZX0.3Xdr1RlLlU41nrcXk_yjp5dfxj6pq1kVmwTZB1J_AiU",
   "dvcName": "G70 / 2019 포함 [표준형 5세대 Genesis Connected Services]",
   "engDvcName": "G70 / 2019 [Standard Gen5 Genesis Connected Services]",
   "engVclName": "030_G70",
@@ -14,15 +14,15 @@
   "platformCode": "11",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "IK.KOR.SOP.V???.??????.STD_H",
     "IK19.KOR.SOP.V???.??????.STD_H"
   ],
   "swVers": [
-    "IK.KOR.SOP.V141.250423.STD_H",
-    "IK19.KOR.SOP.V141.250423.STD_H"
+    "IK19.KOR.SOP.V141.250423.STD_H",
+    "IK.KOR.SOP.V141.250423.STD_H"
   ],
   "vclName": "030_G70"
 }

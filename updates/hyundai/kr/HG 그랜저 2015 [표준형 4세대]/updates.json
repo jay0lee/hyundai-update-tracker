@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "HG_GRANDEUR_2015_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUhHLzE0Mzg2L0hHX0dSQU5ERVVSXzIwMTVfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.nSc0AykFLOcHeXlp25IbcV4pmwmhWFatl-rhLg9FXyk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRUhHLzE2MzI0L0hHX0dSQU5ERVVSXzIwMTVfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.IrgTORmHCctTiAgLUL6rH7xuxMu9siW_ss-E3UZcKMc",
   "dvcName": "HG 그랜저 2015 [표준형 4세대]",
   "engDvcName": "HG Grandeur 2015 [Standard Gen4]",
   "engVclName": "Grandeur",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.HGNT.KOR.E*"

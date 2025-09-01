@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_2022_GV80_GCS",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L0pYMV8yMk1ZLzE0NjI4L0dFTkVTSVNfMjAyMl9HVjgwX0dDUy5pbmYiLCJpc05zdW0iOnRydWV9.hKYT7To53qHuIGsmP3UMK8l2HPswKk3_Xc2X4LjRs08",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L0pYMV8yMk1ZLzE2MTA2L0dFTkVTSVNfMjAyMl9HVjgwX0dDUy5pbmYiLCJpc05zdW0iOnRydWV9.MZg3TMkKoP_EZNkcm33ZFL4l9bysfyNFox0cKtGh9dI",
   "dvcName": "GV80 / 2022, 2023 포함 [고급형 6세대 Genesis Connected Services]",
   "engDvcName": "GV80 / 2022, 2023 [Premium Gen6 Genesis Connected Services]",
   "engVclName": "015_GV80",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JX1_22.KOR.P6.???.???.??????"
   ],
   "swVers": [
-    "JX1_22.KOR.P6.001.016.250423"
+    "JX1_22.KOR.P6.001.016.250715"
   ],
   "vclName": "015_GV80"
 }

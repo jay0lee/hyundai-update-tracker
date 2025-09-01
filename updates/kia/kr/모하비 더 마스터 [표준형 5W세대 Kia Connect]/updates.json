@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "MOHAVE_The_Master",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDkxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9XSURFL0pTLzE0ODUwL01PSEFWRV9UaGVfTWFzdGVyLmluZiIsImlzTnN1bSI6dHJ1ZX0.5zQ1QasDN2UUQlmUfNJMlH5B3Sl5ebKqkjVpuL1xwCc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDkxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9XSURFL0pTLzE2MjI3L01PSEFWRV9UaGVfTWFzdGVyLmluZiIsImlzTnN1bSI6dHJ1ZX0.7dsn9whisSK5z6EKMu7ZbhOtCjS7uKwYYFU6rhWFtNU",
   "dvcName": "모하비 더 마스터 [표준형 5W세대 Kia Connect]",
   "engDvcName": "Mohave The Master [Standard Gen5W Kia Connect]",
   "engVclName": "Mohave",
@@ -13,7 +13,7 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "HMPE2.KOR.S5W_M.V???.*"

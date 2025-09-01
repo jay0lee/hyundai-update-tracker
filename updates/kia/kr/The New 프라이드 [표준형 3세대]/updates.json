@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_PRIDE_4DR_2015",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9VQi8xNDQ2MS9UaGVfTmV3X1BSSURFXzREUl8yMDE1LmluZiIsImlzTnN1bSI6dHJ1ZX0.p1p_WPyOUUHc9PqQqlq64WWIuQLbw9z9H_qhY-lt2XM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9VQi8xNjQ3OS9UaGVfTmV3X1BSSURFXzREUl8yMDE1LmluZiIsImlzTnN1bSI6dHJ1ZX0._FUbayugO24Rb-UUDE35eUUStm7QgctNfgRqm0Ep2ds",
   "dvcName": "The New 프라이드 [표준형 3세대]",
   "engDvcName": "The New Pride [Standard Gen3]",
   "engVclName": "Pride",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "UB4.KOR.SOP.14.*"

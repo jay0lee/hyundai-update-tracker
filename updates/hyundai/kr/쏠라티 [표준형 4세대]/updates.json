@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Solati",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IT0xTLzE0MzI1L1NvbGF0aS5pbmYiLCJpc05zdW0iOnRydWV9.QWOCcN1l75dKOiJG_cROfGTaqBvOsRxPIdMvPhUse1I",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IT0xTLzE2MjYzL1NvbGF0aS5pbmYiLCJpc05zdW0iOnRydWV9.mOHFI8XgCpU5-HnLoQKLWLV1q-riHeP-6X1SD3KcpJw",
   "dvcName": "쏠라티 [표준형 4세대]",
   "engDvcName": "Solati [Standard Gen4]",
   "engVclName": "Solati",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.EU.KOR.E*"

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_SORENTO_2017_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzEwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9VTS8xNDM2OS9BbGxfTmV3X1NPUkVOVE9fMjAxN19VVk8uaW5mIiwiaXNOc3VtIjp0cnVlfQ._gDW3fbrq_fCIdvmWX_3AyHUQBCj5mu5IlM7rISKKKc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzEwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9VTS8xNjMwNy9BbGxfTmV3X1NPUkVOVE9fMjAxN19VVk8uaW5mIiwiaXNOc3VtIjp0cnVlfQ.knqddIE3L0bNlK-rTgWNnONRMIoIS2ZXj0DglU44RW0",
   "dvcName": "All New 쏘렌토 2017 [표준형 4세대 UVO]",
   "engDvcName": "All New Sorento 2017 [Standard Gen4 UVO]",
   "engVclName": "Sorento",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.UM17.KOR.E*"

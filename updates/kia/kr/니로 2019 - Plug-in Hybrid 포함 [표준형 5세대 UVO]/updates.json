@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Niro_2019_Plug_In_Hybrid_Standard_Gen5_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0RFLzEzOTg1L05pcm9fMjAxOV9QbHVnX0luX0h5YnJpZF9TdGFuZGFyZF9HZW41X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.JAaVCp3SVHkgT66AkFmYUgadfD5_YWc6ZudwFkCIe18",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0RFLzE2Mzg1L05pcm9fMjAxOV9QbHVnX0luX0h5YnJpZF9TdGFuZGFyZF9HZW41X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.dK4I4MJljs_cdOh2J8PUpTkYeHCG8e4fQsOJNKOV88s",
   "dvcName": "니로 2019 / Plug-in Hybrid 포함 [표준형 5세대 UVO]",
   "engDvcName": "Niro 2019 / Plug-In Hybrid [Standard Gen5 UVO]",
   "engVclName": "Niro",
@@ -14,7 +14,7 @@
   "platformCode": "12",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DE_HEV_19MY.KOR.SOP.???.??????.STD_H",
@@ -23,8 +23,8 @@
     "DE_PHEV.KOR.SOP_CP.???.??????.STD_H"
   ],
   "swVers": [
-    "DE_HEV_19MY.KOR.SOP.061.250114.STD_H",
-    "DE_PHEV.KOR.SOP.061.250114.STD_H"
+    "DE_PHEV.KOR.SOP.061.250114.STD_H",
+    "DE_HEV_19MY.KOR.SOP.061.250114.STD_H"
   ],
   "vclName": "니로"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Bongo_III_EV_Standard_Gen5W_Kia_Connect_Bridge",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9QVSBFVi8xNDgzMS9Cb25nb19JSUlfRVZfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3RfQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.kwQDRzJvS1pRXCXw56xakqjWwm87J_CgvCeyYOHr4xQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9QVSBFVi8xNjIwOC9Cb25nb19JSUlfRVZfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3RfQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.nx-XbCIl0NJAbjmMaH_-uPY_ChkDd5-7hSSW_kEHhGk",
   "dvcName": "봉고 III Electric [표준형 5W세대 Kia Connect]",
   "engDvcName": "Bongo III Electric [Standard Gen5W Kia Connect]",
   "engVclName": "Bongo",
@@ -13,7 +13,7 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PU_E_22.KOR.S5W_M.V???.*"

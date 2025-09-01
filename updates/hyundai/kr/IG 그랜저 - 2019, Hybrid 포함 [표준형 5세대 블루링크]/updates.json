@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "IG_Grandeur_2019_Hybrid_Standard_Gen5_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSEVJRy8xNDY5NC9JR19HcmFuZGV1cl8yMDE5X0h5YnJpZF9TdGFuZGFyZF9HZW41X0JsdWVsaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.0SaTJJyOH5597Zz44x87W3dyYtuy9YCRor6sYQ4VRxM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSEVJRy8xNjEyMy9JR19HcmFuZGV1cl8yMDE5X0h5YnJpZF9TdGFuZGFyZF9HZW41X0JsdWVsaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.bqnG6EeezcJKglNtUKh-Bqx-gQSmI0LW79EhDpzbCmg",
   "dvcName": "IG 그랜저 / 2019, Hybrid 포함 [표준형 5세대 블루링크]",
   "engDvcName": "IG Grandeur / 2019, Hybrid [Standard Gen5 Bluelink]",
   "engVclName": "Grandeur",
@@ -16,7 +16,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "IG.KOR.SOP.V???.??????.STD_H",

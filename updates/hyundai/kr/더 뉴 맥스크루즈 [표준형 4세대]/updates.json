@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_MAXCRUZ_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjc0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkpSLzE0MzU1L1RoZV9OZXdfTUFYQ1JVWl9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.TuNhm9qi1YHw0sPVrwtYSraX1MDf2SOXWMn_7zCoBnY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjc0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRkpSLzE2MjkzL1RoZV9OZXdfTUFYQ1JVWl9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.boIOgqhmWPrM-SVUuh3reKPOZF7594VQpwsfggSLyFU",
   "dvcName": "더 뉴 맥스크루즈 [표준형 4세대]",
   "engDvcName": "The New Maxcruz [Standard Gen4]",
   "engVclName": "Maxcruz",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.NCNT2.KOR.E*"

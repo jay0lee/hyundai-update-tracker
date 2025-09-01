@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "KOR_2015_DIS2",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvRElTMi9HRUhJLzE0NTUyL0tPUl8yMDE1X0RJUzIuaW5mIiwiaXNOc3VtIjp0cnVlfQ.JcjfTBalLGFMGHsrv99jFZFMRoRr40hfM9T3n04u6Lk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvRElTMi9HRUhJLzE2MzY3L0tPUl8yMDE1X0RJUzIuaW5mIiwiaXNOc3VtIjp0cnVlfQ.D9T1U4t2W_KSeSqz1QP_SR-voMihB14CAjuTslT4ipM",
   "dvcName": "EQ900 [EQ900 내비게이션]",
   "engDvcName": "EQ900 [EQ900 Premium]",
   "engVclName": "040_EQ900",
@@ -13,7 +13,7 @@
   "platformCode": "10",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "HI_R*"

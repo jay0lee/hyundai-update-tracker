@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "NIRO_EV_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREUvMTM5ODYvTklST19FVl9VVk8uaW5mIiwiaXNOc3VtIjp0cnVlfQ.Z5dqTEGKIFkVvdgvXKmFXwL_ZnrYdM3FDUBTzmHds60",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREUvMTYzODYvTklST19FVl9VVk8uaW5mIiwiaXNOc3VtIjp0cnVlfQ.lcnARxRaNrKZNLyoWYbSQB9MV7puwj6CvOxgt0MZHWI",
   "dvcName": "니로 Electric [표준형 5세대 UVO]",
   "engDvcName": "Niro EV [Standard Gen5 UVO]",
   "engVclName": "Niro",
@@ -14,7 +14,7 @@
   "platformCode": "12",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DE_EV.KOR.SOP.???.??????.STD_H",

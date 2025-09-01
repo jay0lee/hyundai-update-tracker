@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_Carnival_2017_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjk3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZUC8xNDM4NS9BbGxfTmV3X0Nhcm5pdmFsXzIwMTdfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.cr5DVVNod9UuB_M86uuW3epeNR9WI0_An70v2VG6LsA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjk3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZUC8xNjMyMy9BbGxfTmV3X0Nhcm5pdmFsXzIwMTdfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.-n67sq11hPoDPkwgEc1GPPP0JphEZojYddqlZ5EStMw",
   "dvcName": "All New 카니발 2017 [표준형 4세대 UVO]",
   "engDvcName": "All New Carnival 2017 [Standard Gen4 UVO]",
   "engVclName": "Carnival",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YPPE.KOR.E*"

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "EV9GT_ccNC_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NjQ2L0VWOUdUX2NjTkNfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.QRxGb95Hj0vE-fVV92YsEiFriZ221wH3jmSSQmSWcJo",
+  "dvcName": "EV9 GT [ccNC Kia Connect]",
+  "engDvcName": "EV9 GT [ccNC Kia Connect]",
+  "engVclName": "EV9",
+  "mcode": "2000",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1GTAE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.09",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1GT.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "MV1GT.KOR.ccNC.001.001.250812"
+  ],
+  "vclName": "EV9"
+}

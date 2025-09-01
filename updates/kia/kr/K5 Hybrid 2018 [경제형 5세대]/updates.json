@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "K5_Hybrid_2018",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0tGLzEzOTcyL0s1X0h5YnJpZF8yMDE4LmluZiIsImlzTnN1bSI6dHJ1ZX0.h5iwh3F-X9SlavNjfa9PM4a8-yJBzeeCC_1NAGAryu4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0tGLzE2MTU5L0s1X0h5YnJpZF8yMDE4LmluZiIsImlzTnN1bSI6dHJ1ZX0.v08gOdtYP-WtpTyiRfTKSAfJNDKEbtqgDspwbPeoxJw",
   "dvcName": "K5 Hybrid 2018 [경제형 5세대]",
   "engDvcName": "K5 Hybrid 2018 [Compact Gen5]",
   "engVclName": "K5",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JF_HEV_18MY.KOR.SOP.???.??????"

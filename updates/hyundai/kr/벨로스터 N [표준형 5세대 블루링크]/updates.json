@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Veloster_N_BlueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzg2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ0pTLzE0Njk4L1ZlbG9zdGVyX05fQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.gLn1InvrE4BPxu5kqev8EQBnAw8jQK_0xJpR4bDeRJc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzg2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ0pTLzE2MTI3L1ZlbG9zdGVyX05fQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.RJprJW6C-DlR2sX335t1-E9Eth4yVGhxoEuRvN_3Kgs",
   "dvcName": "벨로스터 N [표준형 5세대 블루링크]",
   "engDvcName": "Veloster N [Standard Gen5 Bluelink]",
   "engVclName": "Veloster",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JSN.KOR.SOP.V???.??????.STD_H"

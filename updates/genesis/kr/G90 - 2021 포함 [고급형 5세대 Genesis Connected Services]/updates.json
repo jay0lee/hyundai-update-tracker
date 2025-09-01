@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "G90_2021_Premium_Gen5_Genesis_Connected_Services",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0hJLzE0NTgxL0c5MF8yMDIxX1ByZW1pdW1fR2VuNV9HZW5lc2lzX0Nvbm5lY3RlZF9TZXJ2aWNlcy5pbmYiLCJpc05zdW0iOnRydWV9.XFB_pfFNodf7z5Tgc60-fAiIV_ZujTNTIqYtM3j_WQ8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0hJLzE2MTAzL0c5MF8yMDIxX1ByZW1pdW1fR2VuNV9HZW5lc2lzX0Nvbm5lY3RlZF9TZXJ2aWNlcy5pbmYiLCJpc05zdW0iOnRydWV9.uQVsF4KnAxB3Hij74ErADRIcZbbJgD4TIDE0W1Tf0iw",
   "dvcName": "G90 / 2021 포함 [고급형 5세대 Genesis Connected Services]",
   "engDvcName": "G90 / 2021 [Premium Gen5 Genesis Connected Services]",
   "engVclName": "010_G90",
@@ -14,13 +14,13 @@
   "platformCode": "13",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "HI.KOR.P5.???.*"
   ],
   "swVers": [
-    "HI.KOR.P5.001.034.250220"
+    "HI.KOR.P5.001.035.250716"
   ],
   "vclName": "010_G90"
 }

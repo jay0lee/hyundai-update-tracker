@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "K7_2017_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzIwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZRy8xNDM4MC9LN18yMDE3X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.MZw4NJsCOPrGw_gxMo70tlkBWwJ-ASZpwZfgkKQ-IkQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzIwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZRy8xNjMxOC9LN18yMDE3X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.wEWsh9QExNb4QhNwVfub5E-5YoIvg3Sdo22DLZrdhEk",
   "dvcName": "K7 2017 [표준형 4세대 UVO]",
   "engDvcName": "K7 2017 [Standard Gen4 UVO]",
   "engVclName": "K7",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YG17.KOR.E*"

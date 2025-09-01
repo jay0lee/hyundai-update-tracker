@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "BongoIII_KOR_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc3NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL0dFTjVfV0lERS9QVS8xNTAyMi9Cb25nb0lJSV9LT1JfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.YKNezENcvbhHlWRkyYbl-BM2yY4UOcOzLRpFKQ2v8Lk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc3NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL0dFTjVfV0lERS9QVS8xNjQ5OS9Cb25nb0lJSV9LT1JfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.UPS2ZkkqaRWo75E5up6VL9K0QGL5_28fzK1fyHSR89E",
   "dvcName": "봉고 III 2024 LPDi [표준형 5W세대 Kia Connect]",
   "engDvcName": "Bongo  III 2024 LPDi  [Standard Gen5W Kia Connect]",
   "engVclName": "Bongo",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PU_24.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "PU_24.KOR.S5W_M.V035.001.250507"
+    "PU_24.KOR.S5W_M.V035.003.250714"
   ],
   "vclName": "봉고"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_SUV_SPORTAGE_2017",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1FMLzEzOTc5L1RoZV9TVVZfU1BPUlRBR0VfMjAxNy5pbmYiLCJpc05zdW0iOnRydWV9.-l0MitZuxXhzuP7oKpqgenoX7WWTiudDspfgPv5iBUA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1FMLzE2MTY2L1RoZV9TVVZfU1BPUlRBR0VfMjAxNy5pbmYiLCJpc05zdW0iOnRydWV9.hazaEsC7QfOQZgq02VvspvjHC1p2b5enidAr41cW0kM",
   "dvcName": "스포티지 2017 [경제형 5세대]",
   "engDvcName": "Sportage 2017 [Compact Gen5]",
   "engVclName": "Sportage",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QL_17MY.KOR.SOP.???.??????",

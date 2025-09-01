@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "ACCENT_2015_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IQlJCLzE0NDUwL0FDQ0VOVF8yMDE1X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.9LG8SToNp5HYF_s8JDGRU7w8OaIsf4lIsIOMcEEJNzM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IQlJCLzE2NDc1L0FDQ0VOVF8yMDE1X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.O3HvRV8JdjcHBDHcF3_e88s5aLfAdb293KVKiJAeUdg",
   "dvcName": "엑센트 2015 [표준형 3세대]",
   "engDvcName": "Accent 2015 [Standard Gen3]",
   "engVclName": "Accent",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RB14A4.KOR.SOP.14.*",
@@ -21,6 +21,7 @@
     "RB14_4.KOR.SOP.14.*"
   ],
   "swVers": [
+    "RB14B4.KOR.SOP.14.040",
     "RB14A4.KOR.SOP.14.040"
   ],
   "vclName": "엑센트"

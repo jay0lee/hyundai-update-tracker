@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_K5_2018_Hybrid_Standard_Gen5_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0pGIDE4TVkvMTM5OTAvVGhlX05ld19LNV8yMDE4X0h5YnJpZF9TdGFuZGFyZF9HZW41X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.MsZtLyB8P6gwnpvjtsA_69MFLxyI0qelpM0SQGo6usg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0pGIDE4TVkvMTYzOTAvVGhlX05ld19LNV8yMDE4X0h5YnJpZF9TdGFuZGFyZF9HZW41X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.IufCYzI3hEJhNN-XqQliS_xm-_lVA3MDNJmfaQPfabY",
   "dvcName": "The New K5 2018 / Hybrid 포함 [표준형 5세대 UVO]",
   "engDvcName": "The New K5 2018 / Hybrid [Standard Gen5 UVO]",
   "engVclName": "K5",
@@ -14,7 +14,7 @@
   "platformCode": "12",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JF_PE.KOR.SOP.???.??????.STD_H",

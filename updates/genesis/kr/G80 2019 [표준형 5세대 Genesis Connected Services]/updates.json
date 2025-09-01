@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_G80_2019_GCS",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDAwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9HRUdILzE0NjkzL0dFTkVTSVNfRzgwXzIwMTlfR0NTLmluZiIsImlzTnN1bSI6dHJ1ZX0.xPYBRc3Wvc7AB_yukI4ljj_nG-LauzhdD2UYJPsdiY0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDAwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9HRUdILzE2MTIyL0dFTkVTSVNfRzgwXzIwMTlfR0NTLmluZiIsImlzTnN1bSI6dHJ1ZX0.__vDD_EzH3O5bQOXfvpsBw8aZISZprASKT73e-QYne0",
   "dvcName": "G80 2019 [표준형 5세대 Genesis Connected Services]",
   "engDvcName": "G80 2019 [Standard Gen5 Genesis Connected Services]",
   "engVclName": "020_G80",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DH19.KOR.SOP.V???.??????.STD_H"

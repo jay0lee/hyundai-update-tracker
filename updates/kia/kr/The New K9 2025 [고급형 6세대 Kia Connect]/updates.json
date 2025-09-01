@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K9_2025_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAwMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L1JKLzE2MTEyL1RoZV9OZXdfSzlfMjAyNV9LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.VyIrdm36r1LZ-h8iS72L_hGbGouSBcJWhW_hE0jMh8g",
+  "dvcName": "The New K9 2025 [고급형 6세대 Kia Connect]",
+  "engDvcName": "The New K9 2025 [Premium Gen6 Kia Connect]",
+  "engVclName": "K9",
+  "mcode": "2001",
+  "mediaType": "USB",
+  "modelNames": [
+    "RJAS.P6CLC.KR"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.09",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RJPE.KOR.P6.???.???.??????"
+  ],
+  "swVers": [
+    "RJPE.KOR.P6.001.015.250717"
+  ],
+  "vclName": "K9"
+}

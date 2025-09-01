@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_i40",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjUyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRERGLzE0MzczL1RoZV9OZXdfaTQwLmluZiIsImlzTnN1bSI6dHJ1ZX0._dIlcIZ6XBLz_bY7Q-MATl5C3483u6X06HX_eNIO-t0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjUyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRERGLzE2MzExL1RoZV9OZXdfaTQwLmluZiIsImlzTnN1bSI6dHJ1ZX0.hhBbGONtB9TqIqKRpa2j6j5IKo_jvaVnBle4Vultbjo",
   "dvcName": "더 뉴 i40 [표준형 4세대]",
   "engDvcName": "The New i40 [Standard Gen4]",
   "engVclName": "i40",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.VFNT.KOR.E*"
