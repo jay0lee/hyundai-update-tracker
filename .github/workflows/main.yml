@@ -58,11 +58,14 @@ jobs:
             done
           done
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add updates/*
+          git diff --quiet && git diff --staged --quiet || git commit -am 'update changes [ci skip]'
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Automated changes"
-          title: "Updates needed to GitHub Action Versions"
-          body: "This PR was created automatically by a GitHub Action."
-          branch: "automated-pr-branch" #
+          github_token: ${{ secrets.GITHUB_TOKEN }} 
