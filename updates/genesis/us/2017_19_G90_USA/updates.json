@@ -16,7 +16,7 @@
   "releaseDate": "2025.04",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "R31.*"
+    "HI_R31.*"
   ],
   "swVers": [
     "HI_R31.0.17_24223A"

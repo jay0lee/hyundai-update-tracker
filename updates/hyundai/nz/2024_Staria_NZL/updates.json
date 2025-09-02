@@ -17,10 +17,10 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "US4.AUS.S5W_L.*"
+    "US4_24.AUS.S5W_L.*"
   ],
   "swVers": [
-    "US4.AUS.S5W_L.001.001.241220"
+    "US4_24.AUS.S5W_L.001.001.241220"
   ],
   "vclName": "Staria"
 }
