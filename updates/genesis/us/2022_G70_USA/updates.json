@@ -3,8 +3,8 @@
   "destPath": "2022_G70_USA",
   "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEyMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvSUsgRkwvMTAzMjcvMjAyMl9HNzBfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.c8cR3O26ejxpdxdfdgz_v9XoCqrfWuQugzShIZTffd4",
   "dvcName": "2022-24 G70",
-  "engDvcName": "",
-  "engVclName": "",
+  "engDvcName": "2022-24 G70",
+  "engVclName": "G70",
   "mcode": "1123",
   "mediaType": "USB",
   "modelNames": [
