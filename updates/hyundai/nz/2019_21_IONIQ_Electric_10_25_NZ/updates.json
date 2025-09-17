@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_21_IONIQ_Electric_10_25_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTIxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRV9FX1BFLzExNjMwLzIwMTlfMjFfSU9OSVFfRWxlY3RyaWNfMTBfMjVfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.QdcIaIhDAUl1AHVQqZnNuQ7_Ux9whlDHF_NR4avyyKs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTIxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRV9FX1BFLzE1MjA0LzIwMTlfMjFfSU9OSVFfRWxlY3RyaWNfMTBfMjVfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.7ik0k7nXcoxHnAfANcJLA6SnWYnYiU8WaNH1bvbLjqc",
   "dvcName": "2020-22 IONIQ Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "AE_E_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "AE_E_PE.AUS.S5W_L.001.001.241220"
+    "AE_E_PE.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "IONIQ Electric"
 }

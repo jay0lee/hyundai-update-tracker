@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_Niro_Plugin_Hybrid_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvU0cyUDI1LzE0MTM0LzIwMjVfTmlyb19QbHVnaW5fSHlicmlkX05aTC5pbmYiLCJpc05zdW0iOnRydWV9.5PbR4EdH8mY2_P_lfNEoXxAazNFKAS_Dj3ZGnfg3sZw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTgzLzIwMjVfTmlyb19QbHVnaW5fSHlicmlkX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.8QcfCuzxqUnoNyBHKci7Vp_VJ3NaB02hLd4wqfey8VY",
   "dvcName": "2024-25 Niro Plug-in Hybrid",
   "engDvcName": "2024-25 Niro Plug-in Hybrid",
   "engVclName": "Niro Plug-in Hybrid",
@@ -19,7 +19,7 @@
     "SG2_P_25.AUS.S5W_L*"
   ],
   "swVers": [
-    "SG2_P_25.AUS.S5W_L.001.001.241220"
+    "SG2_P_25.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Niro Plug-in Hybrid"
 }

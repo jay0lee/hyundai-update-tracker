@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Kona_Iron_man_edition_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTI1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgU0UvMzkwOC8yMDE5X0tvbmFfSXJvbl9tYW5fZWRpdGlvbl9OWi5pbmYiLCJpc05zdW0iOnRydWV9.H2bMrUJP3Ps7VnogzwQ_S6MmtRv6nwZds57l0m-QhHk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTI1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgU0UvMTQ5OTAvMjAxOV9Lb25hX0lyb25fbWFuX2VkaXRpb25fTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.xVf0-T5NLkfyer1w-wazxEAeDkS5dclDSc9YS0EMzas",
   "dvcName": "2019 Kona (Iron man edition)",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OSSE.AUS.SOP.V*"
   ],
   "swVers": [
-    "OSSE.AUS.SOP.V142.240531.STD_M"
+    "OSSE.AUS.SOP.V142.250502.STD_M"
   ],
   "vclName": "Kona"
 }

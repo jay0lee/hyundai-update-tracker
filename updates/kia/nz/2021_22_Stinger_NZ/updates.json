@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_22_Stinger_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ0tfUEUvMTE2NzIvMjAyMV8yMl9TdGluZ2VyX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.E93QwU3lHaG3P8fOCh0p3qmuOt7xvJ_WqawbJMdPeko",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ0tfUEUvMTUyNDYvMjAyMV8yMl9TdGluZ2VyX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.tp6MaGNV4hulJbNjR2KL7dMAyjTKW9-wZyEpKRWnIuk",
   "dvcName": "2021-22 Stinger",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "CK_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "CK_PE.AUS.S5W_L.001.001.241220"
+    "CK_PE.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Stinger"
 }

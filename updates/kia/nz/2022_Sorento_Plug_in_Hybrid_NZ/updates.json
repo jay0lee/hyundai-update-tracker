@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_Sorento_Plug_in_Hybrid_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0X1BfMjIvMTE2NzUvMjAyMl9Tb3JlbnRvX1BsdWdfaW5fSHlicmlkX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.U-wPA2NP_jz6IQgTZIirOgrIXUAqpVa1iSwfuWnu1Js",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0X1BfMjIvMTUyNDkvMjAyMl9Tb3JlbnRvX1BsdWdfaW5fSHlicmlkX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.mgY_Yt2BvdsYUlW6DJrF8irYcc5k6j_5pyoPKg7q9fQ",
   "dvcName": "2022 Sorento Plug-in  Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "MQ4_P_22.AUS.S5W_L.*"
   ],
   "swVers": [
-    "MQ4_P_22.AUS.S5W_L.001.001.241220"
+    "MQ4_P_22.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Sorento Plug-in Hybrid"
 }

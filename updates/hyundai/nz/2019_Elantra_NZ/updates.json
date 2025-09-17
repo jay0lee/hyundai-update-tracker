@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Elantra_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTE1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQUQgUEUvMzkwNi8yMDE5X0VsYW50cmFfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.zs_dfXSAGB1whKGNtc_3Dhb7gv-zp3gXQupD-ropwwc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTE1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQUQgUEUvMTQ5ODcvMjAxOV9FbGFudHJhX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.qeHPvsPNHurwzqQBrh0kgCnU3rdKBebN82OQa5_Q2ag",
   "dvcName": "2019 Elantra",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ADPE.AUS.SOP.V*"
   ],
   "swVers": [
-    "ADPE.AUS.SOP.V142.240531.STD_M"
+    "ADPE.AUS.SOP.V142.250502.STD_M"
   ],
   "vclName": "Elantra"
 }

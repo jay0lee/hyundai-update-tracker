@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_22_Canival_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvS0E0LzExNjI2LzIwMjFfMjJfQ2FuaXZhbF9OWi5pbmYiLCJpc05zdW0iOnRydWV9.SoB5o6KdiwBamUMeVgkHeODNQx9ZeYa7I_IjdDe3vpE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvS0E0LzE1MjAwLzIwMjFfMjJfQ2FuaXZhbF9OWi5pbmYiLCJpc05zdW0iOnRydWV9.85-bHBjnb6OyD7ndwaaOysvKhhTQmN3cJUrRdrIKfL8",
   "dvcName": "2021-22 Carnival",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "KA4.AUS.S5W_L.*"
   ],
   "swVers": [
-    "KA4.AUS.S5W_L.001.001.241220"
+    "KA4.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Carnival"
 }

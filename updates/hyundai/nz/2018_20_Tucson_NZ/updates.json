@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_20_Tucson_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTMyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvVEwgRkwvMzkxMi8yMDE4XzIwX1R1Y3Nvbl9OWi5pbmYiLCJpc05zdW0iOnRydWV9.QtXH5XviSyFg9nHoNsqwEEWny4Po-UGrgTaZl5V-Uxs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTMyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvVEwgRkwvMTQ5OTQvMjAxOF8yMF9UdWNzb25fTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.D8s8lM2QjRgmjNGc3QTY8qReW8tb-6nq1KUJE4xMUpY",
   "dvcName": "2018-20 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "TLFL.AUS.SOP.V*"
   ],
   "swVers": [
-    "TLFL.AUS.SOP.V142.240531.STD_M"
+    "TLFL.AUS.SOP.V142.250502.STD_M"
   ],
   "vclName": "Tucson"
 }

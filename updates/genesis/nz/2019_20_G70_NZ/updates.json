@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2019_20_G70_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSUsvMzkwNS8yMDE5XzIwX0c3MF9OWi5pbmYiLCJpc05zdW0iOnRydWV9.HTe6I9RDAZVTWJ2gPXAiOugq_DEN8HEwHzPBkaKE3_E",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSUsvMTQ5ODQvMjAxOV8yMF9HNzBfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.x7z84D0F2kTn4sS-NpUcDO_vT5x-D-mGvSE9Uot74SU",
   "dvcName": "2019-20 G70",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "IK.AUS.SOP.V*"
   ],
   "swVers": [
-    "IK.AUS.SOP.V142.240531.STD_M"
+    "IK.AUS.SOP.V142.250502.STD_M"
   ],
   "vclName": "G70"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_23_Seltos_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI1NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1AyXzIyLzExNjY0LzIwMjJfMjNfU2VsdG9zX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.DKqB6iaxL_bQvIrNHWdifwzq95JI82xUshDrqb8OcUc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI1NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1AyXzIyLzE1MjM4LzIwMjJfMjNfU2VsdG9zX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.vQSLyAxQoRALwOfXgTRd4CBN12j3py4vd1RPYaYI6WA",
   "dvcName": "2022-23 Seltos",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "SP2_22.AUS.S5W_L.*"
   ],
   "swVers": [
-    "SP2_22.AUS.S5W_L.001.001.241220"
+    "SP2_22.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Seltos"
 }

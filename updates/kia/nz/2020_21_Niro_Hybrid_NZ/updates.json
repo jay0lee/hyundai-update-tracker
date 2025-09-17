@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2020_21_Niro_Hybrid_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ERV9IX1BFLzExNjUxLzIwMjBfMjFfTmlyb19IeWJyaWRfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.TbFkPfwIgHcjI_YsKE7kzd-iid3aH7PYQVWx2HnfkgQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ERV9IX1BFLzE1MjI1LzIwMjBfMjFfTmlyb19IeWJyaWRfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.9y8LoPUI50DhCPAR1T8gpwALbxPPr2cu30fZK-NNxNM",
   "dvcName": "2021 Niro Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "DE_H_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "DE_H_PE.AUS.S5W_L.001.001.241220"
+    "DE_H_PE.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Niro Hybrid"
 }

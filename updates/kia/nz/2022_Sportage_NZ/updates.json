@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_Sportage_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlE1LzExNjcxLzIwMjJfU3BvcnRhZ2VfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.LCxJHyD0P3T-gkEWFzQilqhhcECmHrgWXKIdArLPg0k",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlE1LzE1MjQ1LzIwMjJfU3BvcnRhZ2VfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.kir7-Cs4zdcIC3OUhdB_I2sIKGdTJe-8_XH2aXbQMqs",
   "dvcName": "2022 Sportage",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "NQ5.AUS.S5W_L.*"
   ],
   "swVers": [
-    "NQ5.AUS.S5W_L.001.001.241220"
+    "NQ5.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Sportage"
 }

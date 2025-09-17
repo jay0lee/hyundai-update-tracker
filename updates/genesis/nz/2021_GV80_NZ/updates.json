@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2021_GV80_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIwNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9KWDEvNTg2OC8yMDIxX0dWODBfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.qsnQ_zm2PpXKaGcRZ4mhhtQlS2u-hqX0h1nChUGQSyk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIwNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9KWDEvMTQ5NDgvMjAyMV9HVjgwX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.9waxWuWGiqBOW_kAmaGuh_GSD12CC4orCU10_HrYQXs",
   "dvcName": "2021 GV80",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "JX1.AUS.P6.*"
   ],
   "swVers": [
-    "JX1.AUS.P6.001.008.240704"
+    "JX1.AUS.P6.001.010.250429"
   ],
   "vclName": "GV80"
 }

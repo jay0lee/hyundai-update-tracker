@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_Niro_Electric_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU3NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0cyIEVWLzExNjUwLzIwMjNfTmlyb19FbGVjdHJpY19OWi5pbmYiLCJpc05zdW0iOnRydWV9.RKbAW_wqgrab2PALouAyJWhQVoeX8nqv4r9i0PtHyxs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU3NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0cyIEVWLzE1MjI0LzIwMjNfTmlyb19FbGVjdHJpY19OWi5pbmYiLCJpc05zdW0iOnRydWV9.ybUvB7dUpq2Yf3evpllrX7W0roDeI3c7yUZR47ddUUY",
   "dvcName": "2023-24 Niro Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -20,7 +20,7 @@
     "SG2_E.AUS.S5W_L.*"
   ],
   "swVers": [
-    "SG2_E.AUS.S5W_L.001.001.241220"
+    "SG2_E.AUS.S5W_L.001.001.250518"
   ],
   "vclName": "Niro Electric"
 }

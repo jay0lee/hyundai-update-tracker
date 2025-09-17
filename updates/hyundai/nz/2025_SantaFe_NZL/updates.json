@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_SantaFe_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01YNS8xNDA0Ny8yMDI1X1NhbnRhRmVfTlpMLmluZiIsImlzTnN1bSI6dHJ1ZX0.p7rwES9TIIuqiE-frbwWm16SugEEQymbgroB-0GnpjY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTI3LzIwMjVfU2FudGFGZV9OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.1JYIaB90GFFdVKkBkkl5MHW8edpUj5cEC8V-c94ocAE",
   "dvcName": "2024-25 Santa Fe",
   "engDvcName": "2024-25 Santa Fe",
   "engVclName": "Santa Fe",
@@ -21,8 +21,8 @@
     "MX5.NZL.ccNC_Lite*"
   ],
   "swVers": [
-    "MX5.NZL.ccNC.001.002.241218",
-    "MX5.NZL.ccNC_Lite.001.002.241218"
+    "MX5.NZL.ccNC.001.002.250630",
+    "MX5.NZL.ccNC_Lite.001.002.250630"
   ],
   "vclName": "Santa Fe"
 }

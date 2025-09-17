@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_TUCSON_Hybrid_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL05YNCBIRVYvMTQwNTIvMjAyNV9UVUNTT05fSHlicmlkX05aTC5pbmYiLCJpc05zdW0iOnRydWV9.jkeyLLKiOC8XOymtWvhrnQpcmYGUIBOOwag2VdZW_3s",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTE4LzIwMjVfVFVDU09OX0h5YnJpZF9OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.tp3lOPVlcP1ogSOePCQQroQT1ds8BrpIp_jT5PSoEeY",
   "dvcName": "2025 Tucson Hybrid",
   "engDvcName": "2025 Tucson Hybrid",
   "engVclName": "Tucson Hybrid",
@@ -21,8 +21,8 @@
     "NX4E.NZL.ccNC_Lite*"
   ],
   "swVers": [
-    "NX4E.NZL.ccNC.001.002.241218",
-    "NX4E.NZL.ccNC_Lite.001.002.241218"
+    "NX4E.NZL.ccNC.001.002.250630",
+    "NX4E.NZL.ccNC_Lite.001.002.250630"
   ],
   "vclName": "Tucson Hybrid"
 }

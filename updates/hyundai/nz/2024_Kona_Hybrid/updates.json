@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_Kona_Hybrid",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTcwMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0hGU1gvMTQwNDEvMjAyNF9Lb25hX0h5YnJpZC5pbmYiLCJpc05zdW0iOnRydWV9.gZHVxhCs3PchNPPMSeFuJpHvCoQmeYGmKVkumjEygEU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTcwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTMyLzIwMjRfS29uYV9IeWJyaWQuanNvbiIsImlzTnN1bSI6dHJ1ZX0.5ZWIK_aPGfBM0e50gBHrJf0EPTVDY06x5lvqVpfM_40",
   "dvcName": "2024 Kona Hybrid",
   "engDvcName": "2024 Kona Hybrid",
   "engVclName": "Kona Hybrid",
@@ -17,12 +17,12 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SX2.NWZ.ccNC.???.*",
-    "SX2.NWZ.ccNC_Lite.???.*"
+    "SX2.NZL.ccNC.???.*",
+    "SX2.NZL.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "SX2.NWZ.ccNC.001.002.241218",
-    "SX2.NWZ.ccNC_Lite.001.002.241218"
+    "SX2.NZL.ccNC.001.002.250630",
+    "SX2.NZL.ccNC_Lite.001.002.250630"
   ],
   "vclName": "Kona Hybrid"
 }

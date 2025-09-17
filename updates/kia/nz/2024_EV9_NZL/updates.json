@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2024_EV9_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTc0MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01WMS8xNDA0MC8yMDI0X0VWOV9OWkwuaW5mIiwiaXNOc3VtIjp0cnVlfQ.CWmzeiawHSXfdln8u3W6ld7bMGDZ-kIE3E8eQUgvRUE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTc0MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTMwLzIwMjRfRVY5X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.wI-gngQFIaN42a-Oft5fs-IvUNONtkd495MeVUTVX_g",
   "dvcName": "2024 EV9",
   "engDvcName": "2024 EV9",
   "engVclName": "EV9",
@@ -16,10 +16,10 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "MV1.NWZ.ccNC.*"
+    "MV1.NZL.ccNC.*"
   ],
   "swVers": [
-    "MV1.NWZ.ccNC.001.002.241218"
+    "MV1.NZL.ccNC.001.002.250630"
   ],
   "vclName": "EV9"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_20_i30_N_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUERlTi8zOTA3LzIwMThfMjBfaTMwX05fTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.BR0-PTa9Ye4D-VSM966RhjNE86VIdkvThPz3GyUr9h0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUERlTi8xNDk4OS8yMDE4XzIwX2kzMF9OX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.BeVgacw93qXU6Lm8yU5kkUoW9fCDFnxh0wTsYDhaMv4",
   "dvcName": "2018-20 i30 N",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "PDEN.AUS.SOP.V*"
   ],
   "swVers": [
-    "PDEN.AUS.SOP.V142.240531.STD_M"
+    "PDEN.AUS.SOP.V142.250502.STD_M"
   ],
   "vclName": "i30 N"
 }
