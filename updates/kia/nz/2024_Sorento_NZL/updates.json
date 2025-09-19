@@ -15,7 +15,7 @@
   "priority": "100",
   "registYn": "N",
   "releaseDate": "",
-  "serviceYn": "Y",
+  "serviceYn": "N",
   "swVerIdxs": [
     "MQ4PE.NZL.ccNC.*",
     "MQ4PE.NZL.ccNC_Lite.*"
