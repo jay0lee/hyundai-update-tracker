@@ -9,7 +9,7 @@
   "mediaType": "USB",
   "modelNames": [
     "SX2AS.SCBMC.US",
-    "SX2AS.SLBMC,US"
+    "SX2AS.SLBMC.US"
   ],
   "platformCode": "23",
   "priority": "495",
