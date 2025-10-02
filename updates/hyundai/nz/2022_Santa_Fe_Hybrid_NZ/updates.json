@@ -14,7 +14,7 @@
   "priority": "500",
   "registYn": "N",
   "releaseDate": "",
-  "serviceYn": "N",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "TM_H.AUS.S5W_L.*"
   ],
