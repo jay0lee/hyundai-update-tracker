@@ -8,8 +8,7 @@
   "mcode": "1829",
   "mediaType": "USB",
   "modelNames": [
-    "MQ4PEAP.SCBMC.US",
-    "MQ4PEAP.SLBMC.US"
+    "MQ4PEAP.SCBMC.US"
   ],
   "platformCode": "23",
   "priority": "499",
@@ -17,8 +16,7 @@
   "releaseDate": "2024.09",
   "serviceYn": "N",
   "swVerIdxs": [
-    "MQ4PE.USA.ccNC.???.*",
-    "MQ4PE.USA.ccNC_Lite.???.*"
+    "MQ4PE.USA.ccNC.???.*"
   ],
   "swVers": [
     "MQ4PE.USA.ccNC.001.002.241024"
