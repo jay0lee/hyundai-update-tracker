@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Solati_2023_Standard_Gen5W",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYzMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTcwMTgvU29sYXRpXzIwMjNfU3RhbmRhcmRfR2VuNVcuanNvbiIsImlzTnN1bSI6dHJ1ZX0.Jma3S9PTqwVaOp5viVq9XRj6d6DYX2QCnuvKGQSD2VE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYzMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc0MzcvU29sYXRpXzIwMjNfU3RhbmRhcmRfR2VuNVcuanNvbiIsImlzTnN1bSI6dHJ1ZX0.zS4uRCps6jFeIqZI-SMORhfA7Yqm8_CaUZuJvMEohVE",
   "dvcName": "쏠라티 2023 [표준형 5W세대]",
   "engDvcName": "Solati 2023 [Standard Gen5W]",
   "engVclName": "Solati",
@@ -13,7 +13,7 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
     "EU_22.KOR.S5W_M.V???.*"

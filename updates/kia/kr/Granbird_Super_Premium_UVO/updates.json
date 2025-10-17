@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Granbird_Super_Premium_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODU0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzAxOS9HcmFuYmlyZF9TdXBlcl9QcmVtaXVtX1VWTy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.udsFaEJW15HaZP0x9VlZPow_cEqdUZEalyphQwgEBR4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODU0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzQzOC9HcmFuYmlyZF9TdXBlcl9QcmVtaXVtX1VWTy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.hfztaA-FG-8SlvKXRtHfU5JYlgx3liH6FgJltEj-Pw4",
   "dvcName": "그랜버드 슈퍼 프리미엄 [표준형 5W세대 Kia Connect]",
   "engDvcName": "Granbird Super Premium [Standard Gen5W Kia Connect]",
   "engVclName": "Granbird",
@@ -13,7 +13,7 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
     "GZ.KOR.S5W_M.V???.*"
