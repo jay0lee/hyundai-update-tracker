@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2025_Electrified_GV70_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg2MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9KSzFfMjUgRVYvMTEwNDkvMjAyNV9FbGVjdHJpZmllZF9HVjcwX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.DwgFtW1XyLEy44V2mJMNnzrkZSnUANXRLMk-FbTInbk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg2MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2MjEvMjAyNV9FbGVjdHJpZmllZF9HVjcwX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Sm3wmuNd9_S9uyOLeivw2xNbcjoG837uLUScsuyxFtY",
   "dvcName": "2025 Electrified GV70",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
-  "serviceYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "JK1.USA.P6.???.*"
   ],
   "swVers": [
-    "JK1.USA.P6.001.009.241212"
+    "JK1.USA.P6.001.010.250808"
   ],
   "vclName": "Electrified GV70"
 }

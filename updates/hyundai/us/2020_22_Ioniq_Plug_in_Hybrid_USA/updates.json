@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2020_22_Ioniq_Plug_in_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRSBQSEVWIFBFLzEwMzMxLzIwMjBfMjJfSW9uaXFfUGx1Z19pbl9IeWJyaWRfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.lKMhSMq2_aMN13LRE31CZKdQzmsYO4Pweh6kgqMJ1LM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjcyNC8yMDIwXzIyX0lvbmlxX1BsdWdfaW5fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.cLdenH1v4MLsgwBcsr3o2RvAPhyt6hMLIQo_Qtdpwb8",
   "dvcName": "2020-22 Ioniq Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.04",
-  "serviceYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "AEPEPHEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "AEPEPHEV.USA.S5W_M.V013.010.241120"
+    "AEPEPHEV.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Ioniq Plug-in Hybrid"
 }

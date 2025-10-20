@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2016_17_Veloster_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjgzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvRlMvMTA1NDMvMjAxNl8xN19WZWxvc3Rlcl9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.D427OOSvU6ifWplVH-LtDaFhoYEN2m70z1TPpMYPF1I",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjgzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvRlMvMTUzMjMvMjAxNl8xN19WZWxvc3Rlcl9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.qMai5KXdFsnNqg23MtSkXXDfFMXq8nMcE31-qKHXtZc",
   "dvcName": "2016-17 Veloster",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.FS.USA.E*"
   ],
   "swVers": [
-    "ST.FS.USA.E543.241029"
+    "ST.FS.USA.E543.250408"
   ],
   "vclName": "Veloster"
 }

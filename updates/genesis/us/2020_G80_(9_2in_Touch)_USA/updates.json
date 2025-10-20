@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2020_G80_(9_2in_Touch)_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0RIMTlNWS8xMDAwMS8yMDIwX0c4MF8oOV8yaW5fVG91Y2gpX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.QwUnf5bR2mJSMvAlNPsC3VcKbaMtqaBCTexmNoR7VHk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjU5OC8yMDIwX0c4MF8oOV8yaW5fVG91Y2gpX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.ey_OYFdo3vcqH2d9m0sI-cod2_daWp30PpZ9C1MaWZE",
   "dvcName": "2020 G80 (9.2 in. Touchscreen)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "16",
   "priority": "490",
   "registYn": "N",
-  "releaseDate": "2025.04",
-  "serviceYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "DH19MY.USA.P5.???.*"
   ],
   "swVers": [
-    "DH19MY.USA.P5.001.014.241118"
+    "DH19MY.USA.P5.001.015.250729"
   ],
   "vclName": "G80"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_Stinger_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTczNTMvMjAyM19TdGluZ2VyX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.TLKL6nWMzW__XxSI3_SSj4i2xEhidVvk6U2SLozXtkw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTczNzAvMjAyM19TdGluZ2VyX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.zIQk_sPNSaJ5CK1WF41C3ry9BD1GoRYd4KsdoybdmiU",
   "dvcName": "2023 Stinger",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "CK_PE_23.USA.S5W_M.V*"
   ],
   "swVers": [
-    "CK_PE_23.USA.S5W_M.V013.010.241120"
+    "CK_PE_23.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Stinger"
 }

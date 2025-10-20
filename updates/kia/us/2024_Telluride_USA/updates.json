@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2024_Telluride_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTcxNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT04gMjRNWS8xMDMyNS8yMDI0X1RlbGx1cmlkZV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.XHC9LHPtGOVIHE30yTNkSYaLIxEe_VCe3jhxZgjFNB8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTcxNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3MTgvMjAyNF9UZWxsdXJpZGVfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Ex6-NwPtowIXrnSjLPofpVOPsnZ12JEZCkEnUl9b29w",
   "dvcName": "2024-25 Telluride",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "ON_PE.USA.S5W_M.V*"
   ],
   "swVers": [
-    "ON_PE.USA.S5W_M.V013.010.241120"
+    "ON_PE.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Telluride"
 }

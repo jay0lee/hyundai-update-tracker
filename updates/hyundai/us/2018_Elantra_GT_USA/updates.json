@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Elantra_GT_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUEQvMTAxNTYvMjAxOF9FbGFudHJhX0dUX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.UdxTnrBCudz_6iysRzddPFdWBZerhu6fAjD0LUFsaPM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUEQvMTU0MTUvMjAxOF9FbGFudHJhX0dUX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.Xliw09DcVsLyXtaP2zd9ShiPOkaZJxyOkAIzZckFbgY",
   "dvcName": "2018 Elantra GT",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PD.USA.SOP.V*"
   ],
   "swVers": [
-    "PD.USA.SOP.V140.241103.STD_H"
+    "PD.USA.SOP.V140.250506.STD_H"
   ],
   "vclName": "Elantra GT"
 }

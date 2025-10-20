@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_K5_GT_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEyNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREwzYSBHVC8xMDM1MC8yMDIxX0s1X0dUX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.nEulVOeOISS-9s5IUryzGDYPkWgL0oOygUupu62D8Zs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3NDMvMjAyMV9LNV9HVF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.67aJgD0kawnQe7FYORn2UuN77lmsz5rIROSQpYtYXBc",
   "dvcName": "2021 K5 GT",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "DL3.USA.S5W_M.V*"
   ],
   "swVers": [
-    "DL3.USA.S5W_M.V013.010.241120"
+    "DL3.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "K5"
 }

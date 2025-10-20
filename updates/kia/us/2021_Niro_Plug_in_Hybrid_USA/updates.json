@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_Niro_Plug_in_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ERSBQSEVWIFBFLzEwMzM1LzIwMjFfTmlyb19QbHVnX2luX0h5YnJpZF9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.V3jxC7WKGCh2trUxXZ_bWC34wOio8WVoCnTDRoYPoDo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjcyOC8yMDIxX05pcm9fUGx1Z19pbl9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Uuu_0fPYyJU7OOw59QWcQLHKM85xIr9RS23b1m4Qaaw",
   "dvcName": "2020-21 Niro Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "DEPEPHEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "DEPEPHEV.USA.S5W_M.V013.010.241120"
+    "DEPEPHEV.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Niro Plug-in Hybrid"
 }

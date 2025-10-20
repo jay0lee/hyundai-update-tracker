@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Kona_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MvMTAxNjQvMjAxOF9Lb25hX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.7EM8fO5q1muvMoDeanyPDXwhb43uipOUUjMQoybpkVk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MvMTU0MzUvMjAxOF9Lb25hX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.ZoOKNxMFuwHPpZwjpNp38tHa6wrz8WadLjCFqChIVKM",
   "dvcName": "2018 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OS.USA.SOP.V*"
   ],
   "swVers": [
-    "OS.USA.SOP.V140.241103.STD_H"
+    "OS.USA.SOP.V140.250507.STD_H"
   ],
   "vclName": "Kona"
 }

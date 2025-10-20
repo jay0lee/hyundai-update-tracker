@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_Soul_Electric_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTM0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTczNDkvMjAyMl9Tb3VsX0VsZWN0cmljX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.DsSzCcjbwUhcgk60_x73p6QQI0yWoBPRk1ElcrL6R5E",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTM0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTczNjYvMjAyMl9Tb3VsX0VsZWN0cmljX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.w6VZMpOdYIEftcbtIcUuEbyWTch4CTsZRpFru4T_cHE",
   "dvcName": "2022 Soul Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "SK3_E_22.USA.S5W_M.V*"
   ],
   "swVers": [
-    "SK3_E_22.USA.S5W_M.V013.010.241120"
+    "SK3_E_22.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Soul Electric"
 }

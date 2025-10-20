@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2020_Niro_Electric_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ERSBFViBQRS8xMDMzNC8yMDIwX05pcm9fRWxlY3RyaWNfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.aOVBxj8h6fROKSckgHMHrL824M2xrvsnwet95mllpr8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjcyNy8yMDIwX05pcm9fRWxlY3RyaWNfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.NalwxXo9RUl1OuMy3d7eQYljhXBf1tVtDvs_qBSTOjc",
   "dvcName": "2020 Niro Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "N",
   "swVerIdxs": [
     "DE20EV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "DE20EV.USA.S5W_M.V013.010.241120"
+    "DE20EV.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Niro Electric"
 }

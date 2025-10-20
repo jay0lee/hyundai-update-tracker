@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Tucson_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlg0YSAyM01ZLzEwMzA3LzIwMjNfVHVjc29uX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.s4iLuzvHDQTbEFqh7FUy_dRJ8ifQJqe96E7-3LivSsM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3MDAvMjAyM19UdWNzb25fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.De_oDIxp6vLqD_7p_wkF4DmVXG3Rijupygzk1GTi73U",
   "dvcName": "2023-24 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.04",
-  "serviceYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "NX423.USA.S5W_M.V*"
   ],
   "swVers": [
-    "NX423.USA.S5W_M.V013.010.241120"
+    "NX423.USA.S5W_M.V014.010.250818"
   ],
   "vclName": "Tucson"
 }

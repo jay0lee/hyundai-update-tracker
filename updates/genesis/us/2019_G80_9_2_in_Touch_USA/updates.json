@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2019_G80_9_2_in_Touch_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU4yL0RIMThNWS8xMDEzMS8yMDE5X0c4MF85XzJfaW5fVG91Y2hfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.P8vbjIcZgDm8ovKsTZavUhUISHG5dUTke5WUn5Vi-AI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU4yL0RIMThNWS8xNDc1OS8yMDE5X0c4MF85XzJfaW5fVG91Y2hfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.bd83qAs1J4iStro4n2Nk56MlIBYSTyFl7IqvvimJVM0",
   "dvcName": "2019 G80 (9.2 in. Touchscreen)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "492",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2025.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DH18MY.USA.SOP.*"
