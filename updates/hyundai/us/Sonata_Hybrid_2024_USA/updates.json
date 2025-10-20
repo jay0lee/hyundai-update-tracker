@@ -21,8 +21,8 @@
     "DN8.USA.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "DN8.USA.ccNC.001.002.250930",
-    "DN8.USA.ccNC_Lite.001.002.250813"
+    "DN8.USA.ccNC_Lite.001.002.250813",
+    "DN8.USA.ccNC.001.002.250930"
   ],
   "vclName": "Sonata Hybrid"
 }
