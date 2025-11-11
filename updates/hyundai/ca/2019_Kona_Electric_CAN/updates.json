@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Kona_Electric_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgRVYvMTAxOTkvMjAxOV9Lb25hX0VsZWN0cmljX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.Mmfl60VCmxpK02kkxsHWnfMlu6BQz4LggxFrf_riebU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgRVYvMTU0MzEvMjAxOV9Lb25hX0VsZWN0cmljX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.b3xi03wwKIuQLnbB3I9fA4DXC-dko6u_4eVL4oQ85cU",
   "dvcName": "2019 Kona Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OSEV.CAN.SOP.V*"
   ],
   "swVers": [
-    "OSEV.CAN.SOP.V140.241103.STD_H"
+    "OSEV.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Kona Electric"
 }

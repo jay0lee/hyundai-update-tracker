@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Tucson_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlg0YS85MjYyLzIwMjJfVHVjc29uX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.emucjLM6Cuojeda5X0Xz7zAzq9SRz48-J6RbIQDOj4k",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NTMvMjAyMl9UdWNzb25fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.ZXg4RL2ewVIf7x6k089LHzm6IQwc6NSbl7GufNbO3Mg",
   "dvcName": "2022 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "NX4.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "NX4.CAN.S5W_M.V012.010.240822"
+    "NX4.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Tucson"
 }

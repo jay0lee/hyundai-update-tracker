@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_Forte_4Door_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ1OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQkRtIFBFIDREUi85MjgzLzIwMjJfRm9ydGVfNERvb3JfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.Yf7QTgLInQFW1uGdIXv8UegFekNMoveX6MYDSuWar38",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ1OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NzQvMjAyMl9Gb3J0ZV80RG9vcl9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.q6NJKbEWTvCfCy10XOYEBdHyWo9Nwz_gv_rTtvqdbig",
   "dvcName": "2022 Forte 4Door",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "BDPE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "BDPE.CAN.S5W_M.V012.010.240822"
+    "BDPE.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Forte"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2024_Seltos_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY2NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1AyIFBFLzkzMTcvMjAyNF9TZWx0b3NfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.JfeXkCOc_8d0uLUTRdwKZu9Kc7NzLY7T1ZwLZOhzP38",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY2NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTcwMDgvMjAyNF9TZWx0b3NfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.3i3GckfQ7dJXVCOs6MobV_Yu7r5wgng8SyCP0CqtxTc",
   "dvcName": "2024 Seltos",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "SP2_PE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "SP2_PE.CAN.S5W_M.V012.010.240822"
+    "SP2_PE.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Seltos"
 }

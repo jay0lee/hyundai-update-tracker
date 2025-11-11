@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Sonata_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwvMTAxNzEvMjAxOF9Tb25hdGFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.endDeuoub3TZNrKMTMTyt8QowwZAVRb1U9jzguroEmY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwvMTU0MTEvMjAxOF9Tb25hdGFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.4Y8wZGFTpG4g2ckDH8N9g6FzJZ_5SE_9M6Tn4y4n4nE",
   "dvcName": "2018 Sonata",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFFL.CAN.SOP.V*"
   ],
   "swVers": [
-    "LFFL.CAN.SOP.V140.241103.STD_H"
+    "LFFL.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Sonata"
 }

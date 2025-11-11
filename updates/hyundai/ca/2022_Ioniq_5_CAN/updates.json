@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Ioniq_5_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTMxOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTkUxLzkyNjQvMjAyMl9Jb25pcV81X0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.EiTzO_F1tQ55lEY5dnqT-qixG-fj7MiK2rXcuA4IzGw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTMxOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NTUvMjAyMl9Jb25pcV81X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.L4TT6UgwTjQAGnP1rGGP1OOSDuPpl9Xi27NuJ6svb9o",
   "dvcName": "2022 Ioniq 5",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "19",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "NEEV.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "NEEV.CAN.S5W_M.V012.010.240822"
+    "NEEV.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Ioniq 5"
 }

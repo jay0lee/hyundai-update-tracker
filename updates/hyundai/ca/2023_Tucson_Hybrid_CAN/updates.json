@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Tucson_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY1OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTlg0IEhFViAyM01ZLzkzMTAvMjAyM19UdWNzb25fSHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.ppGOh-6hFrTyVisrHMr73hSCBzSArdo8bsRvvcJoHYg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTY1OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTcwMDEvMjAyM19UdWNzb25fSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.C8pEdNiv9_yizFKDVwsqT3hDNlOq9NozJEFW8r0lKM8",
   "dvcName": "2023-24 Tucson Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "NX4HEV.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "NX4HEV.CAN.S5W_M.V012.010.240822"
+    "NX4HEV.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Tucson Hybrid"
 }

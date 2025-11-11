@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Sonata_plug_in_hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgUEhFViAxOU1ZLzEwMjEyLzIwMTlfU29uYXRhX3BsdWdfaW5faHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.OV1bYJ6_1EKfmO1PLiRvw8pxxsAJ0TuhHpkdO2B39e8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgUEhFViAxOU1ZLzE1NDQwLzIwMTlfU29uYXRhX3BsdWdfaW5faHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.xWce65djB8xItSHx51LCWitdoG1IVIR0MdoGg9ip2mk",
   "dvcName": "2019 Sonata Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFFLPHEV19.CAN.SOP.V*"
   ],
   "swVers": [
-    "LFFLPHEV19.CAN.SOP.V140.241103.STD_H"
+    "LFFLPHEV19.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Sonata Plug-in Hybrid"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Sonata_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgSEVWLzEwMTczLzIwMThfU29uYXRhX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.AhR45ZFit1qhG_fzlnIP63m4fNtncXuDhOWK3_1eRJQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgSEVWLzE1NDEzLzIwMThfU29uYXRhX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.7aJdB2MIdeD5KDz00UkiefSAGsjTWW7v_xxK_7CbFFE",
   "dvcName": "2018 Sonata Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFFLHEV.CAN.SOP.V*"
   ],
   "swVers": [
-    "LFFLHEV.CAN.SOP.V140.241103.STD_H"
+    "LFFLHEV.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Sonata Hybrid"
 }

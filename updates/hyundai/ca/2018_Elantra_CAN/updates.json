@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Elantra_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzI2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvQUROLzEwNTc0LzIwMThfRWxhbnRyYV9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.PBL78owXBweZVpy3MpLauBnn_xQ1chKL1xIvZhinus4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzI2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvQUROLzE1MzQ5LzIwMThfRWxhbnRyYV9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.vieDumIx-dwMHHgq8Y9uw76iJUMD3_vR0XjFVLvylyg",
   "dvcName": "2018 Elantra Sport",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.ADN.CAN.E*"
   ],
   "swVers": [
-    "ST.ADN.CAN.E543.241029"
+    "ST.ADN.CAN.E543.250408"
   ],
   "vclName": "Elantra"
 }

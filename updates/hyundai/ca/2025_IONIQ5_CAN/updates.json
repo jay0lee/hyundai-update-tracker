@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_IONIQ5_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjAwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzI3LzIwMjVfSU9OSVE1X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.vkT23eFM_erxzkZ7A16bh2CXxr8h0DzMZT0-tZjq4GQ",
+  "dvcName": "2025 Ioniq 5",
+  "engDvcName": "2025 Ioniq 5",
+  "engVclName": "Ioniq 5",
+  "mcode": "2005",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1AE.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1.CAN.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1.CAN.ccNC.001.002.250930"
+  ],
+  "vclName": "Ioniq 5"
+}

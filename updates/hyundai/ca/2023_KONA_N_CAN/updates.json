@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_KONA_N_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1MgTiAyM01ZLzkyOTQvMjAyM19LT05BX05fQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.74UBc0Ul7NxdyyDwo09EK6vKVbZVbFTBqnHeB9HXHBk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5ODUvMjAyM19LT05BX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.T-rL3KHru0BEWoNhwW5ELPr07DMJ2R1c0qpW3ZepmGU",
   "dvcName": "2023 KONA N",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "OSNPE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "OSNPE.CAN.S5W_M.V012.010.240822"
+    "OSNPE.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "KONA N"
 }

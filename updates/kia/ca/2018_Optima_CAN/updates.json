@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_Optima_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkZhIDE3TVkvMTAxNjUvMjAxOF9PcHRpbWFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.Kbk2zagf5wt5zQVEXf8u2Rz7g8mO5K-lZXBPLaUgbAg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkZhIDE3TVkvMTU0MDgvMjAxOF9PcHRpbWFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.ExpykGeVUzK7GEwhvk6enD3Wf-QJwsNRg1FfhfAf1QY",
   "dvcName": "2018 Optima",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JF.CAN.SOP.V*"
   ],
   "swVers": [
-    "JF.CAN.SOP.V140.241103.STD_H"
+    "JF.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Optima"
 }

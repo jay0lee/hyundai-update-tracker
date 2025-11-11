@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_Niro_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzQxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvREUgSEVWIDE5TVkvMTAyMDEvMjAxOV9OaXJvX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.RUPnlLHxlI34sUQHJFHR9bdgyQoAVfk5P6FPfZI9BSM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzQxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvREUgSEVWIDE5TVkvMTU0MzMvMjAxOV9OaXJvX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.HTqYJwyy6J9LEuSMr-0I92Pr1wNHGsq-_GM82ZOpz9s",
   "dvcName": "2019 Niro",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DEHEV19.CAN.SOP.V*"
   ],
   "swVers": [
-    "DEHEV19.CAN.SOP.V140.241103.STD_H"
+    "DEHEV19.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Niro"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2017_Optima_Plug_in_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSkYgUEhFVi8xMDU5Mi8yMDE3X09wdGltYV9QbHVnX2luX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.gA_uCd_yzEgOgyB1CHytL0S24tJUs-DNr0bJO5BFYfo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSkYgUEhFVi8xNTM2Ny8yMDE3X09wdGltYV9QbHVnX2luX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.C5aautMTNl9YZ8WeToV6d-v5PKKAvj0qPKkpWnbPbqk",
   "dvcName": "2017 Optima Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.JFPHEV.CAN.E*"
   ],
   "swVers": [
-    "ST.JFPHEV.CAN.E543.241029"
+    "ST.JFPHEV.CAN.E543.250408"
   ],
   "vclName": "Optima Plug-in Hybrid"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_21_Veloster_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzg3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSlMgMTdNWS8xMDI0NS8yMDE5XzIxX1ZlbG9zdGVyX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.USImG_YHUzEi0BqlGdmqmvA5FOh8_lHP6KV6-D7-LAo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzg3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSlMgMTdNWS8xNTQ2My8yMDE5XzIxX1ZlbG9zdGVyX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.p66d69W71pZoqJV8a0E1htoJfqUlJXD2ZX5WzRJY1cE",
   "dvcName": "2019-21 Veloster",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JS.CAN.SOP.V*"
   ],
   "swVers": [
-    "JS.CAN.SOP.V140.241103.STD_H"
+    "JS.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Veloster"
 }

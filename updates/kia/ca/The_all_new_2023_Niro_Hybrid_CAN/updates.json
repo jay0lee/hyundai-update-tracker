@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_all_new_2023_Niro_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU1MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0cyIEhFVi85MzA2L1RoZV9hbGxfbmV3XzIwMjNfTmlyb19IeWJyaWRfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.ca_rMlIqxhx91Z1fBgnwCskbvaft7Si9y7MMqeXFxi4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5OTcvVGhlX2FsbF9uZXdfMjAyM19OaXJvX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.Ot67X97YILksrT6nNk28y3TPmV0QTc4h6f0QjhzaKvM",
   "dvcName": "The all-new 2023-24 Niro Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "SG2HEV.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "SG2HEV.CAN.S5W_M.V012.010.240822"
+    "SG2HEV.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Niro Hybrid"
 }

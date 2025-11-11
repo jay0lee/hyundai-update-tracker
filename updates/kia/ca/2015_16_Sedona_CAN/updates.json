@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_16_Sedona_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODAxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWVAvMTA1ODEvMjAxNV8xNl9TZWRvbmFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.Ol31MCyRDUDeOR5S1VKNkSz7A9iEzMyhHDLy3ekiySI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODAxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWVAvMTUzNTYvMjAxNV8xNl9TZWRvbmFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.yKGRLeICpSrY2rjJQMHSkOZx4Gk9psHyNhBq20IX8y0",
   "dvcName": "2015-16 Sedona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YP.CAN.E*"
   ],
   "swVers": [
-    "ST.YP.CAN.E543.241029"
+    "ST.YP.CAN.E543.250408"
   ],
   "vclName": "Sedona"
 }

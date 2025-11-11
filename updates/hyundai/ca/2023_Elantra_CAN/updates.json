@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Elantra_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ043IDIzTVkvOTI5NS8yMDIzX0VsYW50cmFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.Z5ZMwoiPYeYjobftY0ho2XUOgGPOzh0qUS0cPVV86ZI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5ODYvMjAyM19FbGFudHJhX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.ze-5EwFYQReuS1yLAuvFsywdXN50g1j5UZ5oa4kvrfQ",
   "dvcName": "2023 Elantra",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "CN723.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "CN723.CAN.S5W_M.V012.010.240822"
+    "CN723.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Elantra"
 }

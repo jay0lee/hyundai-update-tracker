@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_Optima_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEYvMTA1NzgvMjAxNV9PcHRpbWFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.7BIizPblaqSxXzvx_IS4cSj2Ts0COpNbNlUM-BzocjY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEYvMTUzNTMvMjAxNV9PcHRpbWFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.rLbRLBk5TGf0tp9B79U4GMcwc677HVPHCNCC2Fapvg4",
   "dvcName": "2015 Optima",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.TF.CAN.E*"
   ],
   "swVers": [
-    "ST.TF.CAN.E543.241029"
+    "ST.TF.CAN.E543.250408"
   ],
   "vclName": "Optima"
 }

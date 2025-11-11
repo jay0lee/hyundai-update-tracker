@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2024_GV60_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9jY0lDL0pXXzI0Lzk1OTkvMjAyNF9HVjYwX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.SVoOMFjMksUEarPjQIxTAffTo_rfY2eX4OwgOETYdE0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2NTMvMjAyNF9HVjYwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.VSgvI-VzB8LulrjiiTolF2WunBhceqnp6xImJilN-fc",
   "dvcName": "2024 GV60",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "22",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "JW.CAN.ccIC.???.*"
   ],
   "swVers": [
-    "JW.CAN.ccIC.001.009.240923"
+    "JW.CAN.ccIC.001.015.250826"
   ],
   "vclName": "GV60"
 }

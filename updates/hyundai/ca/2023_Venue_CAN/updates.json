@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Venue_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvUVggMjNNWS85Mjk4LzIwMjNfVmVudWVfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.59nJ4lDzKaUPSMyIl_rsDpudbXPBdmnbDtFXh3Mj7KY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5ODkvMjAyM19WZW51ZV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.QGUBKbUxUHsE1LUvNVwiSA_jhrGHQzGIZc3qIy9oAjA",
   "dvcName": "2023-25 Venue",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "QX_23.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "QX_23.CAN.S5W_M.V012.010.240822"
+    "QX_23.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Venue"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2017_18_Cadenza_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzIyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWUcgKDQuNSkvMTA1OTgvMjAxN18xOF9DYWRlbnphX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.MZ6An4W0xhckt9VMFhKxvKvlXy0PWUtFMNzeLlD9-L0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzIyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWUcgKDQuNSkvMTUzNzMvMjAxN18xOF9DYWRlbnphX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.M-ZvncYmoPptAwNnQ21Gh2EAwkJlrnAqziq3g48fw5E",
   "dvcName": "2017-18 Cadenza",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YG.CAN.E*"
   ],
   "swVers": [
-    "ST.YG.CAN.E543.241029"
+    "ST.YG.CAN.E543.250408"
   ],
   "vclName": "Cadenza"
 }

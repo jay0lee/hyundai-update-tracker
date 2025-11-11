@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2025_Santa_Cruz_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzE1LzIwMjVfU2FudGFfQ3J1el9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.G4RlBeW9v59C4FY8SzntboUK5C_bKlNFxghPXam8bQA",
+  "dvcName": "2025 Santa Cruz",
+  "engDvcName": "2025 Santa Cruz",
+  "engVclName": "Santa Cruz",
+  "mcode": "1885",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4OBAS.SCBMC.CA",
+    "NX4OBAS.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4OB.CAN.ccNC.???.*",
+    "NX4OB.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NX4OB.CAN.ccNC_Lite.001.002.250813",
+    "NX4OB.CAN.ccNC.001.002.250930"
+  ],
+  "vclName": "Santa Cruz"
+}

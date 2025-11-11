@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_20_Optima_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkYgSEVWICg07IS464yAIOuMgOyytCkgMTkvMTAyMzAvMjAxOV8yMF9PcHRpbWFfSHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.Gefxlz17aJ5Af_3E1uZMFMGHRkMddPIjEQ8_zeBJTS4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkYgSEVWICg07IS464yAIOuMgOyytCkgMTkvMTU0NTMvMjAxOV8yMF9PcHRpbWFfSHlicmlkX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.gPGff5jL1toXONjXPk4l9Ks7IJYzWNKaL4kCwAWVl0s",
   "dvcName": "2019-20 Optima Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JFHEV19.CAN.SOP.V*"
   ],
   "swVers": [
-    "JFHEV19.CAN.SOP.V140.241103.STD_H"
+    "JFHEV19.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Optima Hybrid"
 }

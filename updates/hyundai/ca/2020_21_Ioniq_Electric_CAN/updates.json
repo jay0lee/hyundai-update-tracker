@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2020_21_Ioniq_Electric_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRSBFViBQRS85NjkyLzIwMjBfMjFfSW9uaXFfRWxlY3RyaWNfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.418itMhleExLMnL3-xD3YuYHBey4gGKYhnaFrKk136U",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjkyNS8yMDIwXzIxX0lvbmlxX0VsZWN0cmljX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.QTTKk6P3XQHLlIlJ0QgC9Y665OtoDFvAroAguLL_l_M",
   "dvcName": "2020-22 Ioniq Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "AEPEEV.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "AEPEEV.CAN.S5W_M.V012.010.241014"
+    "AEPEEV.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Ioniq Electric"
 }

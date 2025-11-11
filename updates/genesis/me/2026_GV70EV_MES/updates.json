@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2026_GV70EV_MES",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk4NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY0lDMjcvSktFVkZMLzE2MzMwLzIwMjZfR1Y3MEVWX01FUy5pbmYiLCJpc05zdW0iOnRydWV9.2LWRliDxQEMpX5SqQ0jV4cmA6v8EPXEipqVZVgFFrVE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE4MTgyLzIwMjZfR1Y3MEVWX01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.qQ8x2JusGTEbWLw1LccRuUedwENlMGIyBOqBQJtYoV0",
   "dvcName": "2025 GV70 Electirfied",
   "engDvcName": "2025 GV70 Electirfied",
   "engVclName": "GV70",
@@ -13,13 +13,13 @@
   "platformCode": "25",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "JKE.MES.ccIC2.*"
   ],
   "swVers": [
-    "JKE.MES.ccIC2.001.004.250710"
+    "JKE.MES.ccIC2.001.004.250912"
   ],
   "vclName": "GV70"
 }

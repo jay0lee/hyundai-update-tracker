@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_Sportage_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUUwgMTdNWS8xMDE3Ny8yMDE4X1Nwb3J0YWdlX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.zbMYJTGvWtA3jrjjYobZNEBS7OJ7yaf_HUGf2-oWJkk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUUwgMTdNWS8xNTQxNi8yMDE4X1Nwb3J0YWdlX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.4qhXgNpZFTR0ztaaCJtNzdeqUd_nAHrOKZnscfXPZ9Q",
   "dvcName": "2018 Sportage",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QL.CAN.SOP.V*"
   ],
   "swVers": [
-    "QL.CAN.SOP.V140.241103.STD_H"
+    "QL.CAN.SOP.V140.250506.STD_H"
   ],
   "vclName": "Sportage"
 }

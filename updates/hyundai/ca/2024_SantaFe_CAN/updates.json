@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_SantaFe_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01YNUEvODUyNy8yMDI0X1NhbnRhRmVfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.BZrekeqJkGG1_fjNv-7OU5Mgrw9jsTeWOUl8FaN-QMA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzM2LzIwMjRfU2FudGFGZV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.1bjYL7j97B1cmFjrbVWSiEkt4pq3oPf9xKqVfih1vZA",
   "dvcName": "2024-25 Santa Fe",
   "engDvcName": "2024-25 Santa Fe",
   "engVclName": "Santa Fe",
@@ -14,15 +14,15 @@
   "platformCode": "23",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "MX5.CAN.ccNC.???.*",
     "MX5.CAN.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "MX5.CAN.ccNC.001.002.240718",
-    "MX5.CAN.ccNC_Lite.001.002.240718"
+    "MX5.CAN.ccNC.001.002.250930",
+    "MX5.CAN.ccNC_Lite.001.002.250813"
   ],
   "vclName": "Santa Fe"
 }

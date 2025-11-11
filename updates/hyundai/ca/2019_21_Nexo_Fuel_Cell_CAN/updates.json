@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_21_Nexo_Fuel_Cell_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L0ZFLzEwMDA2LzIwMTlfMjFfTmV4b19GdWVsX0NlbGxfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.hxhVBkURxHw5Ze3Hkle7DBAm0G2bdrodt-LyX8g7O14",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjYwMy8yMDE5XzIxX05leG9fRnVlbF9DZWxsX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.T6BrArxH7aH3d871sNIzek8nXHHWGl2hIzk1woAEpVw",
   "dvcName": "2019-24 Nexo Fuel Cell",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "13",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "FE.CAN.P5.???.*"
   ],
   "swVers": [
-    "FE.CAN.P5.001.014.241118"
+    "FE.CAN.P5.001.015.250729"
   ],
   "vclName": "Nexo"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2024_Carnival_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvS0E0IDI0TVkvOTMxOS8yMDI0X0Nhcm5pdmFsX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.X4zITGATV3r_MywIzsh2yjAgcWJP4ADEFcCGbIm0LEc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTcwMTAvMjAyNF9DYXJuaXZhbF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.t4_jctvoSkxQcpUhL1QdX481wmEa0yQU4VMYASKsbqI",
   "dvcName": "2024 Carnival",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "KA4_23.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "KA4_23.CAN.S5W_M.V012.010.240822"
+    "KA4_23.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "Carnival"
 }

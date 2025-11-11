@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_ELANTRA_N_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ043IE4vOTI4OC8yMDIyX0VMQU5UUkFfTl9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.O2HK0nb78AGILWVSryFCnP8sedm5PaJsJclnXujF3uo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NzkvMjAyMl9FTEFOVFJBX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.a8YMB6nIQ_f3kkCoPEMKEbFoVriCHWW4zOLwgF29uI0",
   "dvcName": "2022 ELANTRA N",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
-  "serviceYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "CN7N.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "CN7N.CAN.S5W_M.V012.010.240822"
+    "CN7N.CAN.S5W_M.V014.010.250818"
   ],
   "vclName": "ELANTRA N"
 }

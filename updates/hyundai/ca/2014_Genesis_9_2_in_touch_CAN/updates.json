@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2014_Genesis_9_2_in_touch_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9ESC8xMDM5NC8yMDE0X0dlbmVzaXNfOV8yX2luX3RvdWNoX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.94ud8_uOm23dCMAVN3lbAy3cJcD0pmQuYZ7Xh4kX-kM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEzNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWNhLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9ESC8xNDc2OC8yMDE0X0dlbmVzaXNfOV8yX2luX3RvdWNoX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.MIsXtCPuawMGNx1J0Y-NzXYBfa-yVZiUHWf1QrMwKJ4",
   "dvcName": "2014 Genesis (9.2 in. Touchscreen)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2025.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DH.CAN.SOP.*"
