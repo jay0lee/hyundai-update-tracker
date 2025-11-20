@@ -4,7 +4,7 @@
   "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzIyLzIwMjVfSW9uaXE1X05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.BlkHe0HoLG5W1TRQ7OeTpsC2YvGmc9ARSMyk3e1IuvY",
   "dvcName": "2025 Ioniq 5 N",
   "engDvcName": "2025 Ioniq 5 N",
-  "engVclName": "Ioniq 5",
+  "engVclName": "Ioniq 5 N",
   "mcode": "1833",
   "mediaType": "USB",
   "modelNames": [
@@ -21,5 +21,5 @@
   "swVers": [
     "NE1KN.CAN.ccNC.001.002.250930"
   ],
-  "vclName": "Ioniq 5"
+  "vclName": "Ioniq 5 N"
 }
