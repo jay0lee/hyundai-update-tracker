@@ -1,18 +1,18 @@
 {
   "brand": "HM",
   "destPath": "2025_SantaFe_Hybrid_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTI4LzIwMjVfU2FudGFGZV9IeWJyaWRfTlpMLmpzb24iLCJpc05zdW0iOnRydWV9.NhdXAwJWU0Q0_fPTlWcbJvfnD1C_vEPnbDU93oUFNE8",
-  "dvcName": "2024-25 Santa Fe Hybrid",
-  "engDvcName": "2024-25 Santa Fe Hybrid",
-  "engVclName": "Santa Fe Hybrid",
-  "mcode": "1906",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTI4LzIwMjVfU2FudGFGZV9IeWJyaWRfTlpMLmpzb24iLCJpc05zdW0iOnRydWV9.4GFfK03gKALyDUObcxYbx29uG1kVA5x5UDjNB6XJVCk",
+  "dvcName": "2024-25 Santa Fe",
+  "engDvcName": "2024-25 Santa Fe",
+  "engVclName": "Santa Fe",
+  "mcode": "1905",
   "mediaType": "USB",
   "modelNames": [
-    "MX5AH.SCBMC.NZ",
-    "MX5AH.SLBMC.NZ"
+    "MX5AS.SCBMC.NZ",
+    "MX5AS.SLBMC.NZ"
   ],
   "platformCode": "23",
-  "priority": "499",
+  "priority": "498",
   "registYn": "N",
   "releaseDate": "",
   "serviceYn": "Y",
@@ -24,5 +24,5 @@
     "MX5.NZL.ccNC.001.002.250630",
     "MX5.NZL.ccNC_Lite.001.002.250630"
   ],
-  "vclName": "Santa Fe Hybrid"
+  "vclName": "Santa Fe"
 }
