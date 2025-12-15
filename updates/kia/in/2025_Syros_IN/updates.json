@@ -8,8 +8,7 @@
   "mcode": "1981",
   "mediaType": "USB",
   "modelNames": [
-    "AY1AS.SCBMC.IN",
-    "AY1AS.SLBMN.IN"
+    "AY1AS.SCBMC.IN"
   ],
   "platformCode": "23",
   "priority": "500",
@@ -21,8 +20,7 @@
     "AY1.IND.ccNC_Lite.*"
   ],
   "swVers": [
-    "AY1.IND.ccNC.001.002.250523",
-    "AY1.IND.ccNC_Lite.001.002.250523"
+    "AY1.IND.ccNC.001.002.250523"
   ],
   "vclName": "Syros"
 }
