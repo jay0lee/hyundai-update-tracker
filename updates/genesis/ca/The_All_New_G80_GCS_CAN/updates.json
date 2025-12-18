@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "The_All_New_G80_GCS_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTAzOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2MjMvVGhlX0FsbF9OZXdfRzgwX0dDU19DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.xO2kMOn8GUDmg904kjvQTXGEK0qwFUTszbmESscBVC8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTAzOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NzQvVGhlX0FsbF9OZXdfRzgwX0dDU19DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.p7M8HVU_vcpl39bC5_oEienb8uyUxm59GzGw_wgyxdA",
   "dvcName": "2021 G80",
   "engDvcName": "",
   "engVclName": "",
@@ -14,12 +14,12 @@
   "priority": "490",
   "registYn": "N",
   "releaseDate": "2025.11",
-  "serviceYn": "N",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "RG3.CAN.P6.???.*"
   ],
   "swVers": [
-    "RG3.CAN.P6.001.010.250808"
+    "RG3.CAN.P6.001.010.251114"
   ],
   "vclName": "G80"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2023_GV70_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUxNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2MzEvMjAyM19HVjcwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.1ThUINmwedhcyg-N3IMs33lS9G2U-ZyXIueana4GsgQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUxNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2ODIvMjAyM19HVjcwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.NlyyJYhw_t4l6VfH-I5C1JZO9W1SKPkradUY0SB4nCU",
   "dvcName": "2023 GV70",
   "engDvcName": "",
   "engVclName": "",
@@ -14,12 +14,12 @@
   "priority": "499",
   "registYn": "N",
   "releaseDate": "2025.11",
-  "serviceYn": "N",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "JK1.CAN.P6.???.*"
   ],
   "swVers": [
-    "JK1.CAN.P6.001.010.250808"
+    "JK1.CAN.P6.001.010.251114"
   ],
   "vclName": "GV70"
 }

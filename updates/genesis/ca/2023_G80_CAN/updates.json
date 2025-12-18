@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2023_G80_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUxNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2MjkvMjAyM19HODBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.FvOyC-2if2Pkq0vCGs_1dLcZpHu6UIP5e0IZ1CouRCU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUxNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2ODAvMjAyM19HODBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.oVrAqY5PZlHtl4hylG9y3Qsz5o8sJoVEqkKvJ1SwHXM",
   "dvcName": "2023 G80",
   "engDvcName": "",
   "engVclName": "",
@@ -14,12 +14,12 @@
   "priority": "488",
   "registYn": "N",
   "releaseDate": "2025.11",
-  "serviceYn": "N",
+  "serviceYn": "Y",
   "swVerIdxs": [
     "RG3_22.CAN.P6.???.*"
   ],
   "swVers": [
-    "RG3_22.CAN.P6.001.010.250808"
+    "RG3_22.CAN.P6.001.010.251114"
   ],
   "vclName": "G80"
 }
