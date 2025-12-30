@@ -16,7 +16,8 @@
   "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "JA_PE2.KOR.S5W_M.V???.*"
+    "JA_PE2.KOR.S5W_M.V???.*",
+    "JAPE2.KOR.S5W_M.V???.*"
   ],
   "swVers": [
     "JA_PE2.KOR.S5W_M.V035.003.250714"
