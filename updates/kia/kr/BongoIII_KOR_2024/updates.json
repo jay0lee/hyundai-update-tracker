@@ -16,7 +16,8 @@
   "releaseDate": "2025.09",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "PU_24.KOR.S5W_M.V???.*"
+    "PU_24.KOR.S5W_M.V???.*",
+    "PU24.KOR.S5W_M.V???.*"
   ],
   "swVers": [
     "PU_24.KOR.S5W_M.V035.003.250714"
