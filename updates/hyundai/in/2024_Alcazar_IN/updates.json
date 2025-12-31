@@ -16,7 +16,8 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SU2i_LWB_FL.IND.S5W_M.V*"
+    "SU2i_LWB_FL.IND.S5W_M.V*",
+    "SU2I_LWB_FL.IND.S5W_M.V*"
   ],
   "swVers": [
     "SU2I_LWB_FL.IND.S5W_M.V008.001.250527"
