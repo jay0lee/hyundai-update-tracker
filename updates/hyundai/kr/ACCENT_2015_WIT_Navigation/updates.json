@@ -21,7 +21,8 @@
     "RB14_5.KOR.SOP.14.*"
   ],
   "swVers": [
-    "RB14A5.KOR.SOP.14.040"
+    "RB14A5.KOR.SOP.14.040",
+    "RB14B5.KOR.SOP.14.040"
   ],
   "vclName": "엑센트"
 }
