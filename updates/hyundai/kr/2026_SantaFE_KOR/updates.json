@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "2026_SantaFE_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzYzLzIwMjZfU2FudGFGRV9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.JoTvKvIrN5oQN1nvKgy7o_oA5a1ebxK0Scdh9dgWU5I",
+  "dvcName": "2026 싼타페 / Hybrid 포함 [ccNC 블루링크]",
+  "engDvcName": "2026 All New Santafe / Hybrid [ccNC Bluelink]",
+  "engVclName": "Santafe",
+  "mcode": "2016",
+  "mediaType": "USB",
+  "modelNames": [
+    "MX5MY26BS.SCBMC.KR",
+    "MX5MY26BH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MX5MY26.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "MX5MY26.KOR.ccNC.001.002.251024"
+  ],
+  "vclName": "싼타페"
+}

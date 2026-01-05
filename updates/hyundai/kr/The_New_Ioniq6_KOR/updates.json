@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "The_New_Ioniq6_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzQxL1RoZV9OZXdfSW9uaXE2X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.GaLG8gAZ5OIHbbUomCy5XN45XMBroOpDs9eCvHtlMnY",
+  "dvcName": "더 뉴 아이오닉 6 [ccNC 블루링크]",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "2024",
+  "mediaType": "USB",
+  "modelNames": [
+    "CE1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CE1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "CE1.KOR.ccNC.001.002.251024"
+  ],
+  "vclName": "아이오닉"
+}

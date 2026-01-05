@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "kor_2023_The_all_new_Kona_EV",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTY5NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvU1gyLzE1MDI2L2tvcl8yMDIzX1RoZV9hbGxfbmV3X0tvbmFfRVYuaW5mIiwiaXNOc3VtIjp0cnVlfQ.tmep6y4ohufiMQR6FFdrwXCpSJ6ZVj839cdjHqzcHpo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTY5NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzU2L2tvcl8yMDIzX1RoZV9hbGxfbmV3X0tvbmFfRVYuanNvbiIsImlzTnN1bSI6dHJ1ZX0.amYO6o3YPlQnP9Cq9rcmLFcLELRw9IvH2_0LGiQM91o",
   "dvcName": "디 올 뉴 코나 Electric [ccNC 블루링크]",
   "engDvcName": "The all new Kona Electric [ccNC Bluelink]",
   "engVclName": "Kona",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SX2EV.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "SX2EV.KOR.ccNC.001.002.250508"
+    "SX2EV.KOR.ccNC.001.002.251024"
   ],
   "vclName": "코나"
 }
