@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_all_new_Santafe_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvSEZNWC8xNTAzNS9UaGVfYWxsX25ld19TYW50YWZlX0tPUi5pbmYiLCJpc05zdW0iOnRydWV9.-XYFAIVPpdTqF6e5AvIiW9kq7vfRHBwEo5cnEaIA3Dw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzYyL1RoZV9hbGxfbmV3X1NhbnRhZmVfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.2nqrphJ6WCTI5yMAhHLXXweUP2qRyBs1OPXIYTXtLdw",
   "dvcName": "디 올 뉴 싼타페 / Hybrid 포함 [ccNC 블루링크]",
   "engDvcName": "The all new Santafe / Hybrid [ccNC Bluelink]",
   "engVclName": "Santafe",
@@ -14,13 +14,13 @@
   "platformCode": "23",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "MX5.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "MX5.KOR.ccNC.001.002.250508"
+    "MX5.KOR.ccNC.001.002.251024"
   ],
   "vclName": "싼타페"
 }

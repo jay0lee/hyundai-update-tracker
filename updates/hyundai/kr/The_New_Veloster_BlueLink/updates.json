@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_Veloster_BlueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IQ0ZTLzE2MjY1L1RoZV9OZXdfVmVsb3N0ZXJfQmx1ZUxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Z_rKdyI14Aq_zx_LBaQIljmAdnhOQGHU0yJFt0IqtVU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg5MS9UaGVfTmV3X1ZlbG9zdGVyX0JsdWVMaW5rLmpzb24iLCJpc05zdW0iOnRydWV9.42lwUMEZ-Nh0ZQEPuk6xInFL2IZgfZ8dZkgo8ZtpDEo",
   "dvcName": "더 뉴 벨로스터 [표준형 4세대 블루링크]",
   "engDvcName": "The New Veloster [Standard Gen4 Bluelink]",
   "engVclName": "Veloster",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.FS.KOR.E*"
   ],
   "swVers": [
-    "ST.FS.KOR.E553.241114"
+    "ST.FS.KOR.E553.251022"
   ],
   "vclName": "벨로스터"
 }

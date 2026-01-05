@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Stinger_2022_Meister_Standard_Gen5W_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9DSy8xNjIzMy9TdGluZ2VyXzIwMjJfTWVpc3Rlcl9TdGFuZGFyZF9HZW41V19LaWFfQ29ubmVjdC5pbmYiLCJpc05zdW0iOnRydWV9.RmTVD-_TbAmDwFVXBTUbkyLDVF9y-Zi5ujbl0R5EtrM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTIvU3Rpbmdlcl8yMDIyX01laXN0ZXJfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.bGYMEKgyz104V6V_H91gbLB1LI5oNoun0Azp2PERsUc",
   "dvcName": "스팅어 마이스터 / 2022 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "Stinger Meister / 2022 [Standard Gen5W Kia Connect]",
   "engVclName": "Stinger",
@@ -14,15 +14,15 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CK_PE.KOR.S5W_M.V???.*",
     "CK_PE_22.KOR.S5W_M.V*"
   ],
   "swVers": [
-    "CK_PE_22.KOR.S5W_M.V035.001.250507",
-    "CK_PE.KOR.S5W_M.V035.001.250507"
+    "CK_PE.KOR.S5W_M.V036.001.251027",
+    "CK_PE_22.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "스팅어"
 }

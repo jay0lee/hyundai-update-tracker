@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_new_Seltos_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9TUDIgUEUvMTYyMTYvVGhlX25ld19TZWx0b3NfS2lhX0Nvbm5lY3QuaW5mIiwiaXNOc3VtIjp0cnVlfQ.8VGs0ISvKU3-sCf8VwICjiu6R1ZWaJ1xzQiZBQ4RbkI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMzUvVGhlX25ld19TZWx0b3NfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.2DPH4pLFahfFFUW2IV9FQaMJnoPFc1b-__N8TTOy3Sw",
   "dvcName": "The new 셀토스 [표준형 5W세대 Kia Connect]",
   "engDvcName": "The new Seltos [Standard Gen5W Kia Connect]",
   "engVclName": "Seltos",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SP2_PE.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "SP2_PE.KOR.S5W_M.V035.001.250507"
+    "SP2_PE.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "셀토스"
 }

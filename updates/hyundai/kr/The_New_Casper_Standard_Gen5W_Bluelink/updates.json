@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_Casper_Standard_Gen5W_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BWDFQRS8xNjIzOS9UaGVfTmV3X0Nhc3Blcl9TdGFuZGFyZF9HZW41V19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.E5egO6eAev-4KOXGN4354CHXV3IXTTbQ2oApD0U5n_c",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNjgvVGhlX05ld19DYXNwZXJfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmsuanNvbiIsImlzTnN1bSI6dHJ1ZX0.ILoAiJNN8nxg5uml-4qtJVjY_TdVYzdgUkA8_Sioq8U",
   "dvcName": "더 뉴 캐스퍼 [표준형 5W세대 블루링크]",
   "engDvcName": "The New Casper [Standard Gen5W Bluelink]",
   "engVclName": "Casper",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AX1_PE.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "AX1_PE.KOR.S5W_M.V035.001.250507"
+    "AX1_PE.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "캐스퍼"
 }

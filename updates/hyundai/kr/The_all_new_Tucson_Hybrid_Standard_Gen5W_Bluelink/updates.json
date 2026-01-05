@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_all_new_Tucson_Hybrid_Standard_Gen5W_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IRk5YLzE2MjA1L1RoZV9hbGxfbmV3X1R1Y3Nvbl9IeWJyaWRfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmsuaW5mIiwiaXNOc3VtIjp0cnVlfQ.dYpvrenc90aQUMqvOuuVlzFPgFP4Bpeo3FM-W9kCOsI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNjUvVGhlX2FsbF9uZXdfVHVjc29uX0h5YnJpZF9TdGFuZGFyZF9HZW41V19CbHVlbGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.AnrH_dFkSl1fHYPbqqZAIfOCKf-XsOVN3hkEUelighM",
   "dvcName": "디 올 뉴 투싼 / Hybrid 포함 [표준형 5W세대 블루링크]",
   "engDvcName": "The all new Tucson / Hybrid [Standard Gen5W Bluelink]",
   "engVclName": "Tucson",
@@ -14,15 +14,15 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4.KOR.S5W_M.V???.*",
     "NX4HEV.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "NX4.KOR.S5W_M.V035.001.250507",
-    "NX4HEV.KOR.S5W_M.V035.001.250507"
+    "NX4HEV.KOR.S5W_M.V036.001.251027",
+    "NX4.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "투싼"
 }

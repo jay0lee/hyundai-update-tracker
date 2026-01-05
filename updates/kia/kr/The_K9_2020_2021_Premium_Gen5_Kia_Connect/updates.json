@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_K9_2020_2021_Premium_Gen5_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU41L1JKLzE2MTAyL1RoZV9LOV8yMDIwXzIwMjFfUHJlbWl1bV9HZW41X0tpYV9Db25uZWN0LmluZiIsImlzTnN1bSI6dHJ1ZX0.hY-W5rXhleZ2EVGPjKdbLZ0FqIO1XbIzuS5S48hnf1k",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc2MzgvVGhlX0s5XzIwMjBfMjAyMV9QcmVtaXVtX0dlbjVfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.mGQ4KMLeJsarRy1zEdNag58E8fSNg1A3DjA0PUZjaec",
   "dvcName": "The K9 / 2020, 2021 포함 [고급형 5세대 Kia Connect]",
   "engDvcName": "The K9 / 2020, 2021 [Premium Gen5 Kia Connect]",
   "engVclName": "K9",
@@ -15,13 +15,13 @@
   "platformCode": "13",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RJ.KOR.P5.???.*"
   ],
   "swVers": [
-    "RJ.KOR.P5.001.035.250716"
+    "RJ.KOR.P5.001.036.251022"
   ],
   "vclName": "K9"
 }

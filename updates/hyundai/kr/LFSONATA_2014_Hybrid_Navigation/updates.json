@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "LFSONATA_2014_Hybrid_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjI0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IREdGLzE2NDcxL0xGU09OQVRBXzIwMTRfSHlicmlkX05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.v7cbsQ2rhWrQKdijPRmrB50H0rnStPUpg08s5bu5F40",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjI0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODE3MS9MRlNPTkFUQV8yMDE0X0h5YnJpZF9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.Z_eY-rxEZfzy4un6oKRJdN8qHt0VEPjUFthDmuacm1Q",
   "dvcName": "LF 쏘나타 Hybrid [표준형 3세대]",
   "engDvcName": "LF Sonata Hybrid [Standard Gen3]",
   "engVclName": "Sonata",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "508",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFE.KOR.SOP.14.*"

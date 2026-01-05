@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_K7_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1lHLzE2MTY3L0FsbF9OZXdfSzdfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.aGx7-ld7WdcNMkaHZoHSkH1LLPgnmwD1P_cRdwywRks",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODEwMC9BbGxfTmV3X0s3X05hdmlnYXRpb24uanNvbiIsImlzTnN1bSI6dHJ1ZX0.6FLQfG8kCe7WVgQxyq79o9AmXlNEQkxvxCpIGWk_SmY",
   "dvcName": "All New K7 [경제형 5세대]",
   "engDvcName": "All New K7 [Compact Gen5]",
   "engVclName": "K7",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YG.KOR.SOP.???.??????"

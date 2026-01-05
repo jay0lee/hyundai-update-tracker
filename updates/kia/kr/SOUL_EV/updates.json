@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "SOUL_EV",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9QUy8xNjI5NS9TT1VMX0VWLmluZiIsImlzTnN1bSI6dHJ1ZX0.0aNQJ1MvDX1ceTldoYBUPCU3JREDW4FeDVPUPbB1iDo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkyMS9TT1VMX0VWLmpzb24iLCJpc05zdW0iOnRydWV9.GKHYWlOT0ABvTi7tQob2SoCHw7jDeRBi3iNrxLcun2w",
   "dvcName": "쏘울 Electric [표준형 4세대 UVO]",
   "engDvcName": "Soul EV [Standard Gen4 UVO]",
   "engVclName": "Soul",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PSEV.KOR.E*"
   ],
   "swVers": [
-    "ST.PSEV.KOR.E553.241114"
+    "ST.PSEV.KOR.E553.251022"
   ],
   "vclName": "쏘울"
 }

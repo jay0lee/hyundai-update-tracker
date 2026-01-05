@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "i40_2017_Saloon_Standard_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSERERi8xNjE0Ni9pNDBfMjAxN19TYWxvb25fU3RhbmRhcmRfR2VuNS5pbmYiLCJpc05zdW0iOnRydWV9.1xDM8n9AndOgvUBIWt7f65_f1d_1aYJNgODxjHTBvjM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc4NDgvaTQwXzIwMTdfU2Fsb29uX1N0YW5kYXJkX0dlbjUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.IrkTjPet40WcSoJnqfxqFjjmu5AdEyYEqiJBkCPXnOY",
   "dvcName": "i40 2017 / 살룬 포함 [표준형 5세대]",
   "engDvcName": "i40 2017 / Saloon [Standard Gen5]",
   "engVclName": "i40",
@@ -14,15 +14,15 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "VF.KOR.SOP.V???.??????.STD_M",
     "VFSD.KOR.SOP.V???.??????.STD_M"
   ],
   "swVers": [
-    "VF.KOR.SOP.V141.250423.STD_M",
-    "VFSD.KOR.SOP.V141.250423.STD_M"
+    "VFSD.KOR.SOP.V141.250902.STD_M",
+    "VF.KOR.SOP.V141.250902.STD_M"
   ],
   "vclName": "i40"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "LFSONATA_2017_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDk1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IREdGLzE2Mjg4L0xGU09OQVRBXzIwMTdfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.Os6J7ol9Ghosj7STDHUMqqXqzUKa_HWw2oEs_LtA7a0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDk1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkxNC9MRlNPTkFUQV8yMDE3X05hdmlnYXRpb24uanNvbiIsImlzTnN1bSI6dHJ1ZX0.9E2mYAm4ZJQwtysyIyUoziU5QUsj0lrTC2Vy7565WXM",
   "dvcName": "LF 쏘나타 2017 [표준형 4세대]",
   "engDvcName": "LF Sonata 2017 [Standard Gen4]",
   "engVclName": "Sonata",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.LFNT.KOR.E*"
   ],
   "swVers": [
-    "ST.LFNT.KOR.E553.241114"
+    "ST.LFNT.KOR.E553.251022"
   ],
   "vclName": "쏘나타"
 }

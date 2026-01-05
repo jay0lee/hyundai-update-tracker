@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "K5_2015",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L0tGLzE2MTUwL0s1XzIwMTUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.UY2nZABQ-XUQVKJzjC0j8fb_kN3aMCOamPyBSji8uj8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA4My9LNV8yMDE1Lmpzb24iLCJpc05zdW0iOnRydWV9.cEnbxNDznwlO6OM4icgay0ju7mwGVtuJNGGR2X-ojXc",
   "dvcName": "K5 2015 [경제형 5세대]",
   "engDvcName": "K5 2015 [Compact Gen5]",
   "engVclName": "K5",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "506",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JF.KOR.SOP.???.??????"

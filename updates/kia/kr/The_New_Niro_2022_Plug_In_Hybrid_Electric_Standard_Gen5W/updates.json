@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_Niro_2022_Plug_In_Hybrid_Electric_Standard_Gen5W",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ERS8xNjIzNS9UaGVfTmV3X05pcm9fMjAyMl9QbHVnX0luX0h5YnJpZF9FbGVjdHJpY19TdGFuZGFyZF9HZW41Vy5pbmYiLCJpc05zdW0iOnRydWV9.hpLs2XA01WqeZMxigu7HUKT5w54ybGB9tSuiF8I6-SY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTQvVGhlX05ld19OaXJvXzIwMjJfUGx1Z19Jbl9IeWJyaWRfRWxlY3RyaWNfU3RhbmRhcmRfR2VuNVcuanNvbiIsImlzTnN1bSI6dHJ1ZX0.P-nDpZy5N5Kehrq5X7_-a8G69kY4-fqBIbFfsvoMLBY",
   "dvcName": "The New 니로 / 2022, Plug-in Hybrid, Electric 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "The New Niro / 2022, Plug-In Hybrid, Electric [Standard Gen5W Kia Connect]",
   "engVclName": "Niro",
@@ -17,7 +17,7 @@
   "platformCode": "14",
   "priority": "492",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DEPEHEV.KOR.S5W_M.V???.*",
@@ -27,11 +27,11 @@
     "DE_P_22.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "DEPEHEV.KOR.S5W_M.V035.001.250507",
-    "DE_E_22.KOR.S5W_M.V035.001.250507",
-    "DE_P_22.KOR.S5W_M.V035.001.250507",
-    "DEPEPHEV.KOR.S5W_M.V035.001.250507",
-    "DE_H_22.KOR.S5W_M.V035.001.250507"
+    "DEPEPHEV.KOR.S5W_M.V036.001.251027",
+    "DE_P_22.KOR.S5W_M.V036.001.251027",
+    "DE_E_22.KOR.S5W_M.V036.001.251027",
+    "DEPEHEV.KOR.S5W_M.V036.001.251027",
+    "DE_H_22.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "니로"
 }

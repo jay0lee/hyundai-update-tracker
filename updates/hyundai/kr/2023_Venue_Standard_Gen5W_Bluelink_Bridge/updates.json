@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Venue_Standard_Gen5W_Bluelink_Bridge",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTU2NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IRlFYLzE2MTk5LzIwMjNfVmVudWVfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmtfQnJpZGdlLmluZiIsImlzTnN1bSI6dHJ1ZX0.p3o1nfbzrpkPh4s6wfqK2z8zfadYIkvNAMfaay8eIP0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTU2NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTkvMjAyM19WZW51ZV9TdGFuZGFyZF9HZW41V19CbHVlbGlua19CcmlkZ2UuanNvbiIsImlzTnN1bSI6dHJ1ZX0.YJRQMhF3b4S5ayluJY2LlBCT7InIuVSXwlOrbrS0i18",
   "dvcName": "2023 베뉴 [표준형 5W세대 블루링크]",
   "engDvcName": "2023 Venue [Standard Gen5W Bluelink]",
   "engVclName": "Venue",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QX_23.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "QX_23.KOR.S5W_M.V035.001.250507"
+    "QX_23.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "베뉴"
 }

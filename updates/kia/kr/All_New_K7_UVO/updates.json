@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "All_New_K7_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZRy8xNjMxNy9BbGxfTmV3X0s3X1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.wK32w1mudwxEYfWIjuE0B8m02fHRB4bBvjaXDdveSGg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjgxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzk0My9BbGxfTmV3X0s3X1VWTy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.9JwUdHFrwtp_6hyXuAx7KN-jwki_rv7eMlzpF4YEjyE",
   "dvcName": "All New K7 [표준형 4세대 UVO]",
   "engDvcName": "All New K7 [Standard Gen4 UVO]",
   "engVclName": "K7",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YG.KOR.E*"
   ],
   "swVers": [
-    "ST.YG.KOR.E553.241114"
+    "ST.YG.KOR.E553.251022"
   ],
   "vclName": "K7"
 }

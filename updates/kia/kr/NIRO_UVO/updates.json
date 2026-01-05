@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "NIRO_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjg2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ERS8xNjI1My9OSVJPX1VWTy5pbmYiLCJpc05zdW0iOnRydWV9.16opjwCHZQk9NeOdb8TL8587bc9QWTcPuYeDTIdLt_A",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjg2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg3OS9OSVJPX1VWTy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.BEA33kPMXoMpoNoZbaQrO3xDy9_3kE_PPErp5gDNZXk",
   "dvcName": "니로 [표준형 4세대 UVO]",
   "engDvcName": "Niro [Standard Gen4 UVO]",
   "engVclName": "Niro",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.DEHEV.KOR.E*"
   ],
   "swVers": [
-    "ST.DEHEV.KOR.E553.241114"
+    "ST.DEHEV.KOR.E553.251022"
   ],
   "vclName": "니로"
 }

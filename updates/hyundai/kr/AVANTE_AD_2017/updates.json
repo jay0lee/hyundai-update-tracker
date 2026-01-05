@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "AVANTE_AD_2017",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzI0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ0FELzE2MTE4L0FWQU5URV9BRF8yMDE3LmluZiIsImlzTnN1bSI6dHJ1ZX0.X9ml1FiYKuHh5U0nzPM0PVy-KqqmiM55c5Z9WoM1-a8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzI0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzgyMC9BVkFOVEVfQURfMjAxNy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.2-Mw4HERCGA0uTC6tdNTCxMcv7FT3Z4n-4OpqP9L300",
   "dvcName": "아반떼 AD 2017 [표준형 5세대]",
   "engDvcName": "Avante AD 2017 [Standard Gen5]",
   "engVclName": "Avante",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AD.KOR.SOP.V???.??????.STD_M"
   ],
   "swVers": [
-    "AD.KOR.SOP.V141.250423.STD_M"
+    "AD.KOR.SOP.V141.250902.STD_M"
   ],
   "vclName": "아반떼"
 }

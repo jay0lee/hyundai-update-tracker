@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_Veloster_Auto",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IQ0ZTLzE2MjY3L1RoZV9OZXdfVmVsb3N0ZXJfQXV0by5pbmYiLCJpc05zdW0iOnRydWV9.mTjSATF8OhXHLJQvm3W-YbbYgewLOkugeuLETtN-Cvo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjU1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg5My9UaGVfTmV3X1ZlbG9zdGVyX0F1dG8uanNvbiIsImlzTnN1bSI6dHJ1ZX0.5C3T5xWMQo_1jco3NbMhwu4738GnzCHH_GqWvU4_6dA",
   "dvcName": "더 뉴 벨로스터(D spec M/T 전용) [표준형 4세대]",
   "engDvcName": "The New Veloster [Standard Gen4]",
   "engVclName": "Veloster",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.FSNT.KOR.E*"
   ],
   "swVers": [
-    "ST.FSNT.KOR.E553.241114"
+    "ST.FSNT.KOR.E553.251022"
   ],
   "vclName": "벨로스터"
 }

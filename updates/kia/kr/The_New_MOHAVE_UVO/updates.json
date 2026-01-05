@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_MOHAVE_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjg0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9KUy8xNjI3Mi9UaGVfTmV3X01PSEFWRV9VVk8uaW5mIiwiaXNOc3VtIjp0cnVlfQ.z4J1umW5FR7ycBoXvN6R6njhSPAmcxxNiX0DDAhjJkA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjg0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg5OC9UaGVfTmV3X01PSEFWRV9VVk8uanNvbiIsImlzTnN1bSI6dHJ1ZX0.uuWJdvBH1RHTgClzBTcbabm7plVcMcVzLUhsGw23VZw",
   "dvcName": "The New 모하비 [표준형 4세대 UVO]",
   "engDvcName": "The New Mohave [Standard Gen4 UVO]",
   "engVclName": "Mohave",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.HM.KOR.E*"
   ],
   "swVers": [
-    "ST.HM.KOR.E553.241114"
+    "ST.HM.KOR.E553.251022"
   ],
   "vclName": "모하비"
 }

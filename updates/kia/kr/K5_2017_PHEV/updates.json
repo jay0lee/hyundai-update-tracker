@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "K5_2017_PHEV",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzAxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9LRi8xNjI4MS9LNV8yMDE3X1BIRVYuaW5mIiwiaXNOc3VtIjp0cnVlfQ.bSaaXtBgTiQKFA7695UJ8K3pakXHbyxnxamaG3bEwrg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzAxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkwNy9LNV8yMDE3X1BIRVYuanNvbiIsImlzTnN1bSI6dHJ1ZX0.WGFqQ4VaVY8StXiB7R1aLbSyut2WGFEjb6qY-gkjbUM",
   "dvcName": "K5 2017 Plug-in Hybrid [표준형 4세대 UVO]",
   "engDvcName": "K5 2017 Plug-In Hybrid [Standard Gen4 UVO]",
   "engVclName": "K5",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "502",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.JFPHEV.KOR.E*"
   ],
   "swVers": [
-    "ST.JFPHEV.KOR.E553.241114"
+    "ST.JFPHEV.KOR.E553.251022"
   ],
   "vclName": "K5"
 }

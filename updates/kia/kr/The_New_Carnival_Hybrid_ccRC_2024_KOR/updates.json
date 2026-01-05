@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_Carnival_Hybrid_ccRC_2024_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg2MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvS0E0LzE2MTE1L1RoZV9OZXdfQ2Fybml2YWxfSHlicmlkX2NjUkNfMjAyNF9LT1IuaW5mIiwiaXNOc3VtIjp0cnVlfQ.1ddDROaJnPpRlawWX9dF-fXi60h6uXgABM4yluMK9d8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzY4L1RoZV9OZXdfQ2Fybml2YWxfSHlicmlkX2NjUkNfMjAyNF9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.r7_mapeuSxZOk4Di2jRnbXRMFiuox_ksgCvPpQuuip4",
   "dvcName": "더 뉴 카니발 / Hybrid 포함 ccRC 후석 포함 [ccNC Kia Connect]",
   "engDvcName": "The New Carnival / Hybrid with ccRC [ccNC Kia Connect]",
   "engVclName": "Carnival",
@@ -14,13 +14,13 @@
   "platformCode": "23",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "KA4.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "KA4.KOR.ccNC.001.002.250508"
+    "KA4.KOR.ccNC.001.002.251024"
   ],
   "vclName": "카니발"
 }

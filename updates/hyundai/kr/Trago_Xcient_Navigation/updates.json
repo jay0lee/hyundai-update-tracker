@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Trago_Xcient_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9RWi8xNjQ3My9UcmFnb19YY2llbnRfTmF2aWdhdGlvbi5pbmYiLCJpc05zdW0iOnRydWV9.U5_9LnGgURxjRxLukin0inmjfFDtophb3F0z3CdiS98",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODE3Ni9UcmFnb19YY2llbnRfTmF2aWdhdGlvbi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.mdQydiYhqtP2nbUS2R07jCsr9QaiEB6JkNU_JpCnf5k",
   "dvcName": "엑시언트 [표준형 3세대] (엑시언트 프로 설치 불가)",
   "engDvcName": "Xcient [Standard Gen3]",
   "engVclName": "Xcient",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QZ.KOR.SOP.14.*"

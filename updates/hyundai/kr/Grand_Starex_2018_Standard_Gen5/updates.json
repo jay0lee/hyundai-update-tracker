@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Grand_Starex_2018_Standard_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSE1KQS8xNjE0NC9HcmFuZF9TdGFyZXhfMjAxOF9TdGFuZGFyZF9HZW41LmluZiIsImlzTnN1bSI6dHJ1ZX0.YQqpzXinfY0PYf0mKIgEHShKN4V_Bi-r9bR6rn_IO9M",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc4NDYvR3JhbmRfU3RhcmV4XzIwMThfU3RhbmRhcmRfR2VuNS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.J8JUCHkXzSzXtZrriEUV6HGTdkNwhIkmUke8J6VkYpI",
   "dvcName": "그랜드 스타렉스 2018 [표준형 5세대]",
   "engDvcName": "Grand Starex 2018 [Standard Gen5]",
   "engVclName": "Grand Starex",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "TQ.KOR.SOP.V???.??????.STD_M",
@@ -22,10 +22,10 @@
     "TQV.KOR.SOP.V???.??????.STD_M"
   ],
   "swVers": [
-    "TQ.KOR.SOP.V141.250423.STD_M",
-    "TQW.KOR.SOP.V141.250423.STD_M",
-    "TQV.KOR.SOP.V141.250423.STD_M",
-    "TQL.KOR.SOP.V141.250423.STD_M"
+    "TQW.KOR.SOP.V141.250902.STD_M",
+    "TQV.KOR.SOP.V141.250902.STD_M",
+    "TQ.KOR.SOP.V141.250902.STD_M",
+    "TQL.KOR.SOP.V141.250902.STD_M"
   ],
   "vclName": "그랜드 스타렉스"
 }

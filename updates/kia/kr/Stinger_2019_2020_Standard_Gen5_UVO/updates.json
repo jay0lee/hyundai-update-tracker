@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "Stinger_2019_2020_Standard_Gen5_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL0NLLzE2Mzk5L1N0aW5nZXJfMjAxOV8yMDIwX1N0YW5kYXJkX0dlbjVfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.92TLHJFMcCLAifLQR1r6rd2sOLp7vhSNFGyqwmYgT2k",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgwNTEvU3Rpbmdlcl8yMDE5XzIwMjBfU3RhbmRhcmRfR2VuNV9VVk8uanNvbiIsImlzTnN1bSI6dHJ1ZX0.GQxOnwtT5-nrbviJSLZa-zHE08Z_IstTL6bSEXLx8Tg",
   "dvcName": "스팅어 / 2019, 2020 포함 [표준형 5세대 UVO]",
   "engDvcName": "Stinger / 2019, 2020 [Standard Gen5 UVO]",
   "engVclName": "Stinger",
@@ -15,7 +15,7 @@
   "platformCode": "12",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CK.KOR.SOP.???.??????.STD_H",

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "All_New_Tucson_2016_Blue",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzAwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9IRlRMLzE2MzA1L0FsbF9OZXdfVHVjc29uXzIwMTZfQmx1ZS5pbmYiLCJpc05zdW0iOnRydWV9.l4drwXgMVjSEKP20vIpfh7tGxa8F-7F4Q_8dgRE2pt0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzAwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkzMS9BbGxfTmV3X1R1Y3Nvbl8yMDE2X0JsdWUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.iFk1v-ce2SgLeA1tGdJPu5fxe6KyhLNITAgAaqmEkcA",
   "dvcName": "올 뉴 투싼 2016 [표준형 4세대 블루링크]",
   "engDvcName": "All New Tucson 2016 [Standard Gen4 Bluelink]",
   "engVclName": "Tucson",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.TLPE.KOR.E*"
   ],
   "swVers": [
-    "ST.TLPE.KOR.E553.241114"
+    "ST.TLPE.KOR.E553.251022"
   ],
   "vclName": "투싼"
 }

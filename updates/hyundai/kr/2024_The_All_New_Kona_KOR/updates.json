@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_The_All_New_Kona_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYyOCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjTkMvSEZTWC8xNTAyNS8yMDI0X1RoZV9BbGxfTmV3X0tvbmFfS09SLmluZiIsImlzTnN1bSI6dHJ1ZX0.vWNJtJrUR1vP6NxKZPwIbNSMJWwa74xXQNAhSSH5Vx8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYyOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5OTkwLzIwMjRfVGhlX0FsbF9OZXdfS29uYV9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.rC2N1MF-96i31vXTmGFWeGnk-MvG5N4pD7siYHqaPJ8",
   "dvcName": "디 올 뉴 코나 / Hybrid 포함 [ccNC 블루링크]",
   "engDvcName": "The All New Kona / Hybrid [ccNC Bluelink]",
   "engVclName": "Kona",
@@ -16,15 +16,15 @@
   "platformCode": "23",
   "priority": "490",
   "registYn": "N",
-  "releaseDate": "2025.04",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SX2.KOR.ccNC.???.*",
     "SX2.KOR.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "SX2.KOR.ccNC_Lite.001.002.250508",
-    "SX2.KOR.ccNC.001.002.250508"
+    "SX2.KOR.ccNC.001.002.251024",
+    "SX2.KOR.ccNC_Lite.001.002.251024"
   ],
   "vclName": "코나"
 }

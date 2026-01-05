@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_K3_EURO_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjkxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONC9ZRC8xNjMxNi9UaGVfTmV3X0szX0VVUk9fVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.Ri_if-nDkxwPYUGLq-DCgqB59ixPfjZIIc3mOu4vDlo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjkxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzk0Mi9UaGVfTmV3X0szX0VVUk9fVVZPLmpzb24iLCJpc05zdW0iOnRydWV9.yyQbdcdkV-Gw6AKBGOrRSbib4CvGVY0Lhn6JEmHnfpc",
   "dvcName": "The New K3 유로 [표준형 4세대 UVO]",
   "engDvcName": "The New K3 Euro [Standard Gen4 UVO]",
   "engVclName": "K3",
@@ -13,13 +13,13 @@
   "platformCode": "7",
   "priority": "502",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YD5D.KOR.E*"
   ],
   "swVers": [
-    "ST.YD5D.KOR.E553.241114"
+    "ST.YD5D.KOR.E553.251022"
   ],
   "vclName": "K3"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "IONIQ9_KOR_2025",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NjQ5L0lPTklROV9LT1JfMjAyNS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.MVwLuco3v3OQJrS8ZKNMVpD-VjtLJ4jJ01wAEM1Iirs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzI0L0lPTklROV9LT1JfMjAyNS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.J3b2UTfGXtrqGliXsiFXkdgsOF246EQcKXbEOT9hJN4",
   "dvcName": "아이오닉 9 [ccNC 블루링크]",
   "engDvcName": "Ioniq 9 [ccNC Bluelink]",
   "engVclName": "Ioniq",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "487",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ME1.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "ME1.KOR.ccNC.001.001.250812"
+    "ME1.KOR.ccNC.001.002.251024"
   ],
   "vclName": "아이오닉"
 }

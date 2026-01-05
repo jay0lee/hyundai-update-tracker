@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_K3_Euro_KOUP_Compact_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0NvbXBhY3RfR0VONS9ZRC8xNjE2My9UaGVfTmV3X0szX0V1cm9fS09VUF9Db21wYWN0X0dlbjUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.GG7aEV71MDdHOks_Om4-Vvz8vzaCLf6DnaImacNM3q0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgwOTYvVGhlX05ld19LM19FdXJvX0tPVVBfQ29tcGFjdF9HZW41Lmpzb24iLCJpc05zdW0iOnRydWV9.2JgD1SjOcWHUYErPDuFujShIZ7BCZv847NGbLZtXFag",
   "dvcName": "The New K3 / 유로, 쿱 포함 [경제형 5세대]",
   "engDvcName": "The New K3 / Euro, KOUP [Compact Gen5]",
   "engVclName": "K3",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "505",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YD.KOR.SOP.???.??????",

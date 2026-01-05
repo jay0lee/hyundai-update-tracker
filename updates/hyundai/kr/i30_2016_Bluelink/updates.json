@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "i30_2016_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9NT0JJUy9IQ1BELzE2MTM3L2kzMF8yMDE2X0JsdWVsaW5rLmluZiIsImlzTnN1bSI6dHJ1ZX0.lCTLdAkip2lBWPvD0shs5SCW4kz8sPF5yAeiJHTaZng",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzgzOS9pMzBfMjAxNl9CbHVlbGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.FHwFW7oT70X5M5D2vvpE8RpbD94WnLdsUkdF6tq9MhI",
   "dvcName": "i30 2016 [표준형 5세대 블루링크]",
   "engDvcName": "i30 2016 [Standard Gen5 Bluelink]",
   "engVclName": "i30",
@@ -13,13 +13,13 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PD.KOR.SOP.V???.??????.STD_H"
   ],
   "swVers": [
-    "PD.KOR.SOP.V141.250423.STD_H"
+    "PD.KOR.SOP.V141.250902.STD_H"
   ],
   "vclName": "i30"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_IONIQ5N_ccNC",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NjUwLzIwMjVfSU9OSVE1Tl9jY05DLmpzb24iLCJpc05zdW0iOnRydWV9.j-c9SA8pa8tg2eoJbcGKNSvsZsx8u5wPTCUx_cOU4Ww",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5Nzc5LzIwMjVfSU9OSVE1Tl9jY05DLmpzb24iLCJpc05zdW0iOnRydWV9.PdNpLyVe3PIB5mzEjaezw08e1zTE5GPL9KEpZjCznGM",
   "dvcName": "2025 아이오닉 5 N [ccNC 블루링크]",
   "engDvcName": "2025 Ioniq 5 N [ccNC Bluelink]",
   "engVclName": "Ioniq",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "488",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NE1KN25.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "NE1KN25.KOR.ccNC.001.002.250818"
+    "NE1KN25.KOR.ccNC.001.002.251024"
   ],
   "vclName": "아이오닉"
 }

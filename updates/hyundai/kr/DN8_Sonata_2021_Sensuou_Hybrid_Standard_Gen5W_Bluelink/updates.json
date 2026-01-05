@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "DN8_Sonata_2021_Sensuou_Hybrid_Standard_Gen5W_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9IREROLzE2MjE5L0ROOF9Tb25hdGFfMjAyMV9TZW5zdW91X0h5YnJpZF9TdGFuZGFyZF9HZW41V19CbHVlbGluay5pbmYiLCJpc05zdW0iOnRydWV9.QKmLnbJ2rxzQun1e68sB0yIrNaZLHYje4SkVxfV1JwI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMzgvRE44X1NvbmF0YV8yMDIxX1NlbnN1b3VfSHlicmlkX1N0YW5kYXJkX0dlbjVXX0JsdWVsaW5rLmpzb24iLCJpc05zdW0iOnRydWV9.ySH9wG_AVCLtMueOTJlqSjBrmfAfHFN91fP__z_fEe4",
   "dvcName": "DN8 쏘나타 / 2021, 2023 센슈어스, Hybrid 포함 [표준형 5W세대 블루링크]",
   "engDvcName": "DN8 Sonata / 2021, 2023 Sensuou, Hybrid [Standard Gen5W Bluelink]",
   "engVclName": "Sonata",
@@ -18,7 +18,7 @@
   "platformCode": "14",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DN8.KOR.S5W_M.V???.*",
@@ -29,12 +29,12 @@
     "DN8_H_23.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "DN8_22.KOR.S5W_M.V035.001.250507",
-    "DN8_H_22.KOR.S5W_M.V035.001.250507",
-    "DN8HEV.KOR.S5W_M.V035.001.250507",
-    "DN8.KOR.S5W_M.V035.001.250507",
-    "DN8_H_23.KOR.S5W_M.V035.001.250507",
-    "DN8_23.KOR.S5W_M.V035.001.250507"
+    "DN8.KOR.S5W_M.V036.001.251027",
+    "DN8HEV.KOR.S5W_M.V036.001.251027",
+    "DN8_23.KOR.S5W_M.V036.001.251027",
+    "DN8_22.KOR.S5W_M.V036.001.251027",
+    "DN8_H_22.KOR.S5W_M.V036.001.251027",
+    "DN8_H_23.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "쏘나타"
 }

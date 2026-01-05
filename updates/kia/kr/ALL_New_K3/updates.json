@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "ALL_New_K3",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VONV9MR0UvREIvMTYzOTIvQUxMX05ld19LMy5pbmYiLCJpc05zdW0iOnRydWV9.c6pZdivrrKHczHhRLm6BGztAeoTzILRpuzSWiMBicmA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzcxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA0NC9BTExfTmV3X0szLmpzb24iLCJpc05zdW0iOnRydWV9.I8FhyAs1BOpqWwYZJnvuZNqzkWDKYlsdLieYWKUOpVI",
   "dvcName": "ALL New K3 [표준형 5세대]",
   "engDvcName": "All New K3 [Standard Gen5]",
   "engVclName": "K3",
@@ -13,7 +13,7 @@
   "platformCode": "12",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "BD.KOR.SOP.???.??????.STD_M"

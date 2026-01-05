@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "GENESIS_GV70",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTAzNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU42L0pLMS8xNjEwOC9HRU5FU0lTX0dWNzAuaW5mIiwiaXNOc3VtIjp0cnVlfQ.v7fKw5Y0bTMN_PT8korNcRmcdi-G2Bg9-QfPhM7GvME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTAzNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTg0NzUvR0VORVNJU19HVjcwLmpzb24iLCJpc05zdW0iOnRydWV9.Aqx8AF3ra_dXJHljmD0aGlxx6ClguPt9D86YbyY4-K8",
   "dvcName": "GV70 / Electrified 포함 [고급형 6세대 Genesis Connected Services]",
   "engDvcName": "GV70 / Electrified [Premium Gen6 Genesis Connected Services]",
   "engVclName": "025_GV70",
@@ -14,13 +14,13 @@
   "platformCode": "15",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JK1.KOR.P6.???.???.??????"
   ],
   "swVers": [
-    "JK1.KOR.P6.001.016.250715"
+    "JK1.KOR.P6.001.017.251114"
   ],
   "vclName": "025_GV70"
 }

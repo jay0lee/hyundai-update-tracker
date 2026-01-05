@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "STONIC",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvQ29tcGFjdF9HRU41L1lXLzE2MTYxL1NUT05JQy5pbmYiLCJpc05zdW0iOnRydWV9.hLT6DDRD3svLPJ2-bwhGJPNDg--bOTWtSlSaWi58Bmo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA5NC9TVE9OSUMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.9cZMlZ5GyxS_P8LVz84VhHqZcKOOuu2cHPO9g3gq1so",
   "dvcName": "스토닉 [경제형 5세대]",
   "engDvcName": "Stonic [Compact Gen5]",
   "engVclName": "Stonic",
@@ -13,7 +13,7 @@
   "platformCode": "9",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YB.KOR.SOP.???.??????",

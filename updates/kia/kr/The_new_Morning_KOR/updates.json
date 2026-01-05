@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_new_Morning_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL0dFTjVfV0lERS9KQS8xNjQ5Ni9UaGVfbmV3X01vcm5pbmdfS09SLmluZiIsImlzTnN1bSI6dHJ1ZX0.2UQH0yyGyupAm-U4HwAPawkkag6QHOwZ4iE1eWZn1v8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5Nzg5L1RoZV9uZXdfTW9ybmluZ19LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.fA21rMQaSiK7PYv_aeFC2Go-Lus5JLFb0EdzRoyvuVE",
   "dvcName": "더 뉴 모닝 [표준형 5W세대 Kia Connect]",
   "engDvcName": "The new Morning [gen5W Kia Connect)",
   "engVclName": "Morning",
@@ -13,14 +13,14 @@
   "platformCode": "20",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JA_PE2.KOR.S5W_M.V???.*",
     "JAPE2.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "JA_PE2.KOR.S5W_M.V035.003.250714"
+    "JAPE2.KOR.S5W_M.V036.001.251023"
   ],
   "vclName": "모닝"
 }

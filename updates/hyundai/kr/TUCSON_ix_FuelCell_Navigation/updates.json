@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "TUCSON_ix_FuelCell_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRk5NLzE2NDcyL1RVQ1NPTl9peF9GdWVsQ2VsbF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.ADgLDgDK4wfa1BbKnvxPIuHGT2QfBMoSEmp8FuU6qRE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODE3OC9UVUNTT05faXhfRnVlbENlbGxfTmF2aWdhdGlvbi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.EdOVAoSelZHGPniFTGwFb2uiG8-hHm23tcLbj-HfJ9Q",
   "dvcName": "투싼 ix Fuel Cell [표준형 3세대]",
   "engDvcName": "Tucson ix Fuel Cell [Standard Gen3]",
   "engVclName": "Tucson",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "506",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LMFC.KOR.SOP.14.*"

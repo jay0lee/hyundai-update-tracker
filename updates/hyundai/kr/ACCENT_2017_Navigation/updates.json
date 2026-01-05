@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "ACCENT_2017_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IQlJCLzE2NDc3L0FDQ0VOVF8yMDE3X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.whZjmsY36MbqdEc79V_uNFZeY-WKaUTAR2CCgOhyd-o",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzM4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODE3NC9BQ0NFTlRfMjAxN19OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.5rdZVgWbP2__qi1qOtvpW2j1GKS5QC2TwDMGu0MuTY0",
   "dvcName": "엑센트 2017 [표준형 3세대]",
   "engDvcName": "Accent 2017 [Standard Gen3]",
   "engVclName": "Accent",
@@ -13,7 +13,7 @@
   "platformCode": "5",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RB17A4.KOR.SOP.14.*",

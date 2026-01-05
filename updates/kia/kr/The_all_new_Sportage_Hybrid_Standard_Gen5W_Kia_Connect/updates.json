@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_all_new_Sportage_Hybrid_Standard_Gen5W_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwNiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9OUS8xNjIxMy9UaGVfYWxsX25ld19TcG9ydGFnZV9IeWJyaWRfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuaW5mIiwiaXNOc3VtIjp0cnVlfQ.XZoZFe-sLnvNGkwR8s2H-GvhylPwlBoMjPL2lgnxiHA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMzIvVGhlX2FsbF9uZXdfU3BvcnRhZ2VfSHlicmlkX1N0YW5kYXJkX0dlbjVXX0tpYV9Db25uZWN0Lmpzb24iLCJpc05zdW0iOnRydWV9.aoBZN_dbzO2rzFdetYjYrJ3vH8BYwrueXdvLhn-DdFc",
   "dvcName": "The all-new 스포티지 / Hybrid 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "The all-new Sportage / Hybrid [Standard Gen5W Kia Connect]",
   "engVclName": "Sportage",
@@ -14,15 +14,15 @@
   "platformCode": "14",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2025.09",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NQ5.KOR.S5W_M.V???.*",
     "NQ5HEV.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "NQ5HEV.KOR.S5W_M.V035.001.250507",
-    "NQ5.KOR.S5W_M.V035.001.250507"
+    "NQ5.KOR.S5W_M.V036.001.251027",
+    "NQ5HEV.KOR.S5W_M.V036.001.251027"
   ],
   "vclName": "스포티지"
 }
