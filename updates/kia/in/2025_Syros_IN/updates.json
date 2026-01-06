@@ -16,8 +16,7 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "AY1.IND.ccNC.*",
-    "AY1.IND.ccNC_Lite.*"
+    "AY1.IND.ccNC.*"
   ],
   "swVers": [
     "AY1.IND.ccNC.001.003.251128"

@@ -16,8 +16,7 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SU2i_E.IND.S5W_M.V*",
-    "SU2I_E.IND.S5W_M.V*"
+    "SU2i_E.IND.S5W_M.V*"
   ],
   "swVers": [
     "SU2I_E.IND.S5W_M.V101.001.251113"
