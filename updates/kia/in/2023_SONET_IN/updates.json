@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_SONET_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg0OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvUVlQRS8xNTU1MC8yMDIzX1NPTkVUX0lOLmluZiIsImlzTnN1bSI6dHJ1ZX0.P0-qtfDuL3Vr0mMa81nvRj-zo9ZAwW-2or5uVy69p8A",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NDkvMjAyM19TT05FVF9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.OiQJykpennL4Qt6dc-80_wWEYjTH_DYabnAna1bcYHA",
   "dvcName": "2023 SONET",
   "engDvcName": "2023 SONET",
   "engVclName": "SONET",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QY_PE.IND.S5W_M.V*"
   ],
   "swVers": [
-    "QY_PE.IND.S5W_M.V008.001.250527"
+    "QY_PE.IND.S5W_M.V009.001.251113"
   ],
   "vclName": "SONET"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_EXTER_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTc2NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQUkzIFNVVi8xNTU0Ny8yMDIzX0VYVEVSX0lOLmluZiIsImlzTnN1bSI6dHJ1ZX0.N237HYjoG2_yBJNUZ40V8H8qxOHqIkB3eecgA3vyfD0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTc2NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NDYvMjAyM19FWFRFUl9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Grj1dQksd_KoPyQtIojrwXJJnzR3mdamfxUO2o6VtBg",
   "dvcName": "2023 EXTER",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AI3.IND.S5W_M.V*"
   ],
   "swVers": [
-    "AI3.IND.S5W_M.V008.001.250527"
+    "AI3.IND.S5W_M.V009.001.251113"
   ],
   "vclName": "EXTER"
 }

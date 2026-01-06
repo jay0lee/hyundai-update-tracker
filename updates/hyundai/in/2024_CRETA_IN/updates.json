@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_CRETA_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg0NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWluLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1UyaSBGTC8xNTU0OS8yMDI0X0NSRVRBX0lOLmluZiIsImlzTnN1bSI6dHJ1ZX0.1cn7B8Nn0Lc0UKdY_efyoS4Ahoe_HRpfUPQyA-T2OhY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg0NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NDgvMjAyNF9DUkVUQV9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.t4HEAFgAP2scpwlCwgCvc7Hcj4t1oMRxxwUsfx08PRk",
   "dvcName": "2024 CRETA",
   "engDvcName": "2024 CRETA",
   "engVclName": "CRETA",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SU2I_FL.IND.S5W_M.V*"
   ],
   "swVers": [
-    "SU2I_FL.IND.S5W_M.V008.001.250527"
+    "SU2I_FL.IND.S5W_M.V009.001.251113"
   ],
   "vclName": "CRETA"
 }
