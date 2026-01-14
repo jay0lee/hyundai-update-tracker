@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2021_G80_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIwNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9SRzMvMTQ5NTAvMjAyMV9HODBfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.EyFxBea3uFFqKUACjL8St5c25zhYZGFhkukg2a_G7fM",
+  "dvcName": "2021 G80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1205",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3AS.P6CLN.AU"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3.AUS.P6.*"
+  ],
+  "swVers": [
+    "RG3.AUS.P6.001.010.250429"
+  ],
+  "vclName": "G80"
+}
