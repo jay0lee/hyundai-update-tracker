@@ -27,6 +27,7 @@ jobs:
 
       - name: Run nudl for all known brands and regions
         run: |
+          set +e
           rm -rvf updates
           mkdir -p updates
           nudl=nudl/target/release/nudl
