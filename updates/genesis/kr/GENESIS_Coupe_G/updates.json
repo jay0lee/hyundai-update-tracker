@@ -1,0 +1,27 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_Coupe_G",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDEyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMS9ISEJLLzE0MDYyL0dFTkVTSVNfQ291cGVfRy5pbmYiLCJpc05zdW0iOnRydWV9.4EDOGZlwyl09IUI3FvaxewwSzoR6KjI6KPljSyVVacQ",
+  "dvcName": "제네시스 쿠페 [표준형 1세대]",
+  "engDvcName": "Genesis Coupe [Standard Gen1]",
+  "engVclName": "070_Genesis Coupe",
+  "mcode": "412",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_225_*",
+    "V_625_*"
+  ],
+  "swVers": [
+    "V_225_53",
+    "V_625_54_35N"
+  ],
+  "vclName": "070_제네시스 쿠페"
+}

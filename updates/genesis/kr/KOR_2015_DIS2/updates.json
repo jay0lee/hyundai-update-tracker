@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "KOR_2015_DIS2",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzk4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODIwMy9LT1JfMjAxNV9ESVMyLmpzb24iLCJpc05zdW0iOnRydWV9.nOpf7j3p6kRUHHSX2FmkXz5y7HbVQqQLSglaWeXfBuU",
+  "dvcName": "EQ900 [EQ900 내비게이션]",
+  "engDvcName": "EQ900 [EQ900 Premium]",
+  "engVclName": "040_EQ900",
+  "mcode": "398",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "10",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HI_R*"
+  ],
+  "swVers": [
+    "HI_R11.3.25_25085A_AA"
+  ],
+  "vclName": "040_EQ900"
+}

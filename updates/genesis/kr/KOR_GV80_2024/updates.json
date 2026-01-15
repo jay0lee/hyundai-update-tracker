@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "KOR_GV80_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcyOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjSUMyNy9KWC8xNTc2Ni9LT1JfR1Y4MF8yMDI0LmluZiIsImlzTnN1bSI6dHJ1ZX0.VYEETrkI51ec68SLw_gQNik4bd4FiHrpuIAHpdBjEzE",
+  "dvcName": "GV80 2024, 2025 포함 [ccIC27 Genesis Connected Services]",
+  "engDvcName": "GV80 2024, 2025 [ccIC27 Genesis Connected Services]",
+  "engVclName": "015_GV80",
+  "mcode": "1729",
+  "mediaType": "USB",
+  "modelNames": [
+    "JXAS.PCCLC.KR"
+  ],
+  "platformCode": "25",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JX.KOR.ccIC2.???.*"
+  ],
+  "swVers": [
+    "JX.KOR.ccIC2.001.006.250612"
+  ],
+  "vclName": "015_GV80"
+}
