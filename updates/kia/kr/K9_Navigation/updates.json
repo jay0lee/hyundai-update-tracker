@@ -1,0 +1,27 @@
+{
+  "brand": "KM",
+  "destPath": "K9_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9LSC8xNDE1OS9LOV9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.KQ4Md69kh185RuYvR1AqUgBZKJNHHFunuypiDNgGTUI",
+  "dvcName": "K9 [표준형 2세대]",
+  "engDvcName": "K9 [Standard Gen2]",
+  "engVclName": "K9",
+  "mcode": "150",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH.KOR.SOP.01.*",
+    "KH14.KOR.SOP.01.*"
+  ],
+  "swVers": [
+    "KH.KOR.SOP.01.069",
+    "KH14.KOR.SOP.01.075"
+  ],
+  "vclName": "K9"
+}
