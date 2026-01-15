@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Cadenza_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvWUcgMTlNWS8xMDIwMC8yMDE5XzIwX0NhZGVuemFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.29odC_gw3AVmdm2ga3YF8r1EwdC93Ih4M7ZFWaDFFPQ",
+  "dvcName": "2019 Cadenza",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "628",
+  "mediaType": "SD",
+  "modelNames": [
+    "YGAS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YG19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "YG19.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Cadenza"
+}
