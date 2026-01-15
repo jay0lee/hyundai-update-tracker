@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Niro_Plus_Electric_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU4MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREUgUEJWIEVWLzE1MjMxLzIwMjNfTmlyb19QbHVzX0VsZWN0cmljX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.sDNDbuQ1hclxs_UFaxcNgOxFOC_hDXFt7yBHcM7GVtk",
+  "dvcName": "2023 Niro Plus Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1580",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEPBVCE.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEPBV_E.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "DEPBV_E.AUS.S5W_L.001.001.250518"
+  ],
+  "vclName": "Niro Plus Electric"
+}

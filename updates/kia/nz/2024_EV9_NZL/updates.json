@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_EV9_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTc0MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTMwLzIwMjRfRVY5X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.wI-gngQFIaN42a-Oft5fs-IvUNONtkd495MeVUTVX_g",
+  "dvcName": "2024 EV9",
+  "engDvcName": "2024 EV9",
+  "engVclName": "EV9",
+  "mcode": "1742",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1AE.SCBMN.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1.NZL.ccNC.*"
+  ],
+  "swVers": [
+    "MV1.NZL.ccNC.001.002.250630"
+  ],
+  "vclName": "EV9"
+}
