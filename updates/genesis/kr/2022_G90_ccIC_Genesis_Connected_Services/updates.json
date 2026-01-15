@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2022_G90_ccIC_Genesis_Connected_Services",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkwOTcvMjAyMl9HOTBfY2NJQ19HZW5lc2lzX0Nvbm5lY3RlZF9TZXJ2aWNlcy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Y4XfaERoyxwCaOTv8GwDASVDXyVA1ZRPjv0asZUPSZA",
+  "dvcName": "G90 / 2022, 2023, 2024, 2025 포함 [ccIC Genesis Connected Services]",
+  "engDvcName": "G90 / 2022, 2023, 2024, 2025 포함 [ccIC Genesis Connected Services]",
+  "engVclName": "010_G90",
+  "mcode": "1443",
+  "mediaType": "USB",
+  "modelNames": [
+    "RS4AS.PCBLC.KR"
+  ],
+  "platformCode": "22",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RS4.KOR.ccIC.???.*"
+  ],
+  "swVers": [
+    "RS4.KOR.ccIC.001.027.251121"
+  ],
+  "vclName": "010_G90"
+}
