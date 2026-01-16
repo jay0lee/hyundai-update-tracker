@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "kor_2023_G70",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTY5NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzkwL2tvcl8yMDIzX0c3MC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.j8d0tKaoWL8HlpGIWFwUco-igUVJ6zE-zwnX4-8uFtQ",
+  "dvcName": "2023, 2025 G70 / 슈팅 브레이크 포함 [표준형 5W세대 Genesis Connected Services]",
+  "engDvcName": "2023, 2025 G70 / Shooting Brake [Standard Gen5W Genesis Connected Services]",
+  "engVclName": "030_G70",
+  "mcode": "1694",
+  "mediaType": "USB",
+  "modelNames": [
+    "IKPE2BS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "IKPE2.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "IKPE2.KOR.S5W_M.V036.001.251023"
+  ],
+  "vclName": "030_G70"
+}
