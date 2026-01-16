@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_SORENTO_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAzMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0LzE2MDIxLzIwMjFfU09SRU5UT19NRS5pbmYiLCJpc05zdW0iOnRydWV9.XdxLBz8XWno35NwHzzAVT1NR1oiu8Z-FeToNqkiCyLU",
+  "dvcName": "2021 SORENTO",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1031",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4AS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "SORENTO"
+}
