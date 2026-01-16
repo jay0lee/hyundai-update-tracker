@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_EV5_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL09WMS8xNjM1MS8yMDI1X0VWNV9NRVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.YqWq7LH58qXXikH-4RN79OKh-6RpGqm71H_j6GNXuN4",
+  "dvcName": "2025 EV5",
+  "engDvcName": "2025 EV5",
+  "engVclName": "EV5",
+  "mcode": "1915",
+  "mediaType": "USB",
+  "modelNames": [
+    "OV1AE.SCBMN.ME",
+    "OV1AE.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OV1.MES.ccNC.???.*",
+    "OV1.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "OV1.MES.ccNC.001.002.250630",
+    "OV1.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "EV5"
+}
