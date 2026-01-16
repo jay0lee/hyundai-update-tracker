@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Stonic_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTg1LzIwMjVfU3RvbmljX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.UV9C6L66yAUDM81R2XCQfqAo4Y9bFiRqih6Kb806WT4",
+  "dvcName": "2024-25 Stonic",
+  "engDvcName": "2024-25 Stonic",
+  "engVclName": "Stonic",
+  "mcode": "1901",
+  "mediaType": "USB",
+  "modelNames": [
+    "YBCS.S5ALN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YB_25.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "YB_25.AUS.S5W_L.001.001.250518"
+  ],
+  "vclName": "Stonic"
+}
