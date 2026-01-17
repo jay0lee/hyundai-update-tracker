@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2025_GV60_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkyMyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9jY0lDL0pXIDI1TVkvMTU4MzgvMjAyNV9HVjYwX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.CvvyDhADgp4ocLUYZEd5aGFXZPP_PlviWezNQ5jazVA",
+  "dvcName": "2025 GV60",
+  "engDvcName": "2025 GV60",
+  "engVclName": "GV60",
+  "mcode": "1923",
+  "mediaType": "USB",
+  "modelNames": [
+    "JWAE.PCBLN.ME"
+  ],
+  "platformCode": "22",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JW.MES.ccIC.*"
+  ],
+  "swVers": [
+    "JW.MES.ccIC.001.015.250702"
+  ],
+  "vclName": "GV60"
+}
