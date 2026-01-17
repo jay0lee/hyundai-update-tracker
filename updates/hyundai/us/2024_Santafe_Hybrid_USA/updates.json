@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Santafe_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgyMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NTcwLzIwMjRfU2FudGFmZV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.-v3qX_H9J6S4i2gb0m_QK4xVlKPmDROoKlIfm06jTwM",
+  "dvcName": "2024-25 Santa fe Hybrid",
+  "engDvcName": "2024-25 Santa fe Hybrid",
+  "engVclName": "Santa Fe Hybrid",
+  "mcode": "1821",
+  "mediaType": "USB",
+  "modelNames": [
+    "MX5AH.SCBMC.US",
+    "MX5AH.SLBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MX5.USA.ccNC.???.*",
+    "MX5.USA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MX5.USA.ccNC.001.002.250930",
+    "MX5.USA.ccNC_Lite.001.002.251003"
+  ],
+  "vclName": "Santa Fe Hybrid"
+}
