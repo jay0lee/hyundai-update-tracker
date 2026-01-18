@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Sportage_Plug_in_hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3MTIvMjAyM19TcG9ydGFnZV9QbHVnX2luX2h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.BpjwVgV5Uak8ryCyYk4Tu4d1YkBzHmXeUaf_Q8guYmM",
+  "dvcName": "2022-25 Sportage Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1532",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AP.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "NQ5PHEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "NQ5PHEV.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Sportage Plug-in Hybrid"
+}
