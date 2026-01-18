@@ -1,0 +1,26 @@
+{
+  "brand": "GN",
+  "destPath": "G90_2021_Premium_Gen5_Genesis_Connected_Services",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc2MzkvRzkwXzIwMjFfUHJlbWl1bV9HZW41X0dlbmVzaXNfQ29ubmVjdGVkX1NlcnZpY2VzLmpzb24iLCJpc05zdW0iOnRydWV9.jDCB5skt2GHDHR8TRIFWdvXhbBxY4KM2J4DiiSeGcLA",
+  "dvcName": "G90 / 2021 포함 [고급형 5세대 Genesis Connected Services]",
+  "engDvcName": "G90 / 2021 [Premium Gen5 Genesis Connected Services]",
+  "engVclName": "010_G90",
+  "mcode": "1429",
+  "mediaType": "USB",
+  "modelNames": [
+    "HIAS.P5BLC.KR",
+    "HIBS.P5BLC.KR"
+  ],
+  "platformCode": "13",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HI.KOR.P5.???.*"
+  ],
+  "swVers": [
+    "HI.KOR.P5.001.036.251022"
+  ],
+  "vclName": "010_G90"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_GV60_ccIC_GCS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkwOTYvR0VORVNJU19HVjYwX2NjSUNfR0NTLmpzb24iLCJpc05zdW0iOnRydWV9.TESkH_8b5osOJH4AngUZH21NyDMNE7nP472h4_UU7ts",
+  "dvcName": "GV60 / 2023, 2024 포함 [ccIC Genesis Connected Services]",
+  "engDvcName": "GV60 / 2023, 2024 [ccIC Genesis Connected Services]",
+  "engVclName": "035_GV60",
+  "mcode": "1437",
+  "mediaType": "USB",
+  "modelNames": [
+    "JWAE.PCBLC.KR"
+  ],
+  "platformCode": "22",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JW.KOR.ccIC.???.*"
+  ],
+  "swVers": [
+    "JW.KOR.ccIC.001.027.251121"
+  ],
+  "vclName": "035_GV60"
+}
