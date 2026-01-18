@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Niro_Plug_in_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU3OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU0cyIFBIRVYvMTUyMzAvMjAyM19OaXJvX1BsdWdfaW5fSHlicmlkX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.blSJrifi6JvF4k2MNBt7JN9m9Fd_RxZ5PEbz_9Wv8zU",
+  "dvcName": "2023 Niro Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1578",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AP.S5SLN.AAU",
+    "SG2AP.S5SLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG2_P.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "SG2_P.AUS.S5W_L.001.001.250518"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}
