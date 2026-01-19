@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GV70_2024_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg1NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0ta3J1cGxvYWQubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL3N1bXNfaW5mL2NjSUMyNy9KSzEvMTU3NjcvR1Y3MF8yMDI0X0tPUi5pbmYiLCJpc05zdW0iOnRydWV9._uDDd2ogPH-aS-ey79y_nFvS8PiIcaSJsmtG-MFKRKo",
+  "dvcName": "GV70 2025 [ccIC27 Genesis Connected Services]",
+  "engDvcName": "GV70 2025 [ccIC27 Genesis Connected Services]",
+  "engVclName": "025_GV70",
+  "mcode": "1857",
+  "mediaType": "USB",
+  "modelNames": [
+    "JKAS.PCCLC.KR"
+  ],
+  "platformCode": "25",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK.KOR.ccIC2.???.*"
+  ],
+  "swVers": [
+    "JK.KOR.ccIC2.001.006.250612"
+  ],
+  "vclName": "025_GV70"
+}
