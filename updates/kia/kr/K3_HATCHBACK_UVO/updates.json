@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K3_HATCHBACK_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTgzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9ZRC8xNDQ4MS9LM19IQVRDSEJBQ0tfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.9Y-sac67IcQ7WHfGF50ow8uEZWFUMq3uaplmeN_oSlY",
+  "dvcName": "K3 유로 [표준형 3세대 UVO]",
+  "engDvcName": "K3 Euro [Standard Gen3 UVO]",
+  "engVclName": "K3",
+  "mcode": "183",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YD5_MTS.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "YD5_MTS.KOR.SOP.14.052"
+  ],
+  "vclName": "K3"
+}
