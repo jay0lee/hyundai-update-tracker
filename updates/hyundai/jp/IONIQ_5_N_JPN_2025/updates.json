@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "IONIQ_5_N_JPN_2025",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJqcCIsIm1jb2RlIjoiMTc4MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzUyL0lPTklRXzVfTl9KUE5fMjAyNS5qc29uIiwiaXNOc3VtIjp0cnVlfQ._Uz2qS3VTojpahGmyo1YhCAYrZkgWviFS04F_g2T0rk",
+  "dvcName": "IONIQ 5 N",
+  "engDvcName": "IONIQ 5 N",
+  "engVclName": "IONIQ",
+  "mcode": "1782",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1KNAS.SCBMC.JP"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1KN.JPN.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1KN.JPN.ccNC.001.002.251117"
+  ],
+  "vclName": "IONIQ"
+}

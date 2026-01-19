@@ -1,10 +1,10 @@
 {
   "brand": "HM",
   "destPath": "The_new_IONIQ5_2025_JPN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJqcCIsIm1jb2RlIjoiMTg3MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWpwLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01FIUFFLzEyMTYwL1RoZV9uZXdfSU9OSVE1XzIwMjVfSlBOLmluZiIsImlzTnN1bSI6dHJ1ZX0.nwUwoBoG-d9otJlrQEDO5jonFtGHCZ7pjhcnOlUKU3M",
-  "dvcName": "The new IONIQ 5 (25MY~)",
-  "engDvcName": "The new IONIQ 5 (25MY~)",
-  "engVclName": "IONIQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJqcCIsIm1jb2RlIjoiMTg3MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzUxL1RoZV9uZXdfSU9OSVE1XzIwMjVfSlBOLmpzb24iLCJpc05zdW0iOnRydWV9.23bJw5migY4X9OVXFY9vaBbmN5mElVUcYlOkuxUHG-c",
+  "dvcName": "The new IONIQ 5 (2025年モデル～)",
+  "engDvcName": "",
+  "engVclName": "",
   "mcode": "1870",
   "mediaType": "USB",
   "modelNames": [
@@ -19,7 +19,7 @@
     "NE1.JPN.ccNC.???.*"
   ],
   "swVers": [
-    "NE1.JPN.ccNC.001.002.241128"
+    "NE1.JPN.ccNC.001.002.251117"
   ],
   "vclName": "IONIQ"
 }
