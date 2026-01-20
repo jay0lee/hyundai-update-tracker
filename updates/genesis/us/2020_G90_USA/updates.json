@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2020_G90_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjk5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjU5OS8yMDIwX0c5MF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.T7AwDO1ad6FxrDDtx-d6IGEx3Ul3uU9dHx2F4WjTmt0",
+  "dvcName": "2020 G90",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "699",
+  "mediaType": "USB",
+  "modelNames": [
+    "HIAS.P5BLC.NA"
+  ],
+  "platformCode": "13",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HI.USA.P5.???.*"
+  ],
+  "swVers": [
+    "HI.USA.P5.001.015.250729"
+  ],
+  "vclName": "G90"
+}
