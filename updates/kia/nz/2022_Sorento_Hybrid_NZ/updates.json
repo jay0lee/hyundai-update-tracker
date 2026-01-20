@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Sorento_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0X0hfMjIvMTUyNDMvMjAyMl9Tb3JlbnRvX0h5YnJpZF9OWi5pbmYiLCJpc05zdW0iOnRydWV9.Gyvhbk0JsQyUQen_6yEhvE0aX_u0bmCwBlCwxFq72dQ",
+  "dvcName": "2022 Sorento Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1496",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4BH.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4_H_22.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "MQ4_H_22.AUS.S5W_L.001.001.250518"
+  ],
+  "vclName": "Sorento Hybrid"
+}
