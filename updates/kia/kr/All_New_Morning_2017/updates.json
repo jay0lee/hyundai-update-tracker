@@ -1,0 +1,35 @@
+{
+  "brand": "KM",
+  "destPath": "All_New_Morning_2017",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzE4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA4Ny9BbGxfTmV3X01vcm5pbmdfMjAxNy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.2MR4x_lkJeUNBbb_x1qHKQuGWged-CGqjkOoj50Rq5M",
+  "dvcName": "All New 모닝 2017 [경제형 5세대]",
+  "engDvcName": "All New Morning 2017 [Compact Gen5]",
+  "engVclName": "Morning",
+  "mcode": "318",
+  "mediaType": "SD",
+  "modelNames": [
+    "JAAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JA.KOR.SOP.???.??????",
+    "JA.KOR.SOP_CP.???.??????",
+    "CP.JA.KOR.SOP.???.??????",
+    "JA.KOR.SOP_CP.???.?.??????",
+    "JA.KOR.SOP_CP.???",
+    "JA.KOR.SOP_CP.???.?",
+    "JA.KOR.SOP_CP.???.??.??????",
+    "JA.KOR.SOP_CP.??.???.?",
+    "",
+    "CP.JA.KOR.SOP.??.???",
+    "CP.JA.KOR.SOP.??.???"
+  ],
+  "swVers": [
+    "JA.KOR.SOP.049.241120"
+  ],
+  "vclName": "모닝"
+}
