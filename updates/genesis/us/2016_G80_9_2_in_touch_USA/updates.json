@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2016_G80_9_2_in_touch_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTE0MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bXVzLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9ESDE2TVkvMTQ3NjYvMjAxNl9HODBfOV8yX2luX3RvdWNoX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.URCnMIAhnbjp3WxO6-szChdS6aIiSmrew66VonDQKHg",
+  "dvcName": "2016 G80 (9.2 in. Touchscreen)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1143",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHAS.P2ALC.NA"
+  ],
+  "platformCode": "8",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DH16MY.USA.SOP.*"
+  ],
+  "swVers": [
+    "DH16MY.USA.SOP.xx.031"
+  ],
+  "vclName": "G80"
+}
