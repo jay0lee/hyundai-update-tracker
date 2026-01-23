@@ -1,0 +1,32 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_Sportage_ccNC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5Nzg0L1RoZV9OZXdfU3BvcnRhZ2VfY2NOQy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.E3hp5eLc5shOq_4eokiRruUsB6gRnV7s7-93nQ27Q_4",
+  "dvcName": "The new Sportage [ccNC Kia Connect]",
+  "engDvcName": "The new Sportage [ccNC Kia Connect]",
+  "engVclName": "Sportage",
+  "mcode": "1957",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AS.SCBMC.KR",
+    "NQ5AS.SLBMC.KR",
+    "NQ5AH.SCBMC.KR",
+    "NQ5AH.SLBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5.KOR.ccNC.???.*",
+    "NQ5.KOR.ccNC_Lite.???.*",
+    "NQ5.KOR.ccNC.???.*",
+    "NQ5.KOR.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NQ5.KOR.ccNC.001.002.251024",
+    "NQ5.KOR.ccNC_Lite.001.002.251024"
+  ],
+  "vclName": "스포티지"
+}
