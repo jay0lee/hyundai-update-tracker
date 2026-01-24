@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2016_19_G80_9_2_in_Touch_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTk4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU4yL0RIX1BFLzEwNjkwLzIwMTZfMTlfRzgwXzlfMl9pbl9Ub3VjaF9NRS5pbmYiLCJpc05zdW0iOnRydWV9.dVF95sIM8BOForJwBdZl2VYROVTKetWNbT5FbuczaRA",
+  "dvcName": "2016-19 G80 (9.2 in. Touch)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "998",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHBS.P2ALN.ME"
+  ],
+  "platformCode": "8",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DHPE.MES.SOP.*"
+  ],
+  "swVers": [
+    "DHPE.MES.SOP.XX.010"
+  ],
+  "vclName": "G80"
+}
