@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Bongo_III_EV_Standard_Gen5W_Kia_Connect_Bridge",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMjcvQm9uZ29fSUlJX0VWX1N0YW5kYXJkX0dlbjVXX0tpYV9Db25uZWN0X0JyaWRnZS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.qmo302-LwX-doP896KSonlgedb3Li9NiWs4eFUJh4k0",
+  "dvcName": "봉고 III Electric [표준형 5W세대 Kia Connect]",
+  "engDvcName": "Bongo III Electric [Standard Gen5W Kia Connect]",
+  "engVclName": "Bongo",
+  "mcode": "1441",
+  "mediaType": "USB",
+  "modelNames": [
+    "PUAE.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "PU_E_22.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "PU_E_22.KOR.S5W_M.V036.001.251027"
+  ],
+  "vclName": "봉고"
+}
