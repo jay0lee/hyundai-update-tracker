@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_K8_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk5MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0dMM1BFLzE2MzUzLzIwMjVfSzhfTUVTLmluZiIsImlzTnN1bSI6dHJ1ZX0.XoSN8t8EWs6JUsvhDiRTppmoQoAs9O55sa6M7nnJ-wE",
+  "dvcName": "2026 K8",
+  "engDvcName": "2026 K8",
+  "engVclName": "K8",
+  "mcode": "1993",
+  "mediaType": "USB",
+  "modelNames": [
+    "GL3AS.SCBMN.ME",
+    "GL3AS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GL3.MES.ccNC.???.*",
+    "GL3.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "GL3.MES.ccNC.001.002.250630",
+    "GL3.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "K8"
+}

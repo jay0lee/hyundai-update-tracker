@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2016_20_MOHAVE_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwNCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU40L0hNLzEwNjc0LzIwMTZfMjBfTU9IQVZFX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.s6JZRsrdJLom_wPc_s68Ejx_Sgolri5O9ChKdAwOFoo",
+  "dvcName": "2016-20 MOHAVE",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1004",
+  "mediaType": "SD",
+  "modelNames": [
+    "HMAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.HM.MES.E*"
+  ],
+  "swVers": [
+    "ST.HM.MES.E536.241118"
+  ],
+  "vclName": "MOHAVE"
+}
