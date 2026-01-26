@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_20_Elantra_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQUQgUEUvMTU0MTIvMjAxOV8yMF9FbGFudHJhX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.iXgWrl5ODKOSvzBKNPzf2Z0uXyQU7Yp_gZK4XIDgi8g",
+  "dvcName": "2019-20 Elantra",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "616",
+  "mediaType": "SD",
+  "modelNames": [
+    "ADBS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ADPE.USA.SOP.V*"
+  ],
+  "swVers": [
+    "ADPE.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Elantra"
+}
