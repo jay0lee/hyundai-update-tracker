@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2015_17_QUORIS_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAyMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VOMi9LSC8xMDY5Mi8yMDE1XzE3X1FVT1JJU19NRS5pbmYiLCJpc05zdW0iOnRydWV9.2tCDSAvpv0775A8f7N0rr_dsH65WP622amiJ2EbZ6D4",
+  "dvcName": "2015-17 QUORIS",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1022",
+  "mediaType": "SD",
+  "modelNames": [
+    "KHAS.P2ALN.ME"
+  ],
+  "platformCode": "8",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH.MES.SOP.*"
+  ],
+  "swVers": [
+    "KH.MES.SOP.XX.012"
+  ],
+  "vclName": "QUORIS"
+}
