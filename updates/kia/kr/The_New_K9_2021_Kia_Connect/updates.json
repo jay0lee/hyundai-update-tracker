@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K9_2021_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI3NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTg0NzIvVGhlX05ld19LOV8yMDIxX0tpYV9Db25uZWN0Lmpzb24iLCJpc05zdW0iOnRydWV9.k7sY2qeQpy28Sxeau3GNRXGfg79vYRjV2LMQWvVuyTQ",
+  "dvcName": "The New K9 2021, 2024 포함 [고급형 6세대 Kia Connect]",
+  "engDvcName": "The New K9 2021, 2024 [Premium Gen6 Kia Connect]",
+  "engVclName": "K9",
+  "mcode": "1276",
+  "mediaType": "USB",
+  "modelNames": [
+    "RJAS.P6CLC.KR"
+  ],
+  "platformCode": "15",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "RJPE.KOR.P6.???.???.??????"
+  ],
+  "swVers": [
+    "RJPE.KOR.P6.001.017.251114"
+  ],
+  "vclName": "K9"
+}
