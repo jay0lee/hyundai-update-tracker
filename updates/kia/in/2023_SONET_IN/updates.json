@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_SONET_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTg0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NDkvMjAyM19TT05FVF9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.OiQJykpennL4Qt6dc-80_wWEYjTH_DYabnAna1bcYHA",
+  "dvcName": "2023 SONET",
+  "engDvcName": "2023 SONET",
+  "engVclName": "SONET",
+  "mcode": "1848",
+  "mediaType": "USB",
+  "modelNames": [
+    "QYBS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QY_PE.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "QY_PE.IND.S5W_M.V009.001.251113"
+  ],
+  "vclName": "SONET"
+}

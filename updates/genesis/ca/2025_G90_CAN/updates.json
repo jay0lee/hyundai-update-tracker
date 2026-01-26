@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2025_G90_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2NTUvMjAyNV9HOTBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.N9l8hHNz5hCKQvZx2hQ_UqwC98SQANm0Xo2-4p-ds5Y",
+  "dvcName": "2025 G90",
+  "engDvcName": "2025 G90",
+  "engVclName": "G90",
+  "mcode": "1883",
+  "mediaType": "USB",
+  "modelNames": [
+    "RS4AS.PCBLC.CA"
+  ],
+  "platformCode": "22",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RS4.CAN.ccIC.???.*"
+  ],
+  "swVers": [
+    "RS4.CAN.ccIC.001.015.250826"
+  ],
+  "vclName": "G90"
+}
