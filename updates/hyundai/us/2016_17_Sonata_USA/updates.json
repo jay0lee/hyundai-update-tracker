@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2016_17_Sonata_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjIzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvTEZhMTZNWS8xNTMxNy8yMDE2XzE3X1NvbmF0YV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.aHFvbs4r002LHN_z6v30359sB0iSw2fn44pN7C_56o8",
+  "dvcName": "2016-17 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "623",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFCS.S4AMC.US"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.LF16.USA.E*"
+  ],
+  "swVers": [
+    "ST.LF16.USA.E543.250408"
+  ],
+  "vclName": "Sonata"
+}
