@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K7_Hybrid_700h_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjA3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9WRy8xNDQ3MS9UaGVfTmV3X0s3X0h5YnJpZF83MDBoX05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.HWXLshqqfii09MoWAyZgQ-pdLo2ah-aLyC-3CjkoZnk",
+  "dvcName": "K7 Hybrid 700h [표준형 3세대]",
+  "engDvcName": "K7 Hybrid 700h [Standard Gen3]",
+  "engVclName": "K7",
+  "mcode": "207",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VGE.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "VGE.KOR.SOP.14.046"
+  ],
+  "vclName": "K7"
+}
