@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "K8_Hybrid_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMjkvSzhfSHlicmlkX1N0YW5kYXJkX0dlbjVXX0tpYV9Db25uZWN0Lmpzb24iLCJpc05zdW0iOnRydWV9.2SLnqkApru9rp98LUpBmeHm0uOKsZkX34_X-6_eFNEQ",
+  "dvcName": "K8 / Hybrid 포함 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "K8 / Hybrid [Standard Gen5W Kia Connect]",
+  "engVclName": "K8",
+  "mcode": "1419",
+  "mediaType": "USB",
+  "modelNames": [
+    "GL3AS.S5BMC.KR",
+    "GL3AH.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GL3.KOR.S5W_M.V???.*",
+    "GL3HEV.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "GL3HEV.KOR.S5W_M.V036.001.251027",
+    "GL3.KOR.S5W_M.V036.001.251027"
+  ],
+  "vclName": "K8"
+}
