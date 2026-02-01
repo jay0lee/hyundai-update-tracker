@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "G70_MES_2024",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1MSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvSUtQRTIvMTYzNjMvRzcwX01FU18yMDI0LmluZiIsImlzTnN1bSI6dHJ1ZX0.nPVrEc9yRtSCPGxXQbOFyZ923P-z-mjzOuG1tUHAUow",
+  "dvcName": "2024 G70",
+  "engDvcName": "2024 G70",
+  "engVclName": "G70",
+  "mcode": "1751",
+  "mediaType": "USB",
+  "modelNames": [
+    "IKPE2BS.S5BM.ME"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "IKPE2.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "IKPE2.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "G70"
+}

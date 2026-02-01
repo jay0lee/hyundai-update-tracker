@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2017_20_G70_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTkyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSUsvMTU5NjQvMjAxN18yMF9HNzBfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.7O6CBs9-0UnzCAEKNgbH1qtRYKdM5uS4Umb6Nr8QNKg",
+  "dvcName": "2017-20 G70",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "992",
+  "mediaType": "SD",
+  "modelNames": [
+    "IKAS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "IK.MES.SOP.V*"
+  ],
+  "swVers": [
+    "IK.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "G70"
+}
