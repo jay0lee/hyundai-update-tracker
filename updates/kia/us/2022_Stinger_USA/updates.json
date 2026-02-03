@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Stinger_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3NDYvMjAyMl9TdGluZ2VyX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.S8ieABrnlGyzDPYZXp4Iq20QUrZAtlaK2XzcRA9KOHU",
+  "dvcName": "2022 Stinger",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1131",
+  "mediaType": "USB",
+  "modelNames": [
+    "CKAS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "CKPE.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "CKPE.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Stinger"
+}
