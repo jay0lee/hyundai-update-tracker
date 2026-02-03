@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_K8_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvR0wzLzE2MDAwLzIwMjJfSzhfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.RiAutisQtdLeZ45j9YMSKP_HwY0iwHCa5Q1CCR0VBBQ",
+  "dvcName": "2022 K8",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1385",
+  "mediaType": "USB",
+  "modelNames": [
+    "GL3AS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GL3.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "GL3.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "K8"
+}
