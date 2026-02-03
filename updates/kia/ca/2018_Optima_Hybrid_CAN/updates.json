@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2018_Optima_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkYgUEUgSEVWLzE1NDA5LzIwMThfT3B0aW1hX0h5YnJpZF9DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.n59eo_xryw_GSFcclR0d6hFa8q1scFVZXfcR88Z0W3A",
+  "dvcName": "2018 Optima Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "794",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFBH.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JFPEHEV.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "JFPEHEV.CAN.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Optima Hybrid"
+}
