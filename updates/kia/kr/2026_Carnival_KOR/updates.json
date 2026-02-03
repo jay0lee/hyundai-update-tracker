@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "2026_Carnival_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzI4LzIwMjZfQ2Fybml2YWxfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.gUig4I4CBIbFDE8JMeWJIFT_21gBiLddMXV_xKelJOQ",
+  "dvcName": "The 2026 카니발/ Hybrid 포함 [ccNC Kia Connect]",
+  "engDvcName": "The 2026 Carnival / Hybrid [ccNC Kia Connect]",
+  "engVclName": "Carnival",
+  "mcode": "2017",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4MY27AS.SCBMC.KR",
+    "KA4MY27AH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4MY27.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "KA4MY27.KOR.ccNC.001.002.251029"
+  ],
+  "vclName": "카니발"
+}
