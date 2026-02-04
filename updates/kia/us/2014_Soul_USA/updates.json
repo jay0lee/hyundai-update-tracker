@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2014_Soul_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjMwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvUFMvMTA1NjEvMjAxNF9Tb3VsX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.eHiG4UIeTeQ2baLp5_LlcrKXV2grAhI2jIN37bId7bM",
+  "dvcName": "2014 Soul",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "630",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSAS.S4AMN.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.PS.USA.E*"
+  ],
+  "swVers": [
+    "ST.PS.USA.E543.241029"
+  ],
+  "vclName": "Soul"
+}
