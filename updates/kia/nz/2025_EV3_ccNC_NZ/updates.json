@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_EV3_ccNC_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTk3MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTQyLzIwMjVfRVYzX2NjTkNfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.7JesCS3esSDysxjWY_IFo8jFfYSnozclYLRweOl_VoA",
+  "dvcName": "EV3",
+  "engDvcName": "EV3",
+  "engVclName": "EV3",
+  "mcode": "1971",
+  "mediaType": "USB",
+  "modelNames": [
+    "SV1AS.SCBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SV1.NZL.ccNC.*"
+  ],
+  "swVers": [
+    "SV1.NZL.ccNC.001.002.250630"
+  ],
+  "vclName": "EV3"
+}
