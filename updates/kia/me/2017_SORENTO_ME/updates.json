@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2017_SORENTO_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAxMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X01PQklTL1VNX1BFLzE1OTczLzIwMTdfU09SRU5UT19NRS5pbmYiLCJpc05zdW0iOnRydWV9.NlpHxoAHy48pgjui0bgXe2AdBRH8Ut8vvwXh-LQCwrU",
+  "dvcName": "2017 SORENTO",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1010",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "UMPE.MES.SOP.V*"
+  ],
+  "swVers": [
+    "UMPE.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "SORENTO"
+}
