@@ -18,7 +18,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "MX5.NZL.ccNC*",
-    "MX5.NZL.ccNC_Lite*"
+    "MX5.NZL.ccNC_Lite*",
+    "MX5.OCE.ccNC.*",
+    "MX5.OCE.ccNC_Lite.*"
   ],
   "swVers": [
     "MX5.NZL.ccNC.001.002.250630",

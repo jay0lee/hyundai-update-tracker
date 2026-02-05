@@ -18,7 +18,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4E.NZL.ccNC*",
-    "NX4E.NZL.ccNC_Lite*"
+    "NX4E.NZL.ccNC_Lite*",
+    "NX4E.OCE.ccNC.*",
+    "NX4E.OCE.ccNC_Lite.*"
   ],
   "swVers": [
     "NX4E.NZL.ccNC.001.002.250630",

@@ -18,7 +18,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "SX2.NZL.ccNC.???.*",
-    "SX2.NZL.ccNC_Lite.???.*"
+    "SX2.NZL.ccNC_Lite.???.*",
+    "SX2.OCE.ccNC.*",
+    "SX2.OCE.ccNC_Lite.*"
   ],
   "swVers": [
     "SX2.NZL.ccNC.001.002.250630",
