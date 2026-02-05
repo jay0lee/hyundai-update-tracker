@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2021_22_G80_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTQ0OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9QR0VONi9SRzNfMjJNWS8xNTgyMy8yMDIxXzIyX0c4MF9NRS5pbmYiLCJpc05zdW0iOnRydWV9.WPIztVsepDdCFzIctbrvvPcducCrF4zlCRi0cbkfcm4",
+  "dvcName": "2022 G80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1448",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3BS.P6CLN.ME"
+  ],
+  "platformCode": "15",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3_22.MES.P6.*"
+  ],
+  "swVers": [
+    "RG3_22.MES.P6.001.010.250701"
+  ],
+  "vclName": "G80"
+}

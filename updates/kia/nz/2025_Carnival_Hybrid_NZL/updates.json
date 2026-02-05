@@ -18,9 +18,7 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "KA4.NZL.ccNC*",
-    "KA4.NZL.ccNC_Lite*",
-    "KA4.OCE.ccNC.*",
-    "KA4.OCE.ccNC_Lite.*"
+    "KA4.NZL.ccNC_Lite*"
   ],
   "swVers": [
     "KA4.NZL.ccNC.001.002.250630",
