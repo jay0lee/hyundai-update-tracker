@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K9_DIS_2018_DIS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODEwNi9UaGVfTmV3X0s5X0RJU18yMDE4X0RJUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.rO_1j9DCQfjh-APrnQdYCUY2khP625hgU3K17jGhNbQ",
+  "dvcName": "K9 2018 [고급형 2세대 UVO]",
+  "engDvcName": "K9 2018 [Premium Gen2 UVO]",
+  "engVclName": "K9",
+  "mcode": "353",
+  "mediaType": "SD",
+  "modelNames": [
+    "KHAS.P2ALC.KR"
+  ],
+  "platformCode": "8",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH18MY.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "KH18MY.KOR.SOP.00.063"
+  ],
+  "vclName": "K9"
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "The_new_Morning_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5Nzg5L1RoZV9uZXdfTW9ybmluZ19LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.fA21rMQaSiK7PYv_aeFC2Go-Lus5JLFb0EdzRoyvuVE",
+  "dvcName": "더 뉴 모닝 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The new Morning [gen5W Kia Connect)",
+  "engVclName": "Morning",
+  "mcode": "1705",
+  "mediaType": "USB",
+  "modelNames": [
+    "JADS.S5AMC.KR"
+  ],
+  "platformCode": "20",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JA_PE2.KOR.S5W_M.V???.*",
+    "JAPE2.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "JAPE2.KOR.S5W_M.V036.001.251023"
+  ],
+  "vclName": "모닝"
+}
