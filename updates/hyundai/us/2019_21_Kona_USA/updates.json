@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_21_Kona_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzEzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgMTlNWS8xNTQ0Mi8yMDE5XzIxX0tvbmFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.JIs-s15ADZZAQ25ms_XLPU6xIvIIdivg7Q-dDJRJPiA",
+  "dvcName": "2019-21 Kona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "713",
+  "mediaType": "SD",
+  "modelNames": [
+    "OSBS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OS19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "OS19.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Kona"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_Sonata_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjUzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvTEYgRkwgUEhFViAxOU1ZLzE1NDcwLzIwMTlfU29uYXRhX1BsdWdfaW5fSHlicmlkX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.w1m8yG95WKbbi9WpAkSUgNWr-u2WcDhdlGvWWfPfjzM",
+  "dvcName": "2019 Sonata Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "653",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFF18P.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LFFLPHEV19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "LFFLPHEV19.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Sonata Plug-in Hybrid"
+}
