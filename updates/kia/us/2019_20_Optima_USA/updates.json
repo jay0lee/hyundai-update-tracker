@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Optima_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkYgUEUvMTAyMTUvMjAxOV8yMF9PcHRpbWFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.1yCCzp5nxpbP0giaIidVHyU5RMh8EVNwJCS7RsWhVm4",
+  "dvcName": "2019-20 Optima",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "707",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFBS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JFPE.USA.SOP.V*"
+  ],
+  "swVers": [
+    "JFPE.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Optima"
+}
