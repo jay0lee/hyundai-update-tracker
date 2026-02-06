@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_SORENTO_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0XzIyLzE1OTkxLzIwMjJfU09SRU5UT19NRS5pbmYiLCJpc05zdW0iOnRydWV9.HI_WrZCPzJsw5gYUw1rEdR6XLAgspHaWpR-pPn84CDk",
+  "dvcName": "2022 SORENTO",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1386",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4BS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4_22.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4_22.MES.S5W_M.V012.001.250702"
+  ],
+  "vclName": "SORENTO"
+}
