@@ -18,9 +18,7 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "MQ4PE.NZL.ccNC.*",
-    "MQ4PE.NZL.ccNC_Lite.*",
-    "MQ4PE.OCE.ccNC.*",
-    "MQ4PE.OCE.ccNC_Lite.*"
+    "MQ4PE.NZL.ccNC_Lite.*"
   ],
   "swVers": [
     "MQ4PE.NZL.ccNC.001.002.250630",
