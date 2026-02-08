@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "FORTE_HATCHBACK",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTA2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMS9URC8xNDA3Ni9GT1JURV9IQVRDSEJBQ0suaW5mIiwiaXNOc3VtIjp0cnVlfQ.x4XjlPSL_smRITdMnHzFuav9TRncltvkFcp0wrLTQOk",
+  "dvcName": "포르테 해치백 [표준형 1세대]",
+  "engDvcName": "Forte Hatchback [Standard Gen1]",
+  "engVclName": "Forte",
+  "mcode": "106",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_707_*"
+  ],
+  "swVers": [
+    "V_707_54_35N"
+  ],
+  "vclName": "포르테"
+}
