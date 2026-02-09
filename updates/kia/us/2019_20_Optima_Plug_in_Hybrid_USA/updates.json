@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Optima_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkYgUEhFViAoNOyEuOuMgCDrjIDssrQpIDE5LzEwMjIzLzIwMTlfMjBfT3B0aW1hX1BsdWdfaW5fSHlicmlkX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.Ty8WUTenW5JhAANXLiPcxV_R6bVYx9V3DO91tTatWAc",
+  "dvcName": "2019-20 Optima Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "702",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFCP.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JFPHEV19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "JFPHEV19.USA.SOP.V140.241103.STD_H"
+  ],
+  "vclName": "Optima Plug-in Hybrid"
+}
