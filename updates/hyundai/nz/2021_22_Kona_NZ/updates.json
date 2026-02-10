@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Kona_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NfUEUvMTUyMDgvMjAyMV8yMl9Lb25hX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.jR2LWUeaUKosPRMkW33yBKSyBtotX1rnNCq6PTkVNdg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyNzUvMjAyMV8yMl9Lb25hX05aLmpzb24iLCJpc05zdW0iOnRydWV9.6skTA2bixn3Z57JlnxvHEgGXodu0natuaN2z5ua_MJE",
   "dvcName": "2021-23 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OS_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "OS_PE.AUS.S5W_L.001.001.250518"
+    "OS_PE.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "Kona"
 }

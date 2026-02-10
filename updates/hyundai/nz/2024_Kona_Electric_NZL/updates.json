@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_Kona_Electric_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTczOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTMzLzIwMjRfS29uYV9FbGVjdHJpY19OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.exZFkqSG6BNINCwHTpJNxm3jxf_lQ4dgAZu3Z6N96us",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTczOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDQ5LzIwMjRfS29uYV9FbGVjdHJpY19OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.Usd0aeqBoVZqP8v4CDbAFVhFR2qjyRR9kunBDcerOjE",
   "dvcName": "2024 Kona Electric",
   "engDvcName": "2024 Kona Electric",
   "engVclName": "Kona Electric",
@@ -16,10 +16,10 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SX2EV.NZL.ccNC.*"
+    "SX2EV.OCE.ccNC.*"
   ],
   "swVers": [
-    "SX2EV.NZL.ccNC.001.002.250630"
+    "SX2EV.OCE.ccNC.001.002.251105"
   ],
   "vclName": "Kona Electric"
 }

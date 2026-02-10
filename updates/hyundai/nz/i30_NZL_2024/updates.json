@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "i30_NZL_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTkxL2kzMF9OWkxfMjAyNC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.6t4mETI8QqB5NNgznqSbjo09oW-mSNgrqVKatlVzfX8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMTQwL2kzMF9OWkxfMjAyNC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Ks9FuX0zy2oYU9IphpZFl_A7p9qdboL_OtwKLniVw8U",
   "dvcName": "2024 i30",
   "engDvcName": "2024 i30",
   "engVclName": "i30",
@@ -20,7 +20,7 @@
     "PDe_PE2.AUS.S5W_L.*"
   ],
   "swVers": [
-    "PDe_PE2.AUS.S5W_L.001.001.250518"
+    "PDe_PE2.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "i30"
 }

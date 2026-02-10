@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2020_21_IONIQ_Plug_in_Hybrid_10_25_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTIzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9BRV9QX1BFLzE1MjA2LzIwMjBfMjFfSU9OSVFfUGx1Z19pbl9IeWJyaWRfMTBfMjVfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.obpNploYuNrLVcDrYOlKPm1j3IW9d9jjVENMXgqO1Ag",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTIzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTI3NC8yMDIwXzIxX0lPTklRX1BsdWdfaW5fSHlicmlkXzEwXzI1X05aLmpzb24iLCJpc05zdW0iOnRydWV9.F4FyIQSGBJxQBYhLHirB5_9KPaCvHP75Fs2CAA97f-4",
   "dvcName": "2020-22 IONIQ Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "AE_P_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "AE_P_PE.AUS.S5W_L.001.001.250518"
+    "AE_P_PE.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "IONIQ Plug-in Hybrid"
 }

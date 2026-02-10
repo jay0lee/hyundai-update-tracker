@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Santa_Fe_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE1fRkwvMTUyMTQvMjAyMV8yMl9TYW50YV9GZV9OWi5pbmYiLCJpc05zdW0iOnRydWV9.LAbrk00l5ahvvLG9yxPJaK4dKJ7Hr4PP-nswqpgYfTo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyODEvMjAyMV8yMl9TYW50YV9GZV9OWi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.qt0c6O5H-eq1f0OSrYFMry_tT6J3fGxDN6_IvphAX60",
   "dvcName": "2021-23 Santa Fe",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "TM_FL.AUS.S5W_L.*"
   ],
   "swVers": [
-    "TM_FL.AUS.S5W_L.001.001.250518"
+    "TM_FL.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "Santa Fe"
 }

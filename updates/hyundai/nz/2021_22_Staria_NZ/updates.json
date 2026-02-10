@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Staria_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVVM0LzE1MjE2LzIwMjFfMjJfU3RhcmlhX05aLmluZiIsImlzTnN1bSI6dHJ1ZX0.8sjBiJ35x3qZtMGgBuiZ8jpjN0FNqccf1sTUL710NBg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyODMvMjAyMV8yMl9TdGFyaWFfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.D1jrkB1Fa3DpP8AJsiFLuGEpFQ-LAcnoV5SNP5NwHqQ",
   "dvcName": "2021-23 Staria",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "US4.AUS.S5W_L.*"
   ],
   "swVers": [
-    "US4.AUS.S5W_L.001.001.250518"
+    "US4.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "Staria"
 }

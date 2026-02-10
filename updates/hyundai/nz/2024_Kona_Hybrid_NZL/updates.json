@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Kona_Hybrid_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTcwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDUyLzIwMjRfS29uYV9IeWJyaWRfTlpMLmpzb24iLCJpc05zdW0iOnRydWV9.zSJ29Q4e2-zLaS88xgwP5WR34idfQ8Y1RPymDwUiCXA",
+  "dvcName": "2024 Kona Hybrid",
+  "engDvcName": "2024 Kona Hybrid",
+  "engVclName": "Kona Hybrid",
+  "mcode": "1702",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AH.SCBMN.NZ",
+    "SX2AH.SLBMN.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.OCE.ccNC.*",
+    "SX2.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "SX2.OCE.ccNC.001.002.251105",
+    "SX2.OCE.ccNC_Lite.001.002.251105"
+  ],
+  "vclName": "Kona Hybrid"
+}

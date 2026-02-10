@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_IONIQ5N_ccNC_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTk3NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTM4LzIwMjVfSU9OSVE1Tl9jY05DX05aLmpzb24iLCJpc05zdW0iOnRydWV9.3KjNSeBSAieA_gQ058Dw4uJnfgDCfzFtHbj9SBC1XrA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTk3NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDU1LzIwMjVfSU9OSVE1Tl9jY05DX05aLmpzb24iLCJpc05zdW0iOnRydWV9.LxjiY05otzrae-QDaYdSZ_em20JJLRtycT0yfnCmDjM",
   "dvcName": "2025 IONIQ 5 N",
   "engDvcName": "2025 IONIQ 5 N",
   "engVclName": "IONIQ 5 N",
@@ -16,10 +16,10 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NE1KN25.NZL.ccNC.*"
+    "NE1KN25.OCE.ccNC.*"
   ],
   "swVers": [
-    "NE1KN25.NZL.ccNC.001.002.250630"
+    "NE1KN25.OCE.ccNC.001.002.251105"
   ],
   "vclName": "IONIQ 5 N"
 }

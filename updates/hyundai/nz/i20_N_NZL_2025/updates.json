@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "i20_N_NZL_2025",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE2NTg3L2kyMF9OX05aTF8yMDI1Lmpzb24iLCJpc05zdW0iOnRydWV9.xRaArdYcyEfzSCqKfL3NU3b809_xwYbPt9N-bFbJ-e0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMTMzL2kyMF9OX05aTF8yMDI1Lmpzb24iLCJpc05zdW0iOnRydWV9.Ibv3nms5KPS3z1QY9UAn5AjAMuBZlO8eZOlf_rynwGA",
   "dvcName": "2025 i20 N",
   "engDvcName": "2025 i20 N",
   "engVclName": "i20 N",
@@ -20,7 +20,7 @@
     "BC3N_25.AUS.S5W_L*"
   ],
   "swVers": [
-    "BC3N_25.AUS.S5W_L.001.001.250518"
+    "BC3N_25.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "i20 N"
 }

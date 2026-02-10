@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_Tucson_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA1NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDcwLzIwMjZfVHVjc29uX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.LF-SowPhAXoY8YdE1KD9uJmquNRSvAAXZBjtYpPOz2c",
+  "dvcName": "2026 Tucson",
+  "engDvcName": "2026 Tucson",
+  "engVclName": "Tucson",
+  "mcode": "2055",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4MY26BS.SCBMC.NZ",
+    "NX4MY26BS.SLBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4MY26.OCE.ccNC.*",
+    "NX4MY26.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "NX4MY26.OCE.ccNC.001.002.251105",
+    "NX4MY26.OCE.ccNC_Lite.001.002.251105"
+  ],
+  "vclName": "Tucson"
+}

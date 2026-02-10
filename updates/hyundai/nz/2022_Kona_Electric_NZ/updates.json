@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Kona_Electric_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW56Lm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NfRV9QRS8xNTIxMS8yMDIyX0tvbmFfRWxlY3RyaWNfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ._AkkjykNRQ8DN6jgvxWaV5oKzZDcbX3ObglNW8McBmo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyNzgvMjAyMl9Lb25hX0VsZWN0cmljX05aLmpzb24iLCJpc05zdW0iOnRydWV9.StN7471IB_lsDzFJ6i2g039IAhP3k3ImxM2D6HsIdJU",
   "dvcName": "2022-23 Kona Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OS_E_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "OS_E_PE.AUS.S5W_L.001.001.250518"
+    "OS_E_PE.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "Kona Electric"
 }

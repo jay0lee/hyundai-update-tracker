@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_Tucson_HEV_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA1NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDcyLzIwMjZfVHVjc29uX0hFVl9OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.lSzPKjS-0IKk-jRxtrjMfL4xA_rskbNZqNzjRA3_NKY",
+  "dvcName": "2026 Tucson Hybrid",
+  "engDvcName": "2026 Tucson Hybrid",
+  "engVclName": "Tucson Hybrid",
+  "mcode": "2056",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4MY26BH.SCBMC.NZ",
+    "NX4MY26BH.SLBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4MY26.OCE.ccNC.*",
+    "NX4MY26.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "NX4MY26.OCE.ccNC.001.002.251105",
+    "NX4MY26.OCE.ccNC_Lite.001.002.251105"
+  ],
+  "vclName": "Tucson Hybrid"
+}
