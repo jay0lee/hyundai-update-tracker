@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Stinger_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMTMvMjAyMl9TdGluZ2VyX05aLmpzb24iLCJpc05zdW0iOnRydWV9.Orpr8OWPZ01OkE8mH9GhAzbn145YBNgF6v8E8noXv2M",
+  "dvcName": "2022 Stinger",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1487",
+  "mediaType": "USB",
+  "modelNames": [
+    "CKBS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CK_22.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "CK_22.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Stinger"
+}
