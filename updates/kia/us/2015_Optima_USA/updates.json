@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2015_Optima_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjcxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEYvMTA1NTIvMjAxNV9PcHRpbWFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.gtlFak9tD1z9jusjUm-z8Vomn0d5Nm6LPugHXAtOBfE",
+  "dvcName": "2015 Optima",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "671",
+  "mediaType": "SD",
+  "modelNames": [
+    "TFAS.S4AMC.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.TF.USA.E*"
+  ],
+  "swVers": [
+    "ST.TF.USA.E543.241029"
+  ],
+  "vclName": "Optima"
+}
