@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_CARNIVAL_HEV_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0tBNFBFSEVWLzE2MzQwLzIwMjVfQ0FSTklWQUxfSEVWX01FUy5pbmYiLCJpc05zdW0iOnRydWV9.Xk4IuZdcYOe8J5uR6fuU6ZTaKeIwGuW_x5u8IFTma7w",
+  "dvcName": "2025 CARNIVAL Hybrid",
+  "engDvcName": "2025 CARNIVAL Hybrid",
+  "engVclName": "CARNIVAL Hybrid",
+  "mcode": "1919",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AH.SCBMN.ME",
+    "KA4AH.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.MES.ccNC.???.*",
+    "KA4.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "KA4.MES.ccNC.001.002.250630",
+    "KA4.MES.ccNC_Lite.001.002.250630"
+  ],
+  "vclName": "CARNIVAL Hybrid"
+}
