@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_Seltos_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjkzOC8yMDIxX1NlbHRvc19DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.GC1o99CuzsictK4b5Igzk__VBmXbsA-gYEuFmlrEncQ",
+  "dvcName": "2021 Seltos",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "804",
+  "mediaType": "USB",
+  "modelNames": [
+    "SP2N19S.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SP2.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SP2.CAN.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Seltos"
+}
