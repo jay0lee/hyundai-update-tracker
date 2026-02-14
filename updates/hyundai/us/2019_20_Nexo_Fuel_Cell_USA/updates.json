@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_20_Nexo_Fuel_Cell_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjA3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjU5Ny8yMDE5XzIwX05leG9fRnVlbF9DZWxsX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.I8xx2i43k9QYSsvSmBWevl9vajyCuedLJBkxZjsIfpc",
+  "dvcName": "2019-24 Nexo Fuel Cell",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "607",
+  "mediaType": "USB",
+  "modelNames": [
+    "FEAF.P5BLC.NA"
+  ],
+  "platformCode": "13",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "FE.USA.P5.???.*"
+  ],
+  "swVers": [
+    "FE.USA.P5.001.015.250729"
+  ],
+  "vclName": "Nexo"
+}
