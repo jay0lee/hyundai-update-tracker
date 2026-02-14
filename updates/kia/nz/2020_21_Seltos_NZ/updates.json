@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Seltos_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTQzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTMwMi8yMDIwXzIxX1NlbHRvc19OWi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3F1lEloCUaI8wEw_t1w0FjYBF8hm3QzYtOsTZIyGs_E",
+  "dvcName": "2020-21 Seltos",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "943",
+  "mediaType": "USB",
+  "modelNames": [
+    "SP2AS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SP2.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "SP2.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Seltos"
+}
