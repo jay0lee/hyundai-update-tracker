@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_Sorento_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ5NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMDcvMjAyMl9Tb3JlbnRvX05aLmpzb24iLCJpc05zdW0iOnRydWV9.IcOI38cv3XtT06rzgnVm6niea3asM2dundoFNciZMg8",
+  "dvcName": "2022 Sorento",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1495",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4BS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4_22.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "MQ4_22.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Sorento"
+}
