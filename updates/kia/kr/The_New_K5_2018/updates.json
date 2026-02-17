@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K5_2018",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzYzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA5Ny9UaGVfTmV3X0s1XzIwMTguanNvbiIsImlzTnN1bSI6dHJ1ZX0.IVuHypXQ5W2AEMPKIpsyY58pKqQqVuXoKxYhNwuHAmQ",
+  "dvcName": "The New K5 2018 [경제형 5세대]",
+  "engDvcName": "The New K5 2018 [Compact Gen5]",
+  "engVclName": "K5",
+  "mcode": "363",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFCS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JF_18MY.KOR.SOP.???.??????"
+  ],
+  "swVers": [
+    "JF_18MY.KOR.SOP.049.241120"
+  ],
+  "vclName": "K5"
+}
