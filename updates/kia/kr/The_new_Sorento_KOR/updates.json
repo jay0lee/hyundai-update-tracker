@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "The_new_Sorento_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcxMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzgxL1RoZV9uZXdfU29yZW50b19LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.7Bc56VIwzcimQsqtfQ1j2bxQE0Uhls1jB4TWKhCNZ_w",
+  "dvcName": "더 뉴 쏘렌토 / Hybrid 포함 [ccNC Kia Connect]",
+  "engDvcName": "The new Sorento / Hybrid [ccNC Kia Connect]",
+  "engVclName": "Sorento",
+  "mcode": "1710",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAS.SCBMC.KR",
+    "MQ4PEAH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "MQ4PE.KOR.ccNC.001.002.251024"
+  ],
+  "vclName": "쏘렌토"
+}
