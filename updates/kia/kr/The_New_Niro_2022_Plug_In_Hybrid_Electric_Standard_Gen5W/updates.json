@@ -1,0 +1,37 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_Niro_2022_Plug_In_Hybrid_Electric_Standard_Gen5W",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTQvVGhlX05ld19OaXJvXzIwMjJfUGx1Z19Jbl9IeWJyaWRfRWxlY3RyaWNfU3RhbmRhcmRfR2VuNVcuanNvbiIsImlzTnN1bSI6dHJ1ZX0.P-nDpZy5N5Kehrq5X7_-a8G69kY4-fqBIbFfsvoMLBY",
+  "dvcName": "The New 니로 / 2022, Plug-in Hybrid, Electric 포함 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The New Niro / 2022, Plug-In Hybrid, Electric [Standard Gen5W Kia Connect]",
+  "engVclName": "Niro",
+  "mcode": "1391",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEAH.S5BMC.KR",
+    "DEAP.S5BMC.KR",
+    "DEBE.S5BMC.KR",
+    "DEBH.S5BMC.KR",
+    "DEBP.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "492",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEPEHEV.KOR.S5W_M.V???.*",
+    "DEPEPHEV.KOR.S5W_M.V???.*",
+    "DE_E_22.KOR.S5W_M.V???.*",
+    "DE_H_22.KOR.S5W_M.V???.*",
+    "DE_P_22.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "DEPEPHEV.KOR.S5W_M.V036.001.251027",
+    "DE_P_22.KOR.S5W_M.V036.001.251027",
+    "DE_E_22.KOR.S5W_M.V036.001.251027",
+    "DEPEHEV.KOR.S5W_M.V036.001.251027",
+    "DE_H_22.KOR.S5W_M.V036.001.251027"
+  ],
+  "vclName": "니로"
+}
