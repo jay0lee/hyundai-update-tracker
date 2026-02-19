@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Niro_Plugin_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NjcwLzIwMjVfTmlyb19QbHVnaW5fSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.fc0tPLg3npkFl2eCf6i0t76ST_MxJ4ZGXrzoaGu3jF0",
+  "dvcName": "2025 Niro Plug-in Hybrid",
+  "engDvcName": "2025 Niro Plug-in Hybrid",
+  "engVclName": "Niro Plug-in Hybrid",
+  "mcode": "1882",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2BP.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG225PHEV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SG225PHEV.CAN.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}
