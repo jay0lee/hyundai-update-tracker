@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2017_Optima_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjgxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSkYgUEhFVi8xMDU1Ny8yMDE3X09wdGltYV9QbHVnX2luX0h5YnJpZF9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.u958UzKNnIXHgGenCqqLfhCRoKcHCXxfhEajj-vLfF8",
+  "dvcName": "2017 Optima Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "681",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFAP.S4AMC.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.JFPHEV.USA.E*"
+  ],
+  "swVers": [
+    "ST.JFPHEV.USA.E543.241029"
+  ],
+  "vclName": "Optima Plug-in Hybrid"
+}

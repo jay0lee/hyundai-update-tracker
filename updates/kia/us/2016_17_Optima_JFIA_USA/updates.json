@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2016_17_Optima_JFIA_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSkYvMTA1NTQvMjAxNl8xN19PcHRpbWFfSkZJQV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.n9WXvWbS_pGAeZSeHD0GqwJFLOqAfl_2pqQgvlyHtXw",
+  "dvcName": "2016-17 Optima JFIA",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "687",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFBS.S4AMN.US"
+  ],
+  "platformCode": "7",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.JFIA.USA.E*"
+  ],
+  "swVers": [
+    "ST.JFIA.USA.E543.241029"
+  ],
+  "vclName": "Optima"
+}
