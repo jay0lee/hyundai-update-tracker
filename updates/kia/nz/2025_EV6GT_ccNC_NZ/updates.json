@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_EV6GT_ccNC_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTk3MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDc3LzIwMjVfRVY2R1RfY2NOQ19OWi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PJ7jSFHiIusMixez_rPNaoCc5Si8Jc9igVM2D4cb1os",
+  "dvcName": "2025 EV6 GT",
+  "engDvcName": "2025 EV6 GT",
+  "engVclName": "EV6",
+  "mcode": "1973",
+  "mediaType": "USB",
+  "modelNames": [
+    "CV1GTAE.SCBMN.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV1GT.OCE.ccNC*"
+  ],
+  "swVers": [
+    "CV1GT.OCE.ccNC.001.002.251105"
+  ],
+  "vclName": "EV6"
+}
