@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Elantra_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2NzMvMjAyM19FbGFudHJhX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.KuLiZmEspld3YVuzo_uBqPadZkmyi8eD9KFiugR8T0g",
+  "dvcName": "2023 Elantra",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1523",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7AS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CN723.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "CN723.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Elantra"
+}

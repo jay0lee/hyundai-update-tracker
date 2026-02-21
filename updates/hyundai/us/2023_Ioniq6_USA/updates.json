@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Ioniq6_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTYzMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDQ0LzIwMjNfSW9uaXE2X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.0-OtvRvbRn2zbHi3eVJOkxL1TKQ7T3vqjnobolzfoX8",
+  "dvcName": "2023-25 Ioniq 6",
+  "engDvcName": "2023-25 Ioniq 6",
+  "engVclName": "Ioniq 6",
+  "mcode": "1630",
+  "mediaType": "USB",
+  "modelNames": [
+    "CE1AE.S5BMC.US"
+  ],
+  "platformCode": "19",
+  "priority": "591",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CEEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "CEEV.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Ioniq 6"
+}
