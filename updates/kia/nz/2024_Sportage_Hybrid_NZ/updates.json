@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_Sportage_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTc5OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMTUvMjAyNF9TcG9ydGFnZV9IeWJyaWRfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.A4REwpw3iHZ3PU5rglECu-9mnS7mtzdf_aqbRvGhL24",
+  "dvcName": "2024 Sportage Hybrid",
+  "engDvcName": "2024 Sportage Hybrid",
+  "engVclName": "Sportage Hybrid",
+  "mcode": "1799",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5BH.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "NQ5.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Sportage Hybrid"
+}
