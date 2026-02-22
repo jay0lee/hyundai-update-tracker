@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_STINGER_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwOSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X01PQklTL0NLIDE5LzE1OTc4LzIwMTlfMjBfU1RJTkdFUl9NRS5pbmYiLCJpc05zdW0iOnRydWV9.jLSoNLA6evCN6HFVjcbnoI8l-lVj5Bu4UUQMWGirLs8",
+  "dvcName": "2019-20 STINGER",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1009",
+  "mediaType": "SD",
+  "modelNames": [
+    "CKBS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CK19.MES.SOP.V*"
+  ],
+  "swVers": [
+    "CK19.MES.SOP.V142.250616.STD_H"
+  ],
+  "vclName": "STINGER"
+}
