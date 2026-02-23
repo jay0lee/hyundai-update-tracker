@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2026_EV6_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDc2LzIwMjZfRVY2X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.t1LjrCKb_6Z6aGbtqDQEVnF0GVmBGHVSdSEgBAG_6KU",
+  "dvcName": "2026 EV6",
+  "engDvcName": "2026 EV6",
+  "engVclName": "EV6",
+  "mcode": "2061",
+  "mediaType": "USB",
+  "modelNames": [
+    "CV1MY26BE.SCBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV1MY26.OCE.ccNC.*"
+  ],
+  "swVers": [
+    "CV1MY26.OCE.ccNC.001.002.251105"
+  ],
+  "vclName": "EV6"
+}
