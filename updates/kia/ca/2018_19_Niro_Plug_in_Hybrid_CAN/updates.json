@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2018_19_Niro_Plug_in_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzM5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvREUgUEhFVi8xNTQyMS8yMDE4XzE5X05pcm9fUGx1Z19pbl9IeWJyaWRfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.ZaI4-5C0W9Ve2pqH1tEbMhOPBcwTB_McL4tqk1iNy5Q",
+  "dvcName": "2018-19 Niro Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "739",
+  "mediaType": "SD",
+  "modelNames": [
+    "DEAP.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEPHEV.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "DEPHEV.CAN.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}
