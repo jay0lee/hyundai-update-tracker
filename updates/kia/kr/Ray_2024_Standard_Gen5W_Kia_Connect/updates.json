@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "Ray_2024_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc3NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTUvUmF5XzIwMjRfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.UYJAmOjVu8yVfDGLfmxWYJs9mBy1Y_D1WydDwFyWOFU",
+  "dvcName": "레이 2024 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "Ray 2024 [standard Gen5W Kia Connect]",
+  "engVclName": "Ray",
+  "mcode": "1775",
+  "mediaType": "USB",
+  "modelNames": [
+    "TAMFS.S5AMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TAM_24.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "TAM_24.KOR.S5W_M.V036.001.251027"
+  ],
+  "vclName": "레이"
+}
