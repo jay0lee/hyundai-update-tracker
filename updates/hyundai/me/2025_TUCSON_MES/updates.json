@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_TUCSON_MES",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxMiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL05YNFBFLzE2MzU1LzIwMjVfVFVDU09OX01FUy5pbmYiLCJpc05zdW0iOnRydWV9.NAw1EH8BJc774Le50QlzuK1ekd6-QcfsiEqOoPIRUyI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDM2LzIwMjVfVFVDU09OX01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PxYEv_2kpTa396mngJOwQLT4qhnfXSy_vlxyZeDoZkY",
   "dvcName": "2025 Tucson",
   "engDvcName": "2025 Tucson",
   "engVclName": "Tucson",
@@ -21,8 +21,8 @@
     "NX4E.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "NX4E.MES.ccNC.001.002.250630",
-    "NX4E.MES.ccNC_Lite.001.002.250630"
+    "NX4E.MES.ccNC.001.002.251203",
+    "NX4E.MES.ccNC_Lite.001.002.251203"
   ],
   "vclName": "Tucson"
 }

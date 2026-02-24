@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2015_17_Tucson_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEwvMTA2NzEvMjAxNV8xN19UdWNzb25fTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.vkkqKg3gC9cpPpULtDHfk9NwuIP2JJnyhJ30iSFPZXo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgwOC8yMDE1XzE3X1R1Y3Nvbl9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.8AR7SzZZ2kPkXttyl-62EVu4EikEsTFV6jmsbW_htOY",
   "dvcName": "2015-17 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.TL.MES.E*"
   ],
   "swVers": [
-    "ST.TL.MES.E536.241118"
+    "ST.TL.MES.E536.250814"
   ],
   "vclName": "Tucson"
 }

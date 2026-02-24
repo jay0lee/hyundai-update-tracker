@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Elantra_N_MES_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc0OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvQ043LzE2MzY0L0VsYW50cmFfTl9NRVNfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.UtSqWAMt-O55hPz9M4BeTIr2_27G9FR5U1iqUBfdxp8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDA1L0VsYW50cmFfTl9NRVNfMjAyNC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.dCJ92tXppMQEDcFVPsM1bdrF4hqoDN_hIegvDyfSokY",
   "dvcName": "2024 Elantra N",
   "engDvcName": "2024 Elantra N",
   "engVclName": "Elantra N",
@@ -19,7 +19,7 @@
     "CN7NPE.MES.S5W_M.V*"
   ],
   "swVers": [
-    "CN7NPE.MES.S5W_M.V012.001.250702"
+    "CN7NPE.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Elantra N"
 }

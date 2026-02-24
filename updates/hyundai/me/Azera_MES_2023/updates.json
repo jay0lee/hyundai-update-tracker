@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Azera_MES_2023",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTY0MCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0hFR04vMTYzMzUvQXplcmFfTUVTXzIwMjMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.o4Plz541FAPBZqZjjC05kgRzQWyoLf0HE5ynuL8vA4o",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTY0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDIxL0F6ZXJhX01FU18yMDIzLmpzb24iLCJpc05zdW0iOnRydWV9.9G9l6_2pyrC0NIcP1To91UGzsjo6OyXs8nJNFv87OC8",
   "dvcName": "2023 Azera",
   "engDvcName": "2023 Azera",
   "engVclName": "Azera",
@@ -12,7 +12,7 @@
     "GN7AS.SLBMN.ME"
   ],
   "platformCode": "23",
-  "priority": "100",
+  "priority": "496",
   "registYn": "N",
   "releaseDate": "",
   "serviceYn": "Y",
@@ -21,8 +21,8 @@
     "GN7.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "GN7.MES.ccNC_Lite.001.002.250630",
-    "GN7.MES.ccNC.001.002.250630"
+    "GN7.MES.ccNC.001.002.251203",
+    "GN7.MES.ccNC_Lite.001.002.251203"
   ],
   "vclName": "Azera"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2015_17_Santa_Fe_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTgwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvRE0yLzEwNjY4LzIwMTVfMTdfU2FudGFfRmVfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.9-wjpsAxMeaT9e8FlV0u9FlcM3fN4MNLZ7AQfoAfWnw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTgwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgwNS8yMDE1XzE3X1NhbnRhX0ZlX01FLmpzb24iLCJpc05zdW0iOnRydWV9.eZSWAdYICTZ7G_7Cl4eNzMOLGmgDZStlFH8ZkRK_du4",
   "dvcName": "2015-17 Santa Fe",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.DM2.MES.E*"
   ],
   "swVers": [
-    "ST.DM2.MES.E536.241118"
+    "ST.DM2.MES.E536.250814"
   ],
   "vclName": "Santa Fe"
 }

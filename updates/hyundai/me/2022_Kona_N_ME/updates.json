@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Kona_N_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM3OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NOUEUvMTU5OTYvMjAyMl9Lb25hX05fTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.JI_x39KoD2fPRBfG2PsklHRr9n-cV00WrnlgIxqFXDw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM3OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NzYvMjAyMl9Lb25hX05fTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.o3W3p-bbzKcPJyKAtSvECGWojV93MZ86xCH6VuLJ0s4",
   "dvcName": "2022 Kona N",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OSNPE.MES.S5W_M.V*"
   ],
   "swVers": [
-    "OSNPE.MES.S5W_M.V012.001.250702"
+    "OSNPE.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Kona N"
 }

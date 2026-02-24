@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Elantra_Hybrid_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM3NiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvQ043SEVWLzE1OTgyLzIwMjJfRWxhbnRyYV9IeWJyaWRfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Fs21QLpK27r5PlOjCUKafBmgajVFFovKAxaRF7P1NbM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM3NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NjIvMjAyMl9FbGFudHJhX0h5YnJpZF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.4WTL7V5L65Eos0plc2vU_owHM4Iv9dSaPR-vmqivQLE",
   "dvcName": "2022 Elantra Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "CN7HEV.MES.S5W_M.V*"
   ],
   "swVers": [
-    "CN7HEV.MES.S5W_M.V012.001.250702"
+    "CN7HEV.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Elantra Hybrid"
 }

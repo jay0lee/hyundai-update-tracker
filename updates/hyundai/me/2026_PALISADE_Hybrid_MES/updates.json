@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_PALISADE_Hybrid_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjA5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDU4LzIwMjZfUEFMSVNBREVfSHlicmlkX01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.t56F4kCYSKTO5CLedSYB0zb_m6BNvU-9uyC-PtVP2sk",
+  "dvcName": "2026 PALISADE Hybrid",
+  "engDvcName": "2026 PALISADE Hybrid",
+  "engVclName": "PALISADE Hybrid",
+  "mcode": "2097",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX3AH.SCBMC.ME",
+    "LX3AH.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "25C3.LX3.MES.ccNC.???.*",
+    "25C3.LX3.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "25C3.LX3.MES.ccNC.001.002.251203",
+    "25C3.LX3.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "PALISADE Hybrid"
+}

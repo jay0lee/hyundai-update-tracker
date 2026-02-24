@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Sonata_MES_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0ROOC8xNjMzOS9Tb25hdGFfTUVTXzIwMjQuaW5mIiwiaXNOc3VtIjp0cnVlfQ.CAd5UQajCJQ4osDHi3v87p-03CpigSrdNed9Bhu1BR8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDIzL1NvbmF0YV9NRVNfMjAyNC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Rd7FyePLLNgvHkWHKfjHSsn9EPhlaCEeyFk34cuoVsI",
   "dvcName": "2024 Sonata",
   "engDvcName": "2024 Sonata",
   "engVclName": "Sonata",
@@ -21,8 +21,8 @@
     "DN8.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "DN8.MES.ccNC.001.002.250630",
-    "DN8.MES.ccNC_Lite.001.002.250630"
+    "DN8.MES.ccNC.001.002.251203",
+    "DN8.MES.ccNC_Lite.001.002.251203"
   ],
   "vclName": "Sonata"
 }

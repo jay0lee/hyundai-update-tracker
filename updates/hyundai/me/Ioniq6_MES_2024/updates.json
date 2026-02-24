@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Ioniq6_MES_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc0NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9HRU41X1dJREUvQ0UxLzE2MzYwL0lvbmlxNl9NRVNfMjAyNC5pbmYiLCJpc05zdW0iOnRydWV9.mrcAQI6Jwfxd7DAxO0oenajdnpaFGaZy4NdChgSIfJM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc0NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDAxL0lvbmlxNl9NRVNfMjAyNC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.4jjN0Iir1YaA7cbWyE5s3u4twgXLs8eePQE78Fl9waw",
   "dvcName": "2024 IONIQ6",
   "engDvcName": "2024 IONIQ6",
   "engVclName": "IONIQ6",
@@ -19,7 +19,7 @@
     "CEEV.MES.S5W_M.V*"
   ],
   "swVers": [
-    "CEEV.MES.S5W_M.V012.001.250702"
+    "CEEV.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "IONIQ6"
 }

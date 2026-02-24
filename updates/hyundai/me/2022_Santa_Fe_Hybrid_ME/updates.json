@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Santa_Fe_Hybrid_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTQ2OCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvVE1fSF8yMi8xNTk4Ni8yMDIyX1NhbnRhX0ZlX0h5YnJpZF9NRS5pbmYiLCJpc05zdW0iOnRydWV9.MzDH2mjj6ZoUBDqp7cVaeMmDDJb7a5GBVENecuPwEmg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTQ2OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NjYvMjAyMl9TYW50YV9GZV9IeWJyaWRfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.z9WU1_Bwkt7cP8Si8KCER5NW64GSCgWspRfWpKxEfAM",
   "dvcName": "2022 Santa Fe Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "TM_H_22.MES.S5W_M.V*"
   ],
   "swVers": [
-    "TM_H_22.MES.S5W_M.V012.001.250702"
+    "TM_H_22.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Santa Fe Hybrid"
 }

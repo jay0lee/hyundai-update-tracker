@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2014_16_Sonata_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTczIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvTEYvMTA2NjkvMjAxNF8xNl9Tb25hdGFfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.kTKQ0yB7h9t0lU68hgQlyzeOSwpLfFjEsISZygDUWf8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTczIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgwNi8yMDE0XzE2X1NvbmF0YV9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.tPGxRgUOuMmDJXfTSDiAnh3QEEKOZf8eov_t7vceJW4",
   "dvcName": "2014-16 Sonata",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.LF.MES.E*"
   ],
   "swVers": [
-    "ST.LF.MES.E536.241118"
+    "ST.LF.MES.E536.250814"
   ],
   "vclName": "Sonata"
 }

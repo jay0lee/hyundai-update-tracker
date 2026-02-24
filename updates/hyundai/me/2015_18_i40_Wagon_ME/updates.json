@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2015_18_i40_Wagon_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVkZfV0cvMTA2NjYvMjAxNV8xOF9pNDBfV2Fnb25fTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Un06YclgXxMDQRZx9Ox8NhIKxfIp-wikjR-Q5umb7I0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTc3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgwMy8yMDE1XzE4X2k0MF9XYWdvbl9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.AuaIMrNZsqtfHQk09_pAkB-O89CO_Kx6qrnPv7JA9hU",
   "dvcName": "2015-18 i40 Wagon",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.VF.MES.E*"
   ],
   "swVers": [
-    "ST.VF.MES.E536.241118"
+    "ST.VF.MES.E536.250814"
   ],
   "vclName": "i40"
 }

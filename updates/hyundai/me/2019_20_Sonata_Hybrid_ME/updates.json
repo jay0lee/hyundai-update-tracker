@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_20_Sonata_Hybrid_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTkwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbWUubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfV0lERS9ETjhIRVYvMTYwMDkvMjAxOV8yMF9Tb25hdGFfSHlicmlkX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.DWBTYncnDiMq4ko2ZenJGBo-nuNukr6FqmyQtXq-Ino",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTkwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTg4OS8yMDE5XzIwX1NvbmF0YV9IeWJyaWRfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.XcIMUAEaUJ8ZtpjBh-lwMXY1Nkv-rgEktUZVqzgS5BM",
   "dvcName": "2019-21 Sonata Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "DN8HEV.MES.S5W_M.V*"
   ],
   "swVers": [
-    "DN8HEV.MES.S5W_M.V012.001.250702"
+    "DN8HEV.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Sonata Hybrid"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Kona_Eletric_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTE5NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NQRUVWLzE2MDIzLzIwMjFfMjJfS29uYV9FbGV0cmljX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.NZcG_XIeuqpkLtAVN25z5nsy5IRGhvA7-nwpXrMTzl0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTE5NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk5MDMvMjAyMV8yMl9Lb25hX0VsZXRyaWNfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.YDJcG4Jcboebwri3JuKG3AX-Kb_IS1uxIdrgcfo_F8k",
   "dvcName": "2021-22 Kona Eletric",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OSPEEV.MES.S5W_M.V*"
   ],
   "swVers": [
-    "OSPEEV.MES.S5W_M.V012.001.250702"
+    "OSPEEV.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "Kona Eletric"
 }
