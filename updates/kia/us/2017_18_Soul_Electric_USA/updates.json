@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2017_18_Soul_Electric_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjM4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvUFMgRVYgMTdNWS8xMDU2NS8yMDE3XzE4X1NvdWxfRWxlY3RyaWNfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.j87sYd80s8rYTrH5nr-9lUFHrVyNsvc91OhcSjoFdbg",
+  "dvcName": "2017-18 Soul Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "638",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSBE.S4AMC.US"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.PSEV17.USA.E*"
+  ],
+  "swVers": [
+    "ST.PSEV17.USA.E543.241029"
+  ],
+  "vclName": "Soul Electric"
+}
