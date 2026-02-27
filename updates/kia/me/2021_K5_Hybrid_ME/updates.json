@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_K5_Hybrid_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAzMCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvREwzSEVWLzE2MDE4LzIwMjFfSzVfSHlicmlkX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.vwCW6P0E62k4jBFsICKyJK0AWuDdkbdqTZeU2FBk_tM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAzMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4OTgvMjAyMV9LNV9IeWJyaWRfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.okLzZt48AdBQUrJWaGwJqFLqOvIiiNdFVIWJvyAy2LE",
   "dvcName": "2021 K5 Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "DL3HEV.MES.S5W_M.V*"
   ],
   "swVers": [
-    "DL3HEV.MES.S5W_M.V012.001.250702"
+    "DL3HEV.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "K5 Hybrid"
 }

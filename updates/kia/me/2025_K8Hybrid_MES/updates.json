@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_K8Hybrid_MES",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk5NCIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0dMM1BFSEVWLzE2MzU0LzIwMjVfSzhIeWJyaWRfTUVTLmluZiIsImlzTnN1bSI6dHJ1ZX0.bgc4KXC1NlblYXulZkonOpVzN1KvfGQBALtkOUHVfTA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTk5NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQwLzIwMjVfSzhIeWJyaWRfTUVTLmpzb24iLCJpc05zdW0iOnRydWV9.GGjG7KUGARHvaWnpY_OG9VSvPPVDCuAcbKFjx-pe7YI",
   "dvcName": "2026 K8 Hybrid",
   "engDvcName": "2026 K8 Hybrid",
   "engVclName": "K8 Hybrid",
@@ -21,8 +21,8 @@
     "GL3.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "GL3.MES.ccNC.001.002.250630",
-    "GL3.MES.ccNC_Lite.001.002.250630"
+    "GL3.MES.ccNC.001.002.251203",
+    "GL3.MES.ccNC_Lite.001.002.251203"
   ],
   "vclName": "K8 Hybrid"
 }
