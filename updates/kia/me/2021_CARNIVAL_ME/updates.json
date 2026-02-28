@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2021_CARNIVAL_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTE5MyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvS0E0LzE1OTk5LzIwMjFfQ0FSTklWQUxfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.E0N68CPMmIL6fvngqX2UNwrp2xDJcDvem_liIbNsSLw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTE5MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NzkvMjAyMV9DQVJOSVZBTF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.YMARW8zfnDDuWpEQohfsnZfNyAuSCAjUqTJCIsut7ZA",
   "dvcName": "2021 CARNIVAL",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "KA4.MES.S5W_M.V*"
   ],
   "swVers": [
-    "KA4.MES.S5W_M.V012.001.250702"
+    "KA4.MES.S5W_M.V013.001.251202"
   ],
   "vclName": "CARNIVAL"
 }
