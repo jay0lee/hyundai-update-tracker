@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_SELTOS_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4ODUvMjAyNF9TRUxUT1NfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.241Zs7_64HbqRqpanaQF7Kx955EEfpYxg6OCKM-O18k",
+  "dvcName": "2024 SELTOS",
+  "engDvcName": "2024 SELTOS",
+  "engVclName": "SELTOS",
+  "mcode": "1752",
+  "mediaType": "USB",
+  "modelNames": [
+    "SP2ES.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SP2c_PE.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "SP2c_PE.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "SELTOS"
+}

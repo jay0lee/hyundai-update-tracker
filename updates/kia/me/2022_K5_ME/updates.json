@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_K5_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NjgvMjAyMl9LNV9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.K9cNV0ydUpdVOeZrWPhFufF3Bx8MfdHHwLyyixj3ECI",
+  "dvcName": "2022 K5",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1383",
+  "mediaType": "USB",
+  "modelNames": [
+    "DL3BS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DL3_22.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "DL3_22.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "K5"
+}

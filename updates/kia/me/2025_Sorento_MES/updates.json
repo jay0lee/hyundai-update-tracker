@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Sorento_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTgxMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDI1LzIwMjVfU29yZW50b19NRVMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.XIaoKvXImBs6BjgwXoMkXQQLtm-XSpbTCWs5AEz-5B4",
+  "dvcName": "2025 SORENTO",
+  "engDvcName": "2025 SORENTO",
+  "engVclName": "SORENTO",
+  "mcode": "1811",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAS.SCBMN.ME",
+    "MQ4PEAS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.MES.ccNC.???.*",
+    "MQ4PE.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MQ4PE.MES.ccNC.001.002.251203",
+    "MQ4PE.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "SORENTO"
+}
