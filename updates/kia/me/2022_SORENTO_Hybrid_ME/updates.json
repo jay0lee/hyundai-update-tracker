@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_SORENTO_Hybrid_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NzIvMjAyMl9TT1JFTlRPX0h5YnJpZF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.j7pqVZ5n3UtbQiHWMwDR8XdRlbJljHEy7-PP0h0v8rA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvTVE0SEVWXzIyLzE1OTkyLzIwMjJfU09SRU5UT19IeWJyaWRfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.gmhiiwCxp-fybecj1EkTg3eAmP3_PCYyjtE4UqerEEs",
   "dvcName": "2022 SORENTO Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "MQ4HEV_22.MES.S5W_M.V*"
   ],
   "swVers": [
-    "MQ4HEV_22.MES.S5W_M.V013.001.251202"
+    "MQ4HEV_22.MES.S5W_M.V012.001.250702"
   ],
   "vclName": "SORENTO Hybrid"
 }

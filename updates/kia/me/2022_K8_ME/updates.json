@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_K8_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4ODAvMjAyMl9LOF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.dyt0MhAh_CDHh4zz9h70QrHA2-cPiwzV36a6Z2ixXkU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvR0wzLzE2MDAwLzIwMjJfSzhfTUUuaW5mIiwiaXNOc3VtIjp0cnVlfQ.RiAutisQtdLeZ45j9YMSKP_HwY0iwHCa5Q1CCR0VBBQ",
   "dvcName": "2022 K8",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "GL3.MES.S5W_M.V*"
   ],
   "swVers": [
-    "GL3.MES.S5W_M.V013.001.251202"
+    "GL3.MES.S5W_M.V012.001.250702"
   ],
   "vclName": "K8"
 }

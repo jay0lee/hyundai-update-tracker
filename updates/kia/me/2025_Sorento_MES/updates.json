@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_Sorento_MES",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTgxMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDI1LzIwMjVfU29yZW50b19NRVMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.XIaoKvXImBs6BjgwXoMkXQQLtm-XSpbTCWs5AEz-5B4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTgxMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL01RNFBFLzE2MzQyLzIwMjVfU29yZW50b19NRVMuaW5mIiwiaXNOc3VtIjp0cnVlfQ.Gc4kpfN5bY68BbGKZa21HRTvqtOlo4xlYIGLjC2VICM",
   "dvcName": "2025 SORENTO",
   "engDvcName": "2025 SORENTO",
   "engVclName": "SORENTO",
@@ -21,8 +21,8 @@
     "MQ4PE.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "MQ4PE.MES.ccNC.001.002.251203",
-    "MQ4PE.MES.ccNC_Lite.001.002.251203"
+    "MQ4PE.MES.ccNC.001.002.250630",
+    "MQ4PE.MES.ccNC_Lite.001.002.250630"
   ],
   "vclName": "SORENTO"
 }
