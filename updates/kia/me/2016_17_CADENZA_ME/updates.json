@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2016_17_CADENZA_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MTAvMjAxNl8xN19DQURFTlpBX01FLmpzb24iLCJpc05zdW0iOnRydWV9.9J8rQmNMhJDVUhYNwm5z3AlL7G1kAjkF50HS4L5ZTQo",
+  "dvcName": "2016-17 CADENZA",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1005",
+  "mediaType": "SD",
+  "modelNames": [
+    "YGAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.YG.MES.E*"
+  ],
+  "swVers": [
+    "ST.YG.MES.E536.250814"
+  ],
+  "vclName": "CADENZA"
+}

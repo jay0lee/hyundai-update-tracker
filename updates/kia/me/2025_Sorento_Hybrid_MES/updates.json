@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Sorento_Hybrid_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTgxMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDI2LzIwMjVfU29yZW50b19IeWJyaWRfTUVTLmpzb24iLCJpc05zdW0iOnRydWV9.TNeXlWURpxupIZyGtVInK4zplTAhgL_Q8eZxJ2Dqji8",
+  "dvcName": "2025 SORENTO Hybrid",
+  "engDvcName": "2025 SORENTO Hybrid",
+  "engVclName": "SORENTO Hybrid",
+  "mcode": "1812",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAH.SCBMN.ME",
+    "MQ4PEAH.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.MES.ccNC.???.*",
+    "MQ4PE.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MQ4PE.MES.ccNC.001.002.251203",
+    "MQ4PE.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "SORENTO Hybrid"
+}

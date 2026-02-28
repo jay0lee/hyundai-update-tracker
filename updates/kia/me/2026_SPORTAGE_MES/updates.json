@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2026_SPORTAGE_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjEwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQ5LzIwMjZfU1BPUlRBR0VfTUVTLmpzb24iLCJpc05zdW0iOnRydWV9.yZ6PzS9GpUgmlDobbWQqgYRSwjVamh-B6I7GZCZPb4w",
+  "dvcName": "2026 SPORTAGE",
+  "engDvcName": "2026 SPORTAGE",
+  "engVclName": "SPORTAGE",
+  "mcode": "2105",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5EAS.SCBMN.ME",
+    "NQ5EAS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5E.MES.ccNC.???.*",
+    "NQ5E.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NQ5E.MES.ccNC.001.002.251203",
+    "NQ5E.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "SPORTAGE"
+}
