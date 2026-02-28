@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_16_OPTIMA_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MTIvMjAxNV8xNl9PUFRJTUFfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.nw5gBtMAFuxzqa3-sAflXWqBR6xVVgVCIKPCkIBPkME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwMSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU40L0pGLzEwNjc1LzIwMTVfMTZfT1BUSU1BX01FLmluZiIsImlzTnN1bSI6dHJ1ZX0.YxQdhGDRbzViMrZUlyq66c9FoTn9mCHBddcqjkyAeJc",
   "dvcName": "2015-16 OPTIMA",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.JF.MES.E*"
   ],
   "swVers": [
-    "ST.JF.MES.E536.250814"
+    "ST.JF.MES.E536.241118"
   ],
   "vclName": "OPTIMA"
 }

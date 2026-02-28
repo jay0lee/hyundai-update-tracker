@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_EV6_MES",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQxLzIwMjVfRVY2X01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.1ddvZNJ0m6_NORgG4FER2wdMmv4VuUeuvkEa8So1a3U",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTkxNyIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9zdW1zX2luZi9jY05DL0NWMVBFLzE2MzU3LzIwMjVfRVY2X01FUy5pbmYiLCJpc05zdW0iOnRydWV9.b1azNYlPHsjqpL5NLnvDHtiLyxIMV5i-OCXw0X7Fyys",
   "dvcName": "2025-26 EV6",
   "engDvcName": "2025-26 EV6",
   "engVclName": "EV6",
@@ -12,7 +12,7 @@
     "CV1AE.SLBMN.ME"
   ],
   "platformCode": "23",
-  "priority": "499",
+  "priority": "100",
   "registYn": "N",
   "releaseDate": "",
   "serviceYn": "Y",
@@ -21,8 +21,8 @@
     "CV1.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "CV1.MES.ccNC.001.002.251203",
-    "CV1.MES.ccNC_Lite.001.002.251203"
+    "CV1.MES.ccNC.001.002.250630",
+    "CV1.MES.ccNC_Lite.001.002.250630"
   ],
   "vclName": "EV6"
 }
