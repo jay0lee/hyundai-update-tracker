@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2016_17_CADENZA_ME",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MTAvMjAxNl8xN19DQURFTlpBX01FLmpzb24iLCJpc05zdW0iOnRydWV9.9J8rQmNMhJDVUhYNwm5z3AlL7G1kAjkF50HS4L5ZTQo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwNSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bW1lLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU40L1lHLzEwNjczLzIwMTZfMTdfQ0FERU5aQV9NRS5pbmYiLCJpc05zdW0iOnRydWV9.f3vzKbgyZRk1KxCdX2zKFDkKCTkgiWsaQx9A-CNahfA",
   "dvcName": "2016-17 CADENZA",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "ST.YG.MES.E*"
   ],
   "swVers": [
-    "ST.YG.MES.E536.250814"
+    "ST.YG.MES.E536.241118"
   ],
   "vclName": "CADENZA"
 }
