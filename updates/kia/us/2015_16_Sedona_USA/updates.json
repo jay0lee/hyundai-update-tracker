@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2015_16_Sedona_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWVAvMTA1NTgvMjAxNV8xNl9TZWRvbmFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.xvDHAJ2U0zTLOIwb-LEzvW2qQuP2yqfcosvXBocIStc",
+  "dvcName": "2015-16 Sedona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "709",
+  "mediaType": "SD",
+  "modelNames": [
+    "YPAS.S4AMN.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.YP.USA.E*"
+  ],
+  "swVers": [
+    "ST.YP.USA.E543.241029"
+  ],
+  "vclName": "Sedona"
+}
