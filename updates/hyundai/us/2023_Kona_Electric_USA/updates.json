@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Kona_Electric_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2OTcvMjAyM19Lb25hX0VsZWN0cmljX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PLR3H6PLSSji8-e2aQHmdhMp0BsFi6WJRl575cux2nM",
+  "dvcName": "2023 Kona Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1521",
+  "mediaType": "USB",
+  "modelNames": [
+    "OSBE.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OSPEEV23.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "OSPEEV23.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Kona Electric"
+}
