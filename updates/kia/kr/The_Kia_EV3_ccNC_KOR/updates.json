@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_Kia_EV3_ccNC_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzgwL1RoZV9LaWFfRVYzX2NjTkNfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.RvNQoH_m-O9UNQLjznQ-7GpHAYdYKk-C9fpfEIS4EUg",
+  "dvcName": "The Kia EV3 [ccNC Kia Connect]",
+  "engDvcName": "The Kia EV3 [ccNC Kia Connect]",
+  "engVclName": "EV3",
+  "mcode": "1951",
+  "mediaType": "USB",
+  "modelNames": [
+    "SV1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SV1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "SV1.KOR.ccNC.001.002.251024"
+  ],
+  "vclName": "EV3"
+}
