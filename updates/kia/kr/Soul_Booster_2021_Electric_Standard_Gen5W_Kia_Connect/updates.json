@@ -1,0 +1,34 @@
+{
+  "brand": "KM",
+  "destPath": "Soul_Booster_2021_Electric_Standard_Gen5W_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNTEvU291bF9Cb29zdGVyXzIwMjFfRWxlY3RyaWNfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.ALJjKyLnLuRu-8xap6SK-PVOEL1OFHFZO4TPdAYGDwU",
+  "dvcName": "쏘울 부스터 / 2021, Electric 포함 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "Soul Booster / 2021, Electric [Standard Gen5W Kia Connect]",
+  "engVclName": "Soul",
+  "mcode": "1402",
+  "mediaType": "USB",
+  "modelNames": [
+    "SK3AS.S5BMC.KR",
+    "SK3AE.S5BMC.KR",
+    "SK3BS.S5BMC.KR",
+    "SK3BE.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SK3.KOR.S5W_M.V???.*",
+    "SK3EV.KOR.S5W_M.V???.*",
+    "SK3_21.KOR.S5W_M.V???.*",
+    "SK3_E_21.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "SK3.KOR.S5W_M.V036.001.251027",
+    "SK3_E_21.KOR.S5W_M.V036.001.251027",
+    "SK3EV.KOR.S5W_M.V036.001.251027",
+    "SK3_21.KOR.S5W_M.V036.001.251027"
+  ],
+  "vclName": "쏘울"
+}
