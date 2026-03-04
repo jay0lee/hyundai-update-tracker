@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_all_new_2023_Niro_Plug_in_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3MTUvVGhlX2FsbF9uZXdfMjAyM19OaXJvX1BsdWdfaW5fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.y9FM8UKEpCJs7HYfnvxXxGGonf8GeEMfEpQW3W7xS28",
+  "dvcName": "The all-new 2023-24 Niro Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1535",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AP.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "SG2PHEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "SG2PHEV.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}
