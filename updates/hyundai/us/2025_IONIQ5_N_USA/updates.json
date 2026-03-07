@@ -8,7 +8,8 @@
   "mcode": "1819",
   "mediaType": "USB",
   "modelNames": [
-    "NE1KNAE.SCBMC.US"
+    "NE1KNAE.SCBMC.US",
+    "NE1KN26BE.SCBMC.US"
   ],
   "platformCode": "23",
   "priority": "100",
@@ -16,7 +17,8 @@
   "releaseDate": "2025.10",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NE1KN.USA.ccNC.???.*"
+    "NE1KN.USA.ccNC.???.*",
+    "NE1KN26.USA.ccNC.???.*"
   ],
   "swVers": [
     "NE1KN.USA.ccNC.001.002.250930"
