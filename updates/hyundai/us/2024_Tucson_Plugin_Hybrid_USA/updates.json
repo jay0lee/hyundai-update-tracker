@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "NX4AAP.SCBMC.US",
-    "NX4AAP.SLBMC.US"
+    "NX4AAP.SLBMC.US",
+    "NX4MY26BP.SCBMC.US",
+    "NX4MY26BP.SLBMC.US"
   ],
   "platformCode": "23",
   "priority": "498",
@@ -18,7 +20,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4A.USA.ccNC.???.*",
-    "NX4A.USA.ccNC_Lite.???.*"
+    "NX4A.USA.ccNC_Lite.???.*",
+    "NX4P26.USA.ccNC.???.*",
+    "NX4P26.USA.ccNC_Lite.???.*"
   ],
   "swVers": [
     "NX4A.USA.ccNC_Lite.001.002.250813",
