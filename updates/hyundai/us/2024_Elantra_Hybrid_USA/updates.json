@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Elantra_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgxNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDQ3LzIwMjRfRWxhbnRyYV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.gdHiim_5UMC-8gxINMI5kK56BlURaOWeGIfKVFKoepA",
+  "dvcName": "2024-25 Elantra Hybrid",
+  "engDvcName": "2024-25 Elantra Hybrid",
+  "engVclName": "Elantra Hybrid",
+  "mcode": "1815",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7CH.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CN7HEVPE.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "CN7HEVPE.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Elantra Hybrid"
+}
