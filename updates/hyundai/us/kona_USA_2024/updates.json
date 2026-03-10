@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "kona_USA_2024",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTcwMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDUwL2tvbmFfVVNBXzIwMjQuanNvbiIsImlzTnN1bSI6dHJ1ZX0.dlsbPiCXUsBPSh8iqu6eUoyBi3ht9PoHpOrpPOpGiA0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTcwMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTgyL2tvbmFfVVNBXzIwMjQuanNvbiIsImlzTnN1bSI6dHJ1ZX0.ERnDeEM2pC00osXB1MdscayMhkzvs3ntoVUkB6-od7A",
   "dvcName": "2024-25 Kona",
   "engDvcName": "2024-25 Kona",
   "engVclName": "Kona",
@@ -14,15 +14,15 @@
   "platformCode": "23",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.03",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SX2.USA.ccNC.???.*",
     "SX2.USA.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "SX2.USA.ccNC_Lite.001.002.250813",
-    "SX2.USA.ccNC.001.002.250930"
+    "SX2.USA.ccNC.001.002.251126",
+    "SX2.USA.ccNC_Lite.001.002.251127"
   ],
   "vclName": "Kona"
 }
