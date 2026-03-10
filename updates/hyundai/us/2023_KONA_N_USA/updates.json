@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_KONA_N_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY2OTgvMjAyM19LT05BX05fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.lWXr7RP7WiRoyAocCSKi-mitaJ4QXroP0VNCwDSB2FU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk1NjAvMjAyM19LT05BX05fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.oiByVllUs_yK6yrmPYK-vDP8mGIMZ43gJPPdg8AutP8",
   "dvcName": "2023 KONA N",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.03",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OSNPE23.USA.S5W_M.V*"
   ],
   "swVers": [
-    "OSNPE23.USA.S5W_M.V014.010.250818"
+    "OSNPE23.USA.S5W_M.V014.011.251120"
   ],
   "vclName": "KONA N"
 }
