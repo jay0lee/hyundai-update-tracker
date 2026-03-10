@@ -1,0 +1,24 @@
+{
+  "brand": "HM",
+  "destPath": "The_All_New_Palisade_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTI5L1RoZV9BbGxfTmV3X1BhbGlzYWRlX0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.sT-84gUFmq75_kWI3wCxklHcKTi44-TK_SVgIG4bGrk",
+  "dvcName": "디 올 뉴 팰리세이드 / Hybrid 포함 [ccNC 블루링크]",
+  "engDvcName": "The All New Palisade / Hybrid [ccNC Bluelink]",
+  "engVclName": "Palisade",
+  "mcode": "2023",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX3AS.SCMBC.KR",
+    "LX3AH.SCMBC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "25AP.LX3.KOR.ccNC.001.002.251025"
+  ],
+  "vclName": "팰리세이드"
+}

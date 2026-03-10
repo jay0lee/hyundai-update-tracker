@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2026_Tucson_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzY1LzIwMjZfVHVjc29uX0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.gufjbp5eF92y7Zig3n2jJgDrbDRSA5uZXbZvz_4d3f4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTUzLzIwMjZfVHVjc29uX0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.MZ5GXaUL9iNcBiLRyI0qSq_EnO1UolYTZVYHAITDbbg",
   "dvcName": "2026 투싼 / Hybrid 포함 [ccNC 블루링크]",
   "engDvcName": "2026 Tucson / Hybrid [ccNC Bluelink]",
   "engVclName": "Tucson",
@@ -14,14 +14,14 @@
   "platformCode": "23",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.03",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4MY26.KOR.ccNC.???.*",
     "NX4MY26.KOR.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "NX4MY26.KOR.ccNC.001.002.251024"
+    "NX4MY26.KOR.ccNC.001.002.260117"
   ],
   "vclName": "투싼"
 }
