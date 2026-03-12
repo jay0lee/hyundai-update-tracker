@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "GrandCarnival",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiOTEiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL0xLLzE0MDcyL0dyYW5kQ2Fybml2YWwuaW5mIiwiaXNOc3VtIjp0cnVlfQ.-ao2uaXUYRiOKUFbhdUdwTyc2qhSZUG-ddX_7nUFzlc",
+  "dvcName": "그랜드카니발 [표준형 1세대]",
+  "engDvcName": "Grand Carnival [Standard Gen1]",
+  "engVclName": "Carnival",
+  "mcode": "91",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_087_*"
+  ],
+  "swVers": [
+    "V_087_56"
+  ],
+  "vclName": "카니발"
+}
