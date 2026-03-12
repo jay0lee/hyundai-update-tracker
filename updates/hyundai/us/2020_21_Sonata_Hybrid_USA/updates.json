@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2020_21_Sonata_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjYyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjczMS8yMDIwXzIxX1NvbmF0YV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.u547mTGC2GnkGzUb9YBf_uXvCoVUBwTUjIxGZ6Xa5_Q",
+  "dvcName": "2020-21 Sonata Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "662",
+  "mediaType": "USB",
+  "modelNames": [
+    "DN8N20H.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DN8HEV.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "DN8HEV.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Sonata Hybrid"
+}
