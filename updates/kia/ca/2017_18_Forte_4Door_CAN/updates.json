@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2017_18_Forte_4Door_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzI4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvWURQRSg0RFIpLzE1Mzc0LzIwMTdfMThfRm9ydGVfNERvb3JfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.owDIZD2JGiNByyXefXAHD6anlchXKiSOPNaqC3raGLM",
+  "dvcName": "2017-18 Forte 4Door",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "728",
+  "mediaType": "SD",
+  "modelNames": [
+    "YDAS.S4AMN.4DCA"
+  ],
+  "platformCode": "7",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.YD.CAN.E*"
+  ],
+  "swVers": [
+    "ST.YD.CAN.E543.250408"
+  ],
+  "vclName": "Forte"
+}
