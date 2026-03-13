@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_New_K8_Hybrid_ccNC",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzgyL1RoZV9OZXdfSzhfSHlicmlkX2NjTkMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.y7ok2EpJctWXZz_Icg5bp6UgemYTWLvnTodV6T_PoIM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTU5L1RoZV9OZXdfSzhfSHlicmlkX2NjTkMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.RqyVifsT-svIbD80NZSIvbxq01_n7A607yYCqRNZq9Y",
   "dvcName": "The new K8 / Hybrid 포함 [ccNC Kia Connect]",
   "engDvcName": "The new K8 [ccNC Kia Connect]",
   "engVclName": "K8",
@@ -14,13 +14,13 @@
   "platformCode": "23",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.01",
-  "serviceYn": "Y",
+  "releaseDate": "2026.03",
+  "serviceYn": "N",
   "swVerIdxs": [
     "GL3.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "GL3.KOR.ccNC.001.002.251024"
+    "GL3.KOR.ccNC.001.002.260117"
   ],
   "vclName": "K8"
 }
