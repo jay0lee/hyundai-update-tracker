@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "2026_K5_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTU4LzIwMjZfSzVfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.Wq6onPGMjuvr9xjuBva11Hx_u7n55wcL2pyAhR5pzoo",
+  "dvcName": "The 2026 K5/ Hybrid 포함 [ccNC Kia Connect]",
+  "engDvcName": "The 2026 K5 / Hybrid [ccNC Kia Connect]",
+  "engVclName": "K5",
+  "mcode": "2018",
+  "mediaType": "USB",
+  "modelNames": [
+    "DL3MY26BS.SCBMC.KR",
+    "DL3MY26BH.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.03",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "DL3MY26.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "DL3MY26.KOR.ccNC.001.002.260117"
+  ],
+  "vclName": "K5"
+}
