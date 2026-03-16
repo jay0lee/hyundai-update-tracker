@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_K5_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTczNjkvMjAyM19LNV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.DOSWIOMTfj9CnHsvUg8uyq7vbGK691YWuQj0fvYazJM",
+  "dvcName": "2023-24 K5",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1530",
+  "mediaType": "USB",
+  "modelNames": [
+    "DL3BS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "DL3_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "DL3_22.USA.S5W_M.V014.010.250818"
+  ],
+  "vclName": "K5"
+}
