@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_SPORTAGE_R_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTgwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9TTC8xNDQ1Ny9UaGVfTmV3X1NQT1JUQUdFX1JfVVZPLmluZiIsImlzTnN1bSI6dHJ1ZX0.mwJjrEB7h68tS3gQiT_2ZLPxWuQK-5QGjbdki_QMO7g",
+  "dvcName": "스포티지 R 2013 [표준형 3세대 UVO]",
+  "engDvcName": "Sportage R 2013 [Standard Gen3 UVO]",
+  "engVclName": "Sportage",
+  "mcode": "180",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "504",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SL_MTS.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "SL_MTS.KOR.SOP.14.048"
+  ],
+  "vclName": "스포티지"
+}
