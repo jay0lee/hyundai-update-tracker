@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2024_Electrified_GV70_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcyOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2ODYvMjAyNF9FbGVjdHJpZmllZF9HVjcwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3rh2CbAV0iKbn8GoeZJ4XxtvoyDmW3h5hRC1E3biABs",
+  "dvcName": "2023-24 Electrified GV70",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1728",
+  "mediaType": "USB",
+  "modelNames": [
+    "JK1AE.P6CLC.CA"
+  ],
+  "platformCode": "15",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK1.CAN.P6.???.*"
+  ],
+  "swVers": [
+    "JK1.CAN.P6.001.010.251114"
+  ],
+  "vclName": "Electrified GV70"
+}
