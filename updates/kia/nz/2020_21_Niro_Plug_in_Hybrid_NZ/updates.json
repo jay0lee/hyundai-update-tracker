@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Niro_Plug_in_Hybrid_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTQwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTI5NC8yMDIwXzIxX05pcm9fUGx1Z19pbl9IeWJyaWRfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.AQs6KEbdGdA2tG4PSaw8Budsi1fjbEH__jCXoTQSciU",
+  "dvcName": "2021 Niro Plug-in Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "940",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEAP.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DE_P_PE.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "DE_P_PE.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Niro Plug-in Hybrid"
+}
