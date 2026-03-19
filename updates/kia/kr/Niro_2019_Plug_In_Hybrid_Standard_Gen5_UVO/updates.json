@@ -1,0 +1,30 @@
+{
+  "brand": "KM",
+  "destPath": "Niro_2019_Plug_In_Hybrid_Standard_Gen5_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQxNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgwMzcvTmlyb18yMDE5X1BsdWdfSW5fSHlicmlkX1N0YW5kYXJkX0dlbjVfVVZPLmpzb24iLCJpc05zdW0iOnRydWV9.hoTACeuDsUn765zuUyWILkRcjjLoPC62vNn1juz8NgY",
+  "dvcName": "니로 2019 / Plug-in Hybrid 포함 [표준형 5세대 UVO]",
+  "engDvcName": "Niro 2019 / Plug-In Hybrid [Standard Gen5 UVO]",
+  "engVclName": "Niro",
+  "mcode": "1416",
+  "mediaType": "SD",
+  "modelNames": [
+    "DECH.S5ALC.KR",
+    "DEAP.S5ALC.KR"
+  ],
+  "platformCode": "12",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DE_HEV_19MY.KOR.SOP.???.??????.STD_H",
+    "DE_HEV_19MY.KOR.SOP_CP.???.??????.STD_H",
+    "DE_PHEV.KOR.SOP.???.??????.STD_H",
+    "DE_PHEV.KOR.SOP_CP.???.??????.STD_H"
+  ],
+  "swVers": [
+    "DE_PHEV.KOR.SOP.061.250114.STD_H",
+    "DE_HEV_19MY.KOR.SOP.061.250114.STD_H"
+  ],
+  "vclName": "니로"
+}
