@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Carnival_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgyNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDY3LzIwMjVfQ2Fybml2YWxfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.mFyUL_rzkB2AqkIvw445b0YxLu3HkZpE55mJJGEMlmw",
+  "dvcName": "2025 Carnival",
+  "engDvcName": "2025 Carnival",
+  "engVclName": "Carnival",
+  "mcode": "1825",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2025.10",
+  "serviceYn": "N",
+  "swVerIdxs": [
+    "KA4.USA.ccNC.???.*"
+  ],
+  "swVers": [
+    "KA4.USA.ccNC.001.002.250930"
+  ],
+  "vclName": "Carnival"
+}
