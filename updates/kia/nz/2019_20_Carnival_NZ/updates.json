@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Carnival_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiOTM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtbnoubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTEdFL1lQX1BFLzE1MDA4LzIwMTlfMjBfQ2Fybml2YWxfTlouaW5mIiwiaXNOc3VtIjp0cnVlfQ.oNn0noOsQ6hk0j0RivSToT-0lXNfT6g3wDP_igPAXkI",
+  "dvcName": "2019-20 Carnival",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "936",
+  "mediaType": "SD",
+  "modelNames": [
+    "YPAS.S5ALN.AU"
+  ],
+  "platformCode": "12",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YP_PE.AUS.SOP.*"
+  ],
+  "swVers": [
+    "YP_PE.AUS.SOP.009.2.240221.STD_M"
+  ],
+  "vclName": "Carnival"
+}
