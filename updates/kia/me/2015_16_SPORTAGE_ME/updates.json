@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2015_16_SPORTAGE_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MTUvMjAxNV8xNl9TUE9SVEFHRV9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.JYzTZscxVjLAbFJ4IqF0cCYf4Kg-UWNtMOkzJrNs1IE",
+  "dvcName": "2015-16 SPORTAGE",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1000",
+  "mediaType": "SD",
+  "modelNames": [
+    "QLAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.QL.MES.E*"
+  ],
+  "swVers": [
+    "ST.QL.MES.E536.250814"
+  ],
+  "vclName": "SPORTAGE"
+}
