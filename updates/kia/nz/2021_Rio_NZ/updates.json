@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_Rio_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTAzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMDAvMjAyMV9SaW9fTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.qyUIKv60_pVjZbDakCI9kpPz7gxF-sxqHjz1GRf0SFU",
+  "dvcName": "2020-21 Rio",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1035",
+  "mediaType": "USB",
+  "modelNames": [
+    "YBAS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YB_PE.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "YB_PE.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Rio"
+}
