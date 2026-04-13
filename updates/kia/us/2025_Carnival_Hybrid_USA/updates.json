@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_Carnival_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg1MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDYxLzIwMjVfQ2Fybml2YWxfSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3CnkkPf8OznDTCkXQYtQRAmaMqcVnaZ_JbtxCtksYf0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg1MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIxNzM3LzIwMjVfQ2Fybml2YWxfSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.kgO7P98LIveSZsWpLsAiMNG6edsCwkbQxWOo4VA46qM",
   "dvcName": "2025 Carnival Hybrid",
   "engDvcName": "2025 Carnival Hybrid",
   "engVclName": "Carnival Hybrid",
@@ -19,7 +19,7 @@
     "KA4.USA.ccNC.???.*"
   ],
   "swVers": [
-    "KA4.USA.ccNC.001.002.250930"
+    "KA4.USA.ccNC.001.002.251224"
   ],
   "vclName": "Carnival Hybrid"
 }

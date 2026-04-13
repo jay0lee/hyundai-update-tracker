@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_EV6_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc1MjYvMjAyMl9FVjZfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.nCf5LirHGEWl6TYzDU4pDSUcr9cipGjLhb8AINurcDM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE3MzIvMjAyMl9FVjZfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.0Z3ClHaiRTrXLnXA4QVI3mKX6irUUcFIXhFmfG0wPMc",
   "dvcName": "2022-24 EV6",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "CV_E.USA.S5W_M.V*"
   ],
   "swVers": [
-    "CV_E.USA.S5W_M.V014.010.250818"
+    "CV_E.USA.S5W_M.V014.011.251120"
   ],
   "vclName": "EV6"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_EV9_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg3NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDU0LzIwMjVfRVY5X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Qxnq60VCmCLXFQb7HAssD0_FyktVsyBqejdxgSEfyns",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg3NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIxNzQxLzIwMjVfRVY5X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.WH9qm1qyzTLbh2tSFd2gqiUB-ZkZhHgrlJ-8lFfj2Co",
   "dvcName": "2025 EV9",
   "engDvcName": "2025 EV9",
   "engVclName": "EV9",
@@ -19,7 +19,7 @@
     "MV1A.USA.ccNC.???.*"
   ],
   "swVers": [
-    "MV1A.USA.ccNC.001.002.250930"
+    "MV1A.USA.ccNC.001.002.251126"
   ],
   "vclName": "EV9"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2026_EV9_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjAwOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NDU1LzIwMjZfRVY5X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.-PMD7K5e7Q0B9DhPpVi81KMmcilKb08I300v_YY55lo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjAwOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIxNzQyLzIwMjZfRVY5X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.fyS6pos8vS1KSFA5qO7ZBruZJN17zXiWbxotEk935UA",
   "dvcName": "2026 EV9",
   "engDvcName": "2026 EV9",
   "engVclName": "EV9",
@@ -19,7 +19,7 @@
     "MV1A26.USA.ccNC.???.*"
   ],
   "swVers": [
-    "MV1A26.USA.ccNC.001.002.250930"
+    "MV1A26.USA.ccNC.001.002.251126"
   ],
   "vclName": "EV9"
 }
