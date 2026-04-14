@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Forte_4Door_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQkRUTVUgNERSLzE1NDc5LzIwMjBfMjFfRm9ydGVfNERvb3JfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.12BPjody4WOYuPIy55TnOGiDeM3mlpjRQn_bjlnAdsM",
+  "dvcName": "2020-21 Forte 4Door",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "648",
+  "mediaType": "SD",
+  "modelNames": [
+    "BDBS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BDTMU4DR.USA.SOP.V*"
+  ],
+  "swVers": [
+    "BDTMU4DR.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Forte"
+}
