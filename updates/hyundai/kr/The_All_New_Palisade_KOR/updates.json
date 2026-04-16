@@ -16,7 +16,10 @@
   "registYn": "N",
   "releaseDate": "2026.01",
   "serviceYn": "Y",
-  "swVerIdxs": [],
+  "swVerIdxs": [
+    "LX3.KOR.S5W_M.V???.*",
+    "263R.LX3.KOR.ccNC.???.*"
+  ],
   "swVers": [
     "25AP.LX3.KOR.ccNC.001.002.251025"
   ],
