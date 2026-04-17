@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Carnival_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE3MjAvMjAyM19DYXJuaXZhbF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.jdmBU6aLbL3kd5XTDLDVpMKcyLgsJK9lx4BDxzoGo0M",
+  "dvcName": "2023 Carnival",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1502",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4CS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4_23.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "KA4_23.USA.S5W_M.V014.011.251120"
+  ],
+  "vclName": "Carnival"
+}
