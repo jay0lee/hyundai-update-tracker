@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_K5_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTU5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjk0MC8yMDIxX0s1X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.DCegAAqrXFVzko2tdLJNXd-Mfn8Qyegn4wgFGnicWZc",
+  "dvcName": "2021 K5",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "959",
+  "mediaType": "USB",
+  "modelNames": [
+    "DL3AS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DL3.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "DL3.CAN.S5W_M.V014.010.250818"
+  ],
+  "vclName": "K5"
+}
