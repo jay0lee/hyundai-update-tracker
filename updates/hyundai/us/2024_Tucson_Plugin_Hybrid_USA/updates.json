@@ -1,0 +1,34 @@
+{
+  "brand": "HM",
+  "destPath": "2024_Tucson_Plugin_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTkwLzIwMjRfVHVjc29uX1BsdWdpbl9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.saPxL87U6L0AZs_NEG2tEKPUy7cWNvYtXdp2hYgjWmQ",
+  "dvcName": "2025-26 Tucson Plug-in Hybrid",
+  "engDvcName": "2025-26 Tucson Plug-in Hybrid",
+  "engVclName": "Tucson Plug-in Hybrid",
+  "mcode": "1824",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AAP.SCBMC.US",
+    "NX4AAP.SLBMC.US",
+    "NX4MY26BP.SCBMC.US",
+    "NX4MY26BP.SLBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.03",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4A.USA.ccNC.???.*",
+    "NX4A.USA.ccNC_Lite.???.*",
+    "NX4P26.USA.ccNC.???.*",
+    "NX4P26.USA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NX4A.USA.ccNC.001.002.251224",
+    "NX4P26.USA.ccNC_Lite.001.002.251224",
+    "NX4A.USA.ccNC_Lite.001.002.251224",
+    "NX4P26.USA.ccNC.001.002.251224"
+  ],
+  "vclName": "Tucson Plug-in Hybrid"
+}
