@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "SORENTO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNzQiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL0pILzE0MDgyL1NPUkVOVE8uaW5mIiwiaXNOc3VtIjp0cnVlfQ.oI5__TMpxdNsggVuYlG5vMxbWgmOJGxRJTKDsETonBc",
+  "dvcName": "쏘렌토 [표준형 1세대]",
+  "engDvcName": "Sorento [Standard Gen1]",
+  "engVclName": "Sorento",
+  "mcode": "74",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_107_*"
+  ],
+  "swVers": [
+    "V_107_53"
+  ],
+  "vclName": "쏘렌토"
+}
