@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_21_Stinger_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQ0sgMTlNWS8xNTQ2MC8yMDE5XzIxX1N0aW5nZXJfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.zQkB-50s6RWHW8SiVaZ9dhs0t6etWKujb4QPtgw76uo",
+  "dvcName": "2019-21 Stinger",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "819",
+  "mediaType": "SD",
+  "modelNames": [
+    "CKBS.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CK19.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "CK19.CAN.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Stinger"
+}
