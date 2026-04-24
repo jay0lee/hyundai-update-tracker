@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "MOHAVE_DVD",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODMiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9EVkQvSlMvMTQyMDcvTU9IQVZFX0RWRC5pbmYiLCJpc05zdW0iOnRydWV9.riW9Vcpbi8chXd_78oO47AD25Cel243-gqIkgTVffe4",
+  "dvcName": "모하비 [DVD 내비게이션]",
+  "engDvcName": "Mohave DVD [Standard Gen1(DVD)]",
+  "engVclName": "Mohave",
+  "mcode": "83",
+  "mediaType": "DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V1.SOP.13.*"
+  ],
+  "swVers": [
+    "V1.SOP.13.012.KOR"
+  ],
+  "vclName": "모하비"
+}
