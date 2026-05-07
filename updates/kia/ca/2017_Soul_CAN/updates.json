@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2017_Soul_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvUFNQRS8xNTM3MS8yMDE3X1NvdWxfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.BCH8NJgn5KWYc1gwwv_Eq-tlBiILSWJbooEn55k5ERo",
+  "dvcName": "2017 Soul",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "809",
+  "mediaType": "SD",
+  "modelNames": [
+    "PSBS.S4AMN.CA"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.PSPE.CAN.E*"
+  ],
+  "swVers": [
+    "ST.PSPE.CAN.E543.250408"
+  ],
+  "vclName": "Soul"
+}
