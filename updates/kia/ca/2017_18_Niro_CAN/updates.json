@@ -1,8 +1,8 @@
 {
   "brand": "KM",
   "destPath": "2017_18_Niro_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzM3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvREUgSEVWLzE1Mzc5LzIwMTdfMThfTmlyb19DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.9g9CgAtdkcBvFEgFfo2l_NKh_OgXBGHTfkdaINjwNMw",
-  "dvcName": "2017-18 Niro",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzM3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAwMS8yMDE3XzE4X05pcm9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.y2g6IkJ9pWXELtS6qhgm3Cj839CemVzSsEuebRQ7i2M",
+  "dvcName": "2017-18 Niro Hybrid",
   "engDvcName": "",
   "engVclName": "",
   "mcode": "737",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.DEHEV.CAN.E*"

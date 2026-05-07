@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_20_Rio_5Door_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvU0MvMTU0MjQvMjAxOF8yMF9SaW9fNURvb3JfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.tW-jKacHUMYL8t_QHFwtepf_h235zwmfjdB3wdTkQGk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzk5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMxNS8yMDE4XzIwX1Jpb181RG9vcl9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.XfoWNos-uEKkr_XV-PxcBMdMDDHaM8dbbV3Kqypy0HM",
   "dvcName": "2018-20 Rio 5Door",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SC.CAN.SOP.V*"

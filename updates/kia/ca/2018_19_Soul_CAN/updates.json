@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_19_Soul_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODExIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUFMgMThNWS8xNTQyMy8yMDE4XzE5X1NvdWxfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.LKs6LiR4UzTQxxwnZXy_Nz-Ncsy5tEgVMPRUv4gnTbc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODExIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMxNC8yMDE4XzE5X1NvdWxfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9._GdAI7HpbWNvDZc0GvsjD4Gdyoa5ccXCtC3GOczdH20",
   "dvcName": "2018-19 Soul",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PS18MY.CAN.SOP.V*"

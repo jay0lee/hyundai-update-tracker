@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2016_18_Sorento_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVU1hLzE1MzY0LzIwMTZfMThfU29yZW50b19DQU4uaW5mIiwiaXNOc3VtIjp0cnVlfQ.zYmmZvTCcEjK7CSdxhiGyAu1VcvW7lS7m_xAEXNFrLo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk4Ni8yMDE2XzE4X1NvcmVudG9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.gGOEP_ylQ_Z_4ludH9YSq-FCf1_6as8VOvUEp56HAv4",
   "dvcName": "2016-18 Sorento",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.UM.CAN.E*"

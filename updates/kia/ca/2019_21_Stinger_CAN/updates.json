@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_21_Stinger_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQ0sgMTlNWS8xNTQ2MC8yMDE5XzIxX1N0aW5nZXJfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.zQkB-50s6RWHW8SiVaZ9dhs0t6etWKujb4QPtgw76uo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTM0Ni8yMDE5XzIxX1N0aW5nZXJfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.IYkU5Ymg0q2YXX8XTTbmxyX-aC_e2Rmqcvoa9jlBmr0",
   "dvcName": "2019-21 Stinger",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CK19.CAN.SOP.V*"
