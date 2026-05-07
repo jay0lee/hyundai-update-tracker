@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_21_Kona_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgMTlNWS8xNTQ1MC8yMDE5XzIxX0tvbmFfQ0FOLmluZiIsImlzTnN1bSI6dHJ1ZX0.wGatuWbklwBPZWj4SY1EMwW0Jy7YkxgNDm1dHIBjhg8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzYxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMzMy8yMDE5XzIxX0tvbmFfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.8uX467cX57l3CvdFz17w91TQa92RAzq2cgSWi0zFKJQ",
   "dvcName": "2019-21 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OS19.CAN.SOP.V*"

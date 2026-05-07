@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_20_Elantra_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjE2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQUQgUEUvMTU0MTIvMjAxOV8yMF9FbGFudHJhX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.iXgWrl5ODKOSvzBKNPzf2Z0uXyQU7Yp_gZK4XIDgi8g",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjE2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAyNi8yMDE5XzIwX0VsYW50cmFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.KwjUVOlM7bdReJD6U5jkS-IeXhI4t25ioSQ5jz5xF6E",
   "dvcName": "2019-20 Elantra",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ADPE.USA.SOP.V*"

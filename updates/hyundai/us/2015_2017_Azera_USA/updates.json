@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2015_2017_Azera_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjA0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSEcvMTUzMDkvMjAxNV8yMDE3X0F6ZXJhX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.9p8EjfTR6vkbjQWYJrgnhINxIengxVFuaOhQTIwmLJY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjA0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk2Ni8yMDE1XzIwMTdfQXplcmFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.WYrQKChpUOGqQcdWMpIPFw7aWK7xRMpWxjXb-_cpahQ",
   "dvcName": "2015-17 Azera",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.HG.USA.E*"

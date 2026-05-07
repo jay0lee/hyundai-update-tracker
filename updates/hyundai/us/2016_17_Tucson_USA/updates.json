@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2016_17_Tucson_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjcyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEwvMTUzMjIvMjAxNl8xN19UdWNzb25fVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.2eUJBpOdyI4hZNcUP_GHXLjcuS0WSCQWU7EmWoQatug",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjcyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk1My8yMDE2XzE3X1R1Y3Nvbl9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.wHZAtB03d8FZOcp2Lnq8I-zuTg-43w7pqMB0fK6P9Fw",
   "dvcName": "2016-17 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.TL.USA.E*"

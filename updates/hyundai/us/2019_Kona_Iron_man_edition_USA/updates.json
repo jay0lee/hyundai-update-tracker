@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Kona_Iron_man_edition_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvT1MgU0UvMTU0MzgvMjAxOV9Lb25hX0lyb25fbWFuX2VkaXRpb25fVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.PhzQXL2P6CTDnjCoKbFz-pU0Ps_qVChq3IWJh8mhtH8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAzNC8yMDE5X0tvbmFfSXJvbl9tYW5fZWRpdGlvbl9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.H8_gS4hdEf4cb23-2rPcmizx2wbhMK80UncoFaXoibc",
   "dvcName": "2019 Kona (Iron man edition)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OSSE.USA.SOP.V*"

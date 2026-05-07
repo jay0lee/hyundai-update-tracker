@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2017_18_Ioniq_Electric_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvQUUgRVYvMTUzMTMvMjAxN18xOF9Jb25pcV9FbGVjdHJpY19VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.ZJpMkTYUFjr9aoT0vZr01nGq_8JYayCYKw7RnEU9H5I",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk2Mi8yMDE3XzE4X0lvbmlxX0VsZWN0cmljX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.ZWBToTgn8nAbjSDkiPBNfPW8QArmoekF2ZesRN589jU",
   "dvcName": "2017-18 Ioniq Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.AEEV.USA.E*"

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2016_17_Elantra_GT_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzE5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtY2EubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvR0QvMTUzNDcvMjAxNl8xN19FbGFudHJhX0dUX0NBTi5pbmYiLCJpc05zdW0iOnRydWV9.TfwXIzh2pnFG1oU3kVQvmCLxRA0v_t8Z3QBVxl1tyb4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzE5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk2OS8yMDE2XzE3X0VsYW50cmFfR1RfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.myPK69Ul1VUA94wk-1B05oFhBlKRMw67GrdrDrrd4O4",
   "dvcName": "2016-17 Elantra GT",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.GD.CAN.E*"
