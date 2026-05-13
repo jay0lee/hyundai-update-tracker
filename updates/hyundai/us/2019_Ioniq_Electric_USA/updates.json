@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_Ioniq_Electric_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAzMC8yMDE5X0lvbmlxX0VsZWN0cmljX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.mEWBC_Nx0Dsug1JhEloKNKThGHmezH8Cq3mkbFODo60",
+  "dvcName": "2019 Ioniq Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "686",
+  "mediaType": "SD",
+  "modelNames": [
+    "AEBE.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AEEV19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "AEEV19.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Ioniq Electric"
+}
