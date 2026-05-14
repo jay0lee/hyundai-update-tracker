@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_CARNIVAL_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTE5MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NzkvMjAyMV9DQVJOSVZBTF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.YMARW8zfnDDuWpEQohfsnZfNyAuSCAjUqTJCIsut7ZA",
+  "dvcName": "2021 CARNIVAL",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1193",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "KA4.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "CARNIVAL"
+}

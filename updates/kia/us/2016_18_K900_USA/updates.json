@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2016_18_K900_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjUwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL1BHRU4yL0tILzE0NzYwLzIwMTZfMThfSzkwMF9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.eYzT49Lfon7s25fcONdZXfrjLZACcL994upVFRg5cNI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjUwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgyMS8yMDE2XzE4X0s5MDBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.A6woap4K0mNzwkcDJTWfo1WucqvNh2y0M8VYJgCyM3M",
   "dvcName": "2016-18 K900",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "KH.USA.SOP.*"
