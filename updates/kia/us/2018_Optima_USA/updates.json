@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_Optima_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc2Mi8yMDE4X09wdGltYV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.iZJLL5jqa1xUNMdruOIxxGvxVpWF8FIRwh9FXm2eiyQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvSkZhIDE3TVkvMTU0ODMvMjAxOF9PcHRpbWFfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.-EJFF0L0gpEyvlb1jyyQpn9FAvCZrWx6HkUpNYgftSM",
   "dvcName": "2018 Optima",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JF.USA.SOP.V*"
