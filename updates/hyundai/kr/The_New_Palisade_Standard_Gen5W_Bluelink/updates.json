@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_Palisade_Standard_Gen5W_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNjYvVGhlX05ld19QYWxpc2FkZV9TdGFuZGFyZF9HZW41V19CbHVlbGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.FW7mqUP5ZKkYKVIm8FfMVEndAcIExsQLbvYtQwkmsiM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxMjQvVGhlX05ld19QYWxpc2FkZV9TdGFuZGFyZF9HZW41V19CbHVlbGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.HgI-eYP1YNargGFikk3IOCh_c3TU-Oli8zJd1Nc5OLc",
   "dvcName": "더 뉴 팰리세이드 [표준형 5W세대 블루링크]",
   "engDvcName": "The New Palisade [Standard Gen5W Bluelink]",
   "engVclName": "Palisade",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LX2_PE.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "LX2_PE.KOR.S5W_M.V036.001.251027"
+    "LX2_PE.KOR.S5W_M.V037.001.260319"
   ],
   "vclName": "팰리세이드"
 }

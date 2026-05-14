@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Ioniq_5_blueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTE4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxMTQvSW9uaXFfNV9ibHVlTGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PkpFbSJLO_Y53LWfjLG9Hdtsaug8mVc4bD9U2s8o_SA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTE4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxMTMvSW9uaXFfNV9ibHVlTGluay5qc29uIiwiaXNOc3VtIjp0cnVlfQ.dEGw15N6UmXZIl3vXvwGStB2FcmGt2K_koFxkxV5b68",
   "dvcName": "아이오닉 5 [표준형 5W세대 블루링크]",
   "engDvcName": "Ioniq 5 [Standard Gen5W Bluelink]",
   "engVclName": "Ioniq",
@@ -13,13 +13,13 @@
   "platformCode": "19",
   "priority": "492",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NEEV.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "NEEV.KOR.S5W_M.V036.001.251027"
+    "NEEV.KOR.S5W_M.V037.001.260319"
   ],
   "vclName": "아이오닉 5"
 }

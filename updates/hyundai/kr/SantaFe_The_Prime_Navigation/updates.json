@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "SantaFe_The_Prime_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg4OC9TYW50YUZlX1RoZV9QcmltZV9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.-xumEMf91zGlw_FXTw3gLKYco2dVxZWDVQMbSP-noTo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjAwMy9TYW50YUZlX1RoZV9QcmltZV9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.gQp4bhoNhPz8MRXibk96tgwqvUz1tLfx9EKzpNX0MXI",
   "dvcName": "싼타페 DM 더 프라임 [표준형 4세대]",
   "engDvcName": "Santafe DM THE PRIME [Standard Gen4]",
   "engVclName": "Santafe",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.DMNT2.KOR.E*"

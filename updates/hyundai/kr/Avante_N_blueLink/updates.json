@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Avante_N_blueLink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNjAvQXZhbnRlX05fYmx1ZUxpbmsuanNvbiIsImlzTnN1bSI6dHJ1ZX0.nOIk4toXzj3lAmTKoXgVlyka6qLzTJiFyEIJQ1NRWtA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTI4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxMTgvQXZhbnRlX05fYmx1ZUxpbmsuanNvbiIsImlzTnN1bSI6dHJ1ZX0.JIR5apQggqHU2yelb15scAphj6ie3e9XsqWWDvNHjMo",
   "dvcName": "아반떼 N [표준형 5W세대 블루링크]",
   "engDvcName": "Avante N [Standard Gen5W Bluelink]",
   "engVclName": "Avante",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CN7N.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "CN7N.KOR.S5W_M.V036.001.251027"
+    "CN7N.KOR.S5W_M.V037.001.260319"
   ],
   "vclName": "아반떼"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "SantaFe_DM_2015_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg4Ny9TYW50YUZlX0RNXzIwMTVfTmF2aWdhdGlvbi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.2tWJ3iJWK7dBcdI6qqm4VHGzZe2Q8_ayxIu41C4-EFs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjM0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjAwMi9TYW50YUZlX0RNXzIwMTVfTmF2aWdhdGlvbi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.RrN_Oy7H4V8PvG_YPU2qlhVdx9T6Kg0ihMw0nnI7C_Y",
   "dvcName": "싼타페 DM 2015 [표준형 4세대]",
   "engDvcName": "Santafe DM 2015 [Standard Gen4]",
   "engVclName": "Santafe",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "503",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.DMNT.KOR.E*"

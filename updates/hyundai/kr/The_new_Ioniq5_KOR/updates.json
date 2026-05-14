@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_new_Ioniq5_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTUxL1RoZV9uZXdfSW9uaXE1X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.i27-69aNBo9yykfvFXZC0yNf6FumD8Yc-6Y3ijC8bFA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODA3L1RoZV9uZXdfSW9uaXE1X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.mOJafrdcyDje1bVCqWVCMBQqfQ99d1tL5duoUZ5Zpy4",
   "dvcName": "더 뉴 아이오닉 5 [ccNC블루링크]",
   "engDvcName": "The New Ioniq 5 [ccNC Bluelink]",
   "engVclName": "Ioniq",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "489",
   "registYn": "N",
-  "releaseDate": "2026.03",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NE1.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "NE1.KOR.ccNC.001.002.260117"
+    "NE1.KOR.ccNC.001.002.260325"
   ],
   "vclName": "아이오닉 5"
 }

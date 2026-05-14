@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "HG_GRANDEUR_Hybrid_2015_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg5Ny9IR19HUkFOREVVUl9IeWJyaWRfMjAxNV9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.rrQnVn5nV-yngWV9a0H42PQx7ZKDKJA-zfas7ienOxI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjAxMi9IR19HUkFOREVVUl9IeWJyaWRfMjAxNV9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.AdsSK672N_18FiQsRmGHUc7E7wxM5iyO-zAQroFUv_c",
   "dvcName": "HG 그랜저 Hybrid 2015 [표준형 4세대]",
   "engDvcName": "HG Grandeur Hybrid 2015 [Standard Gen4]",
   "engVclName": "Grandeur",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.HGNTE.KOR.E*"

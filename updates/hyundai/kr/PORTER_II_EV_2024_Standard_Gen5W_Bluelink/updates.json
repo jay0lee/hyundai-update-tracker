@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "PORTER_II_EV_2024_Standard_Gen5W_Bluelink",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc4MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNjcvUE9SVEVSX0lJX0VWXzIwMjRfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmsuanNvbiIsImlzTnN1bSI6dHJ1ZX0.3flsVEfX4tr8UsoEo4mUogKga0faW-eX3S-0C5DmPg0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc4MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxNTYvUE9SVEVSX0lJX0VWXzIwMjRfU3RhbmRhcmRfR2VuNVdfQmx1ZWxpbmsuanNvbiIsImlzTnN1bSI6dHJ1ZX0.pbfeSIGL3OMu4cAv2MSvmvZZw5ik8g5m151GV9tMJuM",
   "dvcName": "2024 포터 II Electric [표준형 5W세대 블루링크]",
   "engDvcName": "2024 Porter II Electric [Standard Gen5W Bluelink]",
   "engVclName": "Porter",
@@ -11,15 +11,15 @@
     "HRBE.S5BMC.D2KR"
   ],
   "platformCode": "14",
-  "priority": "100",
+  "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "HR_E_24.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "HR_E_24.KOR.S5W_M.V036.001.251027"
+    "HR_E_24.KOR.S5W_M.V037.001.260319"
   ],
   "vclName": "포터"
 }

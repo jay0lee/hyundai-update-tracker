@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_New_Ioniq6_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTU0L1RoZV9OZXdfSW9uaXE2X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.F1ID0M-Dv_Seh1OOaq6OE9QVvUawE3IrNe0if90kF48",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODE3L1RoZV9OZXdfSW9uaXE2X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.HMrMBA-39Zlj-inS0dWMqpiMLdyqAbkVxLmd-VQhLeU",
   "dvcName": "더 뉴 아이오닉 6 [ccNC 블루링크]",
   "engDvcName": "",
   "engVclName": "",
@@ -11,15 +11,15 @@
     "CE1AE.SCBMC.KR"
   ],
   "platformCode": "23",
-  "priority": "100",
+  "priority": "490",
   "registYn": "N",
-  "releaseDate": "2026.03",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CE1.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "CE1.KOR.ccNC.001.002.260117"
+    "CE1.KOR.ccNC.001.002.260325"
   ],
   "vclName": "아이오닉 6"
 }
