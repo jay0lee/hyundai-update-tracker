@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K5_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTgxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9URi8xNDQ2MC9UaGVfTmV3X0s1X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.4-cvVc7CLnv8dzHhclUMP1JJesC1KkHC-dr5HXql5PI",
+  "dvcName": "The New K5 [표준형 3세대]",
+  "engDvcName": "The New K5 [Standard Gen3]",
+  "engVclName": "K5",
+  "mcode": "181",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "510",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TFFL.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "TFFL.KOR.SOP.14.048"
+  ],
+  "vclName": "K5"
+}
