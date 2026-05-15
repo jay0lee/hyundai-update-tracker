@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_Soul_Electric_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUFMgRVYgMTlNWSAoNOyEuOuMgCDrjIDssrQpLzE1NDkzLzIwMTlfU291bF9FbGVjdHJpY19VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.L0730GAt4Y600a4t7WiKxjCywEp6SLMog3LqfNmqATk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc3Mi8yMDE5X1NvdWxfRWxlY3RyaWNfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.rsHIXzpCEloHbomETlLDJH1cVNTmpiudbcUtC-OwQ-o",
   "dvcName": "2019 Soul Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "PSEV19.USA.SOP.V*"
