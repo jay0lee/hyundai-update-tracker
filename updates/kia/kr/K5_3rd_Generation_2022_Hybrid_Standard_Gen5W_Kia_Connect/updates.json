@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "K5_3rd_Generation_2022_Hybrid_Standard_Gen5W_Kia_Connect",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgxNDQvSzVfM3JkX0dlbmVyYXRpb25fMjAyMl9IeWJyaWRfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.3SkpXtpUhPbCpRF3RQhBYkyjE6pqddViSH4SGhUka7c",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQzNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxNDMvSzVfM3JkX0dlbmVyYXRpb25fMjAyMl9IeWJyaWRfU3RhbmRhcmRfR2VuNVdfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.9nxc-oPDaZJ_fNYKiv57-O9aqAOUX8bkaQzSE2ImZ5M",
   "dvcName": "3세대 K5 / 2022, Hybrid 포함 [표준형 5W세대 Kia Connect]",
   "engDvcName": "3rd Generation K5 / 2022, Hybrid [Standard Gen5W Kia Connect]",
   "engVclName": "K5",
@@ -16,7 +16,7 @@
   "platformCode": "14",
   "priority": "492",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DL3.KOR.S5W_M.V???.*",
@@ -25,10 +25,10 @@
     "DL3_H_22.KOR.S5W_M.V???.*"
   ],
   "swVers": [
-    "DL3.KOR.S5W_M.V036.001.251027",
-    "DL3_H_22.KOR.S5W_M.V036.001.251027",
-    "DL3_22.KOR.S5W_M.V036.001.251027",
-    "DL3HEV.KOR.S5W_M.V036.001.251027"
+    "DL3_22.KOR.S5W_M.V037.001.260319",
+    "DL3HEV.KOR.S5W_M.V037.001.260319",
+    "DL3.KOR.S5W_M.V037.001.260319",
+    "DL3_H_22.KOR.S5W_M.V037.001.260319"
   ],
   "vclName": "K5"
 }
