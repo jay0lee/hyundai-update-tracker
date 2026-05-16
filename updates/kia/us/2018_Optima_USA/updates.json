@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2018_Optima_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzAwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc2Mi8yMDE4X09wdGltYV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.iZJLL5jqa1xUNMdruOIxxGvxVpWF8FIRwh9FXm2eiyQ",
+  "dvcName": "2018 Optima",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "700",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFAS.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JF.USA.SOP.V*"
+  ],
+  "swVers": [
+    "JF.USA.SOP.V140.250508.STD_H"
+  ],
+  "vclName": "Optima"
+}
