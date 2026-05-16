@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2016_17_Optima_JFIA_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvSkYvMTUzMzQvMjAxNl8xN19PcHRpbWFfSkZJQV9VU0EuaW5mIiwiaXNOc3VtIjp0cnVlfQ.g3igGG4vVWNxEUMqF0ojEIe2DLNryo_VZU4-s3A75T8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgwNy8yMDE2XzE3X09wdGltYV9KRklBX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.-_Aki4UA6eLjnO6s5AD2EXCac_6LK2WWZLvzH184Kqg",
   "dvcName": "2016-17 Optima JFIA",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.JFIA.USA.E*"
