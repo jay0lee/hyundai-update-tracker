@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K5_2015",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjY3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjA5NC9LNV8yMDE1Lmpzb24iLCJpc05zdW0iOnRydWV9.ugZhTtNGZpf3gN6fLXx4kUoSHUpjOhdSykZTEZPhGJQ",
+  "dvcName": "K5 2015 [경제형 5세대]",
+  "engDvcName": "K5 2015 [Compact Gen5]",
+  "engVclName": "K5",
+  "mcode": "267",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "506",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JF.KOR.SOP.???.??????"
+  ],
+  "swVers": [
+    "JF.KOR.SOP.049.241120"
+  ],
+  "vclName": "K5"
+}
