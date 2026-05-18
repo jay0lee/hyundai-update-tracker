@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K5_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTg0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkyNi9UaGVfTmV3X0s1X1VWTy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.QQTfXPO89BeArSsGmZoBWbDqhO8XSEJd27cdEgxA23c",
+  "dvcName": "The New K5 [표준형 4세대 UVO]",
+  "engDvcName": "The New K5 [Standard Gen4 UVO]",
+  "engVclName": "K5",
+  "mcode": "184",
+  "mediaType": "SD",
+  "modelNames": [
+    "TFAS.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.TF.KOR.E*"
+  ],
+  "swVers": [
+    "ST.TF.KOR.E553.251022"
+  ],
+  "vclName": "K5"
+}

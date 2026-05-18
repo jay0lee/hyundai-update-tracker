@@ -1,0 +1,27 @@
+{
+  "brand": "KM",
+  "destPath": "MOHAVE_2019_UVO",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNDEwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODAzNS9NT0hBVkVfMjAxOV9VVk8uanNvbiIsImlzTnN1bSI6dHJ1ZX0.HDfOziZdvOLagwXii1NJmAUvcctGzWQSe-D5avCWv6k",
+  "dvcName": "모하비 2019 [표준형 5세대 UVO]",
+  "engDvcName": "Mohave 2019 [Standard Gen5 UVO]",
+  "engVclName": "Mohave",
+  "mcode": "410",
+  "mediaType": "SD",
+  "modelNames": [
+    "HMAS.S5ALC.KR",
+    "HMBS.S5ALC.KR"
+  ],
+  "platformCode": "12",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HM.KOR.SOP.???.??????.STD_H",
+    "HM.KOR.SOP_CP.???.??????.STD_H"
+  ],
+  "swVers": [
+    "HM.KOR.SOP.061.250114.STD_H"
+  ],
+  "vclName": "모하비"
+}

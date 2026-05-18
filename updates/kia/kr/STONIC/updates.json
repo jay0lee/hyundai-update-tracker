@@ -1,0 +1,35 @@
+{
+  "brand": "KM",
+  "destPath": "STONIC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODA5NC9TVE9OSUMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.9cZMlZ5GyxS_P8LVz84VhHqZcKOOuu2cHPO9g3gq1so",
+  "dvcName": "스토닉 [경제형 5세대]",
+  "engDvcName": "Stonic [Compact Gen5]",
+  "engVclName": "Stonic",
+  "mcode": "352",
+  "mediaType": "SD",
+  "modelNames": [
+    "YBAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YB.KOR.SOP.???.??????",
+    "YB_CUV.KOR.SOP_CP.???.??????",
+    "CP.YB_CUV.KOR.SOP.???.??????",
+    "YB.KOR.SOP_CP.???.??????",
+    "YB.KOR.SOP_CP.???.?.??????",
+    "YB.KOR.SOP_CP.???",
+    "YB.KOR.SOP_CP.???.?",
+    "YB.KOR.SOP_CP.???.??.??????",
+    "YB.KOR.SOP_CP.??.???.?",
+    "CP.YB.KOR.SOP.??.???",
+    "CP.YB.KOR.SOP.??.???.?"
+  ],
+  "swVers": [
+    "YB.KOR.SOP.049.241120"
+  ],
+  "vclName": "스토닉"
+}

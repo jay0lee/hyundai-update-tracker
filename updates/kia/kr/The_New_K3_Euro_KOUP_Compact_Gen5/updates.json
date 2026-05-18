@@ -1,0 +1,36 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K3_Euro_KOUP_Compact_Gen5",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTgwOTYvVGhlX05ld19LM19FdXJvX0tPVVBfQ29tcGFjdF9HZW41Lmpzb24iLCJpc05zdW0iOnRydWV9.2JgD1SjOcWHUYErPDuFujShIZ7BCZv847NGbLZtXFag",
+  "dvcName": "The New K3 / 유로, 쿱 포함 [경제형 5세대]",
+  "engDvcName": "The New K3 / Euro, KOUP [Compact Gen5]",
+  "engVclName": "K3",
+  "mcode": "1424",
+  "mediaType": "SD",
+  "modelNames": [
+    "YDAS.S5ALN.KR"
+  ],
+  "platformCode": "9",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YD.KOR.SOP.???.??????",
+    "YD.KOR.SOP_CP.???.??????",
+    "CP.YD.KOR.SOP.???.??????",
+    "YD.KOR.SOP_CP.??.???.?",
+    "YD.KOR.SOP_CP.???.?.??????",
+    "CP.YD.KOR.SOP.??.???.?",
+    "YD.KOR.SOP_CP.???",
+    "YD.KOR.SOP_CP.???.?",
+    "YD.KOR.SOP_CP.???.??.??????",
+    "CP.YD.KOR.SOP.??.???",
+    "CP.YD.KOR.SOP.??.???.?",
+    "YD.KOR.SOP.??.???.?"
+  ],
+  "swVers": [
+    "YD.KOR.SOP.049.241120"
+  ],
+  "vclName": "K3"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "NIRO_PHEV",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzQ5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzg4MS9OSVJPX1BIRVYuanNvbiIsImlzTnN1bSI6dHJ1ZX0.u1Ra5NwwFLcRTjvO5tQh-0TjVcRHJdbiGEDpMiXkyps",
+  "dvcName": "니로 Plug-in Hybrid [표준형 4세대 UVO]",
+  "engDvcName": "Niro Plug-In Hybrid [Standard Gen4 UVO]",
+  "engVclName": "Niro",
+  "mcode": "349",
+  "mediaType": "SD",
+  "modelNames": [
+    "DEAP.S4AMC.KR"
+  ],
+  "platformCode": "7",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DEPHEV.KOR.E*"
+  ],
+  "swVers": [
+    "ST.DEPHEV.KOR.E553.251022"
+  ],
+  "vclName": "니로"
+}
