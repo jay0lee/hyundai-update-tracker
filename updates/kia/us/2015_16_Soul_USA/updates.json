@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_16_Soul_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjM2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgxNS8yMDE1XzE2X1NvdWxfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.fmjd-txI81GQA3XHy9iIVXwyAwBaclZe_IatN_SJREU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjM2IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvUFNSQy8xNTM0Mi8yMDE1XzE2X1NvdWxfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.7i6GibXAKDS9qY6wlarsZKvRN8Hnxe7PZVWhw6K74Gk",
   "dvcName": "2015-16 Soul",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PSRC.USA.E*"

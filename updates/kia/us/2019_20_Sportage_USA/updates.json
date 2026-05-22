@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_20_Sportage_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjUyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc3NC8yMDE5XzIwX1Nwb3J0YWdlX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ._WlLSNMCkibXFQeEzTw-BKvgoyvpLjR8xEiLCdymIy4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjUyIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvUUwgMTlQRS8xNTQ5NS8yMDE5XzIwX1Nwb3J0YWdlX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.a1GYYNZhnjlxAC0tJ5TrHy0RLKibopQcdxQ-130pehI",
   "dvcName": "2019-20 Sportage",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.04",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QLPE.USA.SOP.V*"
