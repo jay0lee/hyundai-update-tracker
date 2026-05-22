@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Optima_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc2NS8yMDE5XzIwX09wdGltYV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.-wEnxBBPU3Nuz1snp6cBKmdTB7RvOZm7MLorJjjdL5Q",
+  "dvcName": "2019-20 Optima Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "705",
+  "mediaType": "SD",
+  "modelNames": [
+    "JFCH.S5AMC.US"
+  ],
+  "platformCode": "11",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JFHEV19.USA.SOP.V*"
+  ],
+  "swVers": [
+    "JFHEV19.USA.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Optima Hybrid"
+}
