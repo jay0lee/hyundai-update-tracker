@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_new_EV6_ccNC",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODIyL1RoZV9uZXdfRVY2X2NjTkMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.6T1qfd4iSDaY80iCjO5zjXIWZm90lQKdze6yNEM4SgI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTYxL1RoZV9uZXdfRVY2X2NjTkMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.Mcs1o-86UGTUeiyRmZVW9eUGUO3wCI9dTNxvHnaNTSE",
   "dvcName": "The new EV6 [ccNC Kia Connect]",
   "engDvcName": "The new EV6 [ccNC Kia Connect]",
   "engVclName": "EV6",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.03",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CV1.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "CV1.KOR.ccNC.001.002.260325"
+    "CV1.KOR.ccNC.001.002.260117"
   ],
   "vclName": "EV6"
 }
