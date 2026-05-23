@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "MOHAVE_2018_Navigation",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNzkwMS9NT0hBVkVfMjAxOF9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.jBL1DekH3vM65fSyY4SoKyFda-tOcg1mBOW6_YlNwtA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzUxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjAxNi9NT0hBVkVfMjAxOF9OYXZpZ2F0aW9uLmpzb24iLCJpc05zdW0iOnRydWV9.qaoYvHOYNAQAL7Y-ABLsQorq5CKJx1hNkmCbB-ULloQ",
   "dvcName": "모하비 2018 [표준형 4세대]",
   "engDvcName": "Mohave 2018 [Standard Gen4]",
   "engVclName": "Mohave",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.HMNT18.KOR.E*"
