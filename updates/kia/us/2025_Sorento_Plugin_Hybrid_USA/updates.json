@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Sorento_Plugin_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgyOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIxNzQ3LzIwMjVfU29yZW50b19QbHVnaW5fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.eQT8XHyCGCa9FNN8UsPo60i3L0XOB_IhrHfAXqx3NBE",
+  "dvcName": "2024-26 Sorento Plug-in Hybrid",
+  "engDvcName": "2024-26 Sorento Plug-in Hybrid",
+  "engVclName": "Sorento Plug-in Hybrid",
+  "mcode": "1829",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAP.SCBMC.US",
+    "MQ4MY26BP.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.USA.ccNC.???.*",
+    "MQ4MY26.USA.ccNC.???.*"
+  ],
+  "swVers": [
+    "MQ4PE.USA.ccNC.001.002.260113",
+    "MQ4MY26.USA.ccNC.001.002.260113"
+  ],
+  "vclName": "Sorento Plug-in Hybrid"
+}
