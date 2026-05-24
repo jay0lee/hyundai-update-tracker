@@ -1,0 +1,34 @@
+{
+  "brand": "KM",
+  "destPath": "2024_Sorento_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTgyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIxNzQ1LzIwMjRfU29yZW50b19VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.pXSJyVbDytQl1lQvfcGLgNkHNzS36zqohTxrq-vQ_vA",
+  "dvcName": "2024-26 Sorento",
+  "engDvcName": "2024-26 Sorento",
+  "engVclName": "Sorento",
+  "mcode": "1827",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAS.SCBMC.US",
+    "MQ4PEAS.SLBMC.US",
+    "MQ4A26BS.SCBMC.US",
+    "MQ4A26BS.SLBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.USA.ccNC.???.*",
+    "MQ4PE.USA.ccNC_Lite.???.*",
+    "MQ4A26.USA.ccNC.???.*",
+    "MQ4A26.USA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MQ4A26.USA.ccNC_Lite.001.002.260113",
+    "MQ4PE.USA.ccNC.001.002.260113",
+    "MQ4PE.USA.ccNC_Lite.001.002.260113",
+    "MQ4A26.USA.ccNC.001.002.260113"
+  ],
+  "vclName": "Sorento"
+}
