@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_16_Optima_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjc1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjQvVEZIRVYvMTUzMzUvMjAxNV8xNl9PcHRpbWFfSHlicmlkX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.dqpQAYRsn_BqwhEZFMRjP7dq3R2Hht8LFz45kMeIVqw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjc1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgwOC8yMDE1XzE2X09wdGltYV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.v4EchKVlVBO4bH1HkjGNwm1mbe_MNvDBDk6tiQUFQ5Q",
   "dvcName": "2015-16 Optima Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.TFHEV.USA.E*"
