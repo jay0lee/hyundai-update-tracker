@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2026_Electrified_G80_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjAxMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NTIwLzIwMjZfRWxlY3RyaWZpZWRfRzgwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.YG3_dnXEyl58-oGZbBA9E3a3UWCKdFaDP5-EjACRbcM",
+  "dvcName": "2026 Electrified G80",
+  "engDvcName": "2026 Electrified G80",
+  "engVclName": "Electrified G80",
+  "mcode": "2012",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3EAE.PCCLC.CA"
+  ],
+  "platformCode": "25",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3E.CAN.ccIC2.???.*"
+  ],
+  "swVers": [
+    "RG3E.CAN.ccIC2.001.003.250826"
+  ],
+  "vclName": "Electrified G80"
+}

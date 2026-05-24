@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_Sorento_Plugin_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg0NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzExLzIwMjVfU29yZW50b19QbHVnaW5fSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.X42mybn4upDBZV7iZ_Wy2UB-G-E_UbFQVv8E84G3fFQ",
+  "dvcName": "2025 Sorento Plug-in Hybrid",
+  "engDvcName": "2025 Sorento Plug-in Hybrid",
+  "engVclName": "Sorento Plug-in Hybrid",
+  "mcode": "1846",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAP.SCBMC.CA",
+    "MQ4PEAP.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.CAN.ccNC.???.*",
+    "MQ4PE.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MQ4PE.CAN.ccNC_Lite.001.002.250813",
+    "MQ4PE.CAN.ccNC.001.002.250930"
+  ],
+  "vclName": "Sorento Plug-in Hybrid"
+}

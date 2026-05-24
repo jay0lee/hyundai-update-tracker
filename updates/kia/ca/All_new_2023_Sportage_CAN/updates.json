@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "All_new_2023_Sportage_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NzcvQWxsX25ld18yMDIzX1Nwb3J0YWdlX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.v8a9HMa52VvvvKpRupBWk6mE6nnIhVH11koDi5bzRKM",
+  "dvcName": "2022-24 Sportage",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1462",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AS.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "NQ5.CAN.S5W_M.V014.010.250818"
+  ],
+  "vclName": "Sportage"
+}
