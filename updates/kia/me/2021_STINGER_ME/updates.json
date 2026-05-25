@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_STINGER_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTIwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk5MDYvMjAyMV9TVElOR0VSX01FLmpzb24iLCJpc05zdW0iOnRydWV9.f1vYHiln6pTyex7VWuC_Jwt4qKdUxwSyZOF4EANQcXc",
+  "dvcName": "2021 STINGER",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1200",
+  "mediaType": "USB",
+  "modelNames": [
+    "CKAS.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CK_PE.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "CK_PE.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "STINGER"
+}
