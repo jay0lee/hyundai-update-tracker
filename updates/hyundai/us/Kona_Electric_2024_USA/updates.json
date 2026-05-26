@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Kona_Electric_2024_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTc4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTgzL0tvbmFfRWxlY3RyaWNfMjAyNF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.4Va029ooBk8Vtru2mZDMO9V5-WNcrbpKmVidJ74yKWo",
+  "dvcName": "2024-25 Kona Electric",
+  "engDvcName": "2024-25 Kona Electric",
+  "engVclName": "Kona Electric",
+  "mcode": "1787",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2EVAE.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.03",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2EV.USA.ccNC.???.*"
+  ],
+  "swVers": [
+    "SX2EV.USA.ccNC.001.002.251126"
+  ],
+  "vclName": "Kona Electric"
+}
