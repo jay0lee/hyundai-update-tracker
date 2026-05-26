@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2016_18_Sorento_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjExIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgxMy8yMDE2XzE4X1NvcmVudG9fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.uA6XCJePi5ZD2LdBpmplBaQYkUkA7P9E-thfw-tZR0E",
+  "dvcName": "2016-18 Sorento",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "611",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S4AMN.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.UM.USA.E*"
+  ],
+  "swVers": [
+    "ST.UM.USA.E543.250408"
+  ],
+  "vclName": "Sorento"
+}
