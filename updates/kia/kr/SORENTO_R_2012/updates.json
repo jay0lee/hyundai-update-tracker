@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "SORENTO_R_2012",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM3IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9YTS8xNDE3Mi9TT1JFTlRPX1JfMjAxMi5pbmYiLCJpc05zdW0iOnRydWV9.TTrJJ0Y_0JurJniTJvzmcFvKt-nyg3nUFfgrCS4xOUk",
+  "dvcName": "쏘렌토 R 2012 [표준형 2세대]",
+  "engDvcName": "Sorento R 2012 [Standard Gen2]",
+  "engVclName": "Sorento",
+  "mcode": "137",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "506",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "XMD12MY.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "XMD12MY.KOR.SOP.00.063"
+  ],
+  "vclName": "쏘렌토"
+}
