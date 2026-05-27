@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2018_Stinger_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjU1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0dFTjVfTU9CSVMvQ0svMTU0OTcvMjAxOF9TdGluZ2VyX1VTQS5pbmYiLCJpc05zdW0iOnRydWV9.z2Ij0R7RQghpp1NBBvb9BmhBSKKGCJGxsXl0m5MPt14",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjU1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTc3Ni8yMDE4X1N0aW5nZXJfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.gRTuYMFboW5MuDVCYgiJ8l16HLM9JIWnZdL-5DkjB0U",
   "dvcName": "2018 Stinger",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CK.USA.SOP.V*"
