@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "CARENS_2013",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTc0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9SUC8xNDQ1NC9DQVJFTlNfMjAxMy5pbmYiLCJpc05zdW0iOnRydWV9.1VAZXBTQNO8RsSyKCvWnqZ8UO11VJhcxRybGkD3_ehQ",
+  "dvcName": "카렌스 2013 [표준형 3세대]",
+  "engDvcName": "Carens 2013 [Standard Gen3]",
+  "engVclName": "Carens",
+  "mcode": "174",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RP.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "RP.KOR.SOP.14.057"
+  ],
+  "vclName": "카렌스"
+}
