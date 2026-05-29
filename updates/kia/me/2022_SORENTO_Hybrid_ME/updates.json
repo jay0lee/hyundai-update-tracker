@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_SORENTO_Hybrid_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NzIvMjAyMl9TT1JFTlRPX0h5YnJpZF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.j7pqVZ5n3UtbQiHWMwDR8XdRlbJljHEy7-PP0h0v8rA",
+  "dvcName": "2022 SORENTO Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1387",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4BH.S5BMN.ME"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4HEV_22.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4HEV_22.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "SORENTO Hybrid"
+}

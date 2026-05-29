@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "SOUL_GDI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTMxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9BTS8xNDE3My9TT1VMX0dESS5pbmYiLCJpc05zdW0iOnRydWV9.9ZGNwr54-FGEVUAjLI8ibr1JIdUcQk4XUrOVo9oZuio",
+  "dvcName": "쏘울 GDI [표준형 2세대]",
+  "engDvcName": "Soul GDI [Standard Gen2]",
+  "engVclName": "Soul",
+  "mcode": "131",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AM.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "AM.KOR.SOP.00.068"
+  ],
+  "vclName": "쏘울"
+}
