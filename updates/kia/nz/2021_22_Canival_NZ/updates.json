@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2021_22_Canival_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIzNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyNjgvMjAyMV8yMl9DYW5pdmFsX05aLmpzb24iLCJpc05zdW0iOnRydWV9.8OarHlB3tWtSeTInIzKvG5NDG2Lze22_Rb_s9EDbq7c",
+  "dvcName": "2021-22 Carnival",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1237",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "KA4.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Carnival"
+}
