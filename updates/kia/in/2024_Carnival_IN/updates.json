@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_Carnival_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk3OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzU1LzIwMjRfQ2Fybml2YWxfSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.QTmLoDxhb3WsfhhmwQAUqw19GREea8ZrwRg1xHJTc6o",
+  "dvcName": "2024 Carnival",
+  "engDvcName": "2024 Carnival",
+  "engVclName": "Carnival",
+  "mcode": "1979",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.SCBMC.IN"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.IND.ccNC.*"
+  ],
+  "swVers": [
+    "KA4.IND.ccNC.001.003.251128"
+  ],
+  "vclName": "Carnival"
+}
