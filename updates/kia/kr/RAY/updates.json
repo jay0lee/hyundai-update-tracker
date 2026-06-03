@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "RAY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xODE4My9SQVkuanNvbiIsImlzTnN1bSI6dHJ1ZX0.4Mgkr4TVo2NAp4xM4bbLBxGPpXQaCf3GXw0mrcTaEHA",
+  "dvcName": "레이 [표준형 2세대]",
+  "engDvcName": "Ray [Standard Gen2]",
+  "engVclName": "Ray",
+  "mcode": "139",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TAM.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "TAM.KOR.SOP.00.069"
+  ],
+  "vclName": "레이"
+}
