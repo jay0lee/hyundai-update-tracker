@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_K4_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzAxLzIwMjVfSzRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.WIz6o1iaye3U3n4wdhVZ6GGsAPM4Nf6ckiZetvX-XSM",
+  "dvcName": "2025 K4",
+  "engDvcName": "2025 K4",
+  "engVclName": "K4",
+  "mcode": "1886",
+  "mediaType": "USB",
+  "modelNames": [
+    "CL4AH.SCBMC.CA",
+    "CL4AH.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CL4.CAN.ccNC.???.*",
+    "CL4.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "CL4.CAN.ccNC_Lite.001.002.250813",
+    "CL4.CAN.ccNC.001.002.250930"
+  ],
+  "vclName": "K4"
+}
