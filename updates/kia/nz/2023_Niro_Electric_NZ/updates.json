@@ -1,0 +1,26 @@
+{
+  "brand": "KM",
+  "destPath": "2023_Niro_Electric_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU3NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyOTAvMjAyM19OaXJvX0VsZWN0cmljX05aLmpzb24iLCJpc05zdW0iOnRydWV9.NbdFUSJpwrmSELBSaLZRCAgeGgkVSiZHnv7o2Sl0Xmk",
+  "dvcName": "2023-24 Niro Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1576",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AE.S5SLN.AAU",
+    "SG2AE.S5SLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG2_E.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "SG2_E.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "Niro Electric"
+}
