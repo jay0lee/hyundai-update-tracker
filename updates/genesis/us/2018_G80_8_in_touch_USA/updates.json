@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2018_G80_8_in_touch_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk0OS8yMDE4X0c4MF84X2luX3RvdWNoX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.wy1AdLcVOQ-B7Q0RnuxIhMsVFrlZBUT8wl7X4qGdEQI",
+  "dvcName": "2018 G80 (8 in. Touchscreen)",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "688",
+  "mediaType": "SD",
+  "modelNames": [
+    "DHCS.S4AMN.US"
+  ],
+  "platformCode": "7",
+  "priority": "494",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.DHPE.USA.E*"
+  ],
+  "swVers": [
+    "ST.DHPE.USA.E543.250408"
+  ],
+  "vclName": "G80"
+}

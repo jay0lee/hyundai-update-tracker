@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2023_G90_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjA3OTgvMjAyM19HOTBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.hUUFpIz0I4jqC8IeJ816ngUtvTPy5ET5fIyqdEZqdk4",
+  "dvcName": "2023-26 G90",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1509",
+  "mediaType": "USB",
+  "modelNames": [
+    "RS4AS.PCBLC.US"
+  ],
+  "platformCode": "22",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RS4.USA.ccIC.???.*"
+  ],
+  "swVers": [
+    "RS4.USA.ccIC.001.029.260208"
+  ],
+  "vclName": "G90"
+}
