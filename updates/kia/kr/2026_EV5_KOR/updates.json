@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2026_EV5_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNTMyLzIwMjZfRVY1X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.6pMmegNCs85hN3omYCCh0YcZW6l0REH49NDAZxQu6ms",
+  "dvcName": "The Kia EV5 [ccNC Kia Connect]",
+  "engDvcName": "The Kia EV5 [ccNC Kia Connect]",
+  "engVclName": "EV5",
+  "mcode": "2027",
+  "mediaType": "USB",
+  "modelNames": [
+    "OV1KAE.SCMBC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.OV1K.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "25AO.OV1K.KOR.ccNC.001.002.251024"
+  ],
+  "vclName": "EV5"
+}
