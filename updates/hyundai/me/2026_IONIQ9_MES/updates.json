@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_IONIQ9_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjA5OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDUxLzIwMjZfSU9OSVE5X01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.BhmUASgvK1G8R3gOECW9Z2ssEWXjYaDcTJqLcn6bzE0",
+  "dvcName": "2026 IONIQ9",
+  "engDvcName": "2026 IONIQ9",
+  "engVclName": "IONIQ9",
+  "mcode": "2098",
+  "mediaType": "USB",
+  "modelNames": [
+    "ME1AE.SCBMC.ME",
+    "ME1AE.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ME1.MES.ccNC.???.*",
+    "ME1.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "ME1.MES.ccNC.001.002.251203",
+    "ME1.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "IONIQ9"
+}

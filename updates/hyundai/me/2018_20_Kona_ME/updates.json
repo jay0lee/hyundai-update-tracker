@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2018_20_Kona_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTg0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgxNy8yMDE4XzIwX0tvbmFfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.-13GLa4U_Rbi2an3yb9raGSt9q9DcB_k7glOsWc0mJU",
+  "dvcName": "2018-20 Kona",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "984",
+  "mediaType": "SD",
+  "modelNames": [
+    "OSAS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OS19.MES.SOP.V*"
+  ],
+  "swVers": [
+    "OS19.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "Kona"
+}

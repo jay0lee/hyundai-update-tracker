@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_Azera_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjA5NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQ1LzIwMjZfQXplcmFfTUVTLmpzb24iLCJpc05zdW0iOnRydWV9.scePrOASVokfecnDEa2CMcbAQXhq2FG32bPOTPaK8hc",
+  "dvcName": "2026 Azera",
+  "engDvcName": "2026 Azera",
+  "engVclName": "Azera",
+  "mcode": "2094",
+  "mediaType": "USB",
+  "modelNames": [
+    "GN7BS.SCBMN.ME",
+    "GN7BS.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GN7.MES.ccNC.???.*",
+    "GN7.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "GN7.MES.ccNC.001.002.251203",
+    "GN7.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "Azera"
+}

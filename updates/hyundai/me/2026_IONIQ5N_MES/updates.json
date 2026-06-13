@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2026_IONIQ5N_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjA5OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQ2LzIwMjZfSU9OSVE1Tl9NRVMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.BlC2iNnMyy-8AL_Gj4SCFO6gbZ5XQRw4i69Xq0TnwbU",
+  "dvcName": "2026 IONIQ5 N",
+  "engDvcName": "2026 IONIQ5 N",
+  "engVclName": "IONIQ5 N",
+  "mcode": "2099",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1KN26CE.SCBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1KN26.MES.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1KN26.MES.ccNC.001.002.251203"
+  ],
+  "vclName": "IONIQ5 N"
+}

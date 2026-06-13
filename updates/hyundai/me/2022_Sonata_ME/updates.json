@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2022_Sonata_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTM3OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4NjMvMjAyMl9Tb25hdGFfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.DdAPnQsqYavPz159TJrpTEglAyHrKLay9qEa8KPL9hE",
+  "dvcName": "2022 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1379",
+  "mediaType": "USB",
+  "modelNames": [
+    "DN8BS.S5BM.ME"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DN8_22.MES.S5W_M.V*"
+  ],
+  "swVers": [
+    "DN8_22.MES.S5W_M.V013.001.251202"
+  ],
+  "vclName": "Sonata"
+}
