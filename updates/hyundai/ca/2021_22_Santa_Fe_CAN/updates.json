@@ -8,7 +8,8 @@
   "mcode": "962",
   "mediaType": "USB",
   "modelNames": [
-    "TMAS.S5BMC.CA"
+    "TMAS.S5BMC.CA",
+    "TMCS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "496",

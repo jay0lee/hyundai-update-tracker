@@ -8,7 +8,9 @@
   "mcode": "782",
   "mediaType": "USB",
   "modelNames": [
-    "DN8N20H.S5BMC.CA"
+    "DN8N20H.S5BMC.CA",
+    "DN8BH.S5BMC.CA",
+    "DN8CH.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "496",

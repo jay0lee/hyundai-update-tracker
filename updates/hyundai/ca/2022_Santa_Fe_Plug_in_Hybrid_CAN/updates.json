@@ -8,7 +8,8 @@
   "mcode": "1327",
   "mediaType": "USB",
   "modelNames": [
-    "TMAP.S5BMC.CA"
+    "TMAP.S5BMC.CA",
+    "TMCP.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "500",
