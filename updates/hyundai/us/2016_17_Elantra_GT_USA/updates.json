@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2016_17_Elantra_GT_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjA1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk2NS8yMDE2XzE3X0VsYW50cmFfR1RfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Mk3VMEqXpfTKsw49tRnKx6sc9d0a-SZIJmhvsTvagPI",
+  "dvcName": "2016-17 Elantra GT",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "605",
+  "mediaType": "SD",
+  "modelNames": [
+    "GDAS.S4AMC.US"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.GD.USA.E*"
+  ],
+  "swVers": [
+    "ST.GD.USA.E543.250408"
+  ],
+  "vclName": "Elantra GT"
+}
