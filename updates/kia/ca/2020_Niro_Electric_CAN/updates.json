@@ -8,7 +8,8 @@
   "mcode": "744",
   "mediaType": "USB",
   "modelNames": [
-    "DEAE.S5BMC.CA"
+    "DEAE.S5BMC.CA",
+    "DEBE.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "499",

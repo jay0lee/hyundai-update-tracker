@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "MQ4PEAH.SCBMC.CA",
-    "MQ4PEAH.SLBMC.CA"
+    "MQ4MY26BH.SCBMC.CA",
+    "MQ4PEAH.SLBMC.CA",
+    "MQ4MY26BH.SLBMC.CA"
   ],
   "platformCode": "23",
   "priority": "498",

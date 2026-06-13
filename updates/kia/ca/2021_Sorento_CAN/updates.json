@@ -8,7 +8,8 @@
   "mcode": "964",
   "mediaType": "USB",
   "modelNames": [
-    "MQ4AS.S5BMC.CA"
+    "MQ4AS.S5BMC.CA",
+    "MQ4BS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "497",

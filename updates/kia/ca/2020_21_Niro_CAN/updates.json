@@ -8,7 +8,8 @@
   "mcode": "745",
   "mediaType": "USB",
   "modelNames": [
-    "DEP19H.S5BMC.CA"
+    "DEP19H.S5BMC.CA",
+    "DEBH.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "498",

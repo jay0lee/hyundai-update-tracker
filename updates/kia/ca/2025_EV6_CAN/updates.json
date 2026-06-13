@@ -8,7 +8,8 @@
   "mcode": "2004",
   "mediaType": "USB",
   "modelNames": [
-    "CV1AAE.SCBMC.CA"
+    "CV1AAE.SCBMC.CA",
+    "CV1A26BE.SCBMC.CA"
   ],
   "platformCode": "23",
   "priority": "499",

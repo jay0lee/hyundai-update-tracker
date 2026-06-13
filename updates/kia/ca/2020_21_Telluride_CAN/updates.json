@@ -8,7 +8,8 @@
   "mcode": "820",
   "mediaType": "USB",
   "modelNames": [
-    "ONAS.S5BMC.CA"
+    "ONAS.S5BMC.CA",
+    "ONBS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "500",

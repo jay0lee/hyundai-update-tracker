@@ -8,7 +8,8 @@
   "mcode": "1130",
   "mediaType": "USB",
   "modelNames": [
-    "KA4AS.S5BMC.CA"
+    "KA4AS.S5BMC.CA",
+    "KA4CS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "499",

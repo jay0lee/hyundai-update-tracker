@@ -8,7 +8,8 @@
   "mcode": "814",
   "mediaType": "USB",
   "modelNames": [
-    "SK3AS.S5BMC.CA"
+    "SK3AS.S5BMC.CA",
+    "SK3CS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "497",

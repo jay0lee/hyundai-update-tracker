@@ -8,7 +8,8 @@
   "mcode": "804",
   "mediaType": "USB",
   "modelNames": [
-    "SP2N19S.S5BMC.CA"
+    "SP2N19S.S5BMC.CA",
+    "SP2BS.S5BMC.CA"
   ],
   "platformCode": "14",
   "priority": "500",
