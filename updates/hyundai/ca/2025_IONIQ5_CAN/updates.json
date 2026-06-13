@@ -8,7 +8,8 @@
   "mcode": "2005",
   "mediaType": "USB",
   "modelNames": [
-    "NE1AE.SCBMC.CA"
+    "NE1AE.SCBMC.CA",
+    "NE1A26BE.SCBMC.CA"
   ],
   "platformCode": "23",
   "priority": "100",

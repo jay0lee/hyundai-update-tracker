@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "NX4AAS.SCBMC.CA",
-    "NX4AAS.SLBMC.CA"
+    "NX4MY26BS.SCBMC.CA",
+    "NX4AAS.SLBMC.CA",
+    "NX4MY26BS.SLBMC.CA"
   ],
   "platformCode": "23",
   "priority": "495",
