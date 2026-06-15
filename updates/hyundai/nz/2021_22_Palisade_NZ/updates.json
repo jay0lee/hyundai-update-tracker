@@ -8,7 +8,9 @@
   "mcode": "1239",
   "mediaType": "USB",
   "modelNames": [
-    "LX2AS.S5BLN.AAU"
+    "LX2AS.S5BLN.AAU",
+    "LX2CS.S5BLN.AAU",
+    "LX2CS.S5BLC.AAU"
   ],
   "platformCode": "14",
   "priority": "500",
@@ -16,10 +18,12 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "LX2.AUS.S5W_L.*"
+    "LX2.AUS.S5W_L.*",
+    "LX2_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "LX2.AUS.S5W_L.001.001.251204"
+    "LX2.AUS.S5W_L.001.001.260319",
+    "LX2_PE.AUS.S5W_L.001.001.260319"
   ],
   "vclName": "Palisade"
 }

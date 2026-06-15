@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2020_22_Palisade_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjkzMi8yMDIwXzIyX1BhbGlzYWRlX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.sksBLquzKJvzaq6hAYNpsyGfEulTc7TdUWyyzoiUdDU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTYwNi8yMDIwXzIyX1BhbGlzYWRlX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.ax72_4S9OL5R7rCgCdsKHd0GYvDvls6TvUJYnzpZLcY",
   "dvcName": "2020-22 Palisade",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LX2.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "LX2.CAN.S5W_M.V014.010.250818"
+    "LX2.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Palisade"
 }

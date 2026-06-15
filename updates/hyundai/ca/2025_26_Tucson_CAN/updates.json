@@ -1,0 +1,34 @@
+{
+  "brand": "HM",
+  "destPath": "2025_26_Tucson_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDIwLzIwMjVfMjZfVHVjc29uX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.989o-4WDqXtolLn4oJgmcUlLYCLfjPKUYL-KJHfWO8w",
+  "dvcName": "2025-26 Tucson",
+  "engDvcName": "2025-26 Tucson",
+  "engVclName": "Tucson",
+  "mcode": "1839",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AAS.SCBMC.CA",
+    "NX4MY26BS.SCBMC.CA",
+    "NX4AAS.SLBMC.CA",
+    "NX4MY26BS.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4A.CAN.ccNC.???.*",
+    "NX4MY26.CAN.ccNC.???.*",
+    "NX4A.CAN.ccNC_Lite.???.*",
+    "NX4MY26.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NX4A.CAN.ccNC_Lite.001.002.260303",
+    "NX4MY26.CAN.ccNC.001.002.260303",
+    "NX4MY26.CAN.ccNC_Lite.001.002.260303",
+    "NX4A.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "Tucson"
+}

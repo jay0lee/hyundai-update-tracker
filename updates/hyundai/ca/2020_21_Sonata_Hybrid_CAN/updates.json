@@ -1,10 +1,10 @@
 {
   "brand": "HM",
   "destPath": "2020_21_Sonata_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzgyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjkzNC8yMDIwXzIxX1NvbmF0YV9IeWJyaWRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.nEo-drm3erh9V1T5aQWdBwGwm6CmlKPxEfeX7bMsGwI",
-  "dvcName": "2020-21 Sonata Hybrid",
-  "engDvcName": "",
-  "engVclName": "",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzgyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTYwOC8yMDIwXzIxX1NvbmF0YV9IeWJyaWRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.9S7Arx5iSl0RVCLlzjnhPcZTVMo_0wdPZosX7xM_nQY",
+  "dvcName": "2020-23 Sonata Hybrid",
+  "engDvcName": "2020-23 Sonata Hybrid",
+  "engVclName": "Sonata Hybrid",
   "mcode": "782",
   "mediaType": "USB",
   "modelNames": [
@@ -15,13 +15,17 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "DN8HEV.CAN.S5W_M.V*"
+    "DN8HEV.CAN.S5W_M.V*",
+    "DN8_H_22.CAN.S5W_M.V*",
+    "DN8_H_23.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "DN8HEV.CAN.S5W_M.V014.010.250818"
+    "DN8_H_23.CAN.S5W_M.V015.011.260206",
+    "DN8_H_22.CAN.S5W_M.V015.011.260206",
+    "DN8HEV.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Sonata Hybrid"
 }

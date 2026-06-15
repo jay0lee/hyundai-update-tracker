@@ -1,10 +1,10 @@
 {
   "brand": "HM",
   "destPath": "2022_KONA_N_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NzMvMjAyMl9LT05BX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.pJlpdU9BULeGZpmPOWz-O3v3_-9mlB2jDhQ7BnoGz88",
-  "dvcName": "2022 KONA N",
-  "engDvcName": "",
-  "engVclName": "",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2MjQvMjAyMl9LT05BX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.UsMjRevwYbY0OgrGtuEUf9gQI9fdGIuYAEwqHWSqBkU",
+  "dvcName": "2022-23 KONA N",
+  "engDvcName": "2022-23 KONA N",
+  "engVclName": "KONA N",
   "mcode": "1458",
   "mediaType": "USB",
   "modelNames": [
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OSNPE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "OSNPE.CAN.S5W_M.V014.010.250818"
+    "OSNPE.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "KONA N"
 }

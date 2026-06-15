@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "NX4EAS.SCBMC.NZ",
-    "NX4EAS.SLBMC.NZ"
+    "NX4MY26BS.SCBMC.NZ",
+    "NX4EAS.SLBMC.NZ",
+    "NX4MY26BS.SLBMC.NZ"
   ],
   "platformCode": "23",
   "priority": "497",
@@ -18,7 +20,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4E.OCE.ccNC.*",
-    "NX4E.OCE.ccNC_Lite.*"
+    "NX4MY26.OCE.ccNC.*",
+    "NX4E.OCE.ccNC_Lite.*",
+    "NX4MY26.OCE.ccNC_Lite.*"
   ],
   "swVers": [
     "NX4E.OCE.ccNC.001.002.251105",

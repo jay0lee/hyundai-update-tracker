@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_Veloster_N_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTYwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjk0MS8yMDIxX1ZlbG9zdGVyX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.U_KhBPbP-zacZ57xubqU7G9iC2ijFNrDHoVZn2vSG_4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTYwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTYxMC8yMDIxX1ZlbG9zdGVyX05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.q4owBYszRlI0UsHvAZ7FCb6sz-WJSLb0S58qrHsCtJE",
   "dvcName": "2021-22 Veloster N",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JSN.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "JSN.CAN.S5W_M.V014.010.250818"
+    "JSN.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Veloster"
 }

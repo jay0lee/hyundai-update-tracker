@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2025_26_Ioniq5_N_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDA0LzIwMjVfMjZfSW9uaXE1X05fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.nNpt_VUSjtEP3nQ-uA8yc50toTN_EQUCG4xazNe7DDM",
+  "dvcName": "2025-26 Ioniq 5 N",
+  "engDvcName": "2025-26 Ioniq 5 N",
+  "engVclName": "Ioniq 5 N",
+  "mcode": "1833",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1KNAE.SCBMC.CA",
+    "NE1KN26BE.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1KN.CAN.ccNC.???.*",
+    "NE1KN26.CAN.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1kN.CAN.ccNC.001.002.260303",
+    "NE1KN26.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "Ioniq 5 N"
+}

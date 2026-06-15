@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Palisade_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUzNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5ODAvMjAyM19QYWxpc2FkZV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.vM2F30PN-2Bsp9s1dHIv5J4iY_UfB6PLeN8gru4GU04",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTUzNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2MjYvMjAyM19QYWxpc2FkZV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.R9l2aR96--fWg6gh2WqiWqR7nA8twkCEjxUC8meIrNA",
   "dvcName": "2023-25 Palisade",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LX2_PE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "LX2_PE.CAN.S5W_M.V014.010.250818"
+    "LX2_PE.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Palisade"
 }

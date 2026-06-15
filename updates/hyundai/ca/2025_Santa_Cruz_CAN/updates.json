@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_Santa_Cruz_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzE1LzIwMjVfU2FudGFfQ3J1el9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.G4RlBeW9v59C4FY8SzntboUK5C_bKlNFxghPXam8bQA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDE4LzIwMjVfU2FudGFfQ3J1el9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.cmHgehAbTdhY-zowVhGuA-3vqDXx1mhr62khO9KuZv8",
   "dvcName": "2025 Santa Cruz",
   "engDvcName": "2025 Santa Cruz",
   "engVclName": "Santa Cruz",
@@ -14,15 +14,15 @@
   "platformCode": "23",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4OB.CAN.ccNC.???.*",
     "NX4OB.CAN.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "NX4OB.CAN.ccNC_Lite.001.002.250813",
-    "NX4OB.CAN.ccNC.001.002.250930"
+    "NX4OB.CAN.ccNC_Lite.001.002.260303",
+    "NX4OB.CAN.ccNC.001.002.260303"
   ],
   "vclName": "Santa Cruz"
 }

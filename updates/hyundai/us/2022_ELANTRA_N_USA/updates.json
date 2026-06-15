@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_ELANTRA_N_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY3MDUvMjAyMl9FTEFOVFJBX05fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.LOJrAT9VEAGuG19gsxXw9NsFzkPMPb2do8HjbCcpc9I",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE1MjUvMjAyMl9FTEFOVFJBX05fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.ERVTFiXQFe2ROy1uWBFp0vSmfBWLJminkAwpoqm9ips",
   "dvcName": "2022 ELANTRA N",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.10",
+  "releaseDate": "2026.06",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CN7N.USA.S5W_M.V*"
   ],
   "swVers": [
-    "CN7N.USA.S5W_M.V014.010.250818"
+    "CN7N.USA.S5W_M.V015.011.260206"
   ],
   "vclName": "ELANTRA N"
 }

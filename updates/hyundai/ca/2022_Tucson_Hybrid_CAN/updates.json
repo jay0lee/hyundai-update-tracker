@@ -1,10 +1,10 @@
 {
   "brand": "HM",
   "destPath": "2022_Tucson_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTY5NTIvMjAyMl9UdWNzb25fSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.vkP9_b8LwN0tHF7M0gBJox2jBf50fYnBM33kMRONP5k",
-  "dvcName": "2022 Tucson Hybrid",
-  "engDvcName": "",
-  "engVclName": "",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2MTUvMjAyMl9UdWNzb25fSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.zWzRckrhSfszPJPsiZyzEWLfFNFVrk2aWjocS3d8YBs",
+  "dvcName": "2022-24 Tucson Hybrid",
+  "engDvcName": "2022-24 Tucson Hybrid",
+  "engVclName": "Tucson Hybrid",
   "mcode": "1119",
   "mediaType": "USB",
   "modelNames": [
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4HEV.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "NX4HEV.CAN.S5W_M.V014.010.250818"
+    "NX4HEV.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Tucson Hybrid"
 }

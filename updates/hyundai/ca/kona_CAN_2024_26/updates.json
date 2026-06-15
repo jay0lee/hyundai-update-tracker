@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "kona_CAN_2024_26",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTcwNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDU1L2tvbmFfQ0FOXzIwMjRfMjYuanNvbiIsImlzTnN1bSI6dHJ1ZX0.UPjrJT-pW7RD1McWYp9XQi6rZc0XvlqRatZJjPOEBos",
+  "dvcName": "2024-26 Kona",
+  "engDvcName": "2024-26 Kona",
+  "engVclName": "Kona",
+  "mcode": "1704",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AS.SCBMC.CA",
+    "SX2AS.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.CAN.ccNC.???.*",
+    "SX2.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "SX2.CAN.ccNC_Lite.001.002.260303",
+    "SX2.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "Kona"
+}

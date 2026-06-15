@@ -8,7 +8,8 @@
   "mcode": "928",
   "mediaType": "USB",
   "modelNames": [
-    "OSAE.S5BLN.AAU"
+    "OSAE.S5BLN.AAU",
+    "OSBE.S5BLN.AAU"
   ],
   "platformCode": "14",
   "priority": "499",
@@ -16,10 +17,12 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "OS_E_20.AUS.S5W_L.*"
+    "OS_E_20.AUS.S5W_L.*",
+    "OS_E_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "OS_E_20.AUS.S5W_L.001.001.251204"
+    "OS_E_20.AUS.S5W_L.001.001.260319",
+    "OS_E_PE.AUS.S5W_L.001.001.260319"
   ],
   "vclName": "Kona Electric"
 }

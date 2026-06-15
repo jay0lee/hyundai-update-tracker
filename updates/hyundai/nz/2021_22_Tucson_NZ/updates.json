@@ -8,7 +8,8 @@
   "mcode": "1245",
   "mediaType": "USB",
   "modelNames": [
-    "NX4AS.S5BLN.AAU"
+    "NX4AS.S5BLN.AAU",
+    "NX4AS.S5BLC.AAU"
   ],
   "platformCode": "14",
   "priority": "499",
@@ -16,10 +17,12 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NX4.AUS.S5W_L.*"
+    "NX4.AUS.S5W_L.*",
+    "NX4_23.AUS.S5W_L.*"
   ],
   "swVers": [
-    "NX4.AUS.S5W_L.001.001.251204"
+    "NX4.AUS.S5W_L.001.001.260319",
+    "NX4_23.AUS.S5W_L.001.001.260319"
   ],
   "vclName": "Tucson"
 }

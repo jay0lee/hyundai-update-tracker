@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_26_Palisade_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjEyNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDYwLzIwMjVfMjZfUGFsaXNhZGVfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.VNJa_ZqanMZRNIX81rf4YEDBxLtbsmSVpZruR5nNSSM",
+  "dvcName": "2025-26 Palisade",
+  "engDvcName": "2025-26 Palisade",
+  "engVclName": "Palisade",
+  "mcode": "2126",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX3AS.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.LX3.CAN.ccNC.???*"
+  ],
+  "swVers": [
+    "2646.LX3.CAN.ccNC.001.002.260406"
+  ],
+  "vclName": "Palisade"
+}
