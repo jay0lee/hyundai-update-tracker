@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2014_16_SORENTO_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAwMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MTQvMjAxNF8xNl9TT1JFTlRPX01FLmpzb24iLCJpc05zdW0iOnRydWV9.HmnI2btRZmP-yvvqQJqilplLJHhRUMmEikAJ1O5473Q",
+  "dvcName": "2014-16 SORENTO",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1003",
+  "mediaType": "SD",
+  "modelNames": [
+    "UMAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.UM.MES.E*"
+  ],
+  "swVers": [
+    "ST.UM.MES.E536.250814"
+  ],
+  "vclName": "SORENTO"
+}
