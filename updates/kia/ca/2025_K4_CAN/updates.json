@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_K4_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NzAxLzIwMjVfSzRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.WIz6o1iaye3U3n4wdhVZ6GGsAPM4Nf6ckiZetvX-XSM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDA1LzIwMjVfSzRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.LIbGKBtjiktuKupd8zZLEKMLIb5xPpoEWZFZbinqHQ8",
   "dvcName": "2025 K4",
   "engDvcName": "2025 K4",
   "engVclName": "K4",
@@ -14,15 +14,15 @@
   "platformCode": "23",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CL4.CAN.ccNC.???.*",
     "CL4.CAN.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "CL4.CAN.ccNC_Lite.001.002.250813",
-    "CL4.CAN.ccNC.001.002.250930"
+    "CL4.CAN.ccNC_Lite.001.002.260303",
+    "CL4.CAN.ccNC.001.002.260303"
   ],
   "vclName": "K4"
 }

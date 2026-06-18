@@ -1,10 +1,10 @@
 {
   "brand": "KM",
   "destPath": "2021_Sorento_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xNjk0NC8yMDIxX1NvcmVudG9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.kABw-ozT09KGaOHFWNV9GaQUmEFUYKocuarWjgfIs18",
-  "dvcName": "2021 Sorento",
-  "engDvcName": "",
-  "engVclName": "",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiOTY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTY1My8yMDIxX1NvcmVudG9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.xi3uCW2YpZpbXLjFtUq5CTV39zd2WWWvSUTgo523oRI",
+  "dvcName": "2021-23 Sorento",
+  "engDvcName": "2021-23 Sorento",
+  "engVclName": "Sorento",
   "mcode": "964",
   "mediaType": "USB",
   "modelNames": [
@@ -14,13 +14,15 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "MQ4.CAN.S5W_M.V*"
+    "MQ4.CAN.S5W_M.V*",
+    "MQ4HEV_22.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "MQ4.CAN.S5W_M.V014.010.250818"
+    "MQ4.CAN.S5W_M.V015.011.260206",
+    "MQ4_22.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "Sorento"
 }

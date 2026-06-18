@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_EV6_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTc1MzgvMjAyMl9FVjZfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.WgnLD_PO76wSOtEAPjN2C21fzCwObZzsHlYOmuHBxxs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTQ2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE3MTAvMjAyMl9FVjZfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.ArlGib4YAWbKvSH2ClJ251jpnHMpzcbyfN3yQhYC_HM",
   "dvcName": "2022-23 EV6",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "19",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CV_E.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "CV_E.CAN.S5W_M.V014.010.250818"
+    "CV_E.CAN.S5W_M.V015.011.260206"
   ],
   "vclName": "EV6"
 }
