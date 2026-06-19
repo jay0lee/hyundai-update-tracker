@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_Staria_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTgwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMTIxLzIwMjRfU3RhcmlhX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.NrsDrtU1XzDKb3552sPeRek79Urvq2ksanVu_wPfi8c",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTgwMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjE4LzIwMjRfU3RhcmlhX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.awmguULBmFEwWRY-jMncng5maf6tP3RgmZ3nTKAq2oY",
   "dvcName": "2024 Staria",
   "engDvcName": "2024 Staria",
   "engVclName": "Staria",
@@ -20,7 +20,7 @@
     "US4_24.AUS.S5W_L.*"
   ],
   "swVers": [
-    "US4_24.AUS.S5W_L.001.001.251204"
+    "US4_24.AUS.S5W_L.001.001.260319"
   ],
   "vclName": "Staria"
 }

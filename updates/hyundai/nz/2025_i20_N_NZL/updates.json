@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "2025_i20_N_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTg5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjU0LzIwMjVfaTIwX05fTlpMLmpzb24iLCJpc05zdW0iOnRydWV9.EybE-SOS6KNYq_3VIeJeME6wOHlNTrF8OuvyYU19yus",
+  "dvcName": "2025 i20 N",
+  "engDvcName": "2025 i20 N",
+  "engVclName": "i20 N",
+  "mcode": "1897",
+  "mediaType": "USB",
+  "modelNames": [
+    "BC3NCS.S5BLC.AAU",
+    "BC3NCS.S5BLN.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BC3N_25.AUS.S5W_L*"
+  ],
+  "swVers": [
+    "BC3N_25.AUS.S5W_L.001.001.260319"
+  ],
+  "vclName": "i20 N"
+}

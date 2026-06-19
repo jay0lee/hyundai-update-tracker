@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2026_IONIQ9_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA2MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMTQ1LzIwMjZfSU9OSVE5X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.zoYb9Z-g34brvCJ0xbCvO14VeW_kzgNz9GZrt-deZT8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA2MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjc5LzIwMjZfSU9OSVE5X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.ubFb_DBzCcAOEu1at-WaGumBEX-ZwjEo3L8WyscsAfU",
   "dvcName": "2026 IONIQ 9",
   "engDvcName": "2026 IONIQ 9",
   "engVclName": "IONIQ 9",
@@ -19,7 +19,7 @@
     "ME1.OCE.ccNC.*"
   ],
   "swVers": [
-    "ME1.OCE.ccNC.001.002.251105"
+    "ME1.OCE.ccNC.001.002.260408"
   ],
   "vclName": "IONIQ 9"
 }

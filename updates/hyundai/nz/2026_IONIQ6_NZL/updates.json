@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2026_IONIQ6_NZL",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwMDgxLzIwMjZfSU9OSVE2X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.TorN9whohFnL3Hq5rsH-2_XTpYSOD_G-MQCDffBa1K0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjA1NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMzEwLzIwMjZfSU9OSVE2X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.fC8ynIThdRTpiZfzrNR3jZE4yBH7XQJDnr2mCUBAjlU",
   "dvcName": "2026 IONIQ 6",
   "engDvcName": "2026 IONIQ 6",
   "engVclName": "IONIQ 6",
@@ -11,7 +11,7 @@
     "CE1AE.SCBMC.NZ"
   ],
   "platformCode": "23",
-  "priority": "100",
+  "priority": "300",
   "registYn": "N",
   "releaseDate": "",
   "serviceYn": "Y",
@@ -19,7 +19,7 @@
     "CE1.OCE.ccNC.*"
   ],
   "swVers": [
-    "CE1.OCE.ccNC.001.002.251105"
+    "CE1.OCE.ccNC.001.002.260408"
   ],
   "vclName": "IONIQ 6"
 }

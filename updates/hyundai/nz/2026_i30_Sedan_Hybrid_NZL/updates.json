@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "2026_i30_Sedan_Hybrid_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjE5MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjYyLzIwMjZfaTMwX1NlZGFuX0h5YnJpZF9OWkwuanNvbiIsImlzTnN1bSI6dHJ1ZX0.RVn-SHZrMxhyTeamdhSvjh9yGTY3DejxasB7Q-JwrHM",
+  "dvcName": "2026 i30 Sedan Hybrid",
+  "engDvcName": "2026 i30 Sedan Hybrid",
+  "engVclName": "i30 Sedan Hybrid",
+  "mcode": "2190",
+  "mediaType": "USB",
+  "modelNames": [
+    "CN7CH.S5BLN.AAU",
+    "CN7CH.S5BLC.AAU"
+  ],
+  "platformCode": "14",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CN7_H_PE26.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "CN7_H_PE26.AUS.S5W_L.001.001.260319"
+  ],
+  "vclName": "i30 Sedan Hybrid"
+}

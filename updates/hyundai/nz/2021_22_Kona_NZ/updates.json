@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Kona_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkyNzUvMjAyMV8yMl9Lb25hX05aLmpzb24iLCJpc05zdW0iOnRydWV9.6skTA2bixn3Z57JlnxvHEgGXodu0natuaN2z5ua_MJE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIyODgvMjAyMV8yMl9Lb25hX05aLmpzb24iLCJpc05zdW0iOnRydWV9.28YLBiaq93ASL0AXnSPUnXoUS16SBqh5vbiRVadAkNo",
   "dvcName": "2021-23 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OS_PE.AUS.S5W_L.*"
   ],
   "swVers": [
-    "OS_PE.AUS.S5W_L.001.001.251204"
+    "OS_PE.AUS.S5W_L.001.001.260319"
   ],
   "vclName": "Kona"
 }
