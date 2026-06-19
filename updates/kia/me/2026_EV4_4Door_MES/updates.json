@@ -17,8 +17,8 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "????.CT1.MES.ccNC.???.*",
-    "????.CT1.MES.ccNC_Lite.???.*"
+    "25C3.CT1.MES.ccNC.???.*",
+    "25C3.CT1.MES.ccNC_Lite.???.*"
   ],
   "swVers": [
     "25C3.CT1.MES.ccNC.001.002.251203",
