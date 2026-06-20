@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2023_Venue_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE1MTkvMjAyM19WZW51ZV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.d2jlHMTdd1ebGgs06ZHnfvogsPE5Ya7mnaLyAsFBobg",
+  "dvcName": "2023-26 Venue",
+  "engDvcName": "2023-26 Venue",
+  "engVclName": "Venue",
+  "mcode": "1526",
+  "mediaType": "USB",
+  "modelNames": [
+    "QXBS.S5AMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QX_23.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "QX_23.USA.S5W_M.V015.011.260206"
+  ],
+  "vclName": "Venue"
+}

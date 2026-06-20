@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2022_EV6_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMTgvMjAyMl9FVjZfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.TPro2gQBNxObZbkK5kSkK06mv5WZQSiLH-jZt9P3NsA",
+  "dvcName": "2022 EV6",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1489",
+  "mediaType": "USB",
+  "modelNames": [
+    "CVAE.S5BLN.AAU"
+  ],
+  "platformCode": "19",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV_E.AUS.S5W_L.*"
+  ],
+  "swVers": [
+    "CV_E.AUS.S5W_L.001.001.251204"
+  ],
+  "vclName": "EV6"
+}
