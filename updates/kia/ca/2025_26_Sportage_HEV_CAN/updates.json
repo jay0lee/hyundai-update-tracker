@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_26_Sportage_HEV_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjEzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTE5LzIwMjVfMjZfU3BvcnRhZ2VfSEVWX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.AGkjOsKYeepPV3P277DVpPYtN8YQD_q3OMnKl4vvDdE",
+  "dvcName": "2025-26 Sportage Hybrid",
+  "engDvcName": "2025-26 Sportage Hybrid",
+  "engVclName": "Sportage Hybrid",
+  "mcode": "2135",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AH.SCBMC.CA",
+    "NQ5AH.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5.CAN.ccNC.???.*",
+    "NQ5.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NQ5.CAN.ccNC_Lite.001.002.260303",
+    "NQ5.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "Sportage Hybrid"
+}
