@@ -1,8 +1,8 @@
 {
   "brand": "KM",
   "destPath": "2021_22_Stonic_NZ",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzMjcvMjAyMV8yMl9TdG9uaWNfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.dNIHHeVtAtxRUavx_qvvn8RgSria-GzmSmdGSiLKnik",
-  "dvcName": "2021-24 Stonic",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTI0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTkzMTQvMjAyMV8yMl9TdG9uaWNfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.jQcbjmW9mU7_xyPWFgcynB0rxZezpJva3eIcvKutrlo",
+  "dvcName": "2021-22 Stonic",
   "engDvcName": "",
   "engVclName": "",
   "mcode": "1248",
@@ -19,7 +19,7 @@
     "YB_22.AUS.S5W_L.*"
   ],
   "swVers": [
-    "YB_22.AUS.S5W_L.001.001.260319"
+    "YB_22.AUS.S5W_L.001.001.251204"
   ],
   "vclName": "Stonic"
 }
