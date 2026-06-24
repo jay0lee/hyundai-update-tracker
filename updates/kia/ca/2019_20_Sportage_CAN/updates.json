@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_20_Sportage_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODE3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTM0NC8yMDE5XzIwX1Nwb3J0YWdlX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.9XOgPUTDBhHsmt8wneP27jcFdgjm7S21qp4l34IBMfk",
+  "dvcName": "2019-20 Sportage",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "817",
+  "mediaType": "SD",
+  "modelNames": [
+    "QLBS.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "QLPE.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "QLPE.CAN.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Sportage"
+}

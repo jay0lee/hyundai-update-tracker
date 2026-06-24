@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_all_new_2023_Niro_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2NzcvVGhlX2FsbF9uZXdfMjAyM19OaXJvX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.ZFLt00LJwLHZCge4s6Il6ktHCeSm1YF47bGzfwU43FY",
+  "dvcName": "2023-24 Niro Hybrid",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1552",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AH.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SG2HEV.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SG2HEV.CAN.S5W_M.V015.011.260206"
+  ],
+  "vclName": "Niro Hybrid"
+}
