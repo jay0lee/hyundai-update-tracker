@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2026_IONIQ6N_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE1OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODMyLzIwMjZfSU9OSVE2Tl9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.T5FI7eORguey4rmoanG-CZTM7-lWSafeQIJvqS4R1_0",
+  "dvcName": "아이오닉 6 N [ccNC 블루링크]",
+  "engDvcName": "Ioniq 6 N [ccNC Bluelink]",
+  "engVclName": "Ioniq",
+  "mcode": "2159",
+  "mediaType": "USB",
+  "modelNames": [
+    "CE1KNAE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "489",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CE1KN.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "CE1KN.KOR.ccNC.001.002.260325"
+  ],
+  "vclName": "아이오닉 6"
+}

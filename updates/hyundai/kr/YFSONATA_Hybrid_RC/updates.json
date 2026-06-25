@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "YFSONATA_Hybrid_RC",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTY1IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9IRFNGLzE0NDMzL1lGU09OQVRBX0h5YnJpZF9SQy5pbmYiLCJpc05zdW0iOnRydWV9.C074U3-sQ9vmfRvOerPCVKo9KnFxj_KljBprLo0YfjI",
+  "dvcName": "YF 쏘나타 Hybrid [표준형 3세대]",
+  "engDvcName": "YF Sonata Hybrid [Standard Gen3]",
+  "engVclName": "Sonata",
+  "mcode": "165",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "512",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YFE.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "YFE.KOR.SOP.14.059"
+  ],
+  "vclName": "쏘나타"
+}

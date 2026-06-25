@@ -1,0 +1,23 @@
+{
+  "brand": "HM",
+  "destPath": "Veloster",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTIzIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL21uczAxLnNwZWVkbmF2aS5jby5rci9hdm4vU21hcnRVcGRhdGUvSU5GX0RhdGEvZFM1RHlCRExFL1ZlbG9zdGVyLmluZiIsImlzTnN1bSI6ZmFsc2V9.s7ScO3DYwOanWQs5NiTLIfkWT1mgnj8dQ5AFLUuQKKY",
+  "dvcName": "벨로스터 [벨로스터 내비게이션]",
+  "engDvcName": "Veloster [Veloster (Models before 2015)]",
+  "engVclName": "Veloster",
+  "mcode": "123",
+  "mediaType": "USB",
+  "modelNames": [],
+  "platformCode": "2",
+  "priority": "503",
+  "registYn": "N",
+  "releaseDate": "2022.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "5.2.*"
+  ],
+  "swVers": [
+    "5.2.22"
+  ],
+  "vclName": "벨로스터"
+}

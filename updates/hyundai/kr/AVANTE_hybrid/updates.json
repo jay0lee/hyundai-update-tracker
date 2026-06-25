@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "AVANTE_hybrid",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNzAiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9Db21wYWN0X0dFTjEvSENINC8xNDE1MS9BVkFOVEVfaHlicmlkLmluZiIsImlzTnN1bSI6dHJ1ZX0.BkUedIp_q2u3J93CjbSmL-lgbhOBHF52jadMU3sQTJg",
+  "dvcName": "아반떼 HD Hybrid [표준형 1세대]",
+  "engDvcName": "Avante HD Hybrid [Standard Gen1]",
+  "engVclName": "Avante",
+  "mcode": "70",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_???"
+  ],
+  "swVers": [
+    "V_054"
+  ],
+  "vclName": "아반떼"
+}

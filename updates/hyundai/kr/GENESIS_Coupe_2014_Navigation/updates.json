@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "GENESIS_Coupe_2014_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk0IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9ISEJLLzE0NDE5L0dFTkVTSVNfQ291cGVfMjAxNF9OYXZpZ2F0aW9uLmluZiIsImlzTnN1bSI6dHJ1ZX0.RxRkP4qirPBt9P7Spnx-4aMJEzTc9ISgg6hVopIxn1U",
+  "dvcName": "제네시스 쿠페 2014 [표준형 3세대]",
+  "engDvcName": "Genesis Coupe 2014 [Standard Gen3]",
+  "engVclName": "Genesis",
+  "mcode": "194",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BK14.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "BK14.KOR.SOP.14.051"
+  ],
+  "vclName": "제네시스"
+}

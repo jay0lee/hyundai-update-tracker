@@ -1,0 +1,27 @@
+{
+  "brand": "HM",
+  "destPath": "GENESIS_Coupe",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNjUiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL0hIQksvMTQwNjEvR0VORVNJU19Db3VwZS5pbmYiLCJpc05zdW0iOnRydWV9.YeuJbgVSJBvnwGCLahvE8y0THditebQTZpXdx0G6BeU",
+  "dvcName": "제네시스 쿠페 [표준형 1세대]",
+  "engDvcName": "Genesis Coupe [Standard Gen1]",
+  "engVclName": "Genesis",
+  "mcode": "65",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_225_*",
+    "V_625_*"
+  ],
+  "swVers": [
+    "V_225_53",
+    "V_625_54_35N"
+  ],
+  "vclName": "제네시스"
+}

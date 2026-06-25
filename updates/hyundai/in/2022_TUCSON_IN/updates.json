@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2022_TUCSON_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTYyNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NDIvMjAyMl9UVUNTT05fSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.owih-Wu4Q7hhAnWh80BD7DMlXQc1yVyPp9qOGJ4NPY8",
+  "dvcName": "2022 TUCSON",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1625",
+  "mediaType": "USB",
+  "modelNames": [
+    "NX4AS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.01",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NX4.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "NX4.IND.S5W_M.V009.001.251113"
+  ],
+  "vclName": "TUCSON"
+}

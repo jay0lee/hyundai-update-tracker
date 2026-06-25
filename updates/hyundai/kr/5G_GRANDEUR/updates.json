@@ -1,0 +1,27 @@
+{
+  "brand": "HM",
+  "destPath": "5G_GRANDEUR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTExIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9IRUhHLzE0MTc1LzVHX0dSQU5ERVVSLmluZiIsImlzTnN1bSI6dHJ1ZX0.XXhiSl1M-Zy_vdq62I0TD1X7OTqe1gRrTzc7jewgcFc",
+  "dvcName": "HG 그랜저 [표준형 2세대]",
+  "engDvcName": "HG Grandeur [Standard Gen2]",
+  "engVclName": "Grandeur",
+  "mcode": "111",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "508",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HG.KOR.SOP.00.*",
+    "HGAVM.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "HG.KOR.SOP.00.079",
+    "HGAVM.KOR.SOP.00.077"
+  ],
+  "vclName": "그랜저"
+}
