@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2027_Telluride_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjEyMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDQ1LzIwMjdfVGVsbHVyaWRlX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.MvPC6W_Gl6OUT21ef6PATMXSQHynbbx5Mec6nQUQUH0",
+  "dvcName": "2027 Telluride",
+  "engDvcName": "2027 Telluride",
+  "engVclName": "Telluride",
+  "mcode": "2123",
+  "mediaType": "USB",
+  "modelNames": [
+    "LQ2AE.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.LQ2.USA.ccNC.???.*"
+  ],
+  "swVers": [
+    "2646.LQ2.USA.ccNC.001.002.260406"
+  ],
+  "vclName": "Telluride"
+}
