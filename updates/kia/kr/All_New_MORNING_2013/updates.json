@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "All_New_MORNING_2013",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTEwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMi9UQS8xNDE2Ny9BbGxfTmV3X01PUk5JTkdfMjAxMy5pbmYiLCJpc05zdW0iOnRydWV9.zaFRiLcYrhPU5P18vANFoh_iOGu0s52wmGKaKtDzZEk",
+  "dvcName": "All New 모닝 [표준형 2세대]",
+  "engDvcName": "All New Morning [Standard Gen2]",
+  "engVclName": "Morning",
+  "mcode": "110",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "501",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TA.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "TA.KOR.SOP.00.073"
+  ],
+  "vclName": "모닝"
+}
