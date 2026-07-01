@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2024_25_EV5_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjk1LzIwMjRfMjVfRVY1X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.F-oPEovgrlri_vDXEahpJqbfYBa15PE6GWuk-Ao57y8",
+  "dvcName": "2024-26 EV5",
+  "engDvcName": "2024-26 EV5",
+  "engVclName": "EV5",
+  "mcode": "1907",
+  "mediaType": "USB",
+  "modelNames": [
+    "OV1AE.SCBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "OV1.OCE.ccNC*"
+  ],
+  "swVers": [
+    "OV1.OCE.ccNC.001.002.260408"
+  ],
+  "vclName": "EV5"
+}
