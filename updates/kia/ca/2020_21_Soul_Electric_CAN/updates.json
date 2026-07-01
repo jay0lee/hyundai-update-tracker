@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Soul_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODEzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTY0OC8yMDIwXzIxX1NvdWxfRWxlY3RyaWNfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.hnaQQJNZWUztJM3OmHW6Wqinpmdf3ewWjxuu6RVQxZY",
+  "dvcName": "2020-22 Soul Electric",
+  "engDvcName": "2020-22 Soul Electric",
+  "engVclName": "Soul Electric",
+  "mcode": "813",
+  "mediaType": "USB",
+  "modelNames": [
+    "SK3AE.S5BMC.CA",
+    "SK3CE.S5BMC.CA"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SK3EV.CAN.S5W_M.V*",
+    "SK3_E_22.CAN.S5W_M.V*"
+  ],
+  "swVers": [
+    "SK3EV.CAN.S5W_M.V015.011.260206",
+    "SK3_E_22.CAN.S5W_M.V015.011.260206"
+  ],
+  "vclName": "Soul Electric"
+}
