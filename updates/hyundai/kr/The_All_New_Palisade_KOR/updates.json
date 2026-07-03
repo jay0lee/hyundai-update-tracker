@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "LX3AS.SCMBC.KR",
-    "LX3AH.SCMBC.KR"
+    "LX3AH.SCMBC.KR",
+    "LX3MY27AS.SCMBC.KR",
+    "LX3MY27AH.SCMBC.KR"
   ],
   "platformCode": "23",
   "priority": "100",
