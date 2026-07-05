@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2024_25_Carnival_Hybrid_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkxMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjg1LzIwMjRfMjVfQ2Fybml2YWxfSHlicmlkX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.XubOQsOH2XCMPM1tKCaRNafFyzKSMaeFUcMv2rM-Jkg",
+  "dvcName": "2024-26 Carnival Hybrid",
+  "engDvcName": "2024-26 Carnival Hybrid",
+  "engVclName": "Carnival Hybrid",
+  "mcode": "1910",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AH.SCBMC.NZ",
+    "KA4AH.SLBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.OCE.ccNC.*",
+    "KA4.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "KA4.OCE.ccNC.001.002.260408",
+    "KA4.OCE.ccNC_Lite.001.002.260408"
+  ],
+  "vclName": "Carnival Hybrid"
+}
