@@ -16,7 +16,8 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "BN7_IND.S5W_M.V*"
+    "BN7_IND.S5W_M.V102*",
+    "BN7.IND.S5W_M.V102*"
   ],
   "swVers": [
     "BN7.IND.S5W_M.V101.001.251113"
