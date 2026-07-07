@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_Syros_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk4MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTAwLzIwMjVfU3lyb3NfSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.TXdkQx1T77laMbcQpgB_lST_9DDp6GcqnnuvmVEvVhY",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk4MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE5NzU5LzIwMjVfU3lyb3NfSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.C0AR2S2RJbIU0l-Rrwb9rPWDA2HVRLzN-Sf3FU44BmY",
   "dvcName": "2025 Syros",
   "engDvcName": "2025 Syros",
   "engVclName": "Syros",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AY1.IND.ccNC.*"
   ],
   "swVers": [
-    "AY1.IND.ccNC.001.004.260331"
+    "AY1.IND.ccNC.001.003.251128"
   ],
   "vclName": "Syros"
 }
