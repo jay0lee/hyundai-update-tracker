@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_VERNA_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMjA3MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NTYvMjAyNV9WRVJOQV9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.VDUeV3WDjegm6Q5fWTMCkbsEhu9J9tHLCDVKPPvzLyw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMjA3MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI5MzYvMjAyNV9WRVJOQV9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.XWyi3G0jt-nALbFYW7XVUdd0DwUnOeHlajmCyk9_gGU",
   "dvcName": "2025 VERNA",
   "engDvcName": "2025 VERNA",
   "engVclName": "VERNA",
@@ -13,14 +13,14 @@
   "platformCode": "14",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "BN7_IND.S5W_M.V102*",
     "BN7.IND.S5W_M.V102*"
   ],
   "swVers": [
-    "BN7.IND.S5W_M.V101.001.251113"
+    "BN7.IND.S5W_M.V102.001.260430"
   ],
   "vclName": "VERNA"
 }

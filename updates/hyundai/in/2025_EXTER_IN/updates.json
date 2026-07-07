@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_EXTER_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMjA2OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NTMvMjAyNV9FWFRFUl9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.i47makHM5V2RxA9NDga7TQ-_ra38u9hMBjtKnS9y7e8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMjA2OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI5MzMvMjAyNV9FWFRFUl9JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.rXCp9sukWidFygAMEa3DjyesokCq4e_PqMumwDLYb7I",
   "dvcName": "2025 EXTER",
   "engDvcName": "2025 EXTER",
   "engVclName": "EXTER",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AI3.IND.S5W_M.V*"
   ],
   "swVers": [
-    "AI3.IND.S5W_M.V101.001.251113"
+    "AI3.IND.S5W_M.V102.001.260430"
   ],
   "vclName": "EXTER"
 }

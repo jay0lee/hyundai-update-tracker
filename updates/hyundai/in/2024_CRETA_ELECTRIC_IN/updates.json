@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_CRETA_ELECTRIC_IN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk3OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NTIvMjAyNF9DUkVUQV9FTEVDVFJJQ19JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.7PN9agg-Cic15s5PoOkgxohtBSSgnHd0Qh7QlxWWI_Y",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTk3OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI5MzIvMjAyNF9DUkVUQV9FTEVDVFJJQ19JTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.2MnxAaVFTjNzxyGhtK87JOu5YvFNuQzbSeveUrbyBXU",
   "dvcName": "2024 CRETA ELECTRIC",
   "engDvcName": "",
   "engVclName": "",
@@ -13,14 +13,14 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SU2i_E.IND.S5W_M.V*",
     "SU2I_E.IND.S5W_M.V*"
   ],
   "swVers": [
-    "SU2I_E.IND.S5W_M.V101.001.251113"
+    "SU2I_E.IND.S5W_M.V102.001.260430"
   ],
   "vclName": "CRETA ELECTRIC"
 }
