@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2020_22_Sonata_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzQxNi8yMDIwXzIyX1NvbmF0YV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.5_-5jNGvbzcdP6llfm5dRuvOv_lw0NqT1N418-UO9xA",
+  "dvcName": "2020-22 Sonata",
+  "engDvcName": "2020-22 Sonata",
+  "engVclName": "Sonata",
+  "mcode": "664",
+  "mediaType": "USB",
+  "modelNames": [
+    "DN8AS.S5BMC.US",
+    "DN8BS.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DN8.USA.S5W_M.V*",
+    " DN8_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "DN8.USA.S5W_M.V015.012.260507",
+    "DN8_22.USA.S5W_M.V015.012.260507"
+  ],
+  "vclName": "Sonata"
+}
