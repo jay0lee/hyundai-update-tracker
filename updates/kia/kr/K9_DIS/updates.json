@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "K9_DIS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ5IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvUEdFTjEvS0gvMTQyMTUvSzlfRElTLmluZiIsImlzTnN1bSI6dHJ1ZX0.fObfkpl-yv47cA8bnI58UCJvFe2UarDGaRgg6r38LuM",
+  "dvcName": "K9 [고급형 1세대]",
+  "engDvcName": "K9 DIS [Premium Gen1]",
+  "engVclName": "K9",
+  "mcode": "149",
+  "mediaType": "USB",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "6",
+  "priority": "502",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KH.KOR.SOP.????????.???"
+  ],
+  "swVers": [
+    "KH.KOR.SOP.20250227.070"
+  ],
+  "vclName": "K9"
+}
