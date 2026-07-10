@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2018_20_FORTE_4Door_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAxMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MjYvMjAxOF8yMF9GT1JURV80RG9vcl9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.nAZIPlHUffYZ86m--6KguGUxhmCkig4EQcWDg9rTDoY",
+  "dvcName": "2018-20 FORTE 4Door",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1012",
+  "mediaType": "SD",
+  "modelNames": [
+    "BDAS.S5AMN.D4ME"
+  ],
+  "platformCode": "11",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "BD4DR.MES.SOP.V*"
+  ],
+  "swVers": [
+    "BD4DR.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "FORTE"
+}
