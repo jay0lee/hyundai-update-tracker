@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2023_CARENS_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMTc2OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI5MTEvMjAyM19DQVJFTlNfSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.f1GGhQSVeBy9IdjyYnWzbWV4-SJC4a7fEb7lMV2rdtM",
+  "dvcName": "2023 CARENS",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1768",
+  "mediaType": "USB",
+  "modelNames": [
+    "KY1BS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KY123.IND.S5W_M.V*"
+  ],
+  "swVers": [
+    "KY123.IND.S5W_M.V010.001.260430"
+  ],
+  "vclName": "CARENS"
+}
