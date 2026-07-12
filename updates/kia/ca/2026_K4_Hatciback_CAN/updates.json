@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2026_K4_Hatciback_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjEzMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDA2LzIwMjZfSzRfSGF0Y2liYWNrX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.9GvVUWOITFOIWxzTPO3L53xff_qyzxn1k26owIdehOE",
+  "dvcName": "2026 K4 Hatciback",
+  "engDvcName": "2026 K4 Hatciback",
+  "engVclName": "K4",
+  "mcode": "2130",
+  "mediaType": "USB",
+  "modelNames": [
+    "CL45DAE.SCBMC.CA",
+    "CL45DAE.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CL45D.CAN.ccNC.???*",
+    "CL45D.CAN.ccNC_Lite.???*"
+  ],
+  "swVers": [
+    "CL45D.CAN.ccNC_Lite.001.002.260303",
+    "CL45D.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "K4"
+}
