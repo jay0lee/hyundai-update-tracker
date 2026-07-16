@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2020_Cadenza_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjMxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjM1Ny8yMDIwX0NhZGVuemFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.EoZfFtC28VdSxXbmAMrKSotW1kl-Ip_HGKWJzW9TuKM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjMxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzM3Mi8yMDIwX0NhZGVuemFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Me9_WNienHpRmLuZQzwS9NGWjSUqw3Vvr5bCxvHA0q8",
   "dvcName": "2020 Cadenza",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "YGPE.USA.S5W_M.V*"
   ],
   "swVers": [
-    "YGPE.USA.S5W_M.V015.011.260206"
+    "YGPE.USA.S5W_M.V015.012.260507"
   ],
   "vclName": "Cadenza"
 }
