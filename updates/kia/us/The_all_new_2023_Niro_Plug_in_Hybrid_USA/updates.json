@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "The_all_new_2023_Niro_Plug_in_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMzNjcvVGhlX2FsbF9uZXdfMjAyM19OaXJvX1BsdWdfaW5fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.KgB_PqK_JRZCIZSvpg_2qsXK_YTybeu4hlUbaZELnWE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzNTIvVGhlX2FsbF9uZXdfMjAyM19OaXJvX1BsdWdfaW5fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.c6zN2sMvgClhJi28Sx1vDICrZMtb049AarSJZC10sMg",
   "dvcName": "2023-24 Niro Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.06",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SG2PHEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "SG2PHEV.USA.S5W_M.V015.012.260507"
+    "SG2PHEV.USA.S5W_M.V015.011.260206"
   ],
   "vclName": "Niro Plug-in Hybrid"
 }

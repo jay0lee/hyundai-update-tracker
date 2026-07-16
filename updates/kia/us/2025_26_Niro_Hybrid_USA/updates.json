@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2025_26_Niro_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg3MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzNTQxLzIwMjVfMjZfTmlyb19IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.NFwhSVRfkeiA09OlfnarV8MvMPZmr-hatq39_zJBW2I",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTg3MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDgzLzIwMjVfMjZfTmlyb19IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Bki20ibmsF768bigA7EEGg9n-CkDQ0SuzinZiaiTtXk",
   "dvcName": "2025-26 Niro Hybrid",
   "engDvcName": "2025-26 Niro Hybrid",
   "engVclName": "Niro Hybrid",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "494",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.06",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SG225HEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "SG225HEV.USA.S5W_M.V015.012.260507"
+    "SG225HEV.USA.S5W_M.V015.011.260206"
   ],
   "vclName": "Niro Hybrid"
 }
