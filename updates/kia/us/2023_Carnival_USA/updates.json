@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_Carnival_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzNDcvMjAyM19DYXJuaXZhbF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.5a3r7C7B1Bukd9i0FCEqB-aQsvdYGb7jPm7VA9TNGTs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMzNjIvMjAyM19DYXJuaXZhbF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.SZ7rHeulRx1NEbiqHHNdk7DMkLErC1c_lPMgwN0Ox3k",
   "dvcName": "2023-24 Carnival",
   "engDvcName": "2023-24 Carnival",
   "engVclName": "Carnival",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "KA4_23.USA.S5W_M.V*"
   ],
   "swVers": [
-    "KA4_23.USA.S5W_M.V015.011.260206"
+    "KA4_23.USA.S5W_M.V015.012.260507"
   ],
   "vclName": "Carnival"
 }

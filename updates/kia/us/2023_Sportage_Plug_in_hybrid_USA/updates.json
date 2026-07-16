@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_Sportage_Plug_in_hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzNDkvMjAyM19TcG9ydGFnZV9QbHVnX2luX2h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.eM5B0bg5NikhY7Gdfwz_4Qyv1PsStrsY9oSjcPD7NYQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUzMiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMzNjQvMjAyM19TcG9ydGFnZV9QbHVnX2luX2h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.7MuiTggDUm1-xS-urRTGOdsmSjU7U2HBioxaFRO4KSA",
   "dvcName": "2023-25 Sportage Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NQ5PHEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "NQ5PHEV.USA.S5W_M.V015.011.260206"
+    "NQ5PHEV.USA.S5W_M.V015.012.260507"
   ],
   "vclName": "Sportage Plug-in Hybrid"
 }
