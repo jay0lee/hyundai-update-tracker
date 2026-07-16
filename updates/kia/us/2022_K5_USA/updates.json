@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2022_K5_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTI5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMzNDkvMjAyMl9LNV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.vX11lhskHhehwn0N1MnVdwsteFGnU9CAFvZ1g2dABow",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTI5NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzMzQvMjAyMl9LNV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.kwOoPeyuZN03MkSGnZCNbkiAOCrvI8_jejQ1e3Pz06c",
   "dvcName": "2022-24 K5",
   "engDvcName": "2022-24 K5",
   "engVclName": "K5",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.06",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DL3_22.USA.S5W_M.V*"
   ],
   "swVers": [
-    "DL3_22.USA.S5W_M.V015.012.260507"
+    "DL3_22.USA.S5W_M.V015.011.260206"
   ],
   "vclName": "K5"
 }

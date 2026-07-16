@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2020_21_Soul_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQ1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzM3Ni8yMDIwXzIxX1NvdWxfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.PgOHHa537GCYQCDeiSDjszgfPtkHiSaW4UeOAljTcoE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjQ1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjM2MS8yMDIwXzIxX1NvdWxfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.9Y2pTN4ZmzSA9GxoFy-VWW73q8hDAcMux424TQKMMao",
   "dvcName": "2020-22 Soul",
   "engDvcName": "2020-22 Soul",
   "engVclName": "Soul",
@@ -14,15 +14,15 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.06",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SK3.USA.S5W_M.V*",
     "SK3_22.USA.S5W_M.V*"
   ],
   "swVers": [
-    "SK3_22.USA.S5W_M.V015.012.260507",
-    "SK3.USA.S5W_M.V015.012.260507"
+    "SK3_22.USA.S5W_M.V015.011.260206",
+    "SK3.USA.S5W_M.V015.011.260206"
   ],
   "vclName": "Soul"
 }
