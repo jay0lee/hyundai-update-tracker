@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2021_Sorento_Hybrid_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiOTU2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMjM2Ni8yMDIxX1NvcmVudG9fSHlicmlkX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.iNrCA1cuo1D3gXIZwvswi41k6UZ6_NnPrMPq-6RC1FM",
+  "dvcName": "2021-24 Sorento Hybrid",
+  "engDvcName": "2021-24 Sorento Hybrid",
+  "engVclName": "Sorento Hybrid",
+  "mcode": "956",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4AH.S5BMC.US",
+    "MQ4BH.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4HEV.USA.S5W_M.V*",
+    "MQ4HEV_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "MQ4HEV.USA.S5W_M.V015.011.260206",
+    "MQ4HEV_22.USA.S5W_M.V015.011.260206"
+  ],
+  "vclName": "Sorento Hybrid"
+}
