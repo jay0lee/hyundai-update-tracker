@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2020_21_Niro_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjY5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzM3My8yMDIwXzIxX05pcm9fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.glpfFePNCuKlQRvMvbw2VVn4dlcXGrb27BTS6ia42BA",
+  "dvcName": "2020-22 Niro Hybrid",
+  "engDvcName": "2020-22 Niro Hybrid",
+  "engVclName": "Niro Hybrid",
+  "mcode": "669",
+  "mediaType": "USB",
+  "modelNames": [
+    "DEP19H.S5BMC.US",
+    "DEBH.S5BMC.US"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEPEHEV.USA.S5W_M.V*",
+    "DE_H_22.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "DE_H_22.USA.S5W_M.V015.012.260507",
+    "DEPEHEV.USA.S5W_M.V015.012.260507"
+  ],
+  "vclName": "Niro Hybrid"
+}
