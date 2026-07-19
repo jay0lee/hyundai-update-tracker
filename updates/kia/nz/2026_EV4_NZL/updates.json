@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2026_EV4_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMjE3NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjc4LzIwMjZfRVY0X05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.wZGn5U08wPPOQgWWk4qUtStttg_sTAzz1A3LoKF6Ixw",
+  "dvcName": "2026 EV4",
+  "engDvcName": "2026 EV4",
+  "engVclName": "EV4",
+  "mcode": "2176",
+  "mediaType": "USB",
+  "modelNames": [
+    "CT1AS.SCBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.CT1.OCE.ccNC.*"
+  ],
+  "swVers": [
+    "2648.CT1.OCE.ccNC.001.002.260408"
+  ],
+  "vclName": "EV4"
+}
