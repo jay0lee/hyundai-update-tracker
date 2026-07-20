@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2026_EV6GT_MY26_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjEwNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDU0LzIwMjZfRVY2R1RfTVkyNl9NRVMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.H4rCyTkuaTSuR7samAV7e22F4YHNO9NKXAK_WJVsY2s",
+  "dvcName": "2026 2nd EV6 GT",
+  "engDvcName": "2026 2nd EV6 GT",
+  "engVclName": "EV6 GT",
+  "mcode": "2104",
+  "mediaType": "USB",
+  "modelNames": [
+    "CV1GT26BE.SCBMC.ME",
+    "CV1GT26BE.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "CV1GT26.MES.ccNC.???.*",
+    "CV1GT26.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "CV1GT26.MES.ccNC.001.002.251203",
+    "CV1GT26.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "EV6 GT"
+}
