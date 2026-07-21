@@ -1,0 +1,30 @@
+{
+  "brand": "HM",
+  "destPath": "2022_24_Ioniq_5_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTI5NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM0ODgvMjAyMl8yNF9Jb25pcV81X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.5HsLtMKsQ0Pb0EByOgz2TBciJ1Fay21A0srYbNv6FQQ",
+  "dvcName": "2022-24 Ioniq 5",
+  "engDvcName": "2022-24 Ioniq 5",
+  "engVclName": "Ioniq 5",
+  "mcode": "1296",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1AE.S5BMC.US",
+    "NE1BE.S5BMC.US"
+  ],
+  "platformCode": "19",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NEEV.USA.S5W_M.V*",
+    "NEEV23.USA.S5W_M.V*",
+    "NEEV23SE.USA.S5W_M.V*"
+  ],
+  "swVers": [
+    "NEEV.USA.S5W_M.V015.012.260507",
+    "NEEV23SE.USA.S5W_M.V015.012.260507",
+    "NEEV23.USA.S5W_M.V015.012.260507"
+  ],
+  "vclName": "Ioniq 5"
+}
