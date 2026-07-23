@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_CRETA_IN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpbiIsIm1jb2RlIjoiMjE5MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzODI2LzIwMjVfQ1JFVEFfSU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.heNZK6Xl7wEaXu9cKO3LxJ7Xc4RQJHAFVj8yWgTBNnM",
+  "dvcName": "2025 CRETA",
+  "engDvcName": "2025 CRETA",
+  "engVclName": "CRETA",
+  "mcode": "2193",
+  "mediaType": "USB",
+  "modelNames": [
+    "SU2DS.S5BMC.IN"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SU2I25.IND.S5W_M.V102*"
+  ],
+  "swVers": [
+    "SU2I25.IND.S5W_M.V102.001.260430"
+  ],
+  "vclName": "CRETA"
+}
