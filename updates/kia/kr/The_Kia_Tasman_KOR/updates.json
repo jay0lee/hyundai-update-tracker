@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_Kia_Tasman_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDkzL1RoZV9LaWFfVGFzbWFuX0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.lZ25424Ls535VzOaJ89-x_vK7X0T8l4eH86WZe8KfjY",
+  "dvcName": "The Kia Tasman [ccNC Kia Connect]",
+  "engDvcName": "The Kia Tasman [ccNC Kia Connect]",
+  "engVclName": "Tasman",
+  "mcode": "2028",
+  "mediaType": "USB",
+  "modelNames": [
+    "TK1AS.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.TK1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "263P.TK1.KOR.ccNC.001.002.260325"
+  ],
+  "vclName": "타스만"
+}
