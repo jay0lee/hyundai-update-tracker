@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2025_G80_ccIC27",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTA1LzIwMjVfRzgwX2NjSUMyNy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.X4p5XIHuvRrGTrqp2pxO8crKTL3A9_TBHh4O9WXoquE",
+  "dvcName": "2025 Electrified G80 [ccIC27 Genesis Connected Services]",
+  "engDvcName": "2025 Electrified G80 [ccIC27 Genesis Connected Services]",
+  "engVclName": "020_G80",
+  "mcode": "1958",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3EAS.PCCLC.KR"
+  ],
+  "platformCode": "25",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3E.KOR.ccIC2.???.*"
+  ],
+  "swVers": [
+    "RG3E.KOR.ccIC2.001.009.260521"
+  ],
+  "vclName": "020_G80"
+}

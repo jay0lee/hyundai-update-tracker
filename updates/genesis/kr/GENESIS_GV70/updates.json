@@ -1,0 +1,26 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_GV70",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTAzNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE3NTIvR0VORVNJU19HVjcwLmpzb24iLCJpc05zdW0iOnRydWV9.CvOxkGtXQHrd2b3nzAjlv0BS93nzv0YkUKcTcF8_IPA",
+  "dvcName": "GV70 / Electrified 포함 [고급형 6세대 Genesis Connected Services]",
+  "engDvcName": "GV70 / Electrified [Premium Gen6 Genesis Connected Services]",
+  "engVclName": "025_GV70",
+  "mcode": "1037",
+  "mediaType": "USB",
+  "modelNames": [
+    "JK1AS.P6CLC.KR",
+    "JK1AE.P6CLC.KR"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK1.KOR.P6.???.???.??????"
+  ],
+  "swVers": [
+    "JK1.KOR.P6.001.018.260316"
+  ],
+  "vclName": "025_GV70"
+}
