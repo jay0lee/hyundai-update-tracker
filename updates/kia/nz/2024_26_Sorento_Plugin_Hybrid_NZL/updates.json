@@ -1,0 +1,34 @@
+{
+  "brand": "KM",
+  "destPath": "2024_26_Sorento_Plugin_Hybrid_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTgwNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjkyLzIwMjRfMjZfU29yZW50b19QbHVnaW5fSHlicmlkX05aTC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.5LzHqnRo03FbNJUHlEHqfieMWin64zFzpLAwv8xxpTg",
+  "dvcName": "2024-26 Sorento Plug-in Hybrid",
+  "engDvcName": "2024-26 Sorento Plug-in Hybrid",
+  "engVclName": "Sorento Plug-in Hybrid",
+  "mcode": "1804",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4PEAP.SCBMC.NZ",
+    "MQ4MY26BP.SCBMC.NZ",
+    "MQ4PEAP.SLBMC.NZ",
+    "MQ4MY26BP.SLBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4PE.OCE.ccNC.*",
+    "MQ4MY26.OCE.ccNC.*",
+    "MQ4PE.OCE.ccNC_Lite.*",
+    "MQ4MY26.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "MQ4PE.OCE.ccNC.001.002.260408",
+    "MQ4MY26.OCE.ccNC.001.002.260408",
+    "MQ4PE.OCE.ccNC_Lite.001.002.260408",
+    "MQ4MY26.OCE.ccNC_Lite.001.002.260408"
+  ],
+  "vclName": "Sorento Plug-in Hybrid"
+}

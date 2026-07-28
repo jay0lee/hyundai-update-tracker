@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2024_25_Carnival_NZL",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTkwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMjk0LzIwMjRfMjVfQ2Fybml2YWxfTlpMLmpzb24iLCJpc05zdW0iOnRydWV9.b2r1UVMeLj-TOnTwlZqPJQta6phh28IiJmRwo2WAm7g",
+  "dvcName": "2024-26 Carnival",
+  "engDvcName": "2024-26 Carnival",
+  "engVclName": "Carnival",
+  "mcode": "1909",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4AS.SCBMC.NZ",
+    "KA4AS.SLBMC.NZ"
+  ],
+  "platformCode": "23",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "KA4.OCE.ccNC.*",
+    "KA4.OCE.ccNC_Lite.*"
+  ],
+  "swVers": [
+    "KA4.OCE.ccNC.001.002.260408",
+    "KA4.OCE.ccNC_Lite.001.002.260408"
+  ],
+  "vclName": "Carnival"
+}
