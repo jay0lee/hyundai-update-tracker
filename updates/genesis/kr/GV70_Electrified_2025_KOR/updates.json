@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GV70_Electrified_2025_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk5OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTA2L0dWNzBfRWxlY3RyaWZpZWRfMjAyNV9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.FaRyEfD_IeTg3oS8uvpFVY0wxAlpyCJZZGxLWZRdOss",
+  "dvcName": "GV70 2025 Electrified [ccIC27 Genesis Connected Services]",
+  "engDvcName": "GV70 2025 Electrified [ccIC27 Genesis Connected Services]",
+  "engVclName": "025_GV70",
+  "mcode": "1999",
+  "mediaType": "USB",
+  "modelNames": [
+    "JKEAS.PCCLC.KR"
+  ],
+  "platformCode": "25",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.06",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JKE.KOR.ccIC2.???.*"
+  ],
+  "swVers": [
+    "JKE.KOR.ccIC2.001.009.260521"
+  ],
+  "vclName": "025_GV70"
+}
