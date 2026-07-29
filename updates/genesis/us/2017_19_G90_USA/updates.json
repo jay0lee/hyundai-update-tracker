@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2017_19_G90_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiODgxIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1uc3VtdXMubWFwLWNhcmUuY29tL3VwZGF0ZV9kYXRhL25zdW1faW5mL0RJUzIvSEkvMTIxNTYvMjAxN18xOV9HOTBfVVNBLmluZiIsImlzTnN1bSI6dHJ1ZX0.OZVUJumyPLM5E240WWLqVuyWfYdI4UnTksfvHxIgpog",
+  "dvcName": "2017-19 G90",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "881",
+  "mediaType": "USB",
+  "modelNames": [
+    "P.AVN3"
+  ],
+  "platformCode": "10",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "HI_R31.*"
+  ],
+  "swVers": [
+    "HI_R31.0.17_24223A"
+  ],
+  "vclName": "G90"
+}
