@@ -1,0 +1,27 @@
+{
+  "brand": "KM",
+  "destPath": "NEW_K7",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODgiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4yL1ZHLzE0MTcxL05FV19LNy5pbmYiLCJpc05zdW0iOnRydWV9.94I77onQojRtD8ugs3_eRXrnicS8NJjTvH2i22RNYSk",
+  "dvcName": "K7 [표준형 2세대]",
+  "engDvcName": "K7 [Standard Gen2]",
+  "engVclName": "K7",
+  "mcode": "88",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "4",
+  "priority": "506",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VG.KOR.SOP.00.*",
+    "VG11MY.KOR.SOP.00.*"
+  ],
+  "swVers": [
+    "VG.KOR.SOP.00.075",
+    "VG11MY.KOR.SOP.00.076"
+  ],
+  "vclName": "K7"
+}

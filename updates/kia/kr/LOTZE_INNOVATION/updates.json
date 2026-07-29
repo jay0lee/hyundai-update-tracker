@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "LOTZE_INNOVATION",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiOTAiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU4xL040LzE0MDgwL0xPVFpFX0lOTk9WQVRJT04uaW5mIiwiaXNOc3VtIjp0cnVlfQ.ozJRO3sSsqfa1kfwUSQrCgjpHb5uYbm9MGPPDDXvhm4",
+  "dvcName": "로체 이노베이션 [표준형 1세대]",
+  "engDvcName": "Lotze Innovation [Standard Gen1]",
+  "engVclName": "Lotze",
+  "mcode": "90",
+  "mediaType": "USB/DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V_477_*"
+  ],
+  "swVers": [
+    "V_477_54"
+  ],
+  "vclName": "로체"
+}
