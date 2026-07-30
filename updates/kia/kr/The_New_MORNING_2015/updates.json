@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_MORNING_2015",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjQ4IiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9UQS8xNDQ1OC9UaGVfTmV3X01PUk5JTkdfMjAxNS5pbmYiLCJpc05zdW0iOnRydWV9.kuRT6u_JDVnwfsnQykPi3beVIK9lbCHn7uvGnyd_tqM",
+  "dvcName": "The New 모닝 [표준형 3세대]",
+  "engDvcName": "The New Morning [Standard Gen3]",
+  "engVclName": "Morning",
+  "mcode": "248",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "TA_PE.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "TA_PE.KOR.SOP.14.038"
+  ],
+  "vclName": "모닝"
+}
