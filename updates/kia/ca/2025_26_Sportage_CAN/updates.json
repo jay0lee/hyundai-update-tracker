@@ -1,0 +1,28 @@
+{
+  "brand": "KM",
+  "destPath": "2025_26_Sportage_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjEzNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTE3LzIwMjVfMjZfU3BvcnRhZ2VfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.HTnTQe0ynqdeU2oTB4OSPkbJjfo8a4nUlCXl6sOWBfk",
+  "dvcName": "2025-26 Sportage",
+  "engDvcName": "2025-26 Sportage",
+  "engVclName": "Sportage",
+  "mcode": "2134",
+  "mediaType": "USB",
+  "modelNames": [
+    "NQ5AS.SCBMC.CA",
+    "NQ5AS.SLBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NQ5.CAN.ccNC.???.*",
+    "NQ5.CAN.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "NQ5.CAN.ccNC_Lite.001.002.260303",
+    "NQ5.CAN.ccNC.001.002.260303"
+  ],
+  "vclName": "Sportage"
+}
