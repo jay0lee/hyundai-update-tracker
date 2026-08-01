@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2018_20_CARNIVAL_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTAxNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk4MjUvMjAxOF8yMF9DQVJOSVZBTF9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.kb-LNwhVR6zIXDGJoojPx4AVcwZSVaaNMJQyEhbVXPo",
+  "dvcName": "2018-20 CARNIVAL",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1017",
+  "mediaType": "SD",
+  "modelNames": [
+    "YPAS.S5AMN.ME"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "YPPE.MES.SOP.V*"
+  ],
+  "swVers": [
+    "YPPE.MES.SOP.V142.250616.STD_M"
+  ],
+  "vclName": "CARNIVAL"
+}
