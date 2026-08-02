@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_New_K7_Navigation",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTYwIiwiaW5mRmlsZVBhdGgiOiJodHRwczovL29lbS1rcnVwbG9hZC5tYXAtY2FyZS5jb20vdXBkYXRlX2RhdGEvbnN1bV9pbmYvR0VOMy9WRy8xNDQ2OS9UaGVfTmV3X0s3X05hdmlnYXRpb24uaW5mIiwiaXNOc3VtIjp0cnVlfQ.hWZUL5khxut1ZJ1_0xRlb1H8RFel2uJlrkuU_vqKC7k",
+  "dvcName": "K7 [표준형 3세대]",
+  "engDvcName": "K7 [Standard Gen3]",
+  "engVclName": "K7",
+  "mcode": "160",
+  "mediaType": "SD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "5",
+  "priority": "505",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "VG.KOR.SOP.14.*"
+  ],
+  "swVers": [
+    "VG.KOR.SOP.14.060"
+  ],
+  "vclName": "K7"
+}
