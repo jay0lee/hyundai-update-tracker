@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2014_16_Sonata_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTczIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8xOTgwNi8yMDE0XzE2X1NvbmF0YV9NRS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.tPGxRgUOuMmDJXfTSDiAnh3QEEKOZf8eov_t7vceJW4",
+  "dvcName": "2014-16 Sonata",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "973",
+  "mediaType": "SD",
+  "modelNames": [
+    "LFAS.S4AMN.ME"
+  ],
+  "platformCode": "7",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ST.LF.MES.E*"
+  ],
+  "swVers": [
+    "ST.LF.MES.E536.250814"
+  ],
+  "vclName": "Sonata"
+}

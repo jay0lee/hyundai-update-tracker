@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_Azera_Hybrid_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjA5NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIwNDQ0LzIwMjZfQXplcmFfSHlicmlkX01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.yaA7AKV0BztTMX0taKQbVulZJ3IgfY4hx-W7GasWurM",
+  "dvcName": "2026 Azera Hybrid",
+  "engDvcName": "2026 Azera Hybrid",
+  "engVclName": "Azera Hybrid",
+  "mcode": "2095",
+  "mediaType": "USB",
+  "modelNames": [
+    "GN7BH.SCBMN.ME",
+    "GN7BH.SLBMN.ME"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "GN7.MES.ccNC.???.*",
+    "GN7.MES.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "GN7.MES.ccNC.001.002.251203",
+    "GN7.MES.ccNC_Lite.001.002.251203"
+  ],
+  "vclName": "Azera Hybrid"
+}
