@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_Creta_BRA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTk4MiIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvU1UyQkZMLzE1NzcyLzIwMjRfQ3JldGFfQlJBLmluZiIsImlzTnN1bSI6dHJ1ZX0.bMtq-1dHMvVApwMo-ULtoQQEISDzzdr0wFvZX_VAi-s",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTk4MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI4NTEvMjAyNF9DcmV0YV9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.BN3gtFy9gkwm0zVTP4UiEaJoE9P0XDh2KIv-egKxsiA",
   "dvcName": "2024 Creta",
   "engDvcName": "2024 Creta",
   "engVclName": "Creta",
@@ -19,7 +19,7 @@
     "SU2BFL.BRA.S5W_M.V*"
   ],
   "swVers": [
-    "SU2BFL.BRA.S5W_M.V007.001.250626"
+    "SU2BFL.BRA.S5W_M.V008.001.260415"
   ],
   "vclName": "Creta"
 }

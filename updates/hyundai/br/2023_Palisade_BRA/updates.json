@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Palisade_BRA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTY4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjAxMTQvMjAyM19QYWxpc2FkZV9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.KXyhD8WjE_yLEqV9Ab_VpSfqGlp55Bu057BDSEX81TE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTY4NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI4NDcvMjAyM19QYWxpc2FkZV9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.m04uW9q68v4IC6nhvE2xr3mtSecwHEgKK53Aj__Amb8",
   "dvcName": "2023 Palisade",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "LX2_PE.BRA.S5W_M.V*"
   ],
   "swVers": [
-    "LX2_PE.BRA.S5W_M.V007.001.250626"
+    "LX2_PE.BRA.S5W_M.V008.001.260415"
   ],
   "vclName": "Palisade"
 }

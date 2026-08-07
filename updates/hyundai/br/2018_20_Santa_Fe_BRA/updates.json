@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_20_Santa_Fe_BRA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTI1NSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X01PQklTL1RNLzE1NzUzLzIwMThfMjBfU2FudGFfRmVfQlJBLmluZiIsImlzTnN1bSI6dHJ1ZX0.OaTE-OXLsEtpX6S_yP870eWKUBXdmUqhQQFzxnl4n1Q",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTI1NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI4NTIvMjAxOF8yMF9TYW50YV9GZV9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.G1pqHsb2vFIBitV-MLRiJiyMVwZnG9pveHSciKTsRg8",
   "dvcName": "2018-20 Santa Fe",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "TM.BRA.SOP.V*"
   ],
   "swVers": [
-    "TM.BRA.SOP.V142.240619.STD_H.RDS"
+    "TM.BRA.SOP.V142.260327.STD_H.RDS"
   ],
   "vclName": "Santa Fe"
 }

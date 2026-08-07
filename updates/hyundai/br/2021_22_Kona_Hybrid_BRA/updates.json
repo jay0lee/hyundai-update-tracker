@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Kona_Hybrid_BRA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTY4OSIsImluZkZpbGVQYXRoIjoiaHR0cHM6Ly9vZW0tbnN1bWJyLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9HRU41X1dJREUvT1NfSF9QRS8xNTc2MC8yMDIxXzIyX0tvbmFfSHlicmlkX0JSQS5pbmYiLCJpc05zdW0iOnRydWV9.TEHcuaaERZyHNoxpDOXsEG98Rf3mtZgzAdx6bcPKhvg",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTY4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI4NDYvMjAyMV8yMl9Lb25hX0h5YnJpZF9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.rKYmxYhSANRymRJhjVpfuSHZZJF961nbcyeDUdpyefw",
   "dvcName": "2021-22 Kona Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -19,7 +19,7 @@
     "OS_H_PE.BRA.S5W_M.V*"
   ],
   "swVers": [
-    "OS_H_PE.BRA.S5W_M.V007.001.250626"
+    "OS_H_PE.BRA.S5W_M.V008.001.260415"
   ],
   "vclName": "Kona Hybrid"
 }
