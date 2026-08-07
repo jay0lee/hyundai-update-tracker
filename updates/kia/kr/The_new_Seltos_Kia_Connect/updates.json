@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_new_Seltos_Kia_Connect",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTUwNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIxMzQvVGhlX25ld19TZWx0b3NfS2lhX0Nvbm5lY3QuanNvbiIsImlzTnN1bSI6dHJ1ZX0.PKXJ6AMFWkdXLWFyA3ufLXFRoQD60Isn6KmQcddS9Xc",
+  "dvcName": "The new 셀토스 [표준형 5W세대 Kia Connect]",
+  "engDvcName": "The new Seltos [Standard Gen5W Kia Connect]",
+  "engVclName": "Seltos",
+  "mcode": "1506",
+  "mediaType": "USB",
+  "modelNames": [
+    "SP2DS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SP2_PE.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "SP2_PE.KOR.S5W_M.V037.001.260319"
+  ],
+  "vclName": "셀토스"
+}
