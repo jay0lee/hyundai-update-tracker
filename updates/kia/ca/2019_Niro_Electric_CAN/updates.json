@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2019_Niro_Electric_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzQwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMyMi8yMDE5X05pcm9fRWxlY3RyaWNfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.b-gPObcLdaYgKWIyoRxun0ZwzWB18pidjr523sLQL_U",
+  "dvcName": "2019 Niro Electric",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "740",
+  "mediaType": "SD",
+  "modelNames": [
+    "DEAE.S5AMC.CA"
+  ],
+  "platformCode": "11",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "DEEV.CAN.SOP.V*"
+  ],
+  "swVers": [
+    "DEEV.CAN.SOP.V140.250506.STD_H"
+  ],
+  "vclName": "Niro Electric"
+}
