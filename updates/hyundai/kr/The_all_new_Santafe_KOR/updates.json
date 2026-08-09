@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "MX5AS.SCBMC.KR",
-    "MX5AH.SCBMC.KR"
+    "MX5AH.SCBMC.KR",
+    "MX5MY26BS.SCBMC.KR",
+    "MX5MY26BH.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "100",
@@ -17,7 +19,8 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "MX5.KOR.ccNC.???.*"
+    "MX5.KOR.ccNC.???.*",
+    "MX5MY26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "MX5.KOR.ccNC.001.002.260325"
