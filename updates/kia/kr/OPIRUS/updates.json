@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "OPIRUS",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiODQiLCJpbmZGaWxlUGF0aCI6Imh0dHBzOi8vb2VtLWtydXBsb2FkLm1hcC1jYXJlLmNvbS91cGRhdGVfZGF0YS9uc3VtX2luZi9EVkQvVzQvMTQyMDgvT1BJUlVTLmluZiIsImlzTnN1bSI6dHJ1ZX0.xrdUMrdJZtWQ7b-FAELD0eLRkQrtAUgjl3of_g0CkCI",
+  "dvcName": "오피러스 [DVD 내비게이션]",
+  "engDvcName": "Opirus [Standard Gen1(DVD)]",
+  "engVclName": "Opirus",
+  "mcode": "84",
+  "mediaType": "DVD",
+  "modelNames": [
+    "미지원"
+  ],
+  "platformCode": "3",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2025.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "V1.SOP.13.*"
+  ],
+  "swVers": [
+    "V1.SOP.13.012.KOR"
+  ],
+  "vclName": "오피러스"
+}
