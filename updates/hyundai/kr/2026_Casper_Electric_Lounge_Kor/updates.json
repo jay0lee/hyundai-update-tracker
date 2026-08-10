@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2026_Casper_Electric_Lounge_Kor",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE5OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzODk1LzIwMjZfQ2FzcGVyX0VsZWN0cmljX0xvdW5nZV9Lb3IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.XiKQFx2Ewwn7kZGQ3Mf2EAL7FBlgW8gKRFzXnGbW5Qg",
+  "dvcName": "캐스퍼 일렉트릭 2026 Lounge(KEV) [표준형 5W세대 블루링크]",
+  "engDvcName": "Casper Electric 2026 Lounge(KEV) [Standard Gen5W Bluelink]",
+  "engVclName": "Casper",
+  "mcode": "2198",
+  "mediaType": "USB",
+  "modelNames": [
+    "AX1BE.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "2026.08",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AX1EVKEV.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "AX1EVKEV.KOR.S5W_M.V038.001.260604"
+  ],
+  "vclName": "캐스퍼"
+}
