@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2026_EV9GT_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjE1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzNTExLzIwMjZfRVY5R1RfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.rSz6R_FoTEdZodDniKo-iVimcex2UXjKbi1273_NVIg",
+  "dvcName": "2026 EV9 GT",
+  "engDvcName": "2026 EV9 GT",
+  "engVclName": "EV9 GT",
+  "mcode": "2152",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1GTAE.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.07",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1GT.USA.ccNC.???.*"
+  ],
+  "swVers": [
+    "MV1GT.USA.ccNC.001.002.260604"
+  ],
+  "vclName": "EV9 GT"
+}
