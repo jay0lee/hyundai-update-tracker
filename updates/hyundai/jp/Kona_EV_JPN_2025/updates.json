@@ -8,7 +8,8 @@
   "mcode": "1783",
   "mediaType": "USB",
   "modelNames": [
-    "SX2EVAE.SCBMC.JP"
+    "SX2EVAE.SCBMC.JP",
+    "SX2EVMY27AE.SCBMC.JP"
   ],
   "platformCode": "23",
   "priority": "497",
@@ -16,7 +17,8 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SX2EV.JPN.ccNC.???.*"
+    "SX2EV.JPN.ccNC.???.*",
+    "SX2EVMY27.JPN.ccNC.???.*"
   ],
   "swVers": [
     "SX2EV.JPN.ccNC.001.002.251117"

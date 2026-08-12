@@ -8,7 +8,9 @@
   "mcode": "1782",
   "mediaType": "USB",
   "modelNames": [
-    "NE1KNAS.SCBMC.JP"
+    "NE1KNAS.SCBMC.JP",
+    "NE1KN26AS.SCBMC.JP",
+    "NE1KN27AS.SCBMC.JP"
   ],
   "platformCode": "23",
   "priority": "498",
@@ -16,7 +18,9 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NE1KN.JPN.ccNC.???.*"
+    "NE1KN.JPN.ccNC.???.*",
+    "NE1KN26.JPN.ccNC.???.*",
+    "NE1KN27.JPN.ccNC.???.*"
   ],
   "swVers": [
     "NE1KN.JPN.ccNC.001.002.251117"

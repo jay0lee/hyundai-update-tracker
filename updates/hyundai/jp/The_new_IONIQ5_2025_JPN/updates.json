@@ -8,7 +8,8 @@
   "mcode": "1870",
   "mediaType": "USB",
   "modelNames": [
-    "NE1AE.SCBMC.JP"
+    "NE1AE.SCBMC.JP",
+    "NE1MY27AE.SCBMC.JP"
   ],
   "platformCode": "23",
   "priority": "499",
@@ -16,7 +17,8 @@
   "releaseDate": "2026.01",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NE1.JPN.ccNC.???.*"
+    "NE1.JPN.ccNC.???.*",
+    "NE1MY27.JPN.ccNC.???.*"
   ],
   "swVers": [
     "NE1.JPN.ccNC.001.002.251117"
