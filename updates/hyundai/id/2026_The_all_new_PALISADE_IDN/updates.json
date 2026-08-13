@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2026_The_all_new_PALISADE_IDN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjA4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0MDI4LzIwMjZfVGhlX2FsbF9uZXdfUEFMSVNBREVfSUROLmpzb24iLCJpc05zdW0iOnRydWV9.31Z-ApcHgJaC4-bP4yd3Zsxy_OqbUx-MxMRfVJeYWqI",
+  "dvcName": "The all-new PALISADE",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "2087",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX3AH.SCBMC.ID"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LX3.IDN.ccNC.???.*"
+  ],
+  "swVers": [
+    "263Q.LX3.SEA.ccNC.001.002.260326"
+  ],
+  "vclName": "Palisade"
+}
