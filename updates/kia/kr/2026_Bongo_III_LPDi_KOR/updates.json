@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "2026_Bongo_III_LPDi_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIwMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzODkzLzIwMjZfQm9uZ29fSUlJX0xQRGlfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.HJU_rlsLEu9Xfl6JHxRoQs85YL1fNgHaN0WBn3lFGq8",
+  "dvcName": "봉고 III 2026 LPDi [표준형 5W세대 Kia Connect]",
+  "engDvcName": "Bongo III 2026 LPDi [Standard Gen5W Kia Connect]",
+  "engVclName": "Bongo",
+  "mcode": "2203",
+  "mediaType": "USB",
+  "modelNames": [
+    "PUBS.S5BMC.KR"
+  ],
+  "platformCode": "14",
+  "priority": "496",
+  "registYn": "N",
+  "releaseDate": "2026.08",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "PU26.KOR.S5W_M.V???.*"
+  ],
+  "swVers": [
+    "PU26.KOR.S5W_M.V038.001.260604"
+  ],
+  "vclName": "봉고"
+}
