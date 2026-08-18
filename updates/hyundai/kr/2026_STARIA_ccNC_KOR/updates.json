@@ -1,0 +1,30 @@
+{
+  "brand": "HM",
+  "destPath": "2026_STARIA_ccNC_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzNzg1LzIwMjZfU1RBUklBX2NjTkNfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.Rniu83EhVksdywEAbbZm46JU0OgnMdIgUdv7K3eQ1kc",
+  "dvcName": "The new STARIA / Hybrid 포함[ccNC 블루링크]",
+  "engDvcName": "The new STARIA / Hybrid [ccNC Bluelink]",
+  "engVclName": "Staria",
+  "mcode": "2158",
+  "mediaType": "USB",
+  "modelNames": [
+    "US4AS.SCBMC.KR",
+    "US4AS.SLBMC.KR",
+    "US4AH.SCBMC.KR",
+    "US4AH.SLBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.US4.KOR.ccNC.???.*",
+    "????.US4.KOR.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "263P.US4.KOR.ccNC.001.002.260325",
+    "263P.US4.KOR.ccNC_Lite.001.002.260325"
+  ],
+  "vclName": "스타리아"
+}
