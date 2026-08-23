@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_Kia_EV4_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAyNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzNzgxL1RoZV9LaWFfRVY0X0tPUi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.EX3yK0MKsUXjqAa3kJEr4CJBnd5jO9kYBjCDdqHMIRU",
+  "dvcName": "The Kia EV4 [ccNC Kia Connect]",
+  "engDvcName": "The Kia EV4 [ccNC Kia Connect]",
+  "engVclName": "EV4",
+  "mcode": "2026",
+  "mediaType": "USB",
+  "modelNames": [
+    "CT1AE.SCBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.05",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.CT1.KOR.ccNC.???.*"
+  ],
+  "swVers": [
+    "263P.CT1.KOR.ccNC.001.002.260325"
+  ],
+  "vclName": "EV4"
+}
