@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2022_GV70_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEyNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjA4NDgvMjAyMl9HVjcwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.upYeZ3YV2EysF62npo-zLW8hPoPdabNyqHJ6JOc0MBw",
+  "dvcName": "2022-25 GV70",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1126",
+  "mediaType": "USB",
+  "modelNames": [
+    "JK1AS.P6CLC.CA"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.04",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK1.CAN.P6.???.*"
+  ],
+  "swVers": [
+    "JK1.CAN.P6.001.012.260126"
+  ],
+  "vclName": "GV70"
+}
