@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2022_GV70_EV_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTU2NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI0MDMvMjAyMl9HVjcwX0VWX05aLmpzb24iLCJpc05zdW0iOnRydWV9.HUseLwcj_QVY17KQmcr7eLxnbU339XJSb1yoOChbtMI",
+  "dvcName": "2022 GV70 EV",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1565",
+  "mediaType": "USB",
+  "modelNames": [
+    "JK1AS.P6CLN.AU"
+  ],
+  "platformCode": "15",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK1.AUS.P6.*"
+  ],
+  "swVers": [
+    "JK1.AUS.P6.001.012.260319"
+  ],
+  "vclName": "GV70 EV"
+}

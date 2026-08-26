@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "GENESIS_GV80",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiNTM4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzQ5Ni9HRU5FU0lTX0dWODAuanNvbiIsImlzTnN1bSI6dHJ1ZX0.wTau8HL2aDLBbzPI7u8RmAiK9MlONKoXwK2D2TaP9ao",
+  "dvcName": "GV80 [고급형 6세대 Genesis Connected Services]",
+  "engDvcName": "GV80 [Premium Gen6 Genesis Connected Services]",
+  "engVclName": "015_GV80",
+  "mcode": "538",
+  "mediaType": "USB",
+  "modelNames": [
+    "JX1AS.P6CLC.KR"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "2026.08",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JX1.KOR.P6.???.???.??????"
+  ],
+  "swVers": [
+    "JX1.KOR.P6.001.019.260514"
+  ],
+  "vclName": "015_GV80"
+}

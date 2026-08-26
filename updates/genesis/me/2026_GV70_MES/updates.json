@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2026_GV70_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjExMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzNDczLzIwMjZfR1Y3MF9NRVMuanNvbiIsImlzTnN1bSI6dHJ1ZX0.Zfdjcp4mb9UriUawG3gIGuLB1xSZr4pKw_-mNAH9zZU",
+  "dvcName": "2026 GV70",
+  "engDvcName": "2026 GV70",
+  "engVclName": "GV70",
+  "mcode": "2110",
+  "mediaType": "USB",
+  "modelNames": [
+    "JKAS.PCCLN.ME"
+  ],
+  "platformCode": "25",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK.MES.ccIC2.*"
+  ],
+  "swVers": [
+    "JK.MES.ccIC2.001.007.260317"
+  ],
+  "vclName": "GV70"
+}

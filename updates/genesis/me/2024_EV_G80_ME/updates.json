@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2024_EV_G80_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjAxNjkvMjAyNF9FVl9HODBfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0._mGj_FfiI-d_3cIUm9MvDnXcxYXFyZLNuDRzsZmCZy4",
+  "dvcName": "2024 EV G80",
+  "engDvcName": "2024 EV G80",
+  "engVclName": "G80",
+  "mcode": "1761",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3ES.P6CLN.ME"
+  ],
+  "platformCode": "15",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3.MES.P6.*"
+  ],
+  "swVers": [
+    "RG3.MES.P6.001.011.260112"
+  ],
+  "vclName": "G80"
+}

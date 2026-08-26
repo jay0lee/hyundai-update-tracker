@@ -1,0 +1,26 @@
+{
+  "brand": "GN",
+  "destPath": "2021_G80_EV_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTQ0NSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI0MDgvMjAyMV9HODBfRVZfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.gM21IOjm2vOOwYyLK4oyX63w0qF2UrvuH4jnab73yvs",
+  "dvcName": "2021-23 G80 EV",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1445",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3AE.P6CLN.AU",
+    "RG3BE.P6CLN.AU"
+  ],
+  "platformCode": "15",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3.AUS.P6.*"
+  ],
+  "swVers": [
+    "RG3.AUS.P6.001.012.260319"
+  ],
+  "vclName": "G80 EV"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2021_22_GV80_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiOTk5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDE0Ni8yMDIxXzIyX0dWODBfTUUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.gqEBE4pitWSly2a0x94LSc5_LPajAN8RhVosbk_To3I",
+  "dvcName": "2021 GV80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "999",
+  "mediaType": "USB",
+  "modelNames": [
+    "JX1AS.P6CLN.ME"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JX1.MES.P6.*"
+  ],
+  "swVers": [
+    "JX1.MES.P6.001.011.260112"
+  ],
+  "vclName": "GV80"
+}

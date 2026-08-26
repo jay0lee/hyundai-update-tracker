@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2024_EV_GV70_ME",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMTc2MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjAxNTEvMjAyNF9FVl9HVjcwX01FLmpzb24iLCJpc05zdW0iOnRydWV9.hk8pL3aiMRxRU5yWSexdtwT5Mcjo-Yh-1GUdfJToEUU",
+  "dvcName": "2024 EV GV70",
+  "engDvcName": "2024 EV GV70",
+  "engVclName": "GV70",
+  "mcode": "1760",
+  "mediaType": "USB",
+  "modelNames": [
+    "JK1ES.P6CLN.ME"
+  ],
+  "platformCode": "15",
+  "priority": "498",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK1.MES.P6.*"
+  ],
+  "swVers": [
+    "JK1.MES.P6.001.011.260112"
+  ],
+  "vclName": "GV70"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2026_G80_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjEwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyOTgwLzIwMjZfRzgwX01FUy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.0IhRBKEqghqiDATyN3MhjiVZJgr0gYRV4oUls881SBI",
+  "dvcName": "2026 G80",
+  "engDvcName": "2026 G80",
+  "engVclName": "G80",
+  "mcode": "2109",
+  "mediaType": "USB",
+  "modelNames": [
+    "RG3AS.PCCLN.ME"
+  ],
+  "platformCode": "25",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RG3.MES.ccIC2.*"
+  ],
+  "swVers": [
+    "RG3.MES.ccIC2.001.007.260317"
+  ],
+  "vclName": "G80"
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2026_G90_MES",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJtZSIsIm1jb2RlIjoiMjExNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjAwMDcvMjAyNl9HOTBfTUVTLmpzb24iLCJpc05zdW0iOnRydWV9.aGR4hEEOWS9zQJ0OWSqSADL9wul-1OK72gqsUlhp2tY",
+  "dvcName": "2026 G90",
+  "engDvcName": "2026 G90",
+  "engVclName": "G90",
+  "mcode": "2115",
+  "mediaType": "USB",
+  "modelNames": [
+    "RS4AS.PCBLN.ME"
+  ],
+  "platformCode": "22",
+  "priority": "495",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "RS4.MES.ccIC.*"
+  ],
+  "swVers": [
+    "RS4.MES.ccIC.001.017.251203"
+  ],
+  "vclName": "G90"
+}
