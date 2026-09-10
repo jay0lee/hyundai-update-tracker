@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "SOUL_EV_2017_UVO",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMzYxNS9TT1VMX0VWXzIwMTdfVVZPLmpzb24iLCJpc05zdW0iOnRydWV9.XwKYMf1keipzXRS9x7sAzjZoRek6AgG7CxNqY4zKH3g",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMzA1IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDA4Ny9TT1VMX0VWXzIwMTdfVVZPLmpzb24iLCJpc05zdW0iOnRydWV9._SAkKuT8QftbBoEgEAC0kHANljgTa0s0gkLzDvl-7Co",
   "dvcName": "쏘울 Electric 2017 [표준형 4세대 UVO]",
   "engDvcName": "Soul EV 2017 [Standard Gen4 UVO]",
   "engVclName": "Soul",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.08",
+  "releaseDate": "2026.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PSEV17.KOR.E*"

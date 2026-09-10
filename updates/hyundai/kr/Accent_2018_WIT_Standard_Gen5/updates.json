@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "Accent_2018_WIT_Standard_Gen5",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM3MTQvQWNjZW50XzIwMThfV0lUX1N0YW5kYXJkX0dlbjUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.GR6-Rb4eKdVKCChVLdItZ3SW2XBhR80KcnxFDqRRRik",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTM5NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQxMzkvQWNjZW50XzIwMThfV0lUX1N0YW5kYXJkX0dlbjUuanNvbiIsImlzTnN1bSI6dHJ1ZX0.Zfc0v137yiMDl5MoGhTS33Pj4MMLisUZcOXAyhF7-H4",
   "dvcName": "엑센트 2018 / WIT 포함 [표준형 5세대]",
   "engDvcName": "Accent 2018 / WIT [Standard Gen5]",
   "engVclName": "Accent",
@@ -16,7 +16,7 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2026.08",
+  "releaseDate": "2026.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RB.KOR.SOP.V???.??????.STD_M",
