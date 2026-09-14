@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2024_IONIQ5_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTk4MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0MDE1LzIwMjRfSU9OSVE1X0JSQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.Zvosmu08v1Z-ETmNgd30Se6B6HvaGr0ZLVc80CjE9DI",
+  "dvcName": "2024 IONIQ5",
+  "engDvcName": "2024 IONIQ5",
+  "engVclName": "IONIQ5",
+  "mcode": "1983",
+  "mediaType": "USB",
+  "modelNames": [
+    "NE1AE.SCBMN.BR"
+  ],
+  "platformCode": "23",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "NE1.BRA.ccNC.???.*"
+  ],
+  "swVers": [
+    "NE1.BRA.ccNC.001.002.260428"
+  ],
+  "vclName": "IONIQ5"
+}

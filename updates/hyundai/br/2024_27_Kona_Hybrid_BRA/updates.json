@@ -1,0 +1,26 @@
+{
+  "brand": "HM",
+  "destPath": "2024_27_Kona_Hybrid_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTk4NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0MDE2LzIwMjRfMjdfS29uYV9IeWJyaWRfQlJBLmpzb24iLCJpc05zdW0iOnRydWV9.4PizAsSpgGAxQxnuXeOHw8U-Ee6DRevnys9CKwjXA64",
+  "dvcName": "2024-27 Kona Hybrid",
+  "engDvcName": "2024-27 Kona Hybrid",
+  "engVclName": "Kona Hybrid",
+  "mcode": "1984",
+  "mediaType": "USB",
+  "modelNames": [
+    "SX2AH.SCBMN.BR",
+    "SX2BH.SCBMN.BR"
+  ],
+  "platformCode": "23",
+  "priority": "497",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "SX2.BRA.ccNC.???.*"
+  ],
+  "swVers": [
+    "SX2.BRA.ccNC.001.002.260428"
+  ],
+  "vclName": "Kona Hybrid"
+}

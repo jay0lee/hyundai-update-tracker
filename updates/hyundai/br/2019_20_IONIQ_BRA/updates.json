@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2019_20_IONIQ_BRA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJiciIsIm1jb2RlIjoiMTI1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI4NDEvMjAxOV8yMF9JT05JUV9CUkEuanNvbiIsImlzTnN1bSI6dHJ1ZX0.43PKWt1o19ELL-lu4lUJ8Pb-5w2LNC6FDjaqTfXijrU",
+  "dvcName": "2019-20 IONIQ",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1258",
+  "mediaType": "USB",
+  "modelNames": [
+    "AEAH.S5BMN.BR"
+  ],
+  "platformCode": "14",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "AEPEHEV.BRA.S5W_M.V*"
+  ],
+  "swVers": [
+    "AEPEHEV.BRA.S5W_M.V008.001.260415"
+  ],
+  "vclName": "IONIQ"
+}

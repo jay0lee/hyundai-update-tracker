@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2021_GV80_NZ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTIwNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjI0MDkvMjAyMV9HVjgwX05aLmpzb24iLCJpc05zdW0iOnRydWV9.UmD0t77CWD2ZFHLfkldvwKtX0hEtDUcC9ZUtAAWAyqY",
+  "dvcName": "2021 GV80",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "1206",
+  "mediaType": "USB",
+  "modelNames": [
+    "JX1AS.P6CLN.AU"
+  ],
+  "platformCode": "15",
+  "priority": "500",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JX1.AUS.P6.*"
+  ],
+  "swVers": [
+    "JX1.AUS.P6.001.012.260319"
+  ],
+  "vclName": "GV80"
+}
