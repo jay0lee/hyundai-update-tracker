@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2022_G90_ccIC_Genesis_Connected_Services",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM1NTcvMjAyMl9HOTBfY2NJQ19HZW5lc2lzX0Nvbm5lY3RlZF9TZXJ2aWNlcy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.lW_QZ4DJzV9jxVmB5QeMdbsHqXS7TKIM3oX65gU_kqM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTQ0MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQ3ODIvMjAyMl9HOTBfY2NJQ19HZW5lc2lzX0Nvbm5lY3RlZF9TZXJ2aWNlcy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.5pEY2Ztx3DgKaxQj6cMuU4NIipAsI4dkTu6JKddp2dI",
   "dvcName": "G90 / 2022, 2023, 2024, 2025 포함 [ccIC Genesis Connected Services]",
   "engDvcName": "G90 / 2022, 2023, 2024, 2025 포함 [ccIC Genesis Connected Services]",
   "engVclName": "010_G90",
@@ -13,13 +13,13 @@
   "platformCode": "22",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.08",
+  "releaseDate": "2026.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RS4.KOR.ccIC.???.*"
   ],
   "swVers": [
-    "RS4.KOR.ccIC.001.031.260610"
+    "RS4.KOR.ccIC.001.033.260820"
   ],
   "vclName": "010_G90"
 }
