@@ -17,8 +17,8 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NQ5KH.OCE.ccNC.*",
-    "NQ5KH.OCE.ccNC_Lite.*"
+    "NQ5.OCE.ccNC.*",
+    "NQ5.OCE.ccNC_Lite.*"
   ],
   "swVers": [
     "NQ5.OCE.ccNC.001.002.260408",
