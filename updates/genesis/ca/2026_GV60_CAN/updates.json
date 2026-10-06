@@ -1,0 +1,23 @@
+{
+  "brand": "GN",
+  "destPath": "2026_GV60_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjE1NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0NzQ5LzIwMjZfR1Y2MF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.O2OHvqzTTSgCATvf58dsVM7KXfgq7EZAC0MHJsX2aNY",
+  "dvcName": "2026 GV60",
+  "engDvcName": "2026 GV60",
+  "engVclName": "GV60",
+  "mcode": "2156",
+  "mediaType": "USB",
+  "modelNames": [
+    "JWAE.PCCLC.CA"
+  ],
+  "platformCode": "25",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "JW.CAN.ccIC2.001.009.260507"
+  ],
+  "vclName": "GV60"
+}

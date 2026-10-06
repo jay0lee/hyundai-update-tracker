@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2026_GV70_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjAxMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NTE5LzIwMjZfR1Y3MF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.E5Awv71blryz31xblTUFrjB6ftXrmayZ1E6J-kspl44",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjAxMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0NzQ2LzIwMjZfR1Y3MF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.Au4jDc0ulfGAY3MnRMilxAHflWlRzu09r9tgnIbHoEc",
   "dvcName": "2026 GV70",
   "engDvcName": "2026 GV70",
   "engVclName": "GV70",
@@ -13,13 +13,13 @@
   "platformCode": "25",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JK.CAN.ccIC2.???.*"
   ],
   "swVers": [
-    "JK.CAN.ccIC2.001.003.250826"
+    "JK.CAN.ccIC2.001.009.260507"
   ],
   "vclName": "GV70"
 }

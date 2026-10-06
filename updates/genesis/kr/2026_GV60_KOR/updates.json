@@ -1,9 +1,9 @@
 {
   "brand": "GN",
   "destPath": "2026_GV60_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTA3LzIwMjZfR1Y2MF9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.e38pGvHdeY_UAyL4Hhzbpb8xQHsdVuA-1YgIS4PpI4Q",
-  "dvcName": "GV60 [ccIC27 Genesis Connected Services]",
-  "engDvcName": "GV60 [ccIC27 Genesis Connected Services]",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjAxNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1NzA2LzIwMjZfR1Y2MF9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.-NGpe4Jj17OyfIKxskdX3LjTmiZEZD1PagS8CrMo294",
+  "dvcName": "GV60 / 2026, 2027, Magma 포함 [ccIC27 Genesis Connected Services]",
+  "engDvcName": "GV60 / 2026, 2027, Magma [ccIC27 Genesis Connected Services]",
   "engVclName": "035_GV60",
   "mcode": "2014",
   "mediaType": "USB",
@@ -13,13 +13,13 @@
   "platformCode": "25",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JW.KOR.ccIC2.???.*"
   ],
   "swVers": [
-    "JW.KOR.ccIC2.001.009.260521"
+    "JW.KOR.ccIC2.001.012.260807"
   ],
   "vclName": "035_GV60"
 }

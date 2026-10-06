@@ -1,9 +1,9 @@
 {
   "brand": "GN",
   "destPath": "2025_G80_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzE3NTE3LzIwMjVfRzgwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.KbK-kCPek_MzeX3CuRzqBNdieh45WwPzu2tYpPtXZkQ",
-  "dvcName": "2025 G80",
-  "engDvcName": "2025 G80",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI0NzQ1LzIwMjVfRzgwX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.SpThUP-D_6vvqmCcJEJKe-cdNmWNs1BnknATDbKPon8",
+  "dvcName": "2025-26 G80",
+  "engDvcName": "2025-26 G80",
   "engVclName": "G80",
   "mcode": "1887",
   "mediaType": "USB",
@@ -13,13 +13,13 @@
   "platformCode": "25",
   "priority": "486",
   "registYn": "N",
-  "releaseDate": "2025.11",
+  "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3.CAN.ccIC2.???.*"
   ],
   "swVers": [
-    "RG3.CAN.ccIC2.001.004.250826"
+    "RG3.CAN.ccIC2.001.009.260507"
   ],
   "vclName": "G80"
 }

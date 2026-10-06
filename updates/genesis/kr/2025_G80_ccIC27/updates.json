@@ -1,9 +1,9 @@
 {
   "brand": "GN",
   "destPath": "2025_G80_ccIC27",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMTA1LzIwMjVfRzgwX2NjSUMyNy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.X4p5XIHuvRrGTrqp2pxO8crKTL3A9_TBHh4O9WXoquE",
-  "dvcName": "2025 Electrified G80 [ccIC27 Genesis Connected Services]",
-  "engDvcName": "2025 Electrified G80 [ccIC27 Genesis Connected Services]",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1NzA0LzIwMjVfRzgwX2NjSUMyNy5qc29uIiwiaXNOc3VtIjp0cnVlfQ.bqf4rwzHo29wmApWkLOT1lJmzC0uGNYNOu_o2u9Pq80",
+  "dvcName": "Electrified G80 / 2025, 2027 포함  [ccIC27 Genesis Connected Services]",
+  "engDvcName": "Electrified G80 / 2025, 2027  [ccIC27 Genesis Connected Services]",
   "engVclName": "020_G80",
   "mcode": "1958",
   "mediaType": "USB",
@@ -13,13 +13,13 @@
   "platformCode": "25",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.09",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3E.KOR.ccIC2.???.*"
   ],
   "swVers": [
-    "RG3E.KOR.ccIC2.001.009.260521"
+    "RG3E.KOR.ccIC2.001.012.260807"
   ],
   "vclName": "020_G80"
 }
