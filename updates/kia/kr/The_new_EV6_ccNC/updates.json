@@ -8,7 +8,10 @@
   "mcode": "1952",
   "mediaType": "USB",
   "modelNames": [
-    "CV1AE.SCBMC.KR"
+    "CV1AE.SCBMC.KR",
+    "CV1MY26BE.SCBMC.KR",
+    "CV1GTAE.SCBMC.KR",
+    "CV1GT26BE.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "498",
@@ -16,7 +19,10 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "CV1.KOR.ccNC.???.*"
+    "CV1.KOR.ccNC.???.*",
+    "CV1MY26.KOR.ccNC.???.*",
+    "CV1GT.KOR.ccNC.???.*",
+    "CV1GT26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "CV1.KOR.ccNC.001.002.260325"

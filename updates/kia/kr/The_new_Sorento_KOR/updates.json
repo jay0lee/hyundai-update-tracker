@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "MQ4PEAS.SCBMC.KR",
-    "MQ4PEAH.SCBMC.KR"
+    "MQ4PEAH.SCBMC.KR",
+    "MQ4MY26BS.SCBMC.KR",
+    "MQ4MY26BH.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "495",
@@ -17,7 +19,8 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "MQ4PE.KOR.ccNC.???.*"
+    "MQ4PE.KOR.ccNC.???.*",
+    "MQ4MY26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "MQ4PE.KOR.ccNC.001.002.260325"

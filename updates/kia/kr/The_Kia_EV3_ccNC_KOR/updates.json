@@ -8,7 +8,9 @@
   "mcode": "1951",
   "mediaType": "USB",
   "modelNames": [
-    "SV1AE.SCBMC.KR"
+    "SV1AE.SCBMC.KR",
+    "SV1AWDAE.SCBMC.KR",
+    "SV1GTAE.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "500",
@@ -16,7 +18,9 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "SV1.KOR.ccNC.???.*"
+    "SV1.KOR.ccNC.???.*",
+    "SV1AWD.KOR.ccNC.???.*",
+    "SV1GT.KOR.ccNC.???.*"
   ],
   "swVers": [
     "SV1.KOR.ccNC.001.002.260325"

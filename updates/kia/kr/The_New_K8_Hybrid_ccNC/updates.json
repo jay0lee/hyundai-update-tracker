@@ -9,7 +9,9 @@
   "mediaType": "USB",
   "modelNames": [
     "GL3AS.SCBMC.KR",
-    "GL3AH.SCBMC.KR"
+    "GL3AH.SCBMC.KR",
+    "GL3MY26BS.SCBMC.KR",
+    "GL3MY26BH.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "499",
@@ -17,7 +19,8 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "GL3.KOR.ccNC.???.*"
+    "GL3.KOR.ccNC.???.*",
+    "GL3MY26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "GL3.KOR.ccNC.001.002.260325"

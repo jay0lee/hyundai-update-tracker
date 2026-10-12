@@ -8,7 +8,9 @@
   "mcode": "1707",
   "mediaType": "USB",
   "modelNames": [
-    "NE1KNAE.SCBMC.KR"
+    "NE1KNAE.SCBMC.KR",
+    "NE1KN25BE.SCBMC.KR",
+    "NE1KN26AE.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "490",
@@ -16,7 +18,9 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "NE1KN.KOR.ccNC.???.*"
+    "NE1KN.KOR.ccNC.???.*",
+    "NE1KN25.KOR.ccNC.???.*",
+    "NE1KN26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "NE1KN.KOR.ccNC.001.002.260325"

@@ -8,7 +8,10 @@
   "mcode": "1709",
   "mediaType": "USB",
   "modelNames": [
-    "MV1AE.SCBMC.KR"
+    "MV1AE.SCBMC.KR",
+    "MV1MY26AE.SCBMC.KR",
+    "MV1GTAE.SCBMC.KR",
+    "MV1GT26AE.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "498",
@@ -16,7 +19,10 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "MV1.KOR.ccNC.???.*"
+    "MV1.KOR.ccNC.???.*",
+    "MV1MY26.KOR.ccNC.???.*",
+    "MV1GT.KOR.ccNC.???.*",
+    "MV1GT26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "MV1.KOR.ccNC.001.002.260325"

@@ -11,7 +11,9 @@
     "NX4AS.SLBMC.KR",
     "NX4AS.SCBMC.KR",
     "NX4AH.SLBMC.KR",
-    "NX4AH.SCBMC.KR"
+    "NX4AH.SCBMC.KR",
+    "NX4MY26BS.SCBMC.KR",
+    "NX4MY26BH.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "100",
@@ -20,7 +22,9 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4.KOR.ccNC_Lite.???.*",
-    "NX4.KOR.ccNC.???.*"
+    "NX4.KOR.ccNC.???.*",
+    "NX4MY26.KOR.ccNC.???.*",
+    "NX4MY26.KOR.ccNC_Lite.???.*"
   ],
   "swVers": [
     "NX4.KOR.ccNC.001.002.260325",

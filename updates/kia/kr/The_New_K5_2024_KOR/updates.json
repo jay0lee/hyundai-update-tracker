@@ -10,7 +10,9 @@
   "modelNames": [
     "DL3AS.SCBMC.KR",
     "DL3AH.SCBMC.KR",
-    "DL3AS.SLBMC.KR"
+    "DL3AS.SLBMC.KR",
+    "DL3MY26BS.SCBMC.KR",
+    "DL3MY26BH.SCBMC.KR"
   ],
   "platformCode": "23",
   "priority": "491",
@@ -19,7 +21,8 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "DL3.KOR.ccNC.???.*",
-    "DL3.KOR.ccNC_Lite.???.*"
+    "DL3.KOR.ccNC_Lite.???.*",
+    "DL3MY26.KOR.ccNC.???.*"
   ],
   "swVers": [
     "DL3.KOR.ccNC_Lite.001.002.260325",

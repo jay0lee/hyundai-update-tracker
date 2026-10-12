@@ -2,9 +2,9 @@
   "brand": "KM",
   "destPath": "2024_Sportage_Hybrid_NZ",
   "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJueiIsIm1jb2RlIjoiMTc5OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjIzMjgvMjAyNF9TcG9ydGFnZV9IeWJyaWRfTlouanNvbiIsImlzTnN1bSI6dHJ1ZX0.aA9RPUE4tST0GC8SYUqfgZqCtjXvCNTZYSCxRPFk8hw",
-  "dvcName": "2024-25 Sportage Hybrid",
-  "engDvcName": "2024-25 Sportage Hybrid",
-  "engVclName": "Sportage Hybrid",
+  "dvcName": "2024-25 Sportage HEV",
+  "engDvcName": "2024-25 Sportage HEV",
+  "engVclName": "Sportage HEV",
   "mcode": "1799",
   "mediaType": "USB",
   "modelNames": [
@@ -21,5 +21,5 @@
   "swVers": [
     "NQ5.AUS.S5W_L.001.001.260319"
   ],
-  "vclName": "Sportage Hybrid"
+  "vclName": "Sportage HEV"
 }
