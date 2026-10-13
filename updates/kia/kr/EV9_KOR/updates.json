@@ -1,9 +1,9 @@
 {
   "brand": "KM",
   "destPath": "EV9_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODA4L0VWOV9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.0CC58Mb3hYZgHnZowLrG153Ue9AfXWpyCYR6Oqv3aMg",
-  "dvcName": "EV9 [ccNC Kia Connect]",
-  "engDvcName": "EV9 [ccNC Kia Connect]",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTcwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1NDczL0VWOV9LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.idkLOw99MVESjl6JWDm0kW-xIHcfLxgjICYnQsz0A1o",
+  "dvcName": "EV9 / GT / 2026 포함 [ccNC Kia Connect]",
+  "engDvcName": "EV9 / GT / 2026 [ccNC Kia Connect]",
   "engVclName": "EV9",
   "mcode": "1709",
   "mediaType": "USB",
@@ -16,7 +16,7 @@
   "platformCode": "23",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "MV1.KOR.ccNC.???.*",
@@ -25,7 +25,10 @@
     "MV1GT26.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "MV1.KOR.ccNC.001.002.260325"
+    "MV1.KOR.ccNC.001.002.260813",
+    "MV1GT26.KOR.ccNC.001.002.260813",
+    "MV1MY26.KOR.ccNC.001.002.260813",
+    "MV1GT.KOR.ccNC.001.002.260813"
   ],
   "vclName": "EV9"
 }

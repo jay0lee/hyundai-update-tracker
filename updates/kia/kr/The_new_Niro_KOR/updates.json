@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "The_new_Niro_KOR",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjIwMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1NDk4L1RoZV9uZXdfTmlyb19LT1IuanNvbiIsImlzTnN1bSI6dHJ1ZX0.yW70HPGzZlZqMbtgEZmzq_1Zk7NwkumFjdpt_pbr7KY",
+  "dvcName": "The new Niro [ccNC Kia Connect]",
+  "engDvcName": "The new Niro [ccNC Kia Connect]",
+  "engVclName": "Niro",
+  "mcode": "2201",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AH.SCBMC.KR",
+    "SG2AH.SLBMC.KR"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "SG2.KOR.ccNC.001.002.260813",
+    "SG2.KOR.ccNC_Lite.001.002.260813"
+  ],
+  "vclName": "니로"
+}

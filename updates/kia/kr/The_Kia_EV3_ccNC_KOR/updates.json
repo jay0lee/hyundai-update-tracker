@@ -1,9 +1,9 @@
 {
   "brand": "KM",
   "destPath": "The_Kia_EV3_ccNC_KOR",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIyODE0L1RoZV9LaWFfRVYzX2NjTkNfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.mPnzC1P2dQupW61ynSVa-PLOjqcSTWu4OGW87HwzMVA",
-  "dvcName": "The Kia EV3 [ccNC Kia Connect]",
-  "engDvcName": "The Kia EV3 [ccNC Kia Connect]",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMTk1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1NDgyL1RoZV9LaWFfRVYzX2NjTkNfS09SLmpzb24iLCJpc05zdW0iOnRydWV9.C6u0Fd0KKtmNf_o_te5p3CPFE5nDIauhYDrAynltOjY",
+  "dvcName": "The Kia EV3 / GT / AWD 포함 [ccNC Kia Connect]",
+  "engDvcName": "The Kia EV3 / GT / AWD [ccNC Kia Connect]",
   "engVclName": "EV3",
   "mcode": "1951",
   "mediaType": "USB",
@@ -15,7 +15,7 @@
   "platformCode": "23",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.10",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SV1.KOR.ccNC.???.*",
@@ -23,7 +23,9 @@
     "SV1GT.KOR.ccNC.???.*"
   ],
   "swVers": [
-    "SV1.KOR.ccNC.001.002.260325"
+    "SV1AWD.KOR.ccNC.001.002.260813",
+    "SV1GT.KOR.ccNC.001.002.260813",
+    "SV1.KOR.ccNC.001.002.260813"
   ],
   "vclName": "EV3"
 }
