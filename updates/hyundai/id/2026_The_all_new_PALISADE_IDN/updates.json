@@ -8,7 +8,8 @@
   "mcode": "2087",
   "mediaType": "USB",
   "modelNames": [
-    "LX3AH.SCBMC.ID"
+    "LX3AH.SCBMC.ID",
+    "LX3MY27BH.SCBMC.ID"
   ],
   "platformCode": "23",
   "priority": "499",
@@ -16,7 +17,8 @@
   "releaseDate": "",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "LX3.IDN.ccNC.???.*"
+    "LX3.IDN.ccNC.???.*",
+    "????.LX3MY27.SEA.ccNC.???.*"
   ],
   "swVers": [
     "263Q.LX3.SEA.ccNC.001.002.260326"
