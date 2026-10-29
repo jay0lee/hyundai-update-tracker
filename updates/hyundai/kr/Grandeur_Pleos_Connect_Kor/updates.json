@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "Grandeur_Pleos_Connect_Kor",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJrciIsIm1jb2RlIjoiMjE2MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1ODQ2L0dyYW5kZXVyX1BsZW9zX0Nvbm5lY3RfS29yLmpzb24iLCJpc05zdW0iOnRydWV9.b4ywdXVEGGVBMa-3CNV1WYowC19sABi6YB6To974mdc",
+  "dvcName": "더 뉴 그랜저 / Hybrid 포함 [Pleos Connect 17/14.6-inch 블루링크]",
+  "engDvcName": "The All New Grandeur / Hybrid [Pleos Connect 17/14.6-inch Bluelink]",
+  "engVclName": "Grandeur",
+  "mcode": "2161",
+  "mediaType": "USB",
+  "modelNames": [
+    "Grandeur"
+  ],
+  "platformCode": "36",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.10",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "25AO.NH2.KOR.ccNC.*"
+  ],
+  "swVers": [
+    "269I.GN7FL.CS.SYS.KOR.002.001.260912.032817"
+  ],
+  "vclName": "그랜저"
+}
