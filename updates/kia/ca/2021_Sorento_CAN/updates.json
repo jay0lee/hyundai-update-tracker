@@ -18,7 +18,7 @@
   "serviceYn": "Y",
   "swVerIdxs": [
     "MQ4.CAN.S5W_M.V*",
-    "MQ4HEV_22.CAN.S5W_M.V*"
+    "MQ4_22.CAN.S5W_M.V*"
   ],
   "swVers": [
     "MQ4.CAN.S5W_M.V015.011.260206",

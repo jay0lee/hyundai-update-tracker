@@ -17,7 +17,8 @@
   "releaseDate": "2026.05",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "DEPEPHEV.CAN.S5W_M.V*"
+    "DEPEPHEV.CAN.S5W_M.V*",
+    "DE_P_22.CAN.S5W_M.V*"
   ],
   "swVers": [
     "DE_P_22.CAN.S5W_M.V015.011.260206",
