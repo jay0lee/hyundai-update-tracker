@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Santa_Fe_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2MTMvMjAyMV8yMl9TYW50YV9GZV9IeWJyaWRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.eLZJf0291rPdYIpnXzXIGyCwMu1fCLmztZPL-5GZPcc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTExNiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMzUvMjAyMV8yMl9TYW50YV9GZV9IeWJyaWRfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.XHI-ri2TJmuPTSvjIzKk6UXntZyC7Clgp1UWbhtMr34",
   "dvcName": "2021-23 Santa Fe Hybrid",
   "engDvcName": "2021-23 Santa Fe Hybrid",
   "engVclName": "Santa Fe Hybrid",
@@ -14,15 +14,15 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "TM_H.CAN.S5W_M.V*",
     "TM_H_23.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "TM_H_23.CAN.S5W_M.V015.011.260206",
-    "TM_H.CAN.S5W_M.V015.011.260206"
+    "TM_H_23.CAN.S5W_M.V016.010.260903",
+    "TM_H.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "Santa Fe Hybrid"
 }

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Tucson_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM0MDUvMjAyM19UdWNzb25fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.YxDDE5cqiRaWmNML_Kt-dBEzOru78Z_XOZSW9WotHYE",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUyNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMDEvMjAyM19UdWNzb25fVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.S0BsTQ8Iw4Ps7aTqCFLusk-uLjGliiV97rP6TqCcVsA",
   "dvcName": "2023-24 Tucson",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX423.USA.S5W_M.V*"
   ],
   "swVers": [
-    "NX423.USA.S5W_M.V015.012.260507"
+    "NX423.USA.S5W_M.V016.010.260903"
   ],
   "vclName": "Tucson"
 }

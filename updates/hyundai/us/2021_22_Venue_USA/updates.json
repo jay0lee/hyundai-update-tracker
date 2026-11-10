@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_22_Venue_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEyMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM0MjMvMjAyMV8yMl9WZW51ZV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.QCyZ-IpbzvIChIK1uGD7g852Qyx_3FgYGx3F6Bf1Gu8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTEyMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMjAvMjAyMV8yMl9WZW51ZV9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.5CELJ_aps-nemrnosTMa8e0LrH-yHe_2wtK6jQLZ9wg",
   "dvcName": "2021-22 Venue",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "QX_21.USA.S5W_M.V*"
   ],
   "swVers": [
-    "QX_21.USA.S5W_M.V015.012.260507"
+    "QX_21.USA.S5W_M.V016.010.260903"
   ],
   "vclName": "Venue"
 }

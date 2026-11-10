@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2022_24_GV80_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTM0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMyMzYvMjAyMl8yNF9HVjgwX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3tZYYjFpVuWnLgc_YG6xQwBj6pHEsIlyDK2Urzyygq4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTM0OCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQyMDYvMjAyMl8yNF9HVjgwX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.06ANB5KBhUzY9Bn5bql8WyXOcHz3QwDYrZv4wqP44-U",
   "dvcName": "2022-24 GV80",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JX1_22.USA.P6.???.*"
   ],
   "swVers": [
-    "JX1_22.USA.P6.001.013.260507"
+    "JX1_22.USA.P6.001.014.260715"
   ],
   "vclName": "GV80"
 }

@@ -1,0 +1,25 @@
+{
+  "brand": "GN",
+  "destPath": "2026_27_GV70_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjAxMCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1OTc2LzIwMjZfMjdfR1Y3MF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.V0q-yEvMnJGJTXXTZ6pLbqGQ3fE8Pjno42V14BLaw38",
+  "dvcName": "2026-27 GV70",
+  "engDvcName": "2026-27 GV70",
+  "engVclName": "GV70",
+  "mcode": "2010",
+  "mediaType": "USB",
+  "modelNames": [
+    "JKAS.PCCLC.US"
+  ],
+  "platformCode": "25",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "JK.USA.ccIC2.????.*"
+  ],
+  "swVers": [
+    "JK.USA.ccIC2.001.012.260831"
+  ],
+  "vclName": "GV70"
+}

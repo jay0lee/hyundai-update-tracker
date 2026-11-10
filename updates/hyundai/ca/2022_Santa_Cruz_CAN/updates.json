@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2022_Santa_Cruz_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTMyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2MTkvMjAyMl9TYW50YV9DcnV6X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.C-o8jzlx-f5i32CqrtLp2eL0CVOstKanWECgREIjAlw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTMyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxNDIvMjAyMl9TYW50YV9DcnV6X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PUIW_tE-Kh6qC1CCNsiRQ8ut6YKNlf_HIsMDGme0NeE",
   "dvcName": "2022-24 Santa Cruz",
   "engDvcName": "2022-24 Santa Cruz",
   "engVclName": "Santa Cruz",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4OB.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "NX4OB.CAN.S5W_M.V015.011.260206"
+    "NX4OB.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "Santa Cruz"
 }

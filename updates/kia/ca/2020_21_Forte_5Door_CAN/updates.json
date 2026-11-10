@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2020_21_Forte_5Door_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzMwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTM1My8yMDIwXzIxX0ZvcnRlXzVEb29yX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.IOaViIakbwy-sLy1iiomVa6cAd2ps4APnYv9e7p7S80",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzMwIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDQ1NS8yMDIwXzIxX0ZvcnRlXzVEb29yX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.qeUYr_tiuw_vgYQ0P7SSaxQ-TbMaplTsE3dgxheP48A",
   "dvcName": "2020-21 Forte 5Door",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "496",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "BD5DR.CAN.SOP.V*"

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Kona_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMwMi8yMDE4X0tvbmFfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.7x8dJfQPx4awGrzLCcq5KtZ4fHK6sNYXlSv4ZnmZQa0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzU5IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDM5NS8yMDE4X0tvbmFfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.ESz1q-i7Oykr3xgPxLXsb2MVK5e_iOiser2PFpk9kNk",
   "dvcName": "2018 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OS.CAN.SOP.V*"

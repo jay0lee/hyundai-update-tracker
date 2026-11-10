@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2019_Ioniq_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzUxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMxOS8yMDE5X0lvbmlxX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.BWxaeZlU7w5uAmRdu2we_HRUPNSvPtbLseVabCbskYc",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzUxIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDQyNi8yMDE5X0lvbmlxX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.30uzo6yINY02HagviHzRdXHive4PIxA08Gr2L2uu1vc",
   "dvcName": "2019 Ioniq Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "AEHEV19.CAN.SOP.V*"

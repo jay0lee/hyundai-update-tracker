@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2023_25_GV60_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMxMTMvMjAyM18yNV9HVjYwX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3Pc1hxjysrWWtElJbp0YUGDMsd84fwASzT0HmMmNRNo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwNyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQ5MDcvMjAyM18yNV9HVjYwX1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.OmLWW_1egSqwhPAgg9h0bcavI35oxanJJGsHWKodW44",
   "dvcName": "2023-25 GV60",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "22",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "JW.USA.ccIC.???.*"
   ],
   "swVers": [
-    "JW.USA.ccIC.001.029.260506"
+    "JW.USA.ccIC.001.031.260820"
   ],
   "vclName": "GV60"
 }

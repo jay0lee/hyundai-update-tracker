@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2023_25_Electrified_G80_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMyMzIvMjAyM18yNV9FbGVjdHJpZmllZF9HODBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.VZwkD_Qjcl1cJ3Ukn2rs0r863CuNJatr1s9xC_sUWP8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTQ1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQyMDQvMjAyM18yNV9FbGVjdHJpZmllZF9HODBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.185F3WYwdPa52CMv1j0XstuNUw0BOaIBCdrD3D1ao1g",
   "dvcName": "2023-25 Electrified G80",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3.USA.P6.???.*"
   ],
   "swVers": [
-    "RG3.USA.P6.001.013.260507"
+    "RG3.USA.P6.001.014.260715"
   ],
   "vclName": "Electrified G80"
 }

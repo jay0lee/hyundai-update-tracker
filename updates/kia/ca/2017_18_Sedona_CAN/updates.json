@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2017_18_Sedona_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODAyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAwNC8yMDE3XzE4X1NlZG9uYV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.GB8l30mKNpO7pFEZUmeBfBbsgstwnPZ--6MuAe4CBl8",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODAyIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDI3Ni8yMDE3XzE4X1NlZG9uYV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.HOP1GNi8oCGKFEzBzqj6JqwQJ3927maZz8C0iogUbMw",
   "dvcName": "2017-18 Sedona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.YPPE.CAN.E*"

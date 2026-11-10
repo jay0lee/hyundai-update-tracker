@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2018_19_G80_9_2_in_Touch_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzE3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAyNS8yMDE4XzE5X0c4MF85XzJfaW5fVG91Y2hfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.lMaOcx3o9GV2CzGCbHhIG03B95UlIytVWR3AtzFObFI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzE3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDQ3Ny8yMDE4XzE5X0c4MF85XzJfaW5fVG91Y2hfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.I9pGxKNuXuZQ14nTmZpLpE9Wbp_IcG7alprhqdqN0Cw",
   "dvcName": "2018-19 G80 (9.2 in. Touchscreen)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "493",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DHPE.CAN.SOP.*"

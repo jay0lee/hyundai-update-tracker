@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2015_G80_9_2_in_touch_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTE0MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjEwMjEvMjAxNV9HODBfOV8yX2luX3RvdWNoX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.EQBym2QWRCQZswUOXmvMEHQHTQzis7tYAhIERpJOrWk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTE0MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQ0NzMvMjAxNV9HODBfOV8yX2luX3RvdWNoX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.VXuTX_YuJNzZhZk5zm9vE0oolSqBv3W8XlN5UzRX2oU",
   "dvcName": "2015 G80 (9.2 in. Touchscreen)",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "8",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DH15MY.CAN.SOP.*"

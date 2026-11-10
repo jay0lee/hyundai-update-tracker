@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Kona_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTAzMy8yMDE4X0tvbmFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Ckw2ETA2B3CdRUSqzctTfjmV2L2S445kapp1NwUf5oI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNzA2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDM3MC8yMDE4X0tvbmFfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.1f9tTlTC1MH4yD5iHYhoHouXVfaXxrGAkwjTYYDAKB0",
   "dvcName": "2018 Kona",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "OS.USA.SOP.V*"

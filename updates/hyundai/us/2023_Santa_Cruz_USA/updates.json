@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Santa_Cruz_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTY1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM0MDgvMjAyM19TYW50YV9DcnV6X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.-8mLBeCIUAn1mI8bqTB4xQdKf2zRtHu9m6Dz6Dwi_ag",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTY1MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMDQvMjAyM19TYW50YV9DcnV6X1VTQS5qc29uIiwiaXNOc3VtIjp0cnVlfQ.EdVzdaJRFdA1UWaay3dyV-0EJZAWnrM_JZiunWpLENI",
   "dvcName": "2023-24 Santa Cruz",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4OB23.USA.S5W_M.V*"
   ],
   "swVers": [
-    "NX4OB23.USA.S5W_M.V015.012.260507"
+    "NX4OB23.USA.S5W_M.V016.010.260903"
   ],
   "vclName": "Santa Cruz"
 }

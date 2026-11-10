@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2015_16_Soul_Electric_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjM0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgxNy8yMDE1XzE2X1NvdWxfRWxlY3RyaWNfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9._-vnnyARjvoLwxl4mdLI17kYJ51qH6NX6zRiqHUiWKI",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjM0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDMxNi8yMDE1XzE2X1NvdWxfRWxlY3RyaWNfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.oqFF-ei7tmQ-d5se95z6zwN07HwR_cMfN3CJzKNgW18",
   "dvcName": "2015-16 Soul Electric",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PSEV.USA.E*"

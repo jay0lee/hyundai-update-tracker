@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2023_26_G90_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMxMTEvMjAyM18yNl9HOTBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.27bmX_dfYcuh3xUakb-EmT6uJZ0uW_UDEoDMTsdHwt0",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTUwOSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQ5MDYvMjAyM18yNl9HOTBfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.2xGOrHBoaw5G1GML5NzCH7zGFMHhX3Qi3XG_vm-BGDA",
   "dvcName": "2023-26 G90",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "22",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RS4.USA.ccIC.???.*"
   ],
   "swVers": [
-    "RS4.USA.ccIC.001.029.260506"
+    "RS4.USA.ccIC.001.031.260820"
   ],
   "vclName": "G90"
 }

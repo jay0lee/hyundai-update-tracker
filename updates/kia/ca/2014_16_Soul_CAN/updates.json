@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2014_16_Soul_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMDk3NC8yMDE0XzE2X1NvdWxfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.9QQRw5YwBzWIRm5BnQhyowWTtLmPhUl8jfCyTbalvVU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA3IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDI0Ni8yMDE0XzE2X1NvdWxfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.LIy4IdQyG5DOLlZEjE_4sSA3ea58fiSGeIZs2XyoTmk",
   "dvcName": "2014-16 Soul",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "500",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.PS.CAN.E*"

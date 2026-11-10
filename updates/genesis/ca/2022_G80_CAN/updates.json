@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2022_G80_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTM0OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjA4NDYvMjAyMl9HODBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.0VPFgi0UF_7XdzDCwIQrQDWqUeAgt5qgZUZenwDqAIw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTM0OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjQyMTEvMjAyMl9HODBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.WLQ8pTl1DRrB61FpWSFBDKeHnGo9DSmhV7_owQJAJpg",
   "dvcName": "2022-24 G80",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "15",
   "priority": "489",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "RG3_22.CAN.P6.???.*"
   ],
   "swVers": [
-    "RG3_22.CAN.P6.001.012.260126"
+    "RG3_22.CAN.P6.001.014.260715"
   ],
   "vclName": "G80"
 }

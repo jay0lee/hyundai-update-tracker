@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2017_Optima_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTgwOS8yMDE3X09wdGltYV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.Q3RbSG1hKhP1ETzEIgZqZVxjXDamkbq0fjrbOwKN2wQ",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiNjg0IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDMwOC8yMDE3X09wdGltYV9IeWJyaWRfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.hQ6TsAt4QJNdDYp_eMSedMzum1Kx5tAC_8OJWQzy8hg",
   "dvcName": "2017 Optima Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "7",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.06",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "ST.JFHEV.USA.E*"

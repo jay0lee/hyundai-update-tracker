@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2019_Sorento_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMyNy8yMDE5X1NvcmVudG9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.FFYi8uwPa4_IU17JjmUwvci-IHv8c-TsVEobVZfOTCk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiODA2IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDQzOS8yMDE5X1NvcmVudG9fQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.tbjMPGiIwO12ZjY5ofgCibzBvm9Xe0R5q6JqWcqtcqQ",
   "dvcName": "2019 Sorento",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "UMPE.CAN.SOP.V*"

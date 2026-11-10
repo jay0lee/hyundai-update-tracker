@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2024_26_Elantra_N_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDgyLzIwMjRfMjZfRWxhbnRyYV9OX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.hldJNJ-wsvFE2j_YMtyPRKzxGQl7R358c7x75CGku90",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTgzMSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MDQ3LzIwMjRfMjZfRWxhbnRyYV9OX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.7FiFoer30rbkyPP6podS9S6HaLkCd0TVzPsBI-iYKMo",
   "dvcName": "2024-26 ELANTRA N",
   "engDvcName": "2024-26 ELANTRA N",
   "engVclName": "ELANTRA N",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CN7NPE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "CN7NPE.CAN.S5W_M.V015.011.260206"
+    "CN7NPE.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "ELANTRA N"
 }

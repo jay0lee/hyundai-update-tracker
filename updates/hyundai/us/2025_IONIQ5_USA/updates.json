@@ -9,7 +9,8 @@
   "mediaType": "USB",
   "modelNames": [
     "NE1AAE.SCBMC.US",
-    "NE1A26BE.SCBMC.US"
+    "NE1A26BE.SCBMC.US",
+    "NE1A27BE.SCBMC.US"
   ],
   "platformCode": "23",
   "priority": "497",

@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2023_Santa_Fe_Plug_in_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTY1NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjMzOTUvMjAyM19TYW50YV9GZV9QbHVnX2luX0h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.XBLJ7heNINwWMDohoDtJKWku83T5KVWhHMVbBNTU89E",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTY1NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUwOTEvMjAyM19TYW50YV9GZV9QbHVnX2luX0h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.8_1Irywmijf4TMYOG9LgdOHsYM9GbIRlgm2hJUAyNXg",
   "dvcName": "2023 Santa Fe Plug-in Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "TM_P_23.USA.S5W_M.V*"
   ],
   "swVers": [
-    "TM_P_23.USA.S5W_M.V015.012.260507"
+    "TM_P_23.USA.S5W_M.V016.010.260903"
   ],
   "vclName": "Santa Fe Plug-in Hybrid"
 }

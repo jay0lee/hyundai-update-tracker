@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2020_21_Sonata_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzgzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTYwNy8yMDIwXzIxX1NvbmF0YV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.OlYQOv6-ZVysG0evAbme0o67wpeIH3cifZQa4aeLxxs",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzgzIiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNTEyOS8yMDIwXzIxX1NvbmF0YV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.YWBRPmLaQRheqZKPVcAUQrg1OAuJ502a8OUpmMfmLCc",
   "dvcName": "2020-23 Sonata",
   "engDvcName": "2020-23 Sonata",
   "engVclName": "Sonata",
@@ -15,7 +15,7 @@
   "platformCode": "14",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "DN8.CAN.S5W_M.V*",
@@ -23,9 +23,9 @@
     "DN8_23.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "DN8_22.CAN.S5W_M.V015.011.260206",
-    "DN8_23.CAN.S5W_M.V015.011.260206",
-    "DN8.CAN.S5W_M.V015.011.260206"
+    "DN8_22.CAN.S5W_M.V016.010.260903",
+    "DN8.CAN.S5W_M.V016.010.260903",
+    "DN8_23.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "Sonata"
 }

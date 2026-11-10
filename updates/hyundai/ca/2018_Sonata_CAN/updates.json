@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2018_Sonata_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yMTMwNi8yMDE4X1NvbmF0YV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.i_puxbZDcL5cTINzb8DrakRGjbqi-nBb_W_S0kBPGXM",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiNzc4IiwiaW5mRmlsZVBhdGgiOiJuc3VtLWZpbGUtdXBsb2FkOi8vbWFuaWZlc3QvZnVtby8yNDQwMi8yMDE4X1NvbmF0YV9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.ZO7k2AnIokPBzVgeo-obqUQfuvqIkPIYQ8YY3qXHk1o",
   "dvcName": "2018 Sonata",
   "engDvcName": "",
   "engVclName": "",
@@ -13,7 +13,7 @@
   "platformCode": "11",
   "priority": "497",
   "registYn": "N",
-  "releaseDate": "2026.04",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "LFFL.CAN.SOP.V*"

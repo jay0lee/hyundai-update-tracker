@@ -1,7 +1,7 @@
 {
   "brand": "GN",
   "destPath": "2022_G70_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2NDMvMjAyMl9HNzBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.ku_ZPT-JHEuZDx-lScg0HTiBvNUE87HoJ08y12J7G-4",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTEyNCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMzcvMjAyMl9HNzBfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.xiZm-_3GxuT7rADYHHZWxbZCA6qfgTRa8KiDYV99FKI",
   "dvcName": "2022-24 G70",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "499",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "IKFL.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "IKFL.CAN.S5W_M.V015.011.260206"
+    "IKFL.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "G70"
 }

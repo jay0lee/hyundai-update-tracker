@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2021_Elantra_Hybrid_USA",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTExMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjM0MjEvMjAyMV9FbGFudHJhX0h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.vj9-8JKblracyzRauLlNybX0ZsP7pxdPMX8bvA2N4Iw",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMTExMyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUxMTgvMjAyMV9FbGFudHJhX0h5YnJpZF9VU0EuanNvbiIsImlzTnN1bSI6dHJ1ZX0.FwcH3OpqPikA_pZizSMG0_c37Y6ND-12nvPpjNkFi0c",
   "dvcName": "2021-22 Elantra Hybrid",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "501",
   "registYn": "N",
-  "releaseDate": "2026.07",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "CN7HEV.USA.S5W_M.V*"
   ],
   "swVers": [
-    "CN7HEV.USA.S5W_M.V015.012.260507"
+    "CN7HEV.USA.S5W_M.V016.010.260903"
   ],
   "vclName": "Elantra Hybrid"
 }
