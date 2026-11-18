@@ -1,0 +1,24 @@
+{
+  "brand": "KM",
+  "destPath": "Niro_HEV_SGP",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJzZyIsIm1jb2RlIjoiMjI3MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTQxL05pcm9fSEVWX1NHUC5qc29uIiwiaXNOc3VtIjp0cnVlfQ.KThmUms88hcW6NsMZ0FEUwXhd0EoBL3dVG-5R_afWq0",
+  "dvcName": "Niro HEV",
+  "engDvcName": "Niro HEV",
+  "engVclName": "Niro",
+  "mcode": "2273",
+  "mediaType": "USB",
+  "modelNames": [
+    "SG2AH.SCBMC.SG",
+    "SG2AH.SLBMC.SG"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "SG2.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Niro"
+}

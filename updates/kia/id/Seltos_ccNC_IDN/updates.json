@@ -1,0 +1,24 @@
+{
+  "brand": "KM",
+  "destPath": "Seltos_ccNC_IDN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjI4MSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTU1L1NlbHRvc19jY05DX0lETi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.AUMzWhxfk5-SuYC6ON1lECY3_q4azFDhSBe5U5HZKNk",
+  "dvcName": "Seltos",
+  "engDvcName": "Seltos",
+  "engVclName": "Seltos",
+  "mcode": "2281",
+  "mediaType": "USB",
+  "modelNames": [
+    "SP3IAE.SCBMC.ID",
+    "SP3IAE.SLBMC.ID"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "2699.SP3I.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Seltos"
+}
