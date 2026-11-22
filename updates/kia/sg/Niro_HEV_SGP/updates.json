@@ -16,9 +16,13 @@
   "registYn": "N",
   "releaseDate": "2026.11",
   "serviceYn": "Y",
-  "swVerIdxs": [],
+  "swVerIdxs": [
+    "SG2.SEA.ccNC.???.*",
+    "SG2.SEA.ccNC_Lite.???.*"
+  ],
   "swVers": [
-    "SG2.SEA.ccNC.001.002.260909"
+    "SG2.SEA.ccNC.001.002.260909",
+    "SG2.SEA.ccNC_Lite.001.002.260909"
   ],
   "vclName": "Niro"
 }

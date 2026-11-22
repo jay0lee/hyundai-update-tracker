@@ -16,9 +16,13 @@
   "registYn": "N",
   "releaseDate": "2026.11",
   "serviceYn": "Y",
-  "swVerIdxs": [],
+  "swVerIdxs": [
+    "????.SP3I.SEA.ccNC.???.*",
+    "????.SP3I.SEA.ccNC_Lite.???.*"
+  ],
   "swVers": [
-    "2699.SP3I.SEA.ccNC.001.002.260909"
+    "2699.SP3I.SEA.ccNC.001.002.260909",
+    "2699.SP3I.SEA.ccNC_Lite.001.002.260909"
   ],
   "vclName": "Seltos"
 }
