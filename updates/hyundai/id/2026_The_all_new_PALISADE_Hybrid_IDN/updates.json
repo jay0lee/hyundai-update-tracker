@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "2026_The_all_new_PALISADE_Hybrid_IDN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjA4NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTU0LzIwMjZfVGhlX2FsbF9uZXdfUEFMSVNBREVfSHlicmlkX0lETi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.nYzGr9U7FuLgOE4-8UrbNiY3jJmb-dfRIKr87G3iVKc",
+  "dvcName": "The all-new PALISADE",
+  "engDvcName": "",
+  "engVclName": "",
+  "mcode": "2087",
+  "mediaType": "USB",
+  "modelNames": [
+    "LX3AH.SCBMC.ID",
+    "LX3MY27BH.SCBMC.ID"
+  ],
+  "platformCode": "23",
+  "priority": "499",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "LX3.IDN.ccNC.???.*",
+    "????.LX3MY27.SEA.ccNC.???.*"
+  ],
+  "swVers": [
+    "2699.LX3.SEA.ccNC.001.002.260909",
+    "2699.LX3MY27.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Palisade"
+}

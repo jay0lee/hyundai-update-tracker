@@ -1,0 +1,38 @@
+{
+  "brand": "HM",
+  "destPath": "New_Staria_IDN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjI3NiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTQ5L05ld19TdGFyaWFfSUROLmpzb24iLCJpc05zdW0iOnRydWV9.3e-xVc3NhtGokbMpBBGh-Uo6apeZ5xDM-nbfAh1uwSM",
+  "dvcName": "New Staria",
+  "engDvcName": "New Staria",
+  "engVclName": "Staria",
+  "mcode": "2276",
+  "mediaType": "USB",
+  "modelNames": [
+    "US4AS.SCBMC.ID",
+    "US4AH.SCBMC.ID",
+    "US4VIPAS.SCBMC.ID",
+    "US4VIPAH.SCBMC.ID",
+    "US4AS.SLBMC.ID",
+    "US4AH.SLBMC.ID",
+    "US4VIPAS.SLBMC.ID",
+    "US4VIPAH.SLBMC.ID"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.US4.SEA.ccNC.???.*",
+    "????.US4VIP.SEA.ccNC.???.*",
+    "????.US4.SEA.ccNC_Lite.???.*",
+    "????.US4VIP.SEA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "2699.US4.SEA.ccNC.001.002.260909",
+    "2699.US4VIP.SEA.ccNC_Lite.001.002.260909",
+    "2699.US4.SEA.ccNC_Lite.001.002.260909",
+    "2699.US4VIP.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Staria"
+}

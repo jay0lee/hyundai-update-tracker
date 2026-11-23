@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "The_new_CRETA_IDN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjA4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMTk2NzIvVGhlX25ld19DUkVUQV9JRE4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.FsmokmVYlg_m-SOWAJ87vkSOUXE2zeZLKcTxeLGu6Is",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjA4OSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjU4NDMvVGhlX25ld19DUkVUQV9JRE4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.vVx3VBlpvSS9FBXfayw9SqvKWl0ze9u74qS0VnNbMk0",
   "dvcName": "The new CRETA",
   "engDvcName": "The new CRETA",
   "engVclName": "CRETA",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.01",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SU2ID.IDN.S5W_M.V???.*"
   ],
   "swVers": [
-    "SU2ID.IDN.S5W_M.V004.001.251120"
+    "SU2ID.IDN.S5W_M.V005.001.260907"
   ],
   "vclName": "CRETA"
 }

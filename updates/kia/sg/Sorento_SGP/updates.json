@@ -1,0 +1,32 @@
+{
+  "brand": "KM",
+  "destPath": "Sorento_SGP",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJzZyIsIm1jb2RlIjoiMjI3NCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTQzL1NvcmVudG9fU0dQLmpzb24iLCJpc05zdW0iOnRydWV9.kc0rRqlJQW184nuAtYB823r1tO4FFSnAlcuIWAtDB0U",
+  "dvcName": "Sorento",
+  "engDvcName": "Sorento",
+  "engVclName": "Sorento",
+  "mcode": "2274",
+  "mediaType": "USB",
+  "modelNames": [
+    "MQ4MY27CS.SCBMC.SG",
+    "MQ4MY27CH.SCBMC.SG",
+    "MQ4MY27CP.SCBMC.SG",
+    "MQ4MY27CS.SLBMC.SG",
+    "MQ4MY27CH.SLBMC.SG",
+    "MQ4MY27CP.SLBMC.SG"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MQ4MY27.SEA.ccNC.???.*",
+    "MQ4MY27.SEA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "MQ4MY27.SEA.ccNC_Lite.001.002.260909",
+    "MQ4MY27.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Sorento"
+}

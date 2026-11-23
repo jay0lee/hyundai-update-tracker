@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "EV9_GT_SGP",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJzZyIsIm1jb2RlIjoiMjI3MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTQ4L0VWOV9HVF9TR1AuanNvbiIsImlzTnN1bSI6dHJ1ZX0.FQt3-eZ6tr6L0BwtAyIDQtugxOzPF6_nM_7xOOuLcpA",
+  "dvcName": "EV9 GT",
+  "engDvcName": "EV9 GT",
+  "engVclName": "EV9",
+  "mcode": "2272",
+  "mediaType": "USB",
+  "modelNames": [
+    "MV1GTAE.SCBMC.SG"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "MV1GT.SEA.ccNC.???.*"
+  ],
+  "swVers": [
+    "MV1GT.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "EV9"
+}

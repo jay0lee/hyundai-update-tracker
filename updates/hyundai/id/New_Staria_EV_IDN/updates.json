@@ -1,0 +1,28 @@
+{
+  "brand": "HM",
+  "destPath": "New_Staria_EV_IDN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJpZCIsIm1jb2RlIjoiMjI3NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTUwL05ld19TdGFyaWFfRVZfSUROLmpzb24iLCJpc05zdW0iOnRydWV9.iJ409JMgn6LKw62RiYiqrD9Xipga_77KUKvcAY6y0eU",
+  "dvcName": "New Staria EV",
+  "engDvcName": "New Staria EV",
+  "engVclName": "Staria",
+  "mcode": "2277",
+  "mediaType": "USB",
+  "modelNames": [
+    "US4EVAE.SCBMC.ID",
+    "US4EVAE.SLBMC.ID"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.US4EV.SEA.ccNC.???.*",
+    "????.US4EV.SEA.ccNC_Lite.???.*"
+  ],
+  "swVers": [
+    "2699.US4EV.SEA.ccNC_Lite.001.002.260909",
+    "2699.US4EV.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "Staria"
+}

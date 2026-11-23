@@ -1,0 +1,25 @@
+{
+  "brand": "KM",
+  "destPath": "EV4_GP_SGP",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJzZyIsIm1jb2RlIjoiMjI3MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTQ2L0VWNF9HUF9TR1AuanNvbiIsImlzTnN1bSI6dHJ1ZX0.6IMhpHa9p0uiMGqonPcBkRoswhvUNG8wV0iHeRvXBt4",
+  "dvcName": "EV4 GT",
+  "engDvcName": "EV4 GT",
+  "engVclName": "EV4",
+  "mcode": "2270",
+  "mediaType": "USB",
+  "modelNames": [
+    "CT1GTAE.SCBMC.SG"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "????.CT1MY27.SEA.ccNC.???.*"
+  ],
+  "swVers": [
+    "2699.CT1GT.SEA.ccNC.001.002.260909"
+  ],
+  "vclName": "EV4"
+}
