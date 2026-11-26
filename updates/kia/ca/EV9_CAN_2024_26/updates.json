@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "EV9_CAN_2024_26",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTc3MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDU3L0VWOV9DQU5fMjAyNF8yNi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.PGP12om8DsUHPqMKbFk9FCSPzve4-F2qXzulgeGzSAU",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTc3MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1OTk1L0VWOV9DQU5fMjAyNF8yNi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.3RC-Jmd4KYurlqH4W3dl4HeTo7sk2-d__jU84oXh6JM",
   "dvcName": "2024-26 EV9",
   "engDvcName": "2024-26 EV9",
   "engVclName": "EV9",
@@ -13,13 +13,13 @@
   "platformCode": "23",
   "priority": "100",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "MV1.CAN.ccNC.???.*"
   ],
   "swVers": [
-    "MV1.CAN.ccNC.001.002.260303"
+    "MV1.CAN.ccNC.001.002.260821"
   ],
   "vclName": "EV9"
 }

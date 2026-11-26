@@ -1,7 +1,7 @@
 {
   "brand": "KM",
   "destPath": "2023_Soul_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjE2NzIvMjAyM19Tb3VsX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.oWN_EnERLqMRXz3tZR6-LkhoNACvNeq4Qk20Z22nQYo",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTU0NyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L2Z1bW8vMjUyMjMvMjAyM19Tb3VsX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.2Bdl81qIa65w1SQoFItp_xvu9lvQExoVtqhpVGQU0b0",
   "dvcName": "2023 Soul",
   "engDvcName": "",
   "engVclName": "",
@@ -13,13 +13,13 @@
   "platformCode": "14",
   "priority": "495",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "SK3_PE.CAN.S5W_M.V*"
   ],
   "swVers": [
-    "SK3_PE.CAN.S5W_M.V015.011.260206"
+    "SK3_PE.CAN.S5W_M.V016.010.260903"
   ],
   "vclName": "Soul"
 }

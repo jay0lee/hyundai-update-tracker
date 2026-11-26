@@ -1,0 +1,25 @@
+{
+  "brand": "HM",
+  "destPath": "2025_27_IONIQ9_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjEyOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1OTkyLzIwMjVfMjdfSU9OSVE5X0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.9sJYPcE8CXbo3dWjwaktST6RC2JbfHpm1JbAFxJhoW4",
+  "dvcName": "2025-27 Ioniq 9",
+  "engDvcName": "2025-27 Ioniq 9",
+  "engVclName": "Ioniq 9",
+  "mcode": "2128",
+  "mediaType": "USB",
+  "modelNames": [
+    "ME1AE.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [
+    "ME1A.CAN.ccNC.???*"
+  ],
+  "swVers": [
+    "ME1.CAN.ccNC.001.002.260821"
+  ],
+  "vclName": "Ioniq 9"
+}

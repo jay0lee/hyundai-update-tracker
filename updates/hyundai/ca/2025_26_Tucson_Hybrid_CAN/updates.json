@@ -1,7 +1,7 @@
 {
   "brand": "HM",
   "destPath": "2025_26_Tucson_Hybrid_CAN",
-  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzIzMDU0LzIwMjVfMjZfVHVjc29uX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.dhSpkqIBwsON0YslTxystgiN2ef2GdzDvvrw9b3O8gk",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMTg0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MDEwLzIwMjVfMjZfVHVjc29uX0h5YnJpZF9DQU4uanNvbiIsImlzTnN1bSI6dHJ1ZX0.1_Hv_yAxxfAzrPXDtwuJYkrZgjYNRgL5C39NV0U4OsQ",
   "dvcName": "2025-26 Tucson Hybrid",
   "engDvcName": "2025-26 Tucson Hybrid",
   "engVclName": "Tucson Hybrid",
@@ -16,7 +16,7 @@
   "platformCode": "23",
   "priority": "498",
   "registYn": "N",
-  "releaseDate": "2026.05",
+  "releaseDate": "2026.11",
   "serviceYn": "Y",
   "swVerIdxs": [
     "NX4A.CAN.ccNC.???.*",
@@ -25,10 +25,10 @@
     "NX4MY26.CAN.ccNC_Lite.???.*"
   ],
   "swVers": [
-    "NX4A.CAN.ccNC_Lite.001.002.260303",
-    "NX4MY26.CAN.ccNC.001.002.260303",
-    "NX4MY26.CAN.ccNC_Lite.001.002.260303",
-    "NX4A.CAN.ccNC.001.002.260303"
+    "NX4MY26.CAN.ccNC.001.002.260821",
+    "NX4A.CAN.ccNC_Lite.001.002.260821",
+    "NX4A.CAN.ccNC.001.002.260821",
+    "NX4MY26.CAN.ccNC_Lite.001.002.260821"
   ],
   "vclName": "Tucson Hybrid"
 }

@@ -1,0 +1,23 @@
+{
+  "brand": "KM",
+  "destPath": "2027_EV3_GT_ccNC_USA",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJ1cyIsIm1jb2RlIjoiMjIzNSIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MDM0LzIwMjdfRVYzX0dUX2NjTkNfVVNBLmpzb24iLCJpc05zdW0iOnRydWV9.ZZE7rya4BKpUWndDj6sCT5S0PHicnzUK35xp7jxlbAk",
+  "dvcName": "2027 EV3 GT",
+  "engDvcName": "2027 EV3 GT",
+  "engVclName": "EV3 GT",
+  "mcode": "2235",
+  "mediaType": "USB",
+  "modelNames": [
+    "SV1MGTAE.SCBMC.US"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "SV1MGT.USA.ccNC.001.002.260831"
+  ],
+  "vclName": "EV3 GT"
+}

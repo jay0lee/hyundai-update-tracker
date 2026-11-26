@@ -1,0 +1,23 @@
+{
+  "brand": "KM",
+  "destPath": "2027_EV3_ccNC_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjI0MCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MTMyLzIwMjdfRVYzX2NjTkNfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.ROmgddYNVa6zv7MiPMGw7ShPtoo1J8O7d7_P__IrI3Q",
+  "dvcName": "2027 EV3",
+  "engDvcName": "2027 EV3",
+  "engVclName": "EV3",
+  "mcode": "2240",
+  "mediaType": "USB",
+  "modelNames": [
+    "SV1MAE.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "SV1M.CAN.ccNC.001.002.260821"
+  ],
+  "vclName": "EV3"
+}

@@ -1,0 +1,23 @@
+{
+  "brand": "KM",
+  "destPath": "2027_Carnival_Hybrid_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjI1MyIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI1OTk4LzIwMjdfQ2Fybml2YWxfSHlicmlkX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.v3e9Mb57Db2yExhGilHpcrBVNKI9y2N51qPk-g2LQck",
+  "dvcName": "2027 Carnival Hybrid",
+  "engDvcName": "2027 Carnival Hybrid",
+  "engVclName": "Carnival Hybrid",
+  "mcode": "2253",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4MY27BH.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "KA4MY27.CAN.ccNC.001.002.260821"
+  ],
+  "vclName": "Carnival Hybrid"
+}

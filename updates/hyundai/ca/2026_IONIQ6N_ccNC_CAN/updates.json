@@ -1,0 +1,23 @@
+{
+  "brand": "HM",
+  "destPath": "2026_IONIQ6N_ccNC_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjIzOCIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MDA2LzIwMjZfSU9OSVE2Tl9jY05DX0NBTi5qc29uIiwiaXNOc3VtIjp0cnVlfQ.7fsidW4eEA4p99epjaSvjnp74LnCvNBs6f1Q5mSGqQQ",
+  "dvcName": "2026 Ioniq 6 N",
+  "engDvcName": "2026 Ioniq 6 N",
+  "engVclName": "IONIQ 6N",
+  "mcode": "2238",
+  "mediaType": "USB",
+  "modelNames": [
+    "CE1KNAE.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "CE1KN.CAN.ccNC.001.002.260821"
+  ],
+  "vclName": "IONIQ 6N"
+}

@@ -1,0 +1,23 @@
+{
+  "brand": "KM",
+  "destPath": "2027_Carnival_CAN",
+  "downloadCode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJOYVUgQVBJIFNlcnZlciIsImV4cCI6MjUzNDAyMzAwNzk5LCJ1c2VyQXV0aCI6Ik4iLCJyZWdpb24iOiJjYSIsIm1jb2RlIjoiMjI1MiIsImluZkZpbGVQYXRoIjoibnN1bS1maWxlLXVwbG9hZDovL21hbmlmZXN0L3Njb21vLzI2MDAxLzIwMjdfQ2Fybml2YWxfQ0FOLmpzb24iLCJpc05zdW0iOnRydWV9.RQc0jCZ_XMnG2T5Dh2tKjcmjoKjqkw7_bxTIjv-tQlE",
+  "dvcName": "2027 Carnival",
+  "engDvcName": "2027 Carnival",
+  "engVclName": "Carnival",
+  "mcode": "2252",
+  "mediaType": "USB",
+  "modelNames": [
+    "KA4MY27BS.SCBMC.CA"
+  ],
+  "platformCode": "23",
+  "priority": "100",
+  "registYn": "N",
+  "releaseDate": "2026.11",
+  "serviceYn": "Y",
+  "swVerIdxs": [],
+  "swVers": [
+    "KA4MY27.CAN.ccNC.001.002.260821"
+  ],
+  "vclName": "Carnival"
+}

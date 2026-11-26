@@ -8,7 +8,8 @@
   "mcode": "2117",
   "mediaType": "USB",
   "modelNames": [
-    "LX3AH.SCBMC.US"
+    "LX3AH.SCBMC.US",
+    "LX3BH.SCBMC.US"
   ],
   "platformCode": "23",
   "priority": "100",
@@ -16,7 +17,8 @@
   "releaseDate": "2026.07",
   "serviceYn": "Y",
   "swVerIdxs": [
-    "????.LX3.USA.ccNC.???*"
+    "????.LX3.USA.ccNC.???*",
+    "????.LX3MY27.USA.ccNC.???.*"
   ],
   "swVers": [
     "2658.LX3.USA.ccNC.001.002.260508"
